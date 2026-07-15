@@ -47,6 +47,7 @@ const PX_PER_MINUTE = 1.25;
 const DAY_HEIGHT = 24 * 60 * PX_PER_MINUTE;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
 const halfHourMarks = Array.from({ length: 48 }, (_, halfHour) => halfHour);
+const priorityChannelIds = ["rthk-31", "hoy-77", "tvb-81", "viu-99"];
 
 function hktDate(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
@@ -68,6 +69,10 @@ function time(value: string) {
 
 function duration(start: string, end: string) {
   return Math.max(1, Math.round((new Date(end).getTime() - new Date(start).getTime()) / 60000));
+}
+
+function programmeMeta(programme: Programme) {
+  return `${time(programme.start)}-${time(programme.end)} (${duration(programme.start, programme.end)}分鐘)`;
 }
 
 function isLive(programme: Programme, selectedDate: string, now: number) {
@@ -131,7 +136,21 @@ export function TvGuide() {
   }, [currentIndex, dates]);
 
   const channels = schedule?.channels ?? fallbackChannels;
-  const visibleChannels = channels.filter((channel) => operator === "全部" || channel.operator === operator);
+  const orderedChannels = useMemo(() => {
+    const priority = new Map(priorityChannelIds.map((id, order) => [id, order]));
+    return channels
+      .map((channel, index) => ({ channel, index }))
+      .sort((a, b) => {
+        const priorityA = priority.get(a.channel.id);
+        const priorityB = priority.get(b.channel.id);
+        if (priorityA !== undefined && priorityB !== undefined) return priorityA - priorityB;
+        if (priorityA !== undefined) return -1;
+        if (priorityB !== undefined) return 1;
+        return a.index - b.index;
+      })
+      .map(({ channel }) => channel);
+  }, [channels]);
+  const visibleChannels = orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator);
   const programmesByChannel = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase("zh-HK");
     return new Map(visibleChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
@@ -149,7 +168,10 @@ export function TvGuide() {
   const scrollToNow = useCallback((smooth = true) => {
     if (!gridRef.current) return;
     const targetMinutes = selectedDate === hktDate() && nowMinutes !== null ? nowMinutes : 8 * 60;
-    gridRef.current.scrollTo({ top: Math.max(targetMinutes * PX_PER_MINUTE - 180, 0), behavior: smooth ? "smooth" : "auto" });
+    const headerHeight = Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--header-height")) || 0;
+    const targetTop = headerHeight + (targetMinutes * PX_PER_MINUTE) - (gridRef.current.clientHeight / 2);
+    const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
+    gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
   }, [nowMinutes, selectedDate]);
 
   useEffect(() => {
@@ -224,16 +246,16 @@ export function TvGuide() {
                       const compact = position.height < 46;
                       const micro = position.height < 18;
                       return (
-                        <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--accent": channel.accent } as React.CSSProperties} title={`${time(programme.start)}–${time(programme.end)} ${programme.title}`}>
-                          {!micro && <><span className="programme-slot">{time(programme.start)}–{time(programme.end)}</span><strong>{programme.title}</strong></>}
-                          {!compact && <small>{programme.description || `${duration(programme.start, programme.end)} 分鐘`}</small>}
+                        <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
+                          {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
+                          {!compact && programme.description && <small>{programme.description}</small>}
                           {live && !micro && <b>播放中</b>}
                         </a>
                       );
                     })}
                   </div>
                 ))}
-                {nowMinutes !== null && <div className="now-line" style={{ top: nowMinutes * PX_PER_MINUTE }}><span>{time(new Date(now).toISOString())}</span></div>}
+                {nowMinutes !== null && <div className="now-line" style={{ top: nowMinutes * PX_PER_MINUTE }}><span>而家 {time(new Date(now).toISOString())}</span></div>}
               </div>
             </div>
           </div>
