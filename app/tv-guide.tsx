@@ -79,6 +79,10 @@ function isLive(programme: Programme, selectedDate: string, now: number) {
   return selectedDate === hktDate() && new Date(programme.start).getTime() <= now && new Date(programme.end).getTime() > now;
 }
 
+function isPast(programme: Programme, selectedDate: string, now: number) {
+  return selectedDate === hktDate() && new Date(programme.end).getTime() <= now;
+}
+
 function programmePosition(programme: Programme, selectedDate: string) {
   const dayStart = new Date(`${selectedDate}T00:00:00+08:00`).getTime();
   const dayEnd = dayStart + 24 * 60 * 60 * 1000;
@@ -112,7 +116,7 @@ export function TvGuide() {
 
   useEffect(() => {
     const query = window.matchMedia("(max-width: 700px)");
-    const updateColumnCount = () => setColumnCount(query.matches ? 2 : 4);
+    const updateColumnCount = () => setColumnCount(query.matches ? 1 : 4);
     updateColumnCount();
     query.addEventListener("change", updateColumnCount);
     return () => query.removeEventListener("change", updateColumnCount);
@@ -300,10 +304,11 @@ export function TvGuide() {
                       {(programmesByChannel.get(channel.id) ?? []).map((programme) => {
                         const position = programmePosition(programme, selectedDate);
                         const live = isLive(programme, selectedDate, now);
+                        const past = isPast(programme, selectedDate, now);
                         const compact = position.height < 46;
                         const micro = position.height < 18;
                         return (
-                          <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--block-height": `${position.height}px`, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
+                          <a className={`programme-block${live ? " live" : ""}${past ? " past" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--block-height": `${position.height}px`, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
                             {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
                             {!compact && programme.description && <small>{programme.description}</small>}
                             {live && !micro && <b>播放中</b>}
