@@ -21,6 +21,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 24
@@ -34,6 +37,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
           git diff --cached --quiet || git commit -m "data: refresh TV schedules"
+          git pull --rebase origin main
           git push
       - run: npm test
       - name: Build static site
@@ -44,4 +48,3 @@ jobs:
           path: ./out
       - uses: actions/deploy-pages@v4
         id: deployment
-
