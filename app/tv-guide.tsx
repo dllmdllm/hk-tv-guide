@@ -42,7 +42,6 @@ const fallbackChannels: Channel[] = [
   { id: "viu-99", number: 99, name: "ViuTV", operator: "ViuTV", accent: "#ffd84d", sourceUrl: "https://viu.tv/epg" },
 ];
 
-const operators = ["全部", "港台", "HOY", "TVB", "ViuTV"] as const;
 const PX_PER_MINUTE = 2.5;
 const DAY_HEIGHT = 24 * 60 * PX_PER_MINUTE;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
@@ -75,6 +74,13 @@ function programmeMeta(programme: Programme) {
   return `${time(programme.start)}-${time(programme.end)} (${duration(programme.start, programme.end)}分鐘)`;
 }
 
+function channelLogo(channel: Channel) {
+  if (channel.operator === "港台") return { brand: "RTHK", tone: "rthk" };
+  if (channel.operator === "HOY") return { brand: "HOY", tone: "hoy" };
+  if (channel.operator === "TVB") return { brand: "TVB", tone: "tvb" };
+  return { brand: "ViuTV", tone: "viu" };
+}
+
 function isLive(programme: Programme, selectedDate: string, now: number) {
   return selectedDate === hktDate() && new Date(programme.start).getTime() <= now && new Date(programme.end).getTime() > now;
 }
@@ -98,7 +104,6 @@ export function TvGuide() {
   const [index, setIndex] = useState<ScheduleIndex | null>(null);
   const [selectedDate, setSelectedDate] = useState(hktDate());
   const [schedule, setSchedule] = useState<DaySchedule | null>(null);
-  const [operator, setOperator] = useState<(typeof operators)[number]>("全部");
   const [query, setQuery] = useState("");
   const [loadError, setLoadError] = useState({ date: "", message: "" });
   const [now, setNow] = useState(0);
@@ -164,7 +169,7 @@ export function TvGuide() {
       })
       .map(({ channel }) => channel);
   }, [channels]);
-  const availableChannels = useMemo(() => orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator), [operator, orderedChannels]);
+  const availableChannels = orderedChannels;
   const displayChannels = useMemo(() => {
     const selected: Channel[] = [];
     const used = new Set<string>();
@@ -249,9 +254,6 @@ export function TvGuide() {
       </section>
 
       <section className="controls">
-        <div className="operator-tabs" role="tablist" aria-label="電視台機構">
-          {operators.map((item) => <button key={item} className={operator === item ? "active" : ""} onClick={() => setOperator(item)}>{item}</button>)}
-        </div>
         <div className="control-actions">
           <button className="now-button" onClick={() => scrollToNow()}><Clock size={17} weight="bold" />跳到而家</button>
           <label className="search-box"><MagnifyingGlass size={18} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="搜尋節目" aria-label="搜尋節目" /></label>
@@ -286,11 +288,15 @@ export function TvGuide() {
               <div className="epg-canvas" style={{ "--channel-count": Math.max(displayChannels.length, 1), "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
                 <div className="epg-corner">時間</div>
                 <div className="channel-headers">
-                  {displayChannels.map((channel) => (
-                    <a className="channel-header" href={channel.sourceUrl} target="_blank" rel="noreferrer" key={channel.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
-                      <span>{channel.number}</span><div><strong>{channel.name}</strong><small>{channel.operator}</small></div>
-                    </a>
-                  ))}
+                  {displayChannels.map((channel) => {
+                    const logo = channelLogo(channel);
+                    return (
+                      <a className="channel-header" href={channel.sourceUrl} target="_blank" rel="noreferrer" key={channel.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
+                        <span className={`channel-logo ${logo.tone}`}><small>{logo.brand}</small><strong>{channel.number}</strong></span>
+                        <div><strong>{channel.name}</strong><small>{channel.operator}</small></div>
+                      </a>
+                    );
+                  })}
                 </div>
 
                 <div className="time-axis" style={{ height: DAY_HEIGHT }}>
