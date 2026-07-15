@@ -98,6 +98,8 @@ export function TvGuide() {
   const [query, setQuery] = useState("");
   const [loadError, setLoadError] = useState({ date: "", message: "" });
   const [now, setNow] = useState(0);
+  const [mobileLeftChannelId, setMobileLeftChannelId] = useState("");
+  const [mobileRightChannelId, setMobileRightChannelId] = useState("");
   const gridRef = useRef<HTMLDivElement>(null);
   const didAutoScroll = useRef("");
 
@@ -150,7 +152,9 @@ export function TvGuide() {
       })
       .map(({ channel }) => channel);
   }, [channels]);
-  const visibleChannels = orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator);
+  const visibleChannels = useMemo(() => orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator), [operator, orderedChannels]);
+  const selectedMobileLeftChannelId = visibleChannels.some((channel) => channel.id === mobileLeftChannelId) ? mobileLeftChannelId : visibleChannels[0]?.id ?? "";
+  const selectedMobileRightChannelId = visibleChannels.some((channel) => channel.id === mobileRightChannelId) ? mobileRightChannelId : visibleChannels[1]?.id ?? visibleChannels[0]?.id ?? "";
   const programmesByChannel = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase("zh-HK");
     return new Map(visibleChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
@@ -173,6 +177,17 @@ export function TvGuide() {
     const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
     gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
   }, [nowMinutes, selectedDate]);
+
+  const scrollToChannel = useCallback((channelId: string, slot: 0 | 1) => {
+    if (!gridRef.current) return;
+    const index = visibleChannels.findIndex((channel) => channel.id === channelId);
+    if (index < 0) return;
+    const measuredHeader = gridRef.current.querySelector<HTMLElement>(".channel-header");
+    const channelWidth = measuredHeader?.getBoundingClientRect().width || Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--channel-width")) || 0;
+    const targetLeft = Math.max((index - slot) * channelWidth, 0);
+    const maxLeft = gridRef.current.scrollWidth - gridRef.current.clientWidth;
+    gridRef.current.scrollTo({ left: Math.min(targetLeft, maxLeft), behavior: "smooth" });
+  }, [visibleChannels]);
 
   useEffect(() => {
     if (!loading && schedule?.date === selectedDate && didAutoScroll.current !== selectedDate) {
@@ -221,44 +236,54 @@ export function TvGuide() {
         {loading && <div className="state-card"><span className="loader" />正在整理節目表…</div>}
         {!loading && error && <div className="state-card error"><strong>未有資料</strong><span>{error}</span></div>}
         {!loading && !error && (
-          <div className="epg-viewport" ref={gridRef}>
-            <div className="epg-canvas" style={{ "--channel-count": visibleChannels.length, "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
-              <div className="epg-corner">時間</div>
-              <div className="channel-headers">
-                {visibleChannels.map((channel) => (
-                  <a className="channel-header" href={channel.sourceUrl} target="_blank" rel="noreferrer" key={channel.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
-                    <span>{channel.number}</span><div><strong>{channel.name}</strong><small>{channel.operator}</small></div>
-                  </a>
-                ))}
-              </div>
+          <>
+            <div className="mobile-channel-pickers" aria-label="快速選擇電視台">
+              <label><span>左欄</span><select value={selectedMobileLeftChannelId} onChange={(event) => { setMobileLeftChannelId(event.target.value); scrollToChannel(event.target.value, 0); }}>
+                {visibleChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.number} · {channel.name}</option>)}
+              </select></label>
+              <label><span>右欄</span><select value={selectedMobileRightChannelId} onChange={(event) => { setMobileRightChannelId(event.target.value); scrollToChannel(event.target.value, 1); }}>
+                {visibleChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.number} · {channel.name}</option>)}
+              </select></label>
+            </div>
+            <div className="epg-viewport" ref={gridRef}>
+              <div className="epg-canvas" style={{ "--channel-count": visibleChannels.length, "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
+                <div className="epg-corner">時間</div>
+                <div className="channel-headers">
+                  {visibleChannels.map((channel) => (
+                    <a className="channel-header" href={channel.sourceUrl} target="_blank" rel="noreferrer" key={channel.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
+                      <span>{channel.number}</span><div><strong>{channel.name}</strong><small>{channel.operator}</small></div>
+                    </a>
+                  ))}
+                </div>
 
-              <div className="time-axis" style={{ height: DAY_HEIGHT }}>
-                {hourMarks.map((hour) => <span className="time-label" key={hour} style={{ top: hour * 60 * PX_PER_MINUTE }}>{String(hour).padStart(2, "0")}:00</span>)}
-              </div>
+                <div className="time-axis" style={{ height: DAY_HEIGHT }}>
+                  {hourMarks.map((hour) => <span className="time-label" key={hour} style={{ top: hour * 60 * PX_PER_MINUTE }}>{String(hour).padStart(2, "0")}:00</span>)}
+                </div>
 
-              <div className="schedule-grid" style={{ height: DAY_HEIGHT }}>
-                {halfHourMarks.map((mark) => <span className={mark % 2 === 0 ? "grid-line hour" : "grid-line"} key={mark} style={{ top: mark * 30 * PX_PER_MINUTE }} />)}
-                {visibleChannels.map((channel) => (
-                  <div className="channel-column" key={channel.id}>
-                    {(programmesByChannel.get(channel.id) ?? []).map((programme) => {
-                      const position = programmePosition(programme, selectedDate);
-                      const live = isLive(programme, selectedDate, now);
-                      const compact = position.height < 46;
-                      const micro = position.height < 18;
-                      return (
-                        <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
-                          {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
-                          {!compact && programme.description && <small>{programme.description}</small>}
-                          {live && !micro && <b>播放中</b>}
-                        </a>
-                      );
-                    })}
-                  </div>
-                ))}
-                {nowMinutes !== null && <div className="now-line" style={{ top: nowMinutes * PX_PER_MINUTE }}><span>而家 {time(new Date(now).toISOString())}</span></div>}
+                <div className="schedule-grid" style={{ height: DAY_HEIGHT }}>
+                  {halfHourMarks.map((mark) => <span className={mark % 2 === 0 ? "grid-line hour" : "grid-line"} key={mark} style={{ top: mark * 30 * PX_PER_MINUTE }} />)}
+                  {visibleChannels.map((channel) => (
+                    <div className="channel-column" key={channel.id}>
+                      {(programmesByChannel.get(channel.id) ?? []).map((programme) => {
+                        const position = programmePosition(programme, selectedDate);
+                        const live = isLive(programme, selectedDate, now);
+                        const compact = position.height < 46;
+                        const micro = position.height < 18;
+                        return (
+                          <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
+                            {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
+                            {!compact && programme.description && <small>{programme.description}</small>}
+                            {live && !micro && <b>播放中</b>}
+                          </a>
+                        );
+                      })}
+                    </div>
+                  ))}
+                  {nowMinutes !== null && <div className="now-line" style={{ top: nowMinutes * PX_PER_MINUTE }}><span>而家 {time(new Date(now).toISOString())}</span></div>}
+                </div>
               </div>
             </div>
-          </div>
+          </>
         )}
       </section>
 

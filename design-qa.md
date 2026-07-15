@@ -12,6 +12,8 @@ Checks performed:
 
 - Desktop production build plus local browser QA: 1044 × 478 viewport, 14 channel headers, 25 hourly labels, 613 programme blocks.
 - Mobile browser QA: 390 × 844 viewport, no page-level horizontal overflow; the EPG itself scrolls horizontally.
+- Mobile density QA: the EPG now starts around y=288 with about 556px visible in a 390 × 844 viewport; two channel columns fit beside the time axis.
+- Mobile channel navigation: two native channel dropdowns are shown above the EPG, and selecting a channel scrolls horizontally to that channel.
 - Channel priority: first visible channels are 31, 77, 81, 99, followed by the remaining channels in their original order.
 - Date navigation: next day and previous day both update the selected schedule.
 - Filters and search: operator filtering and programme search both update the grid.
@@ -27,5 +29,9 @@ Issues found and fixed:
 - P1: first-load current-time scroll ignored the sticky header height, leaving the red line below center. Scroll calculation now includes header height.
 - P2: currently airing blocks were not visually distinct enough. Live blocks now use high-contrast highlighting.
 - P2: programme block typography was inconsistent. Blocks now use the same metadata/title/optional-description layout.
+- P1: mobile chrome left the actual EPG using only about half the screen. Mobile header, date controls, filters, summary, and picker spacing were compacted; the guide summary is hidden on mobile.
+- P1: mobile users could only swipe across many channels. Two mobile-only dropdowns now jump directly to selected channels while preserving horizontal swipe.
+- P2: compact programme blocks put time and title on one row. Compact blocks now keep the title on the next line.
+- P2: desktop top chrome wasted vertical space. Header, date controls, week strip, controls, and guide summary were reduced.
 
 Final result: passed.
