@@ -40,3 +40,6 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# local visual QA captures (may include user-supplied references)
+/design-*.png
