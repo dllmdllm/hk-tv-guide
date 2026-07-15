@@ -11,7 +11,7 @@
   --lime: #d9ff57;
   --background: #10100f;
   --time-width: 72px;
-  --channel-width: 196px;
+  --channel-width: calc((min(1480px, calc(100vw - 32px)) - var(--time-width)) / 4);
   --header-height: 72px;
 }
 
@@ -86,11 +86,11 @@ h1 { margin-bottom: 0; font-size: clamp(24px, 2.5vw, 31px); letter-spacing: -.05
 .grid-line { position: absolute; z-index: 1; left: 0; right: 0; height: 1px; background: #2e2e2b; pointer-events: none; }
 .grid-line.hour { background: #464641; }
 .channel-column { position: relative; z-index: 2; height: 100%; border-right: 1px solid var(--line-strong); }
-.programme-block { position: absolute; left: 3px; right: 3px; overflow: hidden; display: grid; grid-template-rows: auto minmax(0, auto) minmax(0, 1fr); align-content: start; row-gap: 2px; padding: 6px 7px; border-left: 3px solid var(--accent); border-radius: 4px; background: color-mix(in srgb, var(--accent) 15%, #292927); color: var(--ink); text-decoration: none; box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 23%, #3a3a36); }
+.programme-block { position: absolute; left: 3px; right: 3px; overflow: hidden; display: grid; grid-template-rows: auto auto minmax(0, 1fr); align-content: start; row-gap: 3px; padding: 7px 8px; border-left: 3px solid var(--accent); border-radius: 4px; background: color-mix(in srgb, var(--accent) 15%, #292927); color: var(--ink); text-decoration: none; box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 23%, #3a3a36); }
 .programme-block:hover { z-index: 6; background: color-mix(in srgb, var(--accent) 23%, #2b2b28); box-shadow: 0 7px 22px rgba(0,0,0,.35), inset 0 0 0 1px var(--accent); }
 .programme-slot { overflow: hidden; color: color-mix(in srgb, var(--accent) 76%, white); font-size: 9px; font-weight: 750; line-height: 1.15; font-variant-numeric: tabular-nums; text-overflow: ellipsis; white-space: nowrap; }
-.programme-block strong { overflow: hidden; font-size: 12px; line-height: 1.22; text-overflow: ellipsis; white-space: nowrap; }
-.programme-block small { overflow: hidden; color: #aaa9a2; font-size: 9px; line-height: 1.25; text-overflow: ellipsis; white-space: nowrap; }
+.programme-block strong { overflow-wrap: anywhere; font-size: 12px; line-height: 1.25; white-space: normal; }
+.programme-block small { overflow-wrap: anywhere; color: #aaa9a2; font-size: 9px; line-height: 1.25; white-space: normal; }
 .programme-block.compact { grid-template-rows: auto minmax(0, 1fr); row-gap: 1px; padding-top: 3px; padding-bottom: 3px; }
 .programme-block.compact .programme-slot { min-width: 0; }
 .programme-block.compact strong { min-width: 0; font-size: 11px; }
@@ -153,7 +153,7 @@ footer p { margin: 0; }
   .channel-header strong { font-size: 12px; }
   .channel-header small { font-size: 9px; }
   .time-label { right: 7px; font-size: 10px; }
-  .programme-block { left: 2px; right: 2px; padding: 5px 5px; }
+  .programme-block { left: 2px; right: 2px; row-gap: 2px; padding: 6px 5px; }
   .programme-slot { font-size: 8px; }
   .programme-block strong { font-size: 11px; }
   .programme-block small { font-size: 8px; }

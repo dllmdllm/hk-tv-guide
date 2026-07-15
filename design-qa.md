@@ -14,6 +14,8 @@ Checks performed:
 - Mobile browser QA: 390 × 844 viewport, no page-level horizontal overflow; the EPG itself scrolls horizontally.
 - Mobile density QA: the EPG now starts around y=288 with about 556px visible in a 390 × 844 viewport; two channel columns fit beside the time axis.
 - Mobile channel navigation: two native channel dropdowns are shown above the EPG, and selecting a channel scrolls horizontally to that channel.
+- Programme density: 30-minute blocks now render at 60px tall, giving room for the time row plus wrapped titles.
+- Desktop channel density: desktop EPG shows four channels beside the time axis at a time, with horizontal scroll for the remaining channels.
 - Channel priority: first visible channels are 31, 77, 81, 99, followed by the remaining channels in their original order.
 - Date navigation: next day and previous day both update the selected schedule.
 - Filters and search: operator filtering and programme search both update the grid.
@@ -33,5 +35,8 @@ Issues found and fixed:
 - P1: mobile users could only swipe across many channels. Two mobile-only dropdowns now jump directly to selected channels while preserving horizontal swipe.
 - P2: compact programme blocks put time and title on one row. Compact blocks now keep the title on the next line.
 - P2: desktop top chrome wasted vertical space. Header, date controls, week strip, controls, and guide summary were reduced.
+- P1: 30-minute programme blocks were too short for long programme names. The minute scale now uses 2px per minute, so 30-minute blocks are 60px tall.
+- P1: long programme titles were truncated by single-line ellipsis. Programme titles and descriptions now wrap naturally inside the block.
+- P2: wide desktop screens showed too many channels at once. Desktop channel width now fits four channels beside the time axis.
 
 Final result: passed.

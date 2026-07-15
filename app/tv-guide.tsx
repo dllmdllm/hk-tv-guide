@@ -43,7 +43,7 @@ const fallbackChannels: Channel[] = [
 ];
 
 const operators = ["全部", "港台", "HOY", "TVB", "ViuTV"] as const;
-const PX_PER_MINUTE = 1.25;
+const PX_PER_MINUTE = 2;
 const DAY_HEIGHT = 24 * 60 * PX_PER_MINUTE;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
 const halfHourMarks = Array.from({ length: 48 }, (_, halfHour) => halfHour);
