@@ -43,7 +43,7 @@ const fallbackChannels: Channel[] = [
 ];
 
 const operators = ["全部", "港台", "HOY", "TVB", "ViuTV"] as const;
-const PX_PER_MINUTE = 2;
+const PX_PER_MINUTE = 2.5;
 const DAY_HEIGHT = 24 * 60 * PX_PER_MINUTE;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
 const halfHourMarks = Array.from({ length: 48 }, (_, halfHour) => halfHour);
@@ -98,8 +98,8 @@ export function TvGuide() {
   const [query, setQuery] = useState("");
   const [loadError, setLoadError] = useState({ date: "", message: "" });
   const [now, setNow] = useState(0);
-  const [mobileLeftChannelId, setMobileLeftChannelId] = useState("");
-  const [mobileRightChannelId, setMobileRightChannelId] = useState("");
+  const [columnCount, setColumnCount] = useState(4);
+  const [selectedChannelIds, setSelectedChannelIds] = useState(priorityChannelIds);
   const gridRef = useRef<HTMLDivElement>(null);
   const didAutoScroll = useRef("");
 
@@ -108,6 +108,14 @@ export function TvGuide() {
     update();
     const timer = window.setInterval(update, 30_000);
     return () => window.clearInterval(timer);
+  }, []);
+
+  useEffect(() => {
+    const query = window.matchMedia("(max-width: 700px)");
+    const updateColumnCount = () => setColumnCount(query.matches ? 2 : 4);
+    updateColumnCount();
+    query.addEventListener("change", updateColumnCount);
+    return () => query.removeEventListener("change", updateColumnCount);
   }, []);
 
   useEffect(() => {
@@ -152,16 +160,43 @@ export function TvGuide() {
       })
       .map(({ channel }) => channel);
   }, [channels]);
-  const visibleChannels = useMemo(() => orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator), [operator, orderedChannels]);
-  const selectedMobileLeftChannelId = visibleChannels.some((channel) => channel.id === mobileLeftChannelId) ? mobileLeftChannelId : visibleChannels[0]?.id ?? "";
-  const selectedMobileRightChannelId = visibleChannels.some((channel) => channel.id === mobileRightChannelId) ? mobileRightChannelId : visibleChannels[1]?.id ?? visibleChannels[0]?.id ?? "";
+  const availableChannels = useMemo(() => orderedChannels.filter((channel) => operator === "全部" || channel.operator === operator), [operator, orderedChannels]);
+  const displayChannels = useMemo(() => {
+    const selected: Channel[] = [];
+    const used = new Set<string>();
+    selectedChannelIds.slice(0, columnCount).forEach((channelId) => {
+      const channel = availableChannels.find((item) => item.id === channelId);
+      if (channel && !used.has(channel.id)) {
+        selected.push(channel);
+        used.add(channel.id);
+      }
+    });
+    availableChannels.forEach((channel) => {
+      if (selected.length >= columnCount || used.has(channel.id)) return;
+      selected.push(channel);
+      used.add(channel.id);
+    });
+    return selected;
+  }, [availableChannels, columnCount, selectedChannelIds]);
+
+  const activeChannelIds = useMemo(() => displayChannels.map((channel) => channel.id), [displayChannels]);
+  const handleChannelSlotChange = useCallback((slot: number, channelId: string) => {
+    setSelectedChannelIds((current) => {
+      const next = [...current];
+      const duplicateSlot = next.findIndex((id, index) => id === channelId && index !== slot);
+      if (duplicateSlot >= 0) next[duplicateSlot] = next[slot] ?? "";
+      next[slot] = channelId;
+      return next;
+    });
+  }, []);
+
   const programmesByChannel = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase("zh-HK");
-    return new Map(visibleChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
+    return new Map(displayChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
       .filter((programme) => programme.channelId === channel.id)
       .filter((programme) => !needle || programme.title.toLocaleLowerCase("zh-HK").includes(needle))
       .sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime())]));
-  }, [query, schedule, visibleChannels]);
+  }, [displayChannels, query, schedule]);
 
   const allVisibleProgrammes = useMemo(() => Array.from(programmesByChannel.values()).flat(), [programmesByChannel]);
   const liveCount = allVisibleProgrammes.filter((programme) => isLive(programme, selectedDate, now)).length;
@@ -177,17 +212,6 @@ export function TvGuide() {
     const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
     gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
   }, [nowMinutes, selectedDate]);
-
-  const scrollToChannel = useCallback((channelId: string, slot: 0 | 1) => {
-    if (!gridRef.current) return;
-    const index = visibleChannels.findIndex((channel) => channel.id === channelId);
-    if (index < 0) return;
-    const measuredHeader = gridRef.current.querySelector<HTMLElement>(".channel-header");
-    const channelWidth = measuredHeader?.getBoundingClientRect().width || Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--channel-width")) || 0;
-    const targetLeft = Math.max((index - slot) * channelWidth, 0);
-    const maxLeft = gridRef.current.scrollWidth - gridRef.current.clientWidth;
-    gridRef.current.scrollTo({ left: Math.min(targetLeft, maxLeft), behavior: "smooth" });
-  }, [visibleChannels]);
 
   useEffect(() => {
     if (!loading && schedule?.date === selectedDate && didAutoScroll.current !== selectedDate) {
@@ -231,25 +255,34 @@ export function TvGuide() {
       </section>
 
       <section className="guide-section" aria-label={`${selectedDate} 電視節目表`}>
-        <div className="guide-summary"><div><p className="eyebrow">00:00 — 23:59</p><h2>全日節目表</h2></div><span>{visibleChannels.length} 個台 · {allVisibleProgrammes.length} 個節目</span></div>
+        <div className="guide-summary"><div><p className="eyebrow">00:00 — 23:59</p><h2>全日節目表</h2></div><span>顯示 {displayChannels.length} / {availableChannels.length} 個台 · {allVisibleProgrammes.length} 個節目</span></div>
 
         {loading && <div className="state-card"><span className="loader" />正在整理節目表…</div>}
         {!loading && error && <div className="state-card error"><strong>未有資料</strong><span>{error}</span></div>}
         {!loading && !error && (
           <>
-            <div className="mobile-channel-pickers" aria-label="快速選擇電視台">
-              <label><span>左欄</span><select value={selectedMobileLeftChannelId} onChange={(event) => { setMobileLeftChannelId(event.target.value); scrollToChannel(event.target.value, 0); }}>
-                {visibleChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.number} · {channel.name}</option>)}
-              </select></label>
-              <label><span>右欄</span><select value={selectedMobileRightChannelId} onChange={(event) => { setMobileRightChannelId(event.target.value); scrollToChannel(event.target.value, 1); }}>
-                {visibleChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.number} · {channel.name}</option>)}
-              </select></label>
+            <div className="channel-pickers" aria-label="選擇顯示電視台" style={{ "--channel-count": Math.max(displayChannels.length, 1) } as React.CSSProperties}>
+              {Array.from({ length: Math.min(columnCount, Math.max(availableChannels.length, 1)) }, (_, slot) => {
+                const selectedId = displayChannels[slot]?.id ?? availableChannels[slot]?.id ?? "";
+                return (
+                  <label key={slot}>
+                    <span>第 {slot + 1} 欄</span>
+                    <select value={selectedId} onChange={(event) => handleChannelSlotChange(slot, event.target.value)}>
+                      {availableChannels.map((channel) => (
+                        <option key={channel.id} value={channel.id} disabled={activeChannelIds.includes(channel.id) && channel.id !== selectedId}>
+                          {channel.number} · {channel.name}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                );
+              })}
             </div>
             <div className="epg-viewport" ref={gridRef}>
-              <div className="epg-canvas" style={{ "--channel-count": visibleChannels.length, "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
+              <div className="epg-canvas" style={{ "--channel-count": Math.max(displayChannels.length, 1), "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
                 <div className="epg-corner">時間</div>
                 <div className="channel-headers">
-                  {visibleChannels.map((channel) => (
+                  {displayChannels.map((channel) => (
                     <a className="channel-header" href={channel.sourceUrl} target="_blank" rel="noreferrer" key={channel.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
                       <span>{channel.number}</span><div><strong>{channel.name}</strong><small>{channel.operator}</small></div>
                     </a>
@@ -262,7 +295,7 @@ export function TvGuide() {
 
                 <div className="schedule-grid" style={{ height: DAY_HEIGHT }}>
                   {halfHourMarks.map((mark) => <span className={mark % 2 === 0 ? "grid-line hour" : "grid-line"} key={mark} style={{ top: mark * 30 * PX_PER_MINUTE }} />)}
-                  {visibleChannels.map((channel) => (
+                  {displayChannels.map((channel) => (
                     <div className="channel-column" key={channel.id}>
                       {(programmesByChannel.get(channel.id) ?? []).map((programme) => {
                         const position = programmePosition(programme, selectedDate);
@@ -270,7 +303,7 @@ export function TvGuide() {
                         const compact = position.height < 46;
                         const micro = position.height < 18;
                         return (
-                          <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
+                          <a className={`programme-block${live ? " live" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--block-height": `${position.height}px`, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
                             {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
                             {!compact && programme.description && <small>{programme.description}</small>}
                             {live && !micro && <b>播放中</b>}
