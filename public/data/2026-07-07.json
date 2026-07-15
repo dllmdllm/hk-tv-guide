@@ -1,0 +1,3501 @@
+{
+  "date": "2026-07-07",
+  "updatedAt": "2026-07-15T02:49:36.507Z",
+  "channels": [
+    {
+      "id": "rthk-31",
+      "number": 31,
+      "name": "港台電視 31",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv31"
+    },
+    {
+      "id": "rthk-32",
+      "number": 32,
+      "name": "港台電視 32",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv32"
+    },
+    {
+      "id": "rthk-33",
+      "number": 33,
+      "name": "港台電視 33",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv33"
+    },
+    {
+      "id": "rthk-34",
+      "number": 34,
+      "name": "港台電視 34",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv34"
+    },
+    {
+      "id": "rthk-35",
+      "number": 35,
+      "name": "港台電視 35",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv35"
+    },
+    {
+      "id": "hoy-76",
+      "number": 76,
+      "name": "HOY 76",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-77",
+      "number": 77,
+      "name": "HOY 77",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-78",
+      "number": 78,
+      "name": "HOY 78",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "tvb-81",
+      "number": 81,
+      "name": "翡翠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-82",
+      "number": 82,
+      "name": "TVB Plus",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-83",
+      "number": 83,
+      "name": "無綫新聞台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-84",
+      "number": 84,
+      "name": "明珠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "viu-96",
+      "number": 96,
+      "name": "ViuTVsix",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    },
+    {
+      "id": "viu-99",
+      "number": 99,
+      "name": "ViuTV",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "hoy-78-1783353600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783353600000",
+      "channelId": "rthk-31",
+      "title": "凝聚香港",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T00:30:00+08:00",
+      "description": "第一千零五十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783353600000",
+      "channelId": "rthk-32",
+      "title": "鏗鏘集",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T00:30:00+08:00",
+      "description": "動物無聲",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783353600000",
+      "channelId": "rthk-33",
+      "title": "獅子山下的故事 27",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T00:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783353600000",
+      "channelId": "rthk-34",
+      "title": "我住江之頭4",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T00:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783353600000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T00:00:00+08:00",
+      "end": "2026-07-07T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783353660000",
+      "channelId": "rthk-33",
+      "title": "愛在平凡 1",
+      "start": "2026-07-07T00:01:00+08:00",
+      "end": "2026-07-07T00:49:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783355400000",
+      "channelId": "hoy-76",
+      "title": "小空間大活用 3",
+      "start": "2026-07-07T00:30:00+08:00",
+      "end": "2026-07-07T00:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783355400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T00:30:00+08:00",
+      "end": "2026-07-07T01:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783355400000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-07-07T00:30:00+08:00",
+      "end": "2026-07-07T01:00:00+08:00",
+      "description": "第一千一百九十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783355400000",
+      "channelId": "rthk-32",
+      "title": "廣東話去旅行——上海安徽篇 (英文版)",
+      "start": "2026-07-07T00:30:00+08:00",
+      "end": "2026-07-07T01:00:00+08:00",
+      "description": "慢活上海﹕文化探索與極限挑戰",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783356300000",
+      "channelId": "hoy-77",
+      "title": "煮題COOK 5",
+      "start": "2026-07-07T00:45:00+08:00",
+      "end": "2026-07-07T01:15:00+08:00",
+      "description": "1.豆卜頂部剪開（但不要前斷，保留豆卜頂部做蓋），將裡面的豆腐挖出。2.芋頭切片放入蒸爐蒸約20分鐘，略待涼後壓碎。3. 鍋中加入少許油，放入菜脯炒香，然後加入蝦米、冬菇粒及臘腸粒炒香，盛起，再加入芋頭碎、馬蹄碎及胡椒粉拌勻，成為餡料。4. 將餡料釀",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783356540000",
+      "channelId": "rthk-33",
+      "title": "非遺裡的中國",
+      "start": "2026-07-07T00:49:00+08:00",
+      "end": "2026-07-07T02:24:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783356900000",
+      "channelId": "hoy-76",
+      "title": "瑞典超級足球聯賽-赫根 對 佐加頓斯",
+      "start": "2026-07-07T00:55:00+08:00",
+      "end": "2026-07-07T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783356960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T00:56:00+08:00",
+      "end": "2026-07-07T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783357200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T01:00:00+08:00",
+      "end": "2026-07-07T01:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783357200000",
+      "channelId": "rthk-31",
+      "title": "老家伙",
+      "start": "2026-07-07T01:00:00+08:00",
+      "end": "2026-07-07T02:00:00+08:00",
+      "description": "第十集：搬進養老中心",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783357200000",
+      "channelId": "rthk-32",
+      "title": "凝聚香港",
+      "start": "2026-07-07T01:00:00+08:00",
+      "end": "2026-07-07T01:30:00+08:00",
+      "description": "第一千零五十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783357200000",
+      "channelId": "rthk-34",
+      "title": "千帆之下2",
+      "start": "2026-07-07T01:00:00+08:00",
+      "end": "2026-07-07T01:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783357200000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-07-07T01:00:00+08:00",
+      "end": "2026-07-07T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783358100000",
+      "channelId": "hoy-77",
+      "title": "一個人鐵道行 2",
+      "start": "2026-07-07T01:15:00+08:00",
+      "end": "2026-07-07T01:45:00+08:00",
+      "description": "桂林之行從香港出發，高鐵直達！早晨來碗當地的排隊經典米粉，酸爽又勁道。象鼻山，山與水互相映襯，造就了桂林的象徵，日月雙塔則是當地人心中的祈福之地，阿倫甚至發現了可以同時觀賞兩個景點的秘密基地。接著在灕江登上竹筏，尋找20元美景。甚至挑戰動力滑翔傘，從",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783358820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T01:27:00+08:00",
+      "end": "2026-07-07T01:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783359000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T01:30:00+08:00",
+      "end": "2026-07-07T02:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783359000000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T01:30:00+08:00",
+      "end": "2026-07-07T04:52:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783359000000",
+      "channelId": "rthk-34",
+      "title": "傳世古建5",
+      "start": "2026-07-07T01:30:00+08:00",
+      "end": "2026-07-07T01:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783359900000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖 2",
+      "start": "2026-07-07T01:45:00+08:00",
+      "end": "2026-07-07T02:15:00+08:00",
+      "description": "第二集有樂翊榆去到深圳之巔「平安金融中心」115樓食一餐高級日式午餐，估唔到絕佳景觀下唔使300蚊埋單，而Maisy尋找福田一宗100隻雪橇犬集體逃獄案發場地，而凱晴就坐地鐵去到上梅林商場卓悅匯品嚐新式陝西菜，跟手去車公廟站附近唱k。",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783360620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T01:57:00+08:00",
+      "end": "2026-07-07T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783360800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T02:00:00+08:00",
+      "end": "2026-07-07T02:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783360800000",
+      "channelId": "rthk-31",
+      "title": "香港故事 - 聲音導航",
+      "start": "2026-07-07T02:00:00+08:00",
+      "end": "2026-07-07T02:30:00+08:00",
+      "description": "城市迴響",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783360800000",
+      "channelId": "rthk-34",
+      "title": "煙火味道1/好吃客2",
+      "start": "2026-07-07T02:00:00+08:00",
+      "end": "2026-07-07T02:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783360800000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T02:00:00+08:00",
+      "end": "2026-07-07T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783361700000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-07T02:15:00+08:00",
+      "end": "2026-07-07T02:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783362240000",
+      "channelId": "rthk-33",
+      "title": "大國醫千金方",
+      "start": "2026-07-07T02:24:00+08:00",
+      "end": "2026-07-07T02:59:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783362600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T02:30:00+08:00",
+      "end": "2026-07-07T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783362600000",
+      "channelId": "rthk-31",
+      "title": "狂飆",
+      "start": "2026-07-07T02:30:00+08:00",
+      "end": "2026-07-07T03:30:00+08:00",
+      "description": "第一集",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783363500000",
+      "channelId": "hoy-77",
+      "title": "娛樂頭條 E-news Headline",
+      "start": "2026-07-07T02:45:00+08:00",
+      "end": "2026-07-07T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783364160000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T02:56:00+08:00",
+      "end": "2026-07-07T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783364340000",
+      "channelId": "rthk-33",
+      "title": "許你萬家燈火 25",
+      "start": "2026-07-07T02:59:00+08:00",
+      "end": "2026-07-07T03:46:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783364400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T03:00:00+08:00",
+      "end": "2026-07-07T04:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783364400000",
+      "channelId": "hoy-77",
+      "title": "魚樂無限",
+      "start": "2026-07-07T03:00:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783364400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T03:00:00+08:00",
+      "end": "2026-07-07T03:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783364400000",
+      "channelId": "rthk-34",
+      "title": "Z世代青年說第二季3/4",
+      "start": "2026-07-07T03:00:00+08:00",
+      "end": "2026-07-07T03:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783364400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T03:00:00+08:00",
+      "end": "2026-07-07T03:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783366020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T03:27:00+08:00",
+      "end": "2026-07-07T03:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783366200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T03:30:00+08:00",
+      "end": "2026-07-07T04:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783366200000",
+      "channelId": "rthk-31",
+      "title": "三叉戟 2",
+      "start": "2026-07-07T03:30:00+08:00",
+      "end": "2026-07-07T04:30:00+08:00",
+      "description": "第三十四集：幕後主腦身分揭曉",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783366200000",
+      "channelId": "rthk-34",
+      "title": "共贏之路1",
+      "start": "2026-07-07T03:30:00+08:00",
+      "end": "2026-07-07T03:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783366200000",
+      "channelId": "rthk-35",
+      "title": "World Insight with Tian Wei",
+      "start": "2026-07-07T03:30:00+08:00",
+      "end": "2026-07-07T04:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783367160000",
+      "channelId": "rthk-33",
+      "title": "許你萬家燈火 26",
+      "start": "2026-07-07T03:46:00+08:00",
+      "end": "2026-07-07T04:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783367820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T03:57:00+08:00",
+      "end": "2026-07-07T04:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783368000000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T04:00:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783368000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T04:00:00+08:00",
+      "end": "2026-07-07T04:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783368000000",
+      "channelId": "rthk-34",
+      "title": "布達拉宮5",
+      "start": "2026-07-07T04:00:00+08:00",
+      "end": "2026-07-07T04:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783368000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T04:00:00+08:00",
+      "end": "2026-07-07T04:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783369800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T04:30:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783369800000",
+      "channelId": "rthk-31",
+      "title": "31看世界 - 地球大堡礁",
+      "start": "2026-07-07T04:30:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "復育珊瑚礁",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783369800000",
+      "channelId": "rthk-35",
+      "title": "Dialogue",
+      "start": "2026-07-07T04:30:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783369920000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-07-07T04:32:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783371120000",
+      "channelId": "rthk-32",
+      "title": "睇得見。聽得到",
+      "start": "2026-07-07T04:52:00+08:00",
+      "end": "2026-07-07T04:57:00+08:00",
+      "description": "睇得見。聽得到*5 mins filler 2026",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783371360000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T04:56:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783371420000",
+      "channelId": "rthk-32",
+      "title": "運動",
+      "start": "2026-07-07T04:57:00+08:00",
+      "end": "2026-07-07T05:00:00+08:00",
+      "description": "2026香港國際龍舟邀請賽精華 - 扮嘢大賽得獎訪問",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783371600000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783371600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783371600000",
+      "channelId": "rthk-32",
+      "title": "凝聚香港",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "第一千零五十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783371600000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783371600000",
+      "channelId": "rthk-34",
+      "title": "輝煌60年·高原詩篇6",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T05:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783371600000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T05:00:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783373220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T05:27:00+08:00",
+      "end": "2026-07-07T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783373400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783373400000",
+      "channelId": "rthk-31",
+      "title": "香港故事 - 聲音導航",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "城市迴響",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783373400000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T07:30:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783373400000",
+      "channelId": "rthk-33",
+      "title": "國家記憶",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783373400000",
+      "channelId": "rthk-34",
+      "title": "我的牛頓教練5",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T05:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783373400000",
+      "channelId": "rthk-35",
+      "title": "The Point with Liu Xin",
+      "start": "2026-07-07T05:30:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783375020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T05:57:00+08:00",
+      "end": "2026-07-07T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783375200000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783375200000",
+      "channelId": "hoy-77",
+      "title": "女王之家",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783375200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T06:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783375200000",
+      "channelId": "rthk-31",
+      "title": "凝聚香港",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T06:30:00+08:00",
+      "description": "第一千零五十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783375200000",
+      "channelId": "rthk-33",
+      "title": "朝聞天下",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T08:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783375200000",
+      "channelId": "rthk-34",
+      "title": "我住江之頭5",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T06:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783375200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T06:00:00+08:00",
+      "end": "2026-07-07T06:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783377000000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-07T06:30:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783377000000",
+      "channelId": "rthk-31",
+      "title": "BobieLand",
+      "start": "2026-07-07T06:30:00+08:00",
+      "end": "2026-07-07T06:45:00+08:00",
+      "description": "第二百五十三集 - 《阿中做豆腐》上",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783377000000",
+      "channelId": "rthk-35",
+      "title": "Rediscovering China",
+      "start": "2026-07-07T06:30:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783377900000",
+      "channelId": "rthk-31",
+      "title": "恐龍萌遊記",
+      "start": "2026-07-07T06:45:00+08:00",
+      "end": "2026-07-07T06:53:00+08:00",
+      "description": "黑暗的洞穴",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783378380000",
+      "channelId": "rthk-31",
+      "title": "恐龍萌遊記",
+      "start": "2026-07-07T06:53:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "冰天雪地",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783378560000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T06:56:00+08:00",
+      "end": "2026-07-07T07:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783378800000",
+      "channelId": "hoy-76",
+      "title": "CGTN 時段",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783378800000",
+      "channelId": "hoy-77",
+      "title": "但願人長久",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783378800000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T07:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783378800000",
+      "channelId": "rthk-31",
+      "title": "如福侍衛隊",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T07:15:00+08:00",
+      "description": "後海觀星",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783378800000",
+      "channelId": "rthk-34",
+      "title": "千帆之下3",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T07:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783378800000",
+      "channelId": "rthk-35",
+      "title": "The Heat",
+      "start": "2026-07-07T07:00:00+08:00",
+      "end": "2026-07-07T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783379700000",
+      "channelId": "rthk-31",
+      "title": "如福侍衛隊",
+      "start": "2026-07-07T07:15:00+08:00",
+      "end": "2026-07-07T07:30:00+08:00",
+      "description": "孺子可教",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783380420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T07:27:00+08:00",
+      "end": "2026-07-07T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783380600000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-07T07:30:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783380600000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-07-07T07:30:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "第一千一百九十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783380600000",
+      "channelId": "rthk-32",
+      "title": "盛事傳城",
+      "start": "2026-07-07T07:30:00+08:00",
+      "end": "2026-07-07T07:35:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783380600000",
+      "channelId": "rthk-34",
+      "title": "傳世古建6",
+      "start": "2026-07-07T07:30:00+08:00",
+      "end": "2026-07-07T07:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783380600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T07:30:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783380900000",
+      "channelId": "rthk-32",
+      "title": "政正關你事",
+      "start": "2026-07-07T07:35:00+08:00",
+      "end": "2026-07-07T07:40:00+08:00",
+      "description": "點算未來：2026年人口普查",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783381200000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T07:40:00+08:00",
+      "end": "2026-07-07T07:41:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783381260000",
+      "channelId": "rthk-32",
+      "title": "睇得見。聽得到",
+      "start": "2026-07-07T07:41:00+08:00",
+      "end": "2026-07-07T07:46:00+08:00",
+      "description": "睇得見。聽得到*5 mins filler 2026",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783381560000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T07:46:00+08:00",
+      "end": "2026-07-07T08:05:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783382220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T07:57:00+08:00",
+      "end": "2026-07-07T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783382400000",
+      "channelId": "hoy-76",
+      "title": "CGTN 時段",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T09:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783382400000",
+      "channelId": "hoy-77",
+      "title": "現在很美麗",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T09:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783382400000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T08:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783382400000",
+      "channelId": "rthk-31",
+      "title": "盛事傳城",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T08:05:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783382400000",
+      "channelId": "rthk-34",
+      "title": "讓歷史說話2",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T08:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783382400000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T08:00:00+08:00",
+      "end": "2026-07-07T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783382700000",
+      "channelId": "rthk-31",
+      "title": "千禧年代",
+      "start": "2026-07-07T08:05:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "千禧年代 7月7日",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783382700000",
+      "channelId": "rthk-32",
+      "title": "千禧年代",
+      "start": "2026-07-07T08:05:00+08:00",
+      "end": "2026-07-07T08:55:00+08:00",
+      "description": "千禧年代 7月7日",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783384200000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-07T08:30:00+08:00",
+      "end": "2026-07-07T09:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783384200000",
+      "channelId": "rthk-33",
+      "title": "生活圈",
+      "start": "2026-07-07T08:30:00+08:00",
+      "end": "2026-07-07T09:12:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783385700000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T08:55:00+08:00",
+      "end": "2026-07-07T09:26:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783385760000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T08:56:00+08:00",
+      "end": "2026-07-07T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783386000000",
+      "channelId": "hoy-76",
+      "title": "太空新星 第1季",
+      "start": "2026-07-07T09:00:00+08:00",
+      "end": "2026-07-07T09:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783386000000",
+      "channelId": "hoy-77",
+      "title": "學人去非洲",
+      "start": "2026-07-07T09:00:00+08:00",
+      "end": "2026-07-07T09:30:00+08:00",
+      "description": "袁學謙到克利夫頓第四海灘親身下海，坐上獨木舟出海欣賞靚景兼尋找海豹身影，旅程中品嚐過各種高級美食、地道美食，Benedict到本地快餐店探店一試招牌漢堡包，之後去到綠市廣場市集行街SHOPPING，Benedict親身為大家格價買手信，趁住情人節到開",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783386000000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-07T09:00:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783386000000",
+      "channelId": "rthk-34",
+      "title": "Z世代青年說第二季5/6",
+      "start": "2026-07-07T09:00:00+08:00",
+      "end": "2026-07-07T09:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783386000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T09:00:00+08:00",
+      "end": "2026-07-07T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783386720000",
+      "channelId": "rthk-33",
+      "title": "人民的選擇 24",
+      "start": "2026-07-07T09:12:00+08:00",
+      "end": "2026-07-07T09:58:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783387560000",
+      "channelId": "rthk-32",
+      "title": "千禧年代",
+      "start": "2026-07-07T09:26:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "千禧年代 7月7日",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783387620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T09:27:00+08:00",
+      "end": "2026-07-07T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783387800000",
+      "channelId": "hoy-76",
+      "title": "消防員山姆系列 15",
+      "start": "2026-07-07T09:30:00+08:00",
+      "end": "2026-07-07T09:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783387800000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖 2",
+      "start": "2026-07-07T09:30:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "第三集凱晴同106隻可愛貓星人度過愉快下午，再到深圳一間充滿港產電影風格小食店來一次68蚊任食挑戰，凱晴宵夜時段去到一間「排隊王」及「必吃榜」潮州菜館，勁多港人幫襯。而另一邊Maisy到卓悅中心玩，品嚐人均800嘅頂級日式燒肉，大啖食牛舌，又到一間入",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783387800000",
+      "channelId": "rthk-34",
+      "title": "共贏之路2",
+      "start": "2026-07-07T09:30:00+08:00",
+      "end": "2026-07-07T09:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783387800000",
+      "channelId": "rthk-35",
+      "title": "China 24",
+      "start": "2026-07-07T09:30:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783389300000",
+      "channelId": "hoy-76",
+      "title": "FIBA世界盃男子籃球美洲區資格賽-墨西哥 對 美國",
+      "start": "2026-07-07T09:55:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783389420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T09:57:00+08:00",
+      "end": "2026-07-07T10:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783389480000",
+      "channelId": "rthk-33",
+      "title": "人民的選擇 25",
+      "start": "2026-07-07T09:58:00+08:00",
+      "end": "2026-07-07T10:44:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783389600000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783389600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783389600000",
+      "channelId": "rthk-31",
+      "title": "父輩的榮耀",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:55:00+08:00",
+      "description": "第二十二集：興傑對曉晴說想回鄉創業",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783389600000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:45:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783389600000",
+      "channelId": "rthk-34",
+      "title": "布達拉宮5",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783389600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T10:00:00+08:00",
+      "end": "2026-07-07T10:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783391400000",
+      "channelId": "hoy-77",
+      "title": "亞洲劇場 : 誰殺了她",
+      "start": "2026-07-07T10:30:00+08:00",
+      "end": "2026-07-07T11:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783391400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T10:30:00+08:00",
+      "end": "2026-07-07T11:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-35-1783391400000",
+      "channelId": "rthk-35",
+      "title": "World Insight with Tian Wei",
+      "start": "2026-07-07T10:30:00+08:00",
+      "end": "2026-07-07T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783392240000",
+      "channelId": "rthk-33",
+      "title": "人民的選擇 26",
+      "start": "2026-07-07T10:44:00+08:00",
+      "end": "2026-07-07T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783392300000",
+      "channelId": "rthk-32",
+      "title": "公務員及資助機構員工事務委員會會議",
+      "start": "2026-07-07T10:45:00+08:00",
+      "end": "2026-07-07T11:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783392900000",
+      "channelId": "rthk-31",
+      "title": "政正關你事",
+      "start": "2026-07-07T10:55:00+08:00",
+      "end": "2026-07-07T11:00:00+08:00",
+      "description": "點算未來：2026年人口普查",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783392960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T10:56:00+08:00",
+      "end": "2026-07-07T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783393200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T11:00:00+08:00",
+      "end": "2026-07-07T11:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783393200000",
+      "channelId": "rthk-31",
+      "title": "盛事傳城",
+      "start": "2026-07-07T11:00:00+08:00",
+      "end": "2026-07-07T11:05:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783393200000",
+      "channelId": "rthk-34",
+      "title": "輝煌60年·高原詩篇6",
+      "start": "2026-07-07T11:00:00+08:00",
+      "end": "2026-07-07T11:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783393200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T11:00:00+08:00",
+      "end": "2026-07-07T11:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783393500000",
+      "channelId": "rthk-31",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-07-07T11:05:00+08:00",
+      "end": "2026-07-07T11:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783393800000",
+      "channelId": "rthk-31",
+      "title": "香江暖流",
+      "start": "2026-07-07T11:10:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "香江暖流《埋嚟介紹返》",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783394100000",
+      "channelId": "rthk-32",
+      "title": "公務員及資助機構員工事務委員會會議",
+      "start": "2026-07-07T11:15:00+08:00",
+      "end": "2026-07-07T11:42:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783394100000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-07-07T11:15:00+08:00",
+      "end": "2026-07-07T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783394820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T11:27:00+08:00",
+      "end": "2026-07-07T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783395000000",
+      "channelId": "hoy-77",
+      "title": "女王之家",
+      "start": "2026-07-07T11:30:00+08:00",
+      "end": "2026-07-07T12:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783395000000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-07T11:30:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783395000000",
+      "channelId": "rthk-33",
+      "title": "農耕探文明",
+      "start": "2026-07-07T11:30:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783395000000",
+      "channelId": "rthk-34",
+      "title": "我的牛頓教練5",
+      "start": "2026-07-07T11:30:00+08:00",
+      "end": "2026-07-07T11:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783395000000",
+      "channelId": "rthk-35",
+      "title": "The Hub With Wang Guan",
+      "start": "2026-07-07T11:30:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783395720000",
+      "channelId": "rthk-32",
+      "title": "公務員及資助機構員工事務委員會會議",
+      "start": "2026-07-07T11:42:00+08:00",
+      "end": "2026-07-07T12:28:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783396620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T11:57:00+08:00",
+      "end": "2026-07-07T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783396800000",
+      "channelId": "hoy-76",
+      "title": "樂遊原",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783396800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T12:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783396800000",
+      "channelId": "rthk-31",
+      "title": "31看世界 - 地球大堡礁",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "復育珊瑚礁",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783396800000",
+      "channelId": "rthk-33",
+      "title": "新聞30分",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T12:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783396800000",
+      "channelId": "rthk-34",
+      "title": "我住江之頭5",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T12:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783396800000",
+      "channelId": "rthk-35",
+      "title": "Global Watch",
+      "start": "2026-07-07T12:00:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783398480000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T12:28:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783398600000",
+      "channelId": "hoy-77",
+      "title": "午間新聞",
+      "start": "2026-07-07T12:30:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783398600000",
+      "channelId": "hoy-78",
+      "title": "午間新聞",
+      "start": "2026-07-07T12:30:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783398720000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-07-07T12:32:00+08:00",
+      "end": "2026-07-07T13:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783400160000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T12:56:00+08:00",
+      "end": "2026-07-07T13:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783400400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783400400000",
+      "channelId": "hoy-77",
+      "title": "一線搜查",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783400400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783400400000",
+      "channelId": "rthk-31",
+      "title": "政正關你事",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:05:00+08:00",
+      "description": "點算未來：2026年人口普查",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783400400000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783400400000",
+      "channelId": "rthk-34",
+      "title": "千帆之下3",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783400400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T13:00:00+08:00",
+      "end": "2026-07-07T13:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783400460000",
+      "channelId": "rthk-33",
+      "title": "灼灼韶華 24",
+      "start": "2026-07-07T13:01:00+08:00",
+      "end": "2026-07-07T13:47:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783400700000",
+      "channelId": "rthk-31",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-07-07T13:05:00+08:00",
+      "end": "2026-07-07T13:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783400820000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T13:07:00+08:00",
+      "end": "2026-07-07T13:19:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783401000000",
+      "channelId": "rthk-31",
+      "title": "精靈一點",
+      "start": "2026-07-07T13:10:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "精靈一點 7月7日",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783401300000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-07-07T13:15:00+08:00",
+      "end": "2026-07-07T13:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783401540000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T13:19:00+08:00",
+      "end": "2026-07-07T13:29:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783402020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T13:27:00+08:00",
+      "end": "2026-07-07T13:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783402140000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T13:29:00+08:00",
+      "end": "2026-07-07T13:30:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783402200000",
+      "channelId": "hoy-77",
+      "title": "嫲嫲飯飯",
+      "start": "2026-07-07T13:30:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "今集《嫲嫲飯飯》有星級孫女、金像獎最佳女配角梁雍婷（Rachel），帶同嫲嫲Peggy作客節目。Rachel自幼由嫲嫲湊大，與嫲嫲感情很好，亦對她在演藝路上追夢給予很大支持。對Rachel來說，嫲嫲的味道都是簡單的菜式 —— 午餐肉炒蛋及豆豉鯪魚油麥",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783402200000",
+      "channelId": "hoy-78",
+      "title": "家國天下",
+      "start": "2026-07-07T13:30:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783402200000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T13:30:00+08:00",
+      "end": "2026-07-07T13:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783402200000",
+      "channelId": "rthk-34",
+      "title": "傳世古建6",
+      "start": "2026-07-07T13:30:00+08:00",
+      "end": "2026-07-07T13:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783402200000",
+      "channelId": "rthk-35",
+      "title": "Rediscovering China",
+      "start": "2026-07-07T13:30:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783402620000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T13:37:00+08:00",
+      "end": "2026-07-07T13:39:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783402740000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T13:39:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783403220000",
+      "channelId": "rthk-33",
+      "title": "灼灼韶華 25",
+      "start": "2026-07-07T13:47:00+08:00",
+      "end": "2026-07-07T14:33:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783403820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T13:57:00+08:00",
+      "end": "2026-07-07T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783404000000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783404000000",
+      "channelId": "hoy-77",
+      "title": "健康關注組",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:30:00+08:00",
+      "description": "胰臟被稱為「沉默的器官」，因為胰臟位於胃部後方深處，被其他器官重重包圍，初期病變幾乎無症狀，最多人知的是胰臟炎、胰臟癌，還有胰臟囊腫，不少人在做磁力共振檢查的時候，才發現胰臟有囊腫，原來胰臟囊腫是頗常見，今集外科專科醫生，會剖析胰臟囊腫對健康的影響。",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783404000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783404000000",
+      "channelId": "rthk-31",
+      "title": "唐朝詭事錄",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:45:00+08:00",
+      "description": "第三十六集: 參天樓(5)",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783404000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:03:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783404000000",
+      "channelId": "rthk-34",
+      "title": "讓歷史說話2",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783404000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T14:00:00+08:00",
+      "end": "2026-07-07T14:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783404180000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T14:03:00+08:00",
+      "end": "2026-07-07T14:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783404420000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T14:07:00+08:00",
+      "end": "2026-07-07T14:19:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783405140000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T14:19:00+08:00",
+      "end": "2026-07-07T14:30:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783405800000",
+      "channelId": "hoy-77",
+      "title": "詹姆士出走料理",
+      "start": "2026-07-07T14:30:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783405800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T14:30:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783405800000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T14:30:00+08:00",
+      "end": "2026-07-07T14:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783405800000",
+      "channelId": "rthk-35",
+      "title": "The Heat",
+      "start": "2026-07-07T14:30:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783405980000",
+      "channelId": "rthk-33",
+      "title": "灼灼韶華 26",
+      "start": "2026-07-07T14:33:00+08:00",
+      "end": "2026-07-07T15:19:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783406220000",
+      "channelId": "rthk-32",
+      "title": "保安事務委員會會議",
+      "start": "2026-07-07T14:37:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783406700000",
+      "channelId": "rthk-31",
+      "title": "無所畏懼 (第一季)",
+      "start": "2026-07-07T14:45:00+08:00",
+      "end": "2026-07-07T15:35:00+08:00",
+      "description": "第一集：羅英子遭遇婚姻背叛",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783407360000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T14:56:00+08:00",
+      "end": "2026-07-07T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783407600000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783407600000",
+      "channelId": "hoy-77",
+      "title": "健康百萬大道",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T15:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783407600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T15:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783407600000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T15:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783407600000",
+      "channelId": "rthk-34",
+      "title": "Z世代青年說第二季5/6",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T15:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783407600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T15:00:00+08:00",
+      "end": "2026-07-07T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783408020000",
+      "channelId": "rthk-32",
+      "title": "保安事務委員會會議",
+      "start": "2026-07-07T15:07:00+08:00",
+      "end": "2026-07-07T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783408740000",
+      "channelId": "rthk-33",
+      "title": "灼灼韶華 27",
+      "start": "2026-07-07T15:19:00+08:00",
+      "end": "2026-07-07T16:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783409220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T15:27:00+08:00",
+      "end": "2026-07-07T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783409400000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖 2",
+      "start": "2026-07-07T15:30:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "第三集凱晴同106隻可愛貓星人度過愉快下午，再到深圳一間充滿港產電影風格小食店來一次68蚊任食挑戰，凱晴宵夜時段去到一間「排隊王」及「必吃榜」潮州菜館，勁多港人幫襯。而另一邊Maisy到卓悅中心玩，品嚐人均800嘅頂級日式燒肉，大啖食牛舌，又到一間入",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783409400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T15:30:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783409400000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T15:30:00+08:00",
+      "end": "2026-07-07T15:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783409400000",
+      "channelId": "rthk-34",
+      "title": "共贏之路2",
+      "start": "2026-07-07T15:30:00+08:00",
+      "end": "2026-07-07T15:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783409400000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-07-07T15:30:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783409700000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-07-07T15:35:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "第一千一百九十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783409820000",
+      "channelId": "rthk-32",
+      "title": "保安事務委員會會議",
+      "start": "2026-07-07T15:37:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783411020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T15:57:00+08:00",
+      "end": "2026-07-07T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783411200000",
+      "channelId": "hoy-76",
+      "title": "太空新星 第1季",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783411200000",
+      "channelId": "hoy-77",
+      "title": "新乞嗤大魔王",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783411200000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783411200000",
+      "channelId": "rthk-31",
+      "title": "凝聚香港",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:30:00+08:00",
+      "description": "第一千零五十六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783411200000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783411200000",
+      "channelId": "rthk-34",
+      "title": "布達拉宮5",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783411200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T16:00:00+08:00",
+      "end": "2026-07-07T16:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783411500000",
+      "channelId": "rthk-33",
+      "title": "灼灼韶華 28",
+      "start": "2026-07-07T16:05:00+08:00",
+      "end": "2026-07-07T16:58:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783411620000",
+      "channelId": "rthk-32",
+      "title": "保安事務委員會會議",
+      "start": "2026-07-07T16:07:00+08:00",
+      "end": "2026-07-07T16:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783412100000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T16:15:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783413000000",
+      "channelId": "hoy-76",
+      "title": "消防員山姆系列 15",
+      "start": "2026-07-07T16:30:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783413000000",
+      "channelId": "hoy-77",
+      "title": "友夫日記",
+      "start": "2026-07-07T16:30:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783413000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T16:30:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783413000000",
+      "channelId": "rthk-31",
+      "title": "BobieLand",
+      "start": "2026-07-07T16:30:00+08:00",
+      "end": "2026-07-07T16:45:00+08:00",
+      "description": "第二百五十四集 - 《阿中做豆腐》下",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783413000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T16:30:00+08:00",
+      "end": "2026-07-07T16:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783413420000",
+      "channelId": "rthk-32",
+      "title": "經濟發展事務委員會會議",
+      "start": "2026-07-07T16:37:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783413900000",
+      "channelId": "rthk-31",
+      "title": "恐龍萌遊記",
+      "start": "2026-07-07T16:45:00+08:00",
+      "end": "2026-07-07T16:53:00+08:00",
+      "description": "恐龍運動會",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783414380000",
+      "channelId": "rthk-31",
+      "title": "恐龍萌遊記",
+      "start": "2026-07-07T16:53:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "玩水的一天",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783414560000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T16:56:00+08:00",
+      "end": "2026-07-07T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783414680000",
+      "channelId": "rthk-33",
+      "title": "尋味山海",
+      "start": "2026-07-07T16:58:00+08:00",
+      "end": "2026-07-07T17:28:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783414800000",
+      "channelId": "hoy-76",
+      "title": "露露布魯姆布魯姆 第1-2季",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783414800000",
+      "channelId": "hoy-77",
+      "title": "寶可夢 地平線",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783414800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783414800000",
+      "channelId": "rthk-31",
+      "title": "如福侍衛隊",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:15:00+08:00",
+      "description": "大桔為重",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783414800000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783414800000",
+      "channelId": "rthk-34",
+      "title": "輝煌60年·高原詩篇6",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783414800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T17:00:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783415220000",
+      "channelId": "rthk-32",
+      "title": "經濟發展事務委員會會議",
+      "start": "2026-07-07T17:07:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783415700000",
+      "channelId": "rthk-31",
+      "title": "如福侍衛隊",
+      "start": "2026-07-07T17:15:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "驚天麵團",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783416420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T17:27:00+08:00",
+      "end": "2026-07-07T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783416480000",
+      "channelId": "rthk-33",
+      "title": "非遺裡的中國",
+      "start": "2026-07-07T17:28:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783416600000",
+      "channelId": "hoy-76",
+      "title": "奧利和朋友們 第6季",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783416600000",
+      "channelId": "hoy-77",
+      "title": "恐龍大牧場",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783416600000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783416600000",
+      "channelId": "rthk-31",
+      "title": "香港故事 - 聲音導航",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "城市迴響",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783416600000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T17:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783416600000",
+      "channelId": "rthk-34",
+      "title": "我的牛頓教練5",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T17:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783416600000",
+      "channelId": "rthk-35",
+      "title": "The Vibe",
+      "start": "2026-07-07T17:30:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783417020000",
+      "channelId": "rthk-32",
+      "title": "經濟發展事務委員會會議",
+      "start": "2026-07-07T17:37:00+08:00",
+      "end": "2026-07-07T18:50:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783418220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T17:57:00+08:00",
+      "end": "2026-07-07T18:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783418400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783418400000",
+      "channelId": "hoy-77",
+      "title": "夠鐘食晏 2",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T18:30:00+08:00",
+      "description": "不太能食辣的主持們，在尖沙咀一間湘菜館挑戰極限，試食了多款辣味的菜式，深深感受到湘菜的魅力。另外他們也到了日本人氣居酒屋的香港分店，試食還原度極高的各種日式美食。同集也介紹了健康低醣的輕食選擇，和由美國直送的芝士蛋糕。",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783418400000",
+      "channelId": "hoy-78",
+      "title": "手語新聞報道",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T18:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783418400000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T18:30:00+08:00",
+      "description": "第一千一百九十七集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783418400000",
+      "channelId": "rthk-34",
+      "title": "我住江之頭5",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T18:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783418400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T18:00:00+08:00",
+      "end": "2026-07-07T18:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783419300000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-07-07T18:15:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783420200000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-07T18:30:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783420200000",
+      "channelId": "hoy-78",
+      "title": "六點半新聞報道",
+      "start": "2026-07-07T18:30:00+08:00",
+      "end": "2026-07-07T18:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783420200000",
+      "channelId": "rthk-31",
+      "title": "凝聚香港",
+      "start": "2026-07-07T18:30:00+08:00",
+      "end": "2026-07-07T18:55:00+08:00",
+      "description": "第一千零五十七集",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783421400000",
+      "channelId": "hoy-78",
+      "title": "焦點財經",
+      "start": "2026-07-07T18:50:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "股市、樓市 環球財金焦點 央行動態、企業消息 全方位跟進",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783421400000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-07-07T18:50:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "竹林七賢與榮啟期磚畫",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783421700000",
+      "channelId": "rthk-31",
+      "title": "香港電台天氣簡報",
+      "start": "2026-07-07T18:55:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783421760000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T18:56:00+08:00",
+      "end": "2026-07-07T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783422000000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T20:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783422000000",
+      "channelId": "hoy-77",
+      "title": "7點直播室",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783422000000",
+      "channelId": "hoy-78",
+      "title": "7點直播室",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783422000000",
+      "channelId": "rthk-31",
+      "title": "新聞天地",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:30:00+08:00",
+      "description": "20260707",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783422000000",
+      "channelId": "rthk-32",
+      "title": "新聞天地",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:06:00+08:00",
+      "description": "20260707",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783422000000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:35:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783422000000",
+      "channelId": "rthk-34",
+      "title": "千帆之下3",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783422000000",
+      "channelId": "rthk-35",
+      "title": "Asia Today",
+      "start": "2026-07-07T19:00:00+08:00",
+      "end": "2026-07-07T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783422360000",
+      "channelId": "rthk-32",
+      "title": "新聞天地",
+      "start": "2026-07-07T19:06:00+08:00",
+      "end": "2026-07-07T19:30:00+08:00",
+      "description": "20260707",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783423620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T19:27:00+08:00",
+      "end": "2026-07-07T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783423800000",
+      "channelId": "rthk-31",
+      "title": "老家伙",
+      "start": "2026-07-07T19:30:00+08:00",
+      "end": "2026-07-07T20:20:00+08:00",
+      "description": "第十一集：陳新城決定正式接管養老中心",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783423800000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T19:30:00+08:00",
+      "end": "2026-07-07T19:40:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783423800000",
+      "channelId": "rthk-34",
+      "title": "傳世古建6",
+      "start": "2026-07-07T19:30:00+08:00",
+      "end": "2026-07-07T19:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783423800000",
+      "channelId": "rthk-35",
+      "title": "Dialogue",
+      "start": "2026-07-07T19:30:00+08:00",
+      "end": "2026-07-07T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783424100000",
+      "channelId": "rthk-33",
+      "title": "天氣預報",
+      "start": "2026-07-07T19:35:00+08:00",
+      "end": "2026-07-07T19:41:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783424400000",
+      "channelId": "rthk-32",
+      "title": "香港電台天氣簡報",
+      "start": "2026-07-07T19:40:00+08:00",
+      "end": "2026-07-07T19:44:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783424460000",
+      "channelId": "rthk-33",
+      "title": "種墨園 17",
+      "start": "2026-07-07T19:41:00+08:00",
+      "end": "2026-07-07T20:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783424640000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-07-07T19:44:00+08:00",
+      "end": "2026-07-07T20:30:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783425000000",
+      "channelId": "hoy-77",
+      "title": "28Hse 搵樓App 特約 : 每日樓市",
+      "start": "2026-07-07T19:50:00+08:00",
+      "end": "2026-07-07T20:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783425000000",
+      "channelId": "hoy-78",
+      "title": "28Hse搵樓App特約 : 每日樓市",
+      "start": "2026-07-07T19:50:00+08:00",
+      "end": "2026-07-07T20:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783425420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T19:57:00+08:00",
+      "end": "2026-07-07T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783425600000",
+      "channelId": "hoy-76",
+      "title": "有線新聞",
+      "start": "2026-07-07T20:00:00+08:00",
+      "end": "2026-07-07T20:15:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783425600000",
+      "channelId": "hoy-77",
+      "title": "一線搜查",
+      "start": "2026-07-07T20:00:00+08:00",
+      "end": "2026-07-07T20:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783425600000",
+      "channelId": "hoy-78",
+      "title": "國際最前線",
+      "start": "2026-07-07T20:00:00+08:00",
+      "end": "2026-07-07T20:15:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783425600000",
+      "channelId": "rthk-34",
+      "title": "讓歷史說話2",
+      "start": "2026-07-07T20:00:00+08:00",
+      "end": "2026-07-07T20:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783425600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T20:00:00+08:00",
+      "end": "2026-07-07T20:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783426500000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T20:15:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783426500000",
+      "channelId": "hoy-78",
+      "title": "《香港國安法》公布實施6周年 保安局 呈獻 : 國安檔案解密",
+      "start": "2026-07-07T20:15:00+08:00",
+      "end": "2026-07-07T20:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-35-1783426500000",
+      "channelId": "rthk-35",
+      "title": "China 24",
+      "start": "2026-07-07T20:15:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783426800000",
+      "channelId": "rthk-31",
+      "title": "香港電台天氣簡報",
+      "start": "2026-07-07T20:20:00+08:00",
+      "end": "2026-07-07T20:25:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783427100000",
+      "channelId": "rthk-31",
+      "title": "政正關你事 - 官員講話摘要",
+      "start": "2026-07-07T20:25:00+08:00",
+      "end": "2026-07-07T20:30:00+08:00",
+      "description": "政正關你事 - 官員講話摘要 #34（李家超、陳茂波、鄧炳強）",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783427220000",
+      "channelId": "rthk-33",
+      "title": "種墨園 18",
+      "start": "2026-07-07T20:27:00+08:00",
+      "end": "2026-07-07T21:14:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783427400000",
+      "channelId": "hoy-77",
+      "title": "健康關注組",
+      "start": "2026-07-07T20:30:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "大腸癌一直是本港頭號癌症殺手，但最近一項英國研究打破局面！臨床試驗顯示，新研發的藥物，成功令六成大腸癌患者腫瘤，奇蹟地「清零」，到底這種藥物是否人人適用？傳統化療的副作用又可以如何減輕？今集一起關注：「大腸癌，治療新突破」",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783427400000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-07T20:30:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783427400000",
+      "channelId": "rthk-31",
+      "title": "無所畏懼之永不放棄",
+      "start": "2026-07-07T20:30:00+08:00",
+      "end": "2026-07-07T21:20:00+08:00",
+      "description": "第一集：羅英子追查疑案被開除",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783427400000",
+      "channelId": "rthk-32",
+      "title": "森動香港 (普通話版)",
+      "start": "2026-07-07T20:30:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "生命之轮",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783428960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T20:56:00+08:00",
+      "end": "2026-07-07T21:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783429200000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783429200000",
+      "channelId": "hoy-77",
+      "title": "詹姆士出走料理",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T21:25:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783429200000",
+      "channelId": "hoy-78",
+      "title": "晚間直播室",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T21:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783429200000",
+      "channelId": "rthk-32",
+      "title": "盛事傳城",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T21:05:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783429200000",
+      "channelId": "rthk-34",
+      "title": "Z世代青年說第二季5/6",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T21:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783429200000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-07-07T21:00:00+08:00",
+      "end": "2026-07-07T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783429500000",
+      "channelId": "rthk-32",
+      "title": "凝聚香港",
+      "start": "2026-07-07T21:05:00+08:00",
+      "end": "2026-07-07T21:30:00+08:00",
+      "description": "第一千零五十七集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783430040000",
+      "channelId": "rthk-33",
+      "title": "大國醫千金方",
+      "start": "2026-07-07T21:14:00+08:00",
+      "end": "2026-07-07T21:43:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783430400000",
+      "channelId": "rthk-31",
+      "title": "國寶時刻",
+      "start": "2026-07-07T21:20:00+08:00",
+      "end": "2026-07-07T21:25:00+08:00",
+      "description": "竹林七賢與榮啟期磚畫",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783430700000",
+      "channelId": "hoy-77",
+      "title": "亞運 919",
+      "start": "2026-07-07T21:25:00+08:00",
+      "end": "2026-07-07T21:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783430700000",
+      "channelId": "rthk-31",
+      "title": "政正關你事 - 官員講話摘要",
+      "start": "2026-07-07T21:25:00+08:00",
+      "end": "2026-07-07T21:30:00+08:00",
+      "description": "政正關你事 - 官員講話摘要 #34（李家超、陳茂波、鄧炳強）",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783430820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T21:27:00+08:00",
+      "end": "2026-07-07T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783431000000",
+      "channelId": "hoy-77",
+      "title": "嫲嫲飯飯",
+      "start": "2026-07-07T21:30:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "今集《嫲嫲飯飯》，主持劉沛蘅（Hillary）及陳柏宇（Jason）拜訪一位前國家籃球運動員羅太，孫女思曼是她心頭的一塊肉，事事以她為先。而思曼最期待就是每星期一天去嫲嫲家過夜，可以讓她減壓。雖然思曼沒有天份學籃球，但跟嫲嫲學包春卷也有板有眼，今次更",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783431000000",
+      "channelId": "rthk-31",
+      "title": "大港腳闖中超",
+      "start": "2026-07-07T21:30:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "顏卓彬",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783431000000",
+      "channelId": "rthk-32",
+      "title": "香港故事 ---近水留情",
+      "start": "2026-07-07T21:30:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "大澳涌兩頭通",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783431000000",
+      "channelId": "rthk-34",
+      "title": "共贏之路2",
+      "start": "2026-07-07T21:30:00+08:00",
+      "end": "2026-07-07T21:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783431000000",
+      "channelId": "rthk-35",
+      "title": "The Hub With Wang Guan",
+      "start": "2026-07-07T21:30:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783431780000",
+      "channelId": "rthk-33",
+      "title": "焦點訪談",
+      "start": "2026-07-07T21:43:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783431900000",
+      "channelId": "hoy-78",
+      "title": "焦點財經及28Hse搵樓App特約:每日樓市",
+      "start": "2026-07-07T21:45:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783432620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T21:57:00+08:00",
+      "end": "2026-07-07T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783432800000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783432800000",
+      "channelId": "hoy-77",
+      "title": "亞洲劇場 : 誰殺了她",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783432800000",
+      "channelId": "hoy-78",
+      "title": "智‧創未來",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783432800000",
+      "channelId": "rthk-31",
+      "title": "31看世界 – 匠心傳承",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:55:00+08:00",
+      "description": "匠心傳承 · 美國",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783432800000",
+      "channelId": "rthk-32",
+      "title": "醫生與你 - 講飲講食講健康",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:30:00+08:00",
+      "description": "#18 無飯不歡—米",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783432800000",
+      "channelId": "rthk-33",
+      "title": "晚間新聞",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783432800000",
+      "channelId": "rthk-34",
+      "title": "布達拉宮5",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783432800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T22:00:00+08:00",
+      "end": "2026-07-07T22:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-78-1783434600000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-07T22:30:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-32-1783434600000",
+      "channelId": "rthk-32",
+      "title": "盛事傳城",
+      "start": "2026-07-07T22:30:00+08:00",
+      "end": "2026-07-07T22:35:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783434600000",
+      "channelId": "rthk-35",
+      "title": "World Insight with Tian Wei",
+      "start": "2026-07-07T22:30:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1783434720000",
+      "channelId": "rthk-33",
+      "title": "生活圈",
+      "start": "2026-07-07T22:32:00+08:00",
+      "end": "2026-07-07T23:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783434900000",
+      "channelId": "rthk-32",
+      "title": "政正關你事",
+      "start": "2026-07-07T22:35:00+08:00",
+      "end": "2026-07-07T22:40:00+08:00",
+      "description": "點算未來：2026年人口普查",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1783435200000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-07-07T22:40:00+08:00",
+      "end": "2026-07-08T00:00:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1783436100000",
+      "channelId": "rthk-31",
+      "title": "盛事傳城",
+      "start": "2026-07-07T22:55:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "世界女排聯賽香港；泡泡星球體驗展",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783436160000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T22:56:00+08:00",
+      "end": "2026-07-07T23:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783436400000",
+      "channelId": "hoy-76",
+      "title": "有線新聞",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-07T23:15:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783436400000",
+      "channelId": "hoy-77",
+      "title": "有線新聞",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-07T23:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783436400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-07T23:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-31-1783436400000",
+      "channelId": "rthk-31",
+      "title": "父輩的榮耀",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-08T00:00:00+08:00",
+      "description": "第二十二集：興傑對曉晴說想回鄉創業",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783436400000",
+      "channelId": "rthk-34",
+      "title": "輝煌60年·高原詩篇6",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-07T23:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783436400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-07-07T23:00:00+08:00",
+      "end": "2026-07-07T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783437300000",
+      "channelId": "hoy-76",
+      "title": "Green Touch",
+      "start": "2026-07-07T23:15:00+08:00",
+      "end": "2026-07-07T23:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-33-1783437300000",
+      "channelId": "rthk-33",
+      "title": "愛在平凡 2",
+      "start": "2026-07-07T23:15:00+08:00",
+      "end": "2026-07-08T00:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1783438020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T23:27:00+08:00",
+      "end": "2026-07-07T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-76-1783438200000",
+      "channelId": "hoy-76",
+      "title": "真心假結婚",
+      "start": "2026-07-07T23:30:00+08:00",
+      "end": "2026-07-08T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783438200000",
+      "channelId": "hoy-77",
+      "title": "娛樂頭條 E-news Headline",
+      "start": "2026-07-07T23:30:00+08:00",
+      "end": "2026-07-07T23:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783438200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-07T23:30:00+08:00",
+      "end": "2026-07-08T00:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783438200000",
+      "channelId": "rthk-34",
+      "title": "我的牛頓教練5",
+      "start": "2026-07-07T23:30:00+08:00",
+      "end": "2026-07-07T23:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1783438200000",
+      "channelId": "rthk-35",
+      "title": "The Vibe",
+      "start": "2026-07-07T23:30:00+08:00",
+      "end": "2026-07-08T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "hoy-77-1783439100000",
+      "channelId": "hoy-77",
+      "title": "學人去非洲",
+      "start": "2026-07-07T23:45:00+08:00",
+      "end": "2026-07-08T00:15:00+08:00",
+      "description": "袁學謙到克利夫頓第四海灘親身下海，坐上獨木舟出海欣賞靚景兼尋找海豹身影，旅程中品嚐過各種高級美食、地道美食，Benedict到本地快餐店探店一試招牌漢堡包，之後去到綠市廣場市集行街SHOPPING，Benedict親身為大家格價買手信，趁住情人節到開",
+      "source": "HOY"
+    },
+    {
+      "id": "rthk-34-1783439820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-07-07T23:57:00+08:00",
+      "end": "2026-07-08T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    }
+  ],
+  "sourceStatus": {
+    "TVB": true,
+    "HOY": true,
+    "港台": true,
+    "ViuTV": true
+  }
+}

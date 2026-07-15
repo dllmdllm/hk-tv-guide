@@ -1,0 +1,1179 @@
+{
+  "date": "2026-07-03",
+  "updatedAt": "2026-07-15T02:49:36.507Z",
+  "channels": [
+    {
+      "id": "rthk-31",
+      "number": 31,
+      "name": "港台電視 31",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv31"
+    },
+    {
+      "id": "rthk-32",
+      "number": 32,
+      "name": "港台電視 32",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv32"
+    },
+    {
+      "id": "rthk-33",
+      "number": 33,
+      "name": "港台電視 33",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv33"
+    },
+    {
+      "id": "rthk-34",
+      "number": 34,
+      "name": "港台電視 34",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv34"
+    },
+    {
+      "id": "rthk-35",
+      "number": 35,
+      "name": "港台電視 35",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv35"
+    },
+    {
+      "id": "hoy-76",
+      "number": 76,
+      "name": "HOY 76",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-77",
+      "number": 77,
+      "name": "HOY 77",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-78",
+      "number": 78,
+      "name": "HOY 78",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "tvb-81",
+      "number": 81,
+      "name": "翡翠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-82",
+      "number": 82,
+      "name": "TVB Plus",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-83",
+      "number": 83,
+      "name": "無綫新聞台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-84",
+      "number": 84,
+      "name": "明珠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "viu-96",
+      "number": 96,
+      "name": "ViuTVsix",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    },
+    {
+      "id": "viu-99",
+      "number": 99,
+      "name": "ViuTV",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "hoy-78-1783008000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T00:00:00+08:00",
+      "end": "2026-07-03T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783008900000",
+      "channelId": "hoy-77",
+      "title": "夠鐘食晏 2",
+      "start": "2026-07-03T00:15:00+08:00",
+      "end": "2026-07-03T00:45:00+08:00",
+      "description": "今集在銅鑼灣，將要介紹一間以「fine dining」概念，創新地呈現各種傳統韓國料理的高級餐廳。另外也有由印尼華僑主理的「南洋菜」餐廳。同集還有夏威夷蓋飯專門店，和由酒店西餐廳供應的午市半自助餐。",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783009800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T00:30:00+08:00",
+      "end": "2026-07-03T01:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783010700000",
+      "channelId": "hoy-77",
+      "title": "煮題COOK4 大食四方",
+      "start": "2026-07-03T00:45:00+08:00",
+      "end": "2026-07-03T01:15:00+08:00",
+      "description": "潮州生醃, 是不少人的至愛, 因為其獨特鮮味及口感令人欲罷不能, 故被稱為潮州毒藥, 到底這種毒藥是如何煉成? 今集Ricky、Jacky 就拜訪了一位老前輩葉師傅, 學習製作過程, 可是有一種\"秘方\", 葉師傅卻賣了關子, 不知二人又能否參透呢?",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783011600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T01:00:00+08:00",
+      "end": "2026-07-03T01:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783012500000",
+      "channelId": "hoy-77",
+      "title": "一個人鐵道行 2",
+      "start": "2026-07-03T01:15:00+08:00",
+      "end": "2026-07-03T01:45:00+08:00",
+      "description": "阿倫來到了成都的文藝重地『東郊記憶』，不僅能拍照打卡，還收穫屬於自己的潮流單品，到了人民廣場說是要相親！難道是一個人太孤單了嗎？ 親眼見識樂山大佛的雄偉，造訪隱藏在天然岩壁的咖啡廳，與復古風裝飾交相輝映，悠然享受一杯咖啡，為這趟旅程增添了一抹輕鬆愜意",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783013400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T01:30:00+08:00",
+      "end": "2026-07-03T02:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783013400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T01:30:00+08:00",
+      "end": "2026-07-03T02:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783014300000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖",
+      "start": "2026-07-03T01:45:00+08:00",
+      "end": "2026-07-03T02:15:00+08:00",
+      "description": "最後一集Maisy到海山站壹海城，走入鹽田區腸粉一條街，又試食9蚊龜苓膏有冇伏味，另外又開箱近期好hit兩層loft酒店式公寓。鹽田區有好適合散步的中央公園，海邊燈塔圖書館，又去到著名鹽田海鮮街品嚐平靚正海鮮，入夜排隊上山頂感受地道創意夜市，與年青人",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783015200000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T02:00:00+08:00",
+      "end": "2026-07-03T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783015200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T02:00:00+08:00",
+      "end": "2026-07-03T02:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783016100000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-03T02:15:00+08:00",
+      "end": "2026-07-03T02:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783017000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T02:30:00+08:00",
+      "end": "2026-07-03T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783017900000",
+      "channelId": "hoy-77",
+      "title": "娛樂頭條 E-news Headline",
+      "start": "2026-07-03T02:45:00+08:00",
+      "end": "2026-07-03T03:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783018800000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T03:00:00+08:00",
+      "end": "2026-07-03T04:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783018800000",
+      "channelId": "hoy-77",
+      "title": "魚樂無限",
+      "start": "2026-07-03T03:00:00+08:00",
+      "end": "2026-07-03T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783018800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T03:00:00+08:00",
+      "end": "2026-07-03T03:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783020600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T03:30:00+08:00",
+      "end": "2026-07-03T04:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783022400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T04:00:00+08:00",
+      "end": "2026-07-03T05:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783022400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T04:00:00+08:00",
+      "end": "2026-07-03T04:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783024200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T04:30:00+08:00",
+      "end": "2026-07-03T05:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783026000000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T05:00:00+08:00",
+      "end": "2026-07-03T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783026000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T05:00:00+08:00",
+      "end": "2026-07-03T05:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783027800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T05:30:00+08:00",
+      "end": "2026-07-03T06:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783029600000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T06:00:00+08:00",
+      "end": "2026-07-03T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783029600000",
+      "channelId": "hoy-77",
+      "title": "女王之家",
+      "start": "2026-07-03T06:00:00+08:00",
+      "end": "2026-07-03T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783029600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T06:00:00+08:00",
+      "end": "2026-07-03T06:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783031400000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-03T06:30:00+08:00",
+      "end": "2026-07-03T07:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783033200000",
+      "channelId": "hoy-76",
+      "title": "CGTN 時段",
+      "start": "2026-07-03T07:00:00+08:00",
+      "end": "2026-07-03T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783033200000",
+      "channelId": "hoy-77",
+      "title": "但願人長久",
+      "start": "2026-07-03T07:00:00+08:00",
+      "end": "2026-07-03T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783033200000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-03T07:00:00+08:00",
+      "end": "2026-07-03T07:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783035000000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-03T07:30:00+08:00",
+      "end": "2026-07-03T08:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783036800000",
+      "channelId": "hoy-76",
+      "title": "CGTN 時段",
+      "start": "2026-07-03T08:00:00+08:00",
+      "end": "2026-07-03T08:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783036800000",
+      "channelId": "hoy-77",
+      "title": "現在很美麗",
+      "start": "2026-07-03T08:00:00+08:00",
+      "end": "2026-07-03T09:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783036800000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-03T08:00:00+08:00",
+      "end": "2026-07-03T08:25:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783038300000",
+      "channelId": "hoy-78",
+      "title": "《香港國安法》公布實施6周年 保安局 呈獻 : 國安檔案解密",
+      "start": "2026-07-03T08:25:00+08:00",
+      "end": "2026-07-03T08:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783038600000",
+      "channelId": "hoy-78",
+      "title": "Cable 早晨",
+      "start": "2026-07-03T08:30:00+08:00",
+      "end": "2026-07-03T08:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783040100000",
+      "channelId": "hoy-76",
+      "title": "2026 國際法論壇",
+      "start": "2026-07-03T08:55:00+08:00",
+      "end": "2026-07-03T10:20:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783040100000",
+      "channelId": "hoy-78",
+      "title": "《香港國安法》公布實施6周年 保安局 呈獻 : 國安檔案解密",
+      "start": "2026-07-03T08:55:00+08:00",
+      "end": "2026-07-03T09:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783040400000",
+      "channelId": "hoy-77",
+      "title": "學人去非洲",
+      "start": "2026-07-03T09:00:00+08:00",
+      "end": "2026-07-03T09:30:00+08:00",
+      "description": "袁學謙離開贊比亞到達南非開普敦，重新踏進城市，去到豪特灣品嚐海鮮，首先買票出海觀賞海豹山，沿海已經聞到濃烈血腥味道，回到岸邊後，走進著名市集，裡面還有很多手信店，Benedict被首飾物品吸引，加上價格便宜，絕對令遊客釋放購買慾，到處走走食食飲杯酒。",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783040400000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-03T09:00:00+08:00",
+      "end": "2026-07-03T10:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783042200000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖 2",
+      "start": "2026-07-03T09:30:00+08:00",
+      "end": "2026-07-03T10:00:00+08:00",
+      "description": "《深圳地圖2》今輯繼續有馬曉晴、梁凱晴、樂翊榆帶觀眾北上吃喝玩樂，近年國內科技發展迅速，凱晴第一集到深圳坪山乘搭「無人駕駛的士」，親身感受冇司機的路面體驗。Maisy到福田試食一間好有港式大排檔風味嘅「宵夜食堂」，而樂翊榆就去到港人熟識的皇庭廣場食一",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783044000000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-03T10:00:00+08:00",
+      "end": "2026-07-03T10:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783044000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T10:00:00+08:00",
+      "end": "2026-07-03T10:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783045200000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T10:20:00+08:00",
+      "end": "2026-07-03T10:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783045800000",
+      "channelId": "hoy-77",
+      "title": "亞洲劇場 : 誰殺了她",
+      "start": "2026-07-03T10:30:00+08:00",
+      "end": "2026-07-03T11:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783045800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T10:30:00+08:00",
+      "end": "2026-07-03T11:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783047000000",
+      "channelId": "hoy-76",
+      "title": "2026 國際法論壇",
+      "start": "2026-07-03T10:50:00+08:00",
+      "end": "2026-07-03T12:20:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783047600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T11:00:00+08:00",
+      "end": "2026-07-03T11:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783049400000",
+      "channelId": "hoy-77",
+      "title": "女王之家",
+      "start": "2026-07-03T11:30:00+08:00",
+      "end": "2026-07-03T12:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783049400000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-03T11:30:00+08:00",
+      "end": "2026-07-03T12:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783051200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T12:00:00+08:00",
+      "end": "2026-07-03T12:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783052400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T12:20:00+08:00",
+      "end": "2026-07-03T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783053000000",
+      "channelId": "hoy-77",
+      "title": "午間新聞",
+      "start": "2026-07-03T12:30:00+08:00",
+      "end": "2026-07-03T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783053000000",
+      "channelId": "hoy-78",
+      "title": "午間新聞",
+      "start": "2026-07-03T12:30:00+08:00",
+      "end": "2026-07-03T13:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783054800000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T13:00:00+08:00",
+      "end": "2026-07-03T14:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783054800000",
+      "channelId": "hoy-77",
+      "title": "一線搜查",
+      "start": "2026-07-03T13:00:00+08:00",
+      "end": "2026-07-03T13:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783054800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T13:00:00+08:00",
+      "end": "2026-07-03T13:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783056600000",
+      "channelId": "hoy-77",
+      "title": "嫲嫲飯飯",
+      "start": "2026-07-03T13:30:00+08:00",
+      "end": "2026-07-03T14:00:00+08:00",
+      "description": "今集《嫲嫲飯飯》，主持劉沛蘅（Hillary）到貝澳拜訪94歲的何老太，與她的兩位孫兒Jun及Kelvin一起承傳嫲嫲的味道 —— 茶粿，Jun及Kelvin開設網上頻道，記錄低嫲嫲獨一無二的茶粿食譜，背後更有一個感人的原因。Hillary初次體驗整",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783056600000",
+      "channelId": "hoy-78",
+      "title": "智‧創未來",
+      "start": "2026-07-03T13:30:00+08:00",
+      "end": "2026-07-03T14:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783058400000",
+      "channelId": "hoy-76",
+      "title": "2026 國際法論壇",
+      "start": "2026-07-03T14:00:00+08:00",
+      "end": "2026-07-03T15:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783058400000",
+      "channelId": "hoy-77",
+      "title": "健康關注組",
+      "start": "2026-07-03T14:00:00+08:00",
+      "end": "2026-07-03T14:30:00+08:00",
+      "description": "很多人以為血管阻塞，只是脂肪多，原來最怕是鈣化變硬！嚴重的心血管鈣化，就算是做通波仔手術，都隨時會撐穿血管！現時醫學界對付心血管鈣化，有三大武器，可以令硬化血管重開生命通道。今集就關注：「三大武器，對付心血管鈣化」",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783058400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T14:00:00+08:00",
+      "end": "2026-07-03T14:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783060200000",
+      "channelId": "hoy-77",
+      "title": "詹姆士出走料理",
+      "start": "2026-07-03T14:30:00+08:00",
+      "end": "2026-07-03T15:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783060200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T14:30:00+08:00",
+      "end": "2026-07-03T15:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783062000000",
+      "channelId": "hoy-77",
+      "title": "Lolly Lolly寵物拯救隊",
+      "start": "2026-07-03T15:00:00+08:00",
+      "end": "2026-07-03T15:30:00+08:00",
+      "description": "聖誕新年將到臨，大家都有好多Party要參與，主人們都想自己狗狗閃亮全場！今集LollyTalk 4位成員，分成兩經，其中阿妹同Tania要為重達 30KG的西摩犬大美容，毛髮污糟打晒結的西摩，變番白雪雪，究竟要個鐘頭的美容做咗咩？另外，阿妹又同El",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783062000000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T15:00:00+08:00",
+      "end": "2026-07-03T15:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783063800000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T15:30:00+08:00",
+      "end": "2026-07-03T16:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783063800000",
+      "channelId": "hoy-77",
+      "title": "深圳地圖 2",
+      "start": "2026-07-03T15:30:00+08:00",
+      "end": "2026-07-03T16:00:00+08:00",
+      "description": "《深圳地圖2》今輯繼續有馬曉晴、梁凱晴、樂翊榆帶觀眾北上吃喝玩樂，近年國內科技發展迅速，凱晴第一集到深圳坪山乘搭「無人駕駛的士」，親身感受冇司機的路面體驗。Maisy到福田試食一間好有港式大排檔風味嘅「宵夜食堂」，而樂翊榆就去到港人熟識的皇庭廣場食一",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783063800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T15:30:00+08:00",
+      "end": "2026-07-03T16:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783065600000",
+      "channelId": "hoy-76",
+      "title": "2026 國際法論壇",
+      "start": "2026-07-03T16:00:00+08:00",
+      "end": "2026-07-03T17:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783065600000",
+      "channelId": "hoy-77",
+      "title": "新乞嗤大魔王",
+      "start": "2026-07-03T16:00:00+08:00",
+      "end": "2026-07-03T16:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783065600000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-03T16:00:00+08:00",
+      "end": "2026-07-03T16:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783067400000",
+      "channelId": "hoy-77",
+      "title": "友夫日記",
+      "start": "2026-07-03T16:30:00+08:00",
+      "end": "2026-07-03T17:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783067400000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T16:30:00+08:00",
+      "end": "2026-07-03T17:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783069200000",
+      "channelId": "hoy-77",
+      "title": "寶可夢 地平線",
+      "start": "2026-07-03T17:00:00+08:00",
+      "end": "2026-07-03T17:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783069200000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T17:00:00+08:00",
+      "end": "2026-07-03T17:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783071000000",
+      "channelId": "hoy-77",
+      "title": "恐龍大牧場",
+      "start": "2026-07-03T17:30:00+08:00",
+      "end": "2026-07-03T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783071000000",
+      "channelId": "hoy-78",
+      "title": "股市直播室",
+      "start": "2026-07-03T17:30:00+08:00",
+      "end": "2026-07-03T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783071900000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T17:45:00+08:00",
+      "end": "2026-07-03T18:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783072800000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T18:00:00+08:00",
+      "end": "2026-07-03T19:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783072800000",
+      "channelId": "hoy-77",
+      "title": "夠鐘食晏 2",
+      "start": "2026-07-03T18:00:00+08:00",
+      "end": "2026-07-03T18:30:00+08:00",
+      "description": "新蒲崗絕對是臥虎藏龍之地，其中包括一間海膽專門店，食材由世界各國供應，海膽菜式種類繁多。另外也有一間以貝果打響名堂的人氣烘培店，店內還有多款鹹甜麵包。同集還會介紹創意十足的素食料理，和極具心思的全日早餐。",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783072800000",
+      "channelId": "hoy-78",
+      "title": "手語新聞報道",
+      "start": "2026-07-03T18:00:00+08:00",
+      "end": "2026-07-03T18:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783074600000",
+      "channelId": "hoy-77",
+      "title": "白種元四季滋味",
+      "start": "2026-07-03T18:30:00+08:00",
+      "end": "2026-07-03T19:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783074600000",
+      "channelId": "hoy-78",
+      "title": "六點半新聞報道",
+      "start": "2026-07-03T18:30:00+08:00",
+      "end": "2026-07-03T18:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783075800000",
+      "channelId": "hoy-78",
+      "title": "焦點財經",
+      "start": "2026-07-03T18:50:00+08:00",
+      "end": "2026-07-03T19:00:00+08:00",
+      "description": "股市、樓市 環球財金焦點 央行動態、企業消息 全方位跟進",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783076400000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T19:00:00+08:00",
+      "end": "2026-07-03T19:25:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783076400000",
+      "channelId": "hoy-77",
+      "title": "7點直播室",
+      "start": "2026-07-03T19:00:00+08:00",
+      "end": "2026-07-03T19:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783076400000",
+      "channelId": "hoy-78",
+      "title": "7點直播室",
+      "start": "2026-07-03T19:00:00+08:00",
+      "end": "2026-07-03T19:50:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783077900000",
+      "channelId": "hoy-76",
+      "title": "FIBA世界盃男子籃球亞洲區資格賽-中國 對 日本",
+      "start": "2026-07-03T19:25:00+08:00",
+      "end": "2026-07-03T21:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783079400000",
+      "channelId": "hoy-77",
+      "title": "28Hse 搵樓App 特約 : 每日樓市",
+      "start": "2026-07-03T19:50:00+08:00",
+      "end": "2026-07-03T20:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783079400000",
+      "channelId": "hoy-78",
+      "title": "28Hse搵樓App特約 : 每日樓市",
+      "start": "2026-07-03T19:50:00+08:00",
+      "end": "2026-07-03T20:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783080000000",
+      "channelId": "hoy-77",
+      "title": "一線搜查",
+      "start": "2026-07-03T20:00:00+08:00",
+      "end": "2026-07-03T20:25:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783080000000",
+      "channelId": "hoy-78",
+      "title": "國際最前線",
+      "start": "2026-07-03T20:00:00+08:00",
+      "end": "2026-07-03T20:15:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783080900000",
+      "channelId": "hoy-78",
+      "title": "《香港國安法》公布實施6周年 保安局 呈獻 : 國安檔案解密",
+      "start": "2026-07-03T20:15:00+08:00",
+      "end": "2026-07-03T20:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783081500000",
+      "channelId": "hoy-77",
+      "title": "HOY AI 天氣預報",
+      "start": "2026-07-03T20:25:00+08:00",
+      "end": "2026-07-03T20:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783081800000",
+      "channelId": "hoy-77",
+      "title": "健康關注組",
+      "start": "2026-07-03T20:30:00+08:00",
+      "end": "2026-07-03T21:00:00+08:00",
+      "description": "妥瑞症是一種神經發展障礙，病徵是反覆、不由自主的肌肉抽搐與發聲，通常在4至6歲發病，發病率大約是兒童及青少年人口的1%，香港可能就有7,000名妥瑞症患者，如果是年紀較大發病，甚至會不能自控大聲粗言穢語，，今集就邀請精神科專科醫生與教育心理學家，一起",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783081800000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-03T20:30:00+08:00",
+      "end": "2026-07-03T21:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783083600000",
+      "channelId": "hoy-77",
+      "title": "詹姆士出走料理",
+      "start": "2026-07-03T21:00:00+08:00",
+      "end": "2026-07-03T21:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783083600000",
+      "channelId": "hoy-78",
+      "title": "晚間直播室",
+      "start": "2026-07-03T21:00:00+08:00",
+      "end": "2026-07-03T21:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783085400000",
+      "channelId": "hoy-76",
+      "title": "有線新聞",
+      "start": "2026-07-03T21:30:00+08:00",
+      "end": "2026-07-03T21:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783085400000",
+      "channelId": "hoy-77",
+      "title": "嫲嫲飯飯",
+      "start": "2026-07-03T21:30:00+08:00",
+      "end": "2026-07-03T21:55:00+08:00",
+      "description": "今集《嫲嫲飯飯》迎來星級嫲嫲戴蘊慧（真真），主持洪天明及劉沛蘅（Hillary）被真真的孫女Nara完全俘虜，跟她玩得興起，而真真就發揮烹飪的實力，為孫女炮製蒸鱈魚及BB版Tiramisu，吃得Nara津津有味！Nara遺傳了家族的唱歌天分，大開金口",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783086300000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T21:45:00+08:00",
+      "end": "2026-07-03T22:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783086300000",
+      "channelId": "hoy-78",
+      "title": "焦點財經及28Hse搵樓App特約:每日樓市",
+      "start": "2026-07-03T21:45:00+08:00",
+      "end": "2026-07-03T22:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783086900000",
+      "channelId": "hoy-77",
+      "title": "HOY AI 天氣預報",
+      "start": "2026-07-03T21:55:00+08:00",
+      "end": "2026-07-03T22:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783087200000",
+      "channelId": "hoy-76",
+      "title": "Bloomberg 時段",
+      "start": "2026-07-03T22:00:00+08:00",
+      "end": "2026-07-03T22:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783087200000",
+      "channelId": "hoy-77",
+      "title": "亞洲劇場 : 誰殺了她",
+      "start": "2026-07-03T22:00:00+08:00",
+      "end": "2026-07-03T23:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783087200000",
+      "channelId": "hoy-78",
+      "title": "家國天下",
+      "start": "2026-07-03T22:00:00+08:00",
+      "end": "2026-07-03T22:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783089000000",
+      "channelId": "hoy-76",
+      "title": "有線新聞",
+      "start": "2026-07-03T22:30:00+08:00",
+      "end": "2026-07-03T22:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783089000000",
+      "channelId": "hoy-78",
+      "title": "一線搜查",
+      "start": "2026-07-03T22:30:00+08:00",
+      "end": "2026-07-03T23:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783089900000",
+      "channelId": "hoy-76",
+      "title": "Green Touch",
+      "start": "2026-07-03T22:45:00+08:00",
+      "end": "2026-07-03T22:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1783090500000",
+      "channelId": "hoy-76",
+      "title": "FIBA U17 世界盃男子籃球賽半準決賽-立陶宛 對 塞爾維亞",
+      "start": "2026-07-03T22:55:00+08:00",
+      "end": "2026-07-04T00:55:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783090800000",
+      "channelId": "hoy-77",
+      "title": "有線新聞",
+      "start": "2026-07-03T23:00:00+08:00",
+      "end": "2026-07-03T23:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783090800000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T23:00:00+08:00",
+      "end": "2026-07-03T23:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783092600000",
+      "channelId": "hoy-77",
+      "title": "娛樂頭條 E-news Headline",
+      "start": "2026-07-03T23:30:00+08:00",
+      "end": "2026-07-03T23:45:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-78-1783092600000",
+      "channelId": "hoy-78",
+      "title": "有線新聞",
+      "start": "2026-07-03T23:30:00+08:00",
+      "end": "2026-07-04T00:00:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783093500000",
+      "channelId": "hoy-77",
+      "title": "晚安晚安",
+      "start": "2026-07-03T23:45:00+08:00",
+      "end": "2026-07-04T00:45:00+08:00",
+      "description": "夜晚，對孩子有種難以言喻的神秘魅力。童年時偷偷出夜街、在月色下奔跑嬉戲，那份興奮與忘我，總是一生難忘。正是這種自由玩，不是浪費時間，而是大腦發展的養分。玩樂中，孩子進入心流，獲得深層療癒；自訂規矩，鍛鍊前額葉；與同伴協作、冒險探索。成人也該打破常規，",
+      "source": "HOY"
+    }
+  ],
+  "sourceStatus": {
+    "TVB": true,
+    "HOY": true,
+    "港台": true,
+    "ViuTV": true
+  }
+}
