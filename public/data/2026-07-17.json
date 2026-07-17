@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-16T21:19:23.115Z",
+  "updatedAt": "2026-07-17T03:41:41.715Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1499,7 +1499,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T07:30:00+08:00",
       "end": "2026-07-17T07:35:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
@@ -1634,7 +1634,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T08:00:00+08:00",
       "end": "2026-07-17T08:05:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
@@ -2045,10 +2045,10 @@
     {
       "id": "rthk-32-1784253600000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "寰宇直播",
       "start": "2026-07-17T10:00:00+08:00",
-      "end": "2026-07-17T12:20:00+08:00",
-      "description": "生活．健康．資訊",
+      "end": "2026-07-17T10:06:00+08:00",
+      "description": "寰宇直播",
       "source": "港台"
     },
     {
@@ -2124,6 +2124,15 @@
       "source": "TVB"
     },
     {
+      "id": "rthk-32-1784253960000",
+      "channelId": "rthk-32",
+      "title": "寰宇直播",
+      "start": "2026-07-17T10:06:00+08:00",
+      "end": "2026-07-17T10:21:00+08:00",
+      "description": "寰宇直播",
+      "source": "港台"
+    },
+    {
       "id": "tvb-82-1784254200000",
       "channelId": "tvb-82",
       "title": "摩根大通特約 :通悉牛熊[粵]",
@@ -2140,6 +2149,15 @@
       "end": "2026-07-17T11:40:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1784254860000",
+      "channelId": "rthk-32",
+      "title": "寰宇直播",
+      "start": "2026-07-17T10:21:00+08:00",
+      "end": "2026-07-17T10:51:00+08:00",
+      "description": "寰宇直播",
+      "source": "港台"
     },
     {
       "id": "hoy-76-1784255400000",
@@ -2223,6 +2241,15 @@
       "source": "TVB"
     },
     {
+      "id": "rthk-32-1784256660000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-07-17T10:51:00+08:00",
+      "end": "2026-07-17T12:20:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1784256900000",
       "channelId": "rthk-31",
       "title": "政正關你事",
@@ -2273,7 +2300,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T11:00:00+08:00",
       "end": "2026-07-17T11:05:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
@@ -2345,7 +2372,7 @@
       "title": "香江暖流",
       "start": "2026-07-17T11:10:00+08:00",
       "end": "2026-07-17T12:00:00+08:00",
-      "description": "香江暖流",
+      "description": "香江暖流《Music Five》",
       "source": "港台"
     },
     {
@@ -2570,7 +2597,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T12:20:00+08:00",
       "end": "2026-07-17T12:25:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
@@ -4718,7 +4745,7 @@
     {
       "id": "viu-99-1784289600000",
       "channelId": "viu-99",
-      "title": "8點直樂 VIURIETY｜Play Hard Night",
+      "title": "8點直樂 VIURIETY｜Play Hard Night - 型男美女足球賽",
       "start": "2026-07-17T12:00:00.000Z",
       "end": "2026-07-17T13:30:00.000Z",
       "description": "",
@@ -4937,7 +4964,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T21:00:00+08:00",
       "end": "2026-07-17T21:05:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
@@ -5378,7 +5405,7 @@
       "title": "盛事傳城",
       "start": "2026-07-17T22:55:00+08:00",
       "end": "2026-07-17T23:00:00+08:00",
-      "description": "",
+      "description": "足球盛會；Wayne McGregor：異．地",
       "source": "港台"
     },
     {
