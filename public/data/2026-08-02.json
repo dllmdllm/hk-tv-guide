@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-07-19T21:09:45.990Z",
+  "updatedAt": "2026-07-20T04:08:07.227Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -536,7 +536,7 @@
       "title": "BobieLand",
       "start": "2026-08-02T08:05:00+08:00",
       "end": "2026-08-02T08:25:00+08:00",
-      "description": "",
+      "description": "第二百六十八集 -",
       "source": "港台"
     },
     {
@@ -545,7 +545,7 @@
       "title": "BobieLand",
       "start": "2026-08-02T08:25:00+08:00",
       "end": "2026-08-02T08:40:00+08:00",
-      "description": "",
+      "description": "第二百六十九集 -",
       "source": "港台"
     },
     {
@@ -572,7 +572,7 @@
       "title": "BobieLand",
       "start": "2026-08-02T08:40:00+08:00",
       "end": "2026-08-02T08:55:00+08:00",
-      "description": "",
+      "description": "第二百七十集 -",
       "source": "港台"
     },
     {
@@ -581,7 +581,7 @@
       "title": "BobieLand",
       "start": "2026-08-02T08:55:00+08:00",
       "end": "2026-08-02T09:10:00+08:00",
-      "description": "",
+      "description": "第二百七十一集 -",
       "source": "港台"
     },
     {
@@ -599,7 +599,7 @@
       "title": "BobieLand",
       "start": "2026-08-02T09:10:00+08:00",
       "end": "2026-08-02T09:30:00+08:00",
-      "description": "",
+      "description": "第二百七十二集 -",
       "source": "港台"
     },
     {
@@ -1445,7 +1445,7 @@
       "title": "國寶時刻 – 精裝版",
       "start": "2026-08-02T20:00:00+08:00",
       "end": "2026-08-02T20:25:00+08:00",
-      "description": "敬天禮地．對話神靈",
+      "description": "",
       "source": "港台"
     },
     {
