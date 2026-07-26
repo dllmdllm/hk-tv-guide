@@ -1,0 +1,2367 @@
+{
+  "date": "2026-08-08",
+  "updatedAt": "2026-07-26T17:19:13.785Z",
+  "channels": [
+    {
+      "id": "rthk-31",
+      "number": 31,
+      "name": "港台電視 31",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv31"
+    },
+    {
+      "id": "rthk-32",
+      "number": 32,
+      "name": "港台電視 32",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv32"
+    },
+    {
+      "id": "rthk-33",
+      "number": 33,
+      "name": "港台電視 33",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv33"
+    },
+    {
+      "id": "rthk-34",
+      "number": 34,
+      "name": "港台電視 34",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv34"
+    },
+    {
+      "id": "rthk-35",
+      "number": 35,
+      "name": "港台電視 35",
+      "operator": "港台",
+      "accent": "#31c48d",
+      "sourceUrl": "https://www.rthk.hk/timetable/tv35"
+    },
+    {
+      "id": "hoy-76",
+      "number": 76,
+      "name": "HOY 76",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-77",
+      "number": 77,
+      "name": "HOY 77",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "hoy-78",
+      "number": 78,
+      "name": "HOY 78",
+      "operator": "HOY",
+      "accent": "#ff9f43",
+      "sourceUrl": "https://hoy.tv/live"
+    },
+    {
+      "id": "tvb-81",
+      "number": 81,
+      "name": "翡翠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-82",
+      "number": 82,
+      "name": "TVB Plus",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-83",
+      "number": 83,
+      "name": "無綫新聞台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "tvb-84",
+      "number": 84,
+      "name": "明珠台",
+      "operator": "TVB",
+      "accent": "#36a3ff",
+      "sourceUrl": "https://programme.tvb.com/"
+    },
+    {
+      "id": "viu-96",
+      "number": 96,
+      "name": "ViuTVsix",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    },
+    {
+      "id": "viu-99",
+      "number": 99,
+      "name": "ViuTV",
+      "operator": "ViuTV",
+      "accent": "#ffd84d",
+      "sourceUrl": "https://viu.tv/epg"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "rthk-31-1786118400000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-08-08T00:00:00+08:00",
+      "end": "2026-08-08T00:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786118400000",
+      "channelId": "rthk-32",
+      "title": "時事脈動",
+      "start": "2026-08-08T00:00:00+08:00",
+      "end": "2026-08-08T00:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786118400000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T00:00:00+08:00",
+      "end": "2026-08-08T00:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786118400000",
+      "channelId": "rthk-34",
+      "title": "津門往事1",
+      "start": "2026-08-08T00:00:00+08:00",
+      "end": "2026-08-08T00:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786118400000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-08-08T00:00:00+08:00",
+      "end": "2026-08-08T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786118820000",
+      "channelId": "rthk-33",
+      "title": "動物世界",
+      "start": "2026-08-08T00:07:00+08:00",
+      "end": "2026-08-08T00:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786119000000",
+      "channelId": "rthk-32",
+      "title": "非凡香港",
+      "start": "2026-08-08T00:10:00+08:00",
+      "end": "2026-08-08T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786120200000",
+      "channelId": "rthk-31",
+      "title": "優遊記",
+      "start": "2026-08-08T00:30:00+08:00",
+      "end": "2026-08-08T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786120620000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T00:37:00+08:00",
+      "end": "2026-08-08T01:23:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786121760000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T00:56:00+08:00",
+      "end": "2026-08-08T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786122000000",
+      "channelId": "rthk-31",
+      "title": "老家伙",
+      "start": "2026-08-08T01:00:00+08:00",
+      "end": "2026-08-08T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786122000000",
+      "channelId": "rthk-32",
+      "title": "廣播道會客室",
+      "start": "2026-08-08T01:00:00+08:00",
+      "end": "2026-08-08T01:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786122000000",
+      "channelId": "rthk-34",
+      "title": "玩轉體育3",
+      "start": "2026-08-08T01:00:00+08:00",
+      "end": "2026-08-08T01:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786122000000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-08-08T01:00:00+08:00",
+      "end": "2026-08-08T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786123380000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T01:23:00+08:00",
+      "end": "2026-08-08T02:11:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786123620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T01:27:00+08:00",
+      "end": "2026-08-08T01:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786123800000",
+      "channelId": "rthk-32",
+      "title": "凝聚香港",
+      "start": "2026-08-08T01:30:00+08:00",
+      "end": "2026-08-08T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786123800000",
+      "channelId": "rthk-34",
+      "title": "尋古中國·尋夏記4",
+      "start": "2026-08-08T01:30:00+08:00",
+      "end": "2026-08-08T01:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786125420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T01:57:00+08:00",
+      "end": "2026-08-08T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786125600000",
+      "channelId": "rthk-31",
+      "title": "廣播道會客室",
+      "start": "2026-08-08T02:00:00+08:00",
+      "end": "2026-08-08T02:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786125600000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T02:00:00+08:00",
+      "end": "2026-08-08T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786125600000",
+      "channelId": "rthk-34",
+      "title": "廚房裡的桃花源1/2",
+      "start": "2026-08-08T02:00:00+08:00",
+      "end": "2026-08-08T02:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786125600000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-08-08T02:00:00+08:00",
+      "end": "2026-08-08T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786126260000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-08-08T02:11:00+08:00",
+      "end": "2026-08-08T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786127400000",
+      "channelId": "rthk-31",
+      "title": "狂飆",
+      "start": "2026-08-08T02:30:00+08:00",
+      "end": "2026-08-08T03:30:00+08:00",
+      "description": "第二十五集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786128960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T02:56:00+08:00",
+      "end": "2026-08-08T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786129200000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T03:00:00+08:00",
+      "end": "2026-08-08T03:46:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786129200000",
+      "channelId": "rthk-34",
+      "title": "自從有了你7/Z世代青年說第二季1",
+      "start": "2026-08-08T03:00:00+08:00",
+      "end": "2026-08-08T03:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786129200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T03:00:00+08:00",
+      "end": "2026-08-08T03:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786130820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T03:27:00+08:00",
+      "end": "2026-08-08T03:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786131000000",
+      "channelId": "rthk-31",
+      "title": "無所畏懼之永不放棄",
+      "start": "2026-08-08T03:30:00+08:00",
+      "end": "2026-08-08T04:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786131000000",
+      "channelId": "rthk-34",
+      "title": "橋“見”中越/中國微名片第二季2/萬家燈火璀璨夜2",
+      "start": "2026-08-08T03:30:00+08:00",
+      "end": "2026-08-08T03:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786131000000",
+      "channelId": "rthk-35",
+      "title": "World Insight with Tian Wei",
+      "start": "2026-08-08T03:30:00+08:00",
+      "end": "2026-08-08T04:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786131960000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T03:46:00+08:00",
+      "end": "2026-08-08T04:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786132620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T03:57:00+08:00",
+      "end": "2026-08-08T04:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786132800000",
+      "channelId": "rthk-34",
+      "title": "文運中國3/田野傳奇3",
+      "start": "2026-08-08T04:00:00+08:00",
+      "end": "2026-08-08T04:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786132800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T04:00:00+08:00",
+      "end": "2026-08-08T04:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786134600000",
+      "channelId": "rthk-31",
+      "title": "31看世界 - 養貓的人",
+      "start": "2026-08-08T04:30:00+08:00",
+      "end": "2026-08-08T05:30:00+08:00",
+      "description": "第六集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786134600000",
+      "channelId": "rthk-35",
+      "title": "Dialogue",
+      "start": "2026-08-08T04:30:00+08:00",
+      "end": "2026-08-08T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786134720000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-08-08T04:32:00+08:00",
+      "end": "2026-08-08T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786136160000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T04:56:00+08:00",
+      "end": "2026-08-08T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786136400000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-08-08T05:00:00+08:00",
+      "end": "2026-08-08T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786136400000",
+      "channelId": "rthk-34",
+      "title": "記住鄉愁第9季·三山",
+      "start": "2026-08-08T05:00:00+08:00",
+      "end": "2026-08-08T05:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786136400000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-08-08T05:00:00+08:00",
+      "end": "2026-08-08T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786138020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T05:27:00+08:00",
+      "end": "2026-08-08T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786138200000",
+      "channelId": "rthk-31",
+      "title": "優遊記",
+      "start": "2026-08-08T05:30:00+08:00",
+      "end": "2026-08-08T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786138200000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-08-08T05:30:00+08:00",
+      "end": "2026-08-08T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786138200000",
+      "channelId": "rthk-34",
+      "title": "鍛鍊吧5",
+      "start": "2026-08-08T05:30:00+08:00",
+      "end": "2026-08-08T05:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786138200000",
+      "channelId": "rthk-35",
+      "title": "The Point with Liu Xin",
+      "start": "2026-08-08T05:30:00+08:00",
+      "end": "2026-08-08T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786139820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T05:57:00+08:00",
+      "end": "2026-08-08T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786140000000",
+      "channelId": "rthk-31",
+      "title": "凝聚香港",
+      "start": "2026-08-08T06:00:00+08:00",
+      "end": "2026-08-08T06:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786140000000",
+      "channelId": "rthk-33",
+      "title": "朝聞天下",
+      "start": "2026-08-08T06:00:00+08:00",
+      "end": "2026-08-08T08:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786140000000",
+      "channelId": "rthk-34",
+      "title": "津門往事2",
+      "start": "2026-08-08T06:00:00+08:00",
+      "end": "2026-08-08T06:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786140000000",
+      "channelId": "rthk-35",
+      "title": "Americas Now",
+      "start": "2026-08-08T06:00:00+08:00",
+      "end": "2026-08-08T07:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786141800000",
+      "channelId": "rthk-31",
+      "title": "BobieLand",
+      "start": "2026-08-08T06:30:00+08:00",
+      "end": "2026-08-08T06:45:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786142700000",
+      "channelId": "rthk-31",
+      "title": "奀菇菇搞搞震 2",
+      "start": "2026-08-08T06:45:00+08:00",
+      "end": "2026-08-08T07:00:00+08:00",
+      "description": "新褲仔賜我力量",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786143360000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T06:56:00+08:00",
+      "end": "2026-08-08T07:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786143600000",
+      "channelId": "rthk-31",
+      "title": "小農夫大作物 新一彈",
+      "start": "2026-08-08T07:00:00+08:00",
+      "end": "2026-08-08T07:30:00+08:00",
+      "description": "不可或缺的小麥",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786143600000",
+      "channelId": "rthk-34",
+      "title": "玩轉體育4",
+      "start": "2026-08-08T07:00:00+08:00",
+      "end": "2026-08-08T07:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786143600000",
+      "channelId": "rthk-35",
+      "title": "The Heat",
+      "start": "2026-08-08T07:00:00+08:00",
+      "end": "2026-08-08T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786145220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T07:27:00+08:00",
+      "end": "2026-08-08T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786145400000",
+      "channelId": "rthk-31",
+      "title": "灣區全媒睇",
+      "start": "2026-08-08T07:30:00+08:00",
+      "end": "2026-08-08T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786145400000",
+      "channelId": "rthk-32",
+      "title": "盛事傳城",
+      "start": "2026-08-08T07:30:00+08:00",
+      "end": "2026-08-08T07:35:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786145400000",
+      "channelId": "rthk-34",
+      "title": "尋古中國·尋夏記5",
+      "start": "2026-08-08T07:30:00+08:00",
+      "end": "2026-08-08T07:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786145400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T07:30:00+08:00",
+      "end": "2026-08-08T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786145700000",
+      "channelId": "rthk-32",
+      "title": "政正關你事 - 官員講話摘要",
+      "start": "2026-08-08T07:35:00+08:00",
+      "end": "2026-08-08T07:40:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786146000000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T07:40:00+08:00",
+      "end": "2026-08-08T08:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786147020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T07:57:00+08:00",
+      "end": "2026-08-08T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786147200000",
+      "channelId": "rthk-31",
+      "title": "盛事傳城",
+      "start": "2026-08-08T08:00:00+08:00",
+      "end": "2026-08-08T08:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786147200000",
+      "channelId": "rthk-34",
+      "title": "廚房裡的桃花源3/4",
+      "start": "2026-08-08T08:00:00+08:00",
+      "end": "2026-08-08T08:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786147200000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-08-08T08:00:00+08:00",
+      "end": "2026-08-08T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786147500000",
+      "channelId": "rthk-31",
+      "title": "星期六問責",
+      "start": "2026-08-08T08:05:00+08:00",
+      "end": "2026-08-08T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786147500000",
+      "channelId": "rthk-32",
+      "title": "星期六問責",
+      "start": "2026-08-08T08:05:00+08:00",
+      "end": "2026-08-08T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786149120000",
+      "channelId": "rthk-33",
+      "title": "生活圈",
+      "start": "2026-08-08T08:32:00+08:00",
+      "end": "2026-08-08T09:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786150560000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T08:56:00+08:00",
+      "end": "2026-08-08T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786150800000",
+      "channelId": "rthk-31",
+      "title": "鏗鏘集",
+      "start": "2026-08-08T09:00:00+08:00",
+      "end": "2026-08-08T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786150800000",
+      "channelId": "rthk-32",
+      "title": "時事摘錄",
+      "start": "2026-08-08T09:00:00+08:00",
+      "end": "2026-08-08T09:30:00+08:00",
+      "description": "時事摘錄",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786150800000",
+      "channelId": "rthk-34",
+      "title": "達萬的中國式社區體驗/Z世代青年說第二季2",
+      "start": "2026-08-08T09:00:00+08:00",
+      "end": "2026-08-08T09:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786150800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T09:00:00+08:00",
+      "end": "2026-08-08T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786151700000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T09:15:00+08:00",
+      "end": "2026-08-08T10:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786152420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T09:27:00+08:00",
+      "end": "2026-08-08T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786152600000",
+      "channelId": "rthk-31",
+      "title": "非凡香港",
+      "start": "2026-08-08T09:30:00+08:00",
+      "end": "2026-08-08T10:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786152600000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T09:30:00+08:00",
+      "end": "2026-08-08T09:35:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786152600000",
+      "channelId": "rthk-34",
+      "title": "茶問顧渚/中國微名片第二季3/萬家燈火璀璨夜3",
+      "start": "2026-08-08T09:30:00+08:00",
+      "end": "2026-08-08T09:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786152600000",
+      "channelId": "rthk-35",
+      "title": "China 24",
+      "start": "2026-08-08T09:30:00+08:00",
+      "end": "2026-08-08T10:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786152900000",
+      "channelId": "rthk-32",
+      "title": "理財新世代",
+      "start": "2026-08-08T09:35:00+08:00",
+      "end": "2026-08-08T10:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786154220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T09:57:00+08:00",
+      "end": "2026-08-08T10:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786154400000",
+      "channelId": "rthk-34",
+      "title": "文運中國3/田野傳奇3",
+      "start": "2026-08-08T10:00:00+08:00",
+      "end": "2026-08-08T10:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786154400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T10:00:00+08:00",
+      "end": "2026-08-08T10:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786154460000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T10:01:00+08:00",
+      "end": "2026-08-08T10:47:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786156200000",
+      "channelId": "rthk-31",
+      "title": "談天．說地圖",
+      "start": "2026-08-08T10:30:00+08:00",
+      "end": "2026-08-08T10:55:00+08:00",
+      "description": "香港航空攝影測量100年",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786156200000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T10:30:00+08:00",
+      "end": "2026-08-08T10:35:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786156200000",
+      "channelId": "rthk-35",
+      "title": "World Insight with Tian Wei",
+      "start": "2026-08-08T10:30:00+08:00",
+      "end": "2026-08-08T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786156500000",
+      "channelId": "rthk-32",
+      "title": "凝聚香港",
+      "start": "2026-08-08T10:35:00+08:00",
+      "end": "2026-08-08T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786157220000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T10:47:00+08:00",
+      "end": "2026-08-08T11:33:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786157700000",
+      "channelId": "rthk-31",
+      "title": "政正關你事 - 官員講話摘要",
+      "start": "2026-08-08T10:55:00+08:00",
+      "end": "2026-08-08T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786157760000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T10:56:00+08:00",
+      "end": "2026-08-08T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786158000000",
+      "channelId": "rthk-31",
+      "title": "香港故事:尾巴會說話(英文版)",
+      "start": "2026-08-08T11:00:00+08:00",
+      "end": "2026-08-08T11:25:00+08:00",
+      "description": "毛孩的生命規劃",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786158000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T11:00:00+08:00",
+      "end": "2026-08-08T11:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786158000000",
+      "channelId": "rthk-34",
+      "title": "記住鄉愁第9季·三山",
+      "start": "2026-08-08T11:00:00+08:00",
+      "end": "2026-08-08T11:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786158000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T11:00:00+08:00",
+      "end": "2026-08-08T11:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786158420000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T11:07:00+08:00",
+      "end": "2026-08-08T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786158900000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-08-08T11:15:00+08:00",
+      "end": "2026-08-08T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786159500000",
+      "channelId": "rthk-31",
+      "title": "照亮你",
+      "start": "2026-08-08T11:25:00+08:00",
+      "end": "2026-08-08T12:10:00+08:00",
+      "description": "第十二集：一次主動的進攻",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786159620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T11:27:00+08:00",
+      "end": "2026-08-08T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786159800000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T11:30:00+08:00",
+      "end": "2026-08-08T11:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786159800000",
+      "channelId": "rthk-34",
+      "title": "鍛鍊吧5",
+      "start": "2026-08-08T11:30:00+08:00",
+      "end": "2026-08-08T11:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786159800000",
+      "channelId": "rthk-35",
+      "title": "Travelogue",
+      "start": "2026-08-08T11:30:00+08:00",
+      "end": "2026-08-08T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786159980000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-08-08T11:33:00+08:00",
+      "end": "2026-08-08T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786160220000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T11:37:00+08:00",
+      "end": "2026-08-08T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786161420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T11:57:00+08:00",
+      "end": "2026-08-08T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786161600000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T12:00:00+08:00",
+      "end": "2026-08-08T12:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786161600000",
+      "channelId": "rthk-33",
+      "title": "新聞30分",
+      "start": "2026-08-08T12:00:00+08:00",
+      "end": "2026-08-08T12:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786161600000",
+      "channelId": "rthk-34",
+      "title": "津門往事2",
+      "start": "2026-08-08T12:00:00+08:00",
+      "end": "2026-08-08T12:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786161600000",
+      "channelId": "rthk-35",
+      "title": "Global Watch",
+      "start": "2026-08-08T12:00:00+08:00",
+      "end": "2026-08-08T13:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786162020000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T12:07:00+08:00",
+      "end": "2026-08-08T12:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786162200000",
+      "channelId": "rthk-31",
+      "title": "照亮你",
+      "start": "2026-08-08T12:10:00+08:00",
+      "end": "2026-08-08T13:00:00+08:00",
+      "description": "第十三集: 靳時川表明心跡",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786163400000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T12:30:00+08:00",
+      "end": "2026-08-08T12:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786163520000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-08-08T12:32:00+08:00",
+      "end": "2026-08-08T13:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786163820000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T12:37:00+08:00",
+      "end": "2026-08-08T13:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786164960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T12:56:00+08:00",
+      "end": "2026-08-08T13:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786165200000",
+      "channelId": "rthk-31",
+      "title": "新聞簡報",
+      "start": "2026-08-08T13:00:00+08:00",
+      "end": "2026-08-08T13:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786165200000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T13:00:00+08:00",
+      "end": "2026-08-08T13:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786165200000",
+      "channelId": "rthk-34",
+      "title": "玩轉體育4",
+      "start": "2026-08-08T13:00:00+08:00",
+      "end": "2026-08-08T13:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786165200000",
+      "channelId": "rthk-35",
+      "title": "Big Story",
+      "start": "2026-08-08T13:00:00+08:00",
+      "end": "2026-08-08T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786165260000",
+      "channelId": "rthk-33",
+      "title": "動物世界",
+      "start": "2026-08-08T13:01:00+08:00",
+      "end": "2026-08-08T13:33:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786165620000",
+      "channelId": "rthk-31",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T13:07:00+08:00",
+      "end": "2026-08-08T13:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786165620000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T13:07:00+08:00",
+      "end": "2026-08-08T13:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786165800000",
+      "channelId": "rthk-31",
+      "title": "學人沙龍",
+      "start": "2026-08-08T13:10:00+08:00",
+      "end": "2026-08-08T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786166820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T13:27:00+08:00",
+      "end": "2026-08-08T13:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786167000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T13:30:00+08:00",
+      "end": "2026-08-08T13:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786167000000",
+      "channelId": "rthk-34",
+      "title": "尋古中國·尋夏記5",
+      "start": "2026-08-08T13:30:00+08:00",
+      "end": "2026-08-08T13:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786167180000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T13:33:00+08:00",
+      "end": "2026-08-08T14:19:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786167420000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T13:37:00+08:00",
+      "end": "2026-08-08T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786168620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T13:57:00+08:00",
+      "end": "2026-08-08T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786168800000",
+      "channelId": "rthk-31",
+      "title": "政正關你事 - 官員講話摘要",
+      "start": "2026-08-08T14:00:00+08:00",
+      "end": "2026-08-08T14:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786168800000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T14:00:00+08:00",
+      "end": "2026-08-08T14:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786168800000",
+      "channelId": "rthk-34",
+      "title": "廚房裡的桃花源3/4",
+      "start": "2026-08-08T14:00:00+08:00",
+      "end": "2026-08-08T14:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786168800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T14:00:00+08:00",
+      "end": "2026-08-08T14:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786169100000",
+      "channelId": "rthk-31",
+      "title": "時事摘錄",
+      "start": "2026-08-08T14:05:00+08:00",
+      "end": "2026-08-08T14:30:00+08:00",
+      "description": "時事摘錄",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786169220000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T14:07:00+08:00",
+      "end": "2026-08-08T14:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786169940000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T14:19:00+08:00",
+      "end": "2026-08-08T15:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786170600000",
+      "channelId": "rthk-31",
+      "title": "31看世界 - 極致新疆",
+      "start": "2026-08-08T14:30:00+08:00",
+      "end": "2026-08-08T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786170600000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T14:30:00+08:00",
+      "end": "2026-08-08T14:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786170600000",
+      "channelId": "rthk-35",
+      "title": "The Heat",
+      "start": "2026-08-08T14:30:00+08:00",
+      "end": "2026-08-08T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786171020000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T14:37:00+08:00",
+      "end": "2026-08-08T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786172160000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T14:56:00+08:00",
+      "end": "2026-08-08T15:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786172400000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T15:00:00+08:00",
+      "end": "2026-08-08T15:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786172400000",
+      "channelId": "rthk-34",
+      "title": "達萬的中國式社區體驗/Z世代青年說第二季2",
+      "start": "2026-08-08T15:00:00+08:00",
+      "end": "2026-08-08T15:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786172400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T15:00:00+08:00",
+      "end": "2026-08-08T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786172700000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T15:05:00+08:00",
+      "end": "2026-08-08T15:51:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786172820000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T15:07:00+08:00",
+      "end": "2026-08-08T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786174020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T15:27:00+08:00",
+      "end": "2026-08-08T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786174200000",
+      "channelId": "rthk-31",
+      "title": "演藝盛薈．開放舞台：大灣區青年管弦樂團首演音樂會",
+      "start": "2026-08-08T15:30:00+08:00",
+      "end": "2026-08-08T17:45:00+08:00",
+      "description": "演藝盛薈．開放舞台：大灣區青年管弦樂團首演音樂會",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786174200000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T15:30:00+08:00",
+      "end": "2026-08-08T15:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786174200000",
+      "channelId": "rthk-34",
+      "title": "茶問顧渚/中國微名片第二季3/萬家燈火璀璨夜3",
+      "start": "2026-08-08T15:30:00+08:00",
+      "end": "2026-08-08T15:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786174200000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-08-08T15:30:00+08:00",
+      "end": "2026-08-08T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786174620000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T15:37:00+08:00",
+      "end": "2026-08-08T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786175460000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T15:51:00+08:00",
+      "end": "2026-08-08T16:39:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786175820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T15:57:00+08:00",
+      "end": "2026-08-08T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786176000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T16:00:00+08:00",
+      "end": "2026-08-08T16:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786176000000",
+      "channelId": "rthk-34",
+      "title": "文運中國3/田野傳奇3",
+      "start": "2026-08-08T16:00:00+08:00",
+      "end": "2026-08-08T16:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786176000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T16:00:00+08:00",
+      "end": "2026-08-08T16:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786176420000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T16:07:00+08:00",
+      "end": "2026-08-08T16:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786177800000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T16:30:00+08:00",
+      "end": "2026-08-08T16:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786177800000",
+      "channelId": "rthk-35",
+      "title": "Biz Talk",
+      "start": "2026-08-08T16:30:00+08:00",
+      "end": "2026-08-08T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786178220000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T16:37:00+08:00",
+      "end": "2026-08-08T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786178340000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-08-08T16:39:00+08:00",
+      "end": "2026-08-08T17:08:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786179360000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T16:56:00+08:00",
+      "end": "2026-08-08T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786179600000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T17:00:00+08:00",
+      "end": "2026-08-08T17:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786179600000",
+      "channelId": "rthk-34",
+      "title": "記住鄉愁第9季·三山",
+      "start": "2026-08-08T17:00:00+08:00",
+      "end": "2026-08-08T17:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786179600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T17:00:00+08:00",
+      "end": "2026-08-08T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786180020000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T17:07:00+08:00",
+      "end": "2026-08-08T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786180080000",
+      "channelId": "rthk-33",
+      "title": "第一動畫樂園",
+      "start": "2026-08-08T17:08:00+08:00",
+      "end": "2026-08-08T18:08:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786181220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T17:27:00+08:00",
+      "end": "2026-08-08T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786181400000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T17:30:00+08:00",
+      "end": "2026-08-08T17:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786181400000",
+      "channelId": "rthk-34",
+      "title": "鍛鍊吧5",
+      "start": "2026-08-08T17:30:00+08:00",
+      "end": "2026-08-08T17:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786181400000",
+      "channelId": "rthk-35",
+      "title": "Inheritors",
+      "start": "2026-08-08T17:30:00+08:00",
+      "end": "2026-08-08T18:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786181820000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T17:37:00+08:00",
+      "end": "2026-08-08T18:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786182300000",
+      "channelId": "rthk-31",
+      "title": "藝坊現場表演",
+      "start": "2026-08-08T17:45:00+08:00",
+      "end": "2026-08-08T18:00:00+08:00",
+      "description": "藝坊現場表演#21",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786183020000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T17:57:00+08:00",
+      "end": "2026-08-08T18:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786183200000",
+      "channelId": "rthk-31",
+      "title": "港樂 • 講樂",
+      "start": "2026-08-08T18:00:00+08:00",
+      "end": "2026-08-08T18:30:00+08:00",
+      "description": "第159集：IdG Sundae、范卓賢",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786183200000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T18:00:00+08:00",
+      "end": "2026-08-08T18:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786183200000",
+      "channelId": "rthk-34",
+      "title": "津門往事2",
+      "start": "2026-08-08T18:00:00+08:00",
+      "end": "2026-08-08T18:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786183200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T18:00:00+08:00",
+      "end": "2026-08-08T18:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786183620000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T18:07:00+08:00",
+      "end": "2026-08-08T18:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786183680000",
+      "channelId": "rthk-33",
+      "title": "國際藝苑",
+      "start": "2026-08-08T18:08:00+08:00",
+      "end": "2026-08-08T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786184100000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-08-08T18:15:00+08:00",
+      "end": "2026-08-08T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786185000000",
+      "channelId": "rthk-31",
+      "title": "體壇快閃",
+      "start": "2026-08-08T18:30:00+08:00",
+      "end": "2026-08-08T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786185000000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-08T18:30:00+08:00",
+      "end": "2026-08-08T18:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786185420000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T18:37:00+08:00",
+      "end": "2026-08-08T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786186560000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T18:56:00+08:00",
+      "end": "2026-08-08T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786186800000",
+      "channelId": "rthk-31",
+      "title": "新聞天地",
+      "start": "2026-08-08T19:00:00+08:00",
+      "end": "2026-08-08T19:15:00+08:00",
+      "description": "20260808",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786186800000",
+      "channelId": "rthk-32",
+      "title": "新聞天地",
+      "start": "2026-08-08T19:00:00+08:00",
+      "end": "2026-08-08T19:15:00+08:00",
+      "description": "20260808",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786186800000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-08-08T19:00:00+08:00",
+      "end": "2026-08-08T19:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786186800000",
+      "channelId": "rthk-34",
+      "title": "玩轉體育4",
+      "start": "2026-08-08T19:00:00+08:00",
+      "end": "2026-08-08T19:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786186800000",
+      "channelId": "rthk-35",
+      "title": "Asia Today",
+      "start": "2026-08-08T19:00:00+08:00",
+      "end": "2026-08-08T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786187700000",
+      "channelId": "rthk-31",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T19:15:00+08:00",
+      "end": "2026-08-08T19:20:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786187700000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T19:15:00+08:00",
+      "end": "2026-08-08T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786188000000",
+      "channelId": "rthk-31",
+      "title": "盛事傳城",
+      "start": "2026-08-08T19:20:00+08:00",
+      "end": "2026-08-08T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786188420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T19:27:00+08:00",
+      "end": "2026-08-08T19:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786188600000",
+      "channelId": "rthk-31",
+      "title": "大自然零距離 2",
+      "start": "2026-08-08T19:30:00+08:00",
+      "end": "2026-08-08T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786188600000",
+      "channelId": "rthk-32",
+      "title": "雙城聯動",
+      "start": "2026-08-08T19:30:00+08:00",
+      "end": "2026-08-08T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786188600000",
+      "channelId": "rthk-34",
+      "title": "尋古中國·尋夏記5",
+      "start": "2026-08-08T19:30:00+08:00",
+      "end": "2026-08-08T19:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786188600000",
+      "channelId": "rthk-35",
+      "title": "Leaders Talk",
+      "start": "2026-08-08T19:30:00+08:00",
+      "end": "2026-08-08T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786188720000",
+      "channelId": "rthk-33",
+      "title": "天氣預報",
+      "start": "2026-08-08T19:32:00+08:00",
+      "end": "2026-08-08T19:40:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786189200000",
+      "channelId": "rthk-33",
+      "title": "特別節目",
+      "start": "2026-08-08T19:40:00+08:00",
+      "end": "2026-08-08T20:28:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786190220000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T19:57:00+08:00",
+      "end": "2026-08-08T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786190400000",
+      "channelId": "rthk-31",
+      "title": "醫生與你 - 醫學．人 2026",
+      "start": "2026-08-08T20:00:00+08:00",
+      "end": "2026-08-08T20:25:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786190400000",
+      "channelId": "rthk-32",
+      "title": "晚間新聞",
+      "start": "2026-08-08T20:00:00+08:00",
+      "end": "2026-08-08T20:10:00+08:00",
+      "description": "晚間新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786190400000",
+      "channelId": "rthk-34",
+      "title": "廚房裡的桃花源3/4",
+      "start": "2026-08-08T20:00:00+08:00",
+      "end": "2026-08-08T20:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786190400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T20:00:00+08:00",
+      "end": "2026-08-08T20:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786191000000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T20:10:00+08:00",
+      "end": "2026-08-08T20:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786191300000",
+      "channelId": "rthk-32",
+      "title": "盛事傳城",
+      "start": "2026-08-08T20:15:00+08:00",
+      "end": "2026-08-08T20:20:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786191300000",
+      "channelId": "rthk-35",
+      "title": "China 24",
+      "start": "2026-08-08T20:15:00+08:00",
+      "end": "2026-08-08T21:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786191600000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T20:20:00+08:00",
+      "end": "2026-08-08T20:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786191900000",
+      "channelId": "rthk-31",
+      "title": "政正關你事 - 為人民服務",
+      "start": "2026-08-08T20:25:00+08:00",
+      "end": "2026-08-08T20:30:00+08:00",
+      "description": "為人民服務 - 民航處 - 航空教育徑",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786192080000",
+      "channelId": "rthk-33",
+      "title": "特別節目",
+      "start": "2026-08-08T20:28:00+08:00",
+      "end": "2026-08-08T21:18:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786192200000",
+      "channelId": "rthk-31",
+      "title": "命懸一生",
+      "start": "2026-08-08T20:30:00+08:00",
+      "end": "2026-08-08T21:25:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786192200000",
+      "channelId": "rthk-32",
+      "title": "時事摘錄",
+      "start": "2026-08-08T20:30:00+08:00",
+      "end": "2026-08-08T21:00:00+08:00",
+      "description": "時事摘錄",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786193760000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T20:56:00+08:00",
+      "end": "2026-08-08T21:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786194000000",
+      "channelId": "rthk-32",
+      "title": "星期六問責",
+      "start": "2026-08-08T21:00:00+08:00",
+      "end": "2026-08-08T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786194000000",
+      "channelId": "rthk-34",
+      "title": "達萬的中國式社區體驗/Z世代青年說第二季2",
+      "start": "2026-08-08T21:00:00+08:00",
+      "end": "2026-08-08T21:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786194000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T21:00:00+08:00",
+      "end": "2026-08-08T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786195080000",
+      "channelId": "rthk-33",
+      "title": "焦點訪談",
+      "start": "2026-08-08T21:18:00+08:00",
+      "end": "2026-08-08T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786195500000",
+      "channelId": "rthk-31",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T21:25:00+08:00",
+      "end": "2026-08-08T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786195620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T21:27:00+08:00",
+      "end": "2026-08-08T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786195800000",
+      "channelId": "rthk-31",
+      "title": "周末大電影：單身男女",
+      "start": "2026-08-08T21:30:00+08:00",
+      "end": "2026-08-08T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786195800000",
+      "channelId": "rthk-34",
+      "title": "茶問顧渚/中國微名片第二季3/萬家燈火璀璨夜3",
+      "start": "2026-08-08T21:30:00+08:00",
+      "end": "2026-08-08T21:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786195800000",
+      "channelId": "rthk-35",
+      "title": "Biz Talk",
+      "start": "2026-08-08T21:30:00+08:00",
+      "end": "2026-08-08T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786197420000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T21:57:00+08:00",
+      "end": "2026-08-08T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786197600000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T22:00:00+08:00",
+      "end": "2026-08-08T22:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786197600000",
+      "channelId": "rthk-33",
+      "title": "晚間新聞",
+      "start": "2026-08-08T22:00:00+08:00",
+      "end": "2026-08-08T22:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786197600000",
+      "channelId": "rthk-34",
+      "title": "文運中國3/田野傳奇3",
+      "start": "2026-08-08T22:00:00+08:00",
+      "end": "2026-08-08T22:56:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786197600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T22:00:00+08:00",
+      "end": "2026-08-08T22:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786197900000",
+      "channelId": "rthk-32",
+      "title": "理財新世代",
+      "start": "2026-08-08T22:05:00+08:00",
+      "end": "2026-08-08T23:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786199400000",
+      "channelId": "rthk-35",
+      "title": "Assignment Asia",
+      "start": "2026-08-08T22:30:00+08:00",
+      "end": "2026-08-08T23:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786199520000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T22:32:00+08:00",
+      "end": "2026-08-08T23:20:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786200960000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T22:56:00+08:00",
+      "end": "2026-08-08T23:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786201200000",
+      "channelId": "rthk-32",
+      "title": "雙城聯動",
+      "start": "2026-08-08T23:00:00+08:00",
+      "end": "2026-08-08T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786201200000",
+      "channelId": "rthk-34",
+      "title": "記住鄉愁第9季·三山",
+      "start": "2026-08-08T23:00:00+08:00",
+      "end": "2026-08-08T23:27:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786201200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-08-08T23:00:00+08:00",
+      "end": "2026-08-08T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1786202400000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-08-08T23:20:00+08:00",
+      "end": "2026-08-09T00:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786202820000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T23:27:00+08:00",
+      "end": "2026-08-08T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-31-1786203000000",
+      "channelId": "rthk-31",
+      "title": "醫生與你",
+      "start": "2026-08-08T23:30:00+08:00",
+      "end": "2026-08-09T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1786203000000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊．體育．港式速遞",
+      "start": "2026-08-08T23:30:00+08:00",
+      "end": "2026-08-09T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786203000000",
+      "channelId": "rthk-34",
+      "title": "鍛鍊吧5",
+      "start": "2026-08-08T23:30:00+08:00",
+      "end": "2026-08-08T23:57:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1786203000000",
+      "channelId": "rthk-35",
+      "title": "Inheritors",
+      "start": "2026-08-08T23:30:00+08:00",
+      "end": "2026-08-09T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-34-1786204620000",
+      "channelId": "rthk-34",
+      "title": "頻道導視(英)",
+      "start": "2026-08-08T23:57:00+08:00",
+      "end": "2026-08-09T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    }
+  ],
+  "sourceStatus": {
+    "TVB": true,
+    "HOY": true,
+    "港台": true,
+    "ViuTV": true
+  }
+}
