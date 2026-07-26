@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-07-25T21:11:11.259Z",
+  "updatedAt": "2026-07-26T03:59:08.219Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5355,6 +5355,15 @@
       "source": "ViuTV"
     },
     {
+      "id": "viu-99-1785597300000",
+      "channelId": "viu-99",
+      "title": "拜託了冰箱｜趙祐鎮、朴智煥 (I)",
+      "start": "2026-08-01T15:15:00.000Z",
+      "end": "2026-08-01T16:15:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1785597600000",
       "channelId": "rthk-31",
       "title": "盛事傳城",
@@ -5470,6 +5479,15 @@
       "end": "2026-08-02T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1785598200000",
+      "channelId": "viu-96",
+      "title": "謎離檔案室｜Mysterious Monsters",
+      "start": "2026-08-01T15:30:00.000Z",
+      "end": "2026-08-01T16:20:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1785598500000",
