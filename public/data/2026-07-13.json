@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-26T21:13:25.080Z",
+  "updatedAt": "2026-07-27T04:06:25.624Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1237,6 +1237,6 @@
     "TVB": true,
     "HOY": true,
     "港台": true,
-    "ViuTV": true
+    "ViuTV": false
   }
 }
