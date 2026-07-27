@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "updatedAt": "2026-07-27T04:06:25.624Z",
+  "updatedAt": "2026-07-27T07:55:14.948Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1730,10 +1730,10 @@
     {
       "id": "rthk-31-1785826200000",
       "channelId": "rthk-31",
-      "title": "生活．健康．資訊．體育．港式速遞",
+      "title": "我是刑警",
       "start": "2026-08-04T14:50:00+08:00",
       "end": "2026-08-04T15:40:00+08:00",
-      "description": "",
+      "description": "第一集：秦川到職遇上西山礦大案",
       "source": "港台"
     },
     {
@@ -2713,6 +2713,6 @@
     "TVB": true,
     "HOY": true,
     "港台": true,
-    "ViuTV": false
+    "ViuTV": true
   }
 }
