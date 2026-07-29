@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:34:11.084Z",
+  "updatedAt": "2026-07-29T17:41:10.518Z",
   "dates": [
     "2026-07-01",
     "2026-07-02",
@@ -43,6 +43,6 @@
     "2026-08-09"
   ],
   "errors": [
-    "TVB: 504 https://content-api.mytvsuper.com/v1/epg?epg_platform=web&country_code=HK&network_code=C&from=20260728&to=20260805"
+    "ViuTV: 404 https://viu.tv/epg/99"
   ]
 }
