@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-28T21:34:20.872Z",
+  "updatedAt": "2026-07-29T03:44:36.689Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -189,15 +189,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-96-1785168900000",
-      "channelId": "viu-96",
-      "title": "花園廚房大比拼",
-      "start": "2026-07-27T16:15:00.000Z",
-      "end": "2026-07-27T16:45:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-76-1785169800000",
       "channelId": "hoy-76",
       "title": "小空間大活用 3",
@@ -225,15 +216,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-99-1785169800000",
-      "channelId": "viu-99",
-      "title": "入島日本喇 !｜跟前島民參觀軍艦島",
-      "start": "2026-07-27T16:30:00.000Z",
-      "end": "2026-07-27T17:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1785170100000",
       "channelId": "rthk-32",
       "title": "廣東話去旅行 -- 唐代建築篇 (英文版)",
@@ -250,15 +232,6 @@
       "end": "2026-07-28T01:15:00+08:00",
       "description": "順德名菜\"拆魚羹\"相信大家未食過也應該聽過, 這道手工菜很費時費神, Jacky 想出一個偷懶方法, 用很受香港人歡迎、營養又豐富的三文魚腩來拆肉, 再配上全新泰式冬蔭口味湯底, 令一道傳統名菜改頭換面了, 酸酸辣辣,非常醒胃。王於, 擅長煮法蘭西餐",
       "source": "HOY"
-    },
-    {
-      "id": "viu-96-1785170700000",
-      "channelId": "viu-96",
-      "title": "沉「輪」大海｜ILE DE FRANCE",
-      "start": "2026-07-27T16:45:00.000Z",
-      "end": "2026-07-27T17:40:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785170940000",
@@ -333,15 +306,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-99-1785171600000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-07-27T17:00:00.000Z",
-      "end": "2026-07-27T17:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-77-1785172500000",
       "channelId": "hoy-77",
       "title": "一個人鐵道行 3",
@@ -385,24 +349,6 @@
       "end": "2026-07-28T01:57:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1785173400000",
-      "channelId": "viu-99",
-      "title": "為何是吳秀才?",
-      "start": "2026-07-27T17:30:00.000Z",
-      "end": "2026-07-27T18:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-96-1785174000000",
-      "channelId": "viu-96",
-      "title": "科茲窩星級廚房",
-      "start": "2026-07-27T17:40:00.000Z",
-      "end": "2026-07-27T18:10:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1785174300000",
@@ -468,15 +414,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-96-1785175800000",
-      "channelId": "viu-96",
-      "title": "ViuTVsix Station Closing Slate",
-      "start": "2026-07-27T18:10:00.000Z",
-      "end": "2026-07-28T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1785175920000",
       "channelId": "rthk-33",
       "title": "傳世古建",
@@ -511,15 +448,6 @@
       "end": "2026-07-28T03:30:00+08:00",
       "description": "第十六集",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1785177000000",
-      "channelId": "viu-99",
-      "title": "深宵新聞",
-      "start": "2026-07-27T18:30:00.000Z",
-      "end": "2026-07-27T19:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1785177900000",
@@ -592,15 +520,6 @@
       "end": "2026-07-28T03:30:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1785178800000",
-      "channelId": "viu-99",
-      "title": "7人的復活",
-      "start": "2026-07-27T19:00:00.000Z",
-      "end": "2026-07-27T20:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1785179400000",
@@ -711,24 +630,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-99-1785182400000",
-      "channelId": "viu-99",
-      "title": "晚吹 - 怨女俱樂部｜拍唔拍，做得好先好拍",
-      "start": "2026-07-27T20:00:00.000Z",
-      "end": "2026-07-27T20:25:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785183900000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-07-27T20:25:00.000Z",
-      "end": "2026-07-27T20:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-78-1785184200000",
       "channelId": "hoy-78",
       "title": "有線新聞",
@@ -754,15 +655,6 @@
       "end": "2026-07-28T05:00:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1785184200000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-07-27T20:30:00.000Z",
-      "end": "2026-07-27T21:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785184320000",
@@ -826,15 +718,6 @@
       "end": "2026-07-28T05:30:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1785186000000",
-      "channelId": "viu-99",
-      "title": "幸福房屋事件簿",
-      "start": "2026-07-27T21:00:00.000Z",
-      "end": "2026-07-27T22:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1785187620000",
@@ -997,15 +880,6 @@
       "end": "2026-07-28T07:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785189600000",
-      "channelId": "viu-99",
-      "title": "早晨新聞",
-      "start": "2026-07-27T22:00:00.000Z",
-      "end": "2026-07-28T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-78-1785191400000",
@@ -1530,24 +1404,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785200400000",
-      "channelId": "viu-96",
-      "title": "BarnKidz",
-      "start": "2026-07-28T01:00:00.000Z",
-      "end": "2026-07-28T01:15:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785200400000",
-      "channelId": "viu-99",
-      "title": "設計新態度｜海鮮舫",
-      "start": "2026-07-28T01:00:00.000Z",
-      "end": "2026-07-28T01:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1785201120000",
       "channelId": "rthk-33",
       "title": "我們的河山 27",
@@ -1564,15 +1420,6 @@
       "end": "2026-07-28T09:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785201300000",
-      "channelId": "viu-96",
-      "title": "BarnKidz",
-      "start": "2026-07-28T01:15:00.000Z",
-      "end": "2026-07-28T01:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1785202020000",
@@ -1636,33 +1483,6 @@
       "end": "2026-07-28T09:50:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785202200000",
-      "channelId": "viu-96",
-      "title": "Chimera Keepers: Adventures with Incredible Creatures",
-      "start": "2026-07-28T01:30:00.000Z",
-      "end": "2026-07-28T01:45:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785202200000",
-      "channelId": "viu-99",
-      "title": "交易時段",
-      "start": "2026-07-28T01:30:00.000Z",
-      "end": "2026-07-28T03:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-96-1785203100000",
-      "channelId": "viu-96",
-      "title": "Chimera Keepers: Adventures with Incredible Creatures",
-      "start": "2026-07-28T01:45:00.000Z",
-      "end": "2026-07-28T02:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1785203400000",
@@ -1789,15 +1609,6 @@
       "end": "2026-07-28T10:50:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785204000000",
-      "channelId": "viu-96",
-      "title": "解謎王挑戰賽",
-      "start": "2026-07-28T02:00:00.000Z",
-      "end": "2026-07-28T03:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1785204300000",
@@ -2025,24 +1836,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785207600000",
-      "channelId": "viu-96",
-      "title": "失落的阿美利堅",
-      "start": "2026-07-28T03:00:00.000Z",
-      "end": "2026-07-28T04:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785207600000",
-      "channelId": "viu-99",
-      "title": "智富通",
-      "start": "2026-07-28T03:00:00.000Z",
-      "end": "2026-07-28T03:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-31-1785207900000",
       "channelId": "rthk-31",
       "title": "生活．健康．資訊",
@@ -2158,15 +1951,6 @@
       "end": "2026-07-28T12:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785209400000",
-      "channelId": "viu-99",
-      "title": "東京納米夢｜單親媽媽搵屋記",
-      "start": "2026-07-28T03:30:00.000Z",
-      "end": "2026-07-28T04:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1785209820000",
@@ -2286,24 +2070,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785211200000",
-      "channelId": "viu-96",
-      "title": "世界羽聯巡迴賽 2026 日本公開賽｜混雙決賽",
-      "start": "2026-07-28T04:00:00.000Z",
-      "end": "2026-07-28T05:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785211200000",
-      "channelId": "viu-99",
-      "title": "午間新聞",
-      "start": "2026-07-28T04:00:00.000Z",
-      "end": "2026-07-28T04:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-81-1785212100000",
       "channelId": "tvb-81",
       "title": "食平3D[粵]",
@@ -2376,15 +2142,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1785213000000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-07-28T04:30:00.000Z",
-      "end": "2026-07-28T04:55:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1785213120000",
       "channelId": "rthk-33",
       "title": "今日說法",
@@ -2410,15 +2167,6 @@
       "end": "2026-07-28T13:00:00+08:00",
       "description": "《才駿HASHTAG》匯聚各界精英，每周與您分享名家視角、更新市場焦點熱話。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785214500000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-07-28T04:55:00.000Z",
-      "end": "2026-07-28T05:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1785214560000",
@@ -2518,15 +2266,6 @@
       "end": "2026-07-28T13:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785214800000",
-      "channelId": "viu-99",
-      "title": "文藝誌｜劇團 (I)",
-      "start": "2026-07-28T05:00:00.000Z",
-      "end": "2026-07-28T05:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785215160000",
@@ -2673,24 +2412,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785216600000",
-      "channelId": "viu-96",
-      "title": "筍盤大翻新",
-      "start": "2026-07-28T05:30:00.000Z",
-      "end": "2026-07-28T06:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785216600000",
-      "channelId": "viu-99",
-      "title": "730 玩返轉｜日本沉浸式數碼體驗｜熊本蛋專門店",
-      "start": "2026-07-28T05:30:00.000Z",
-      "end": "2026-07-28T06:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-84-1785216900000",
       "channelId": "tvb-84",
       "title": "交易直播室[普]",
@@ -2815,24 +2536,6 @@
       "end": "2026-07-28T14:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785218400000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Cold Case Files S4",
-      "start": "2026-07-28T06:00:00.000Z",
-      "end": "2026-07-28T07:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785218400000",
-      "channelId": "viu-99",
-      "title": "背著善宰跑",
-      "start": "2026-07-28T06:00:00.000Z",
-      "end": "2026-07-28T07:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1785218700000",
@@ -3069,24 +2772,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785222000000",
-      "channelId": "viu-96",
-      "title": "Al Jazeera News Live",
-      "start": "2026-07-28T07:00:00.000Z",
-      "end": "2026-07-28T07:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785222000000",
-      "channelId": "viu-99",
-      "title": "交易時段",
-      "start": "2026-07-28T07:00:00.000Z",
-      "end": "2026-07-28T08:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1785222420000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -3184,15 +2869,6 @@
       "end": "2026-07-28T16:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785223800000",
-      "channelId": "viu-96",
-      "title": "科茲窩星級廚房",
-      "start": "2026-07-28T07:30:00.000Z",
-      "end": "2026-07-28T08:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1785224100000",
@@ -3319,24 +2995,6 @@
       "end": "2026-07-28T16:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785225600000",
-      "channelId": "viu-96",
-      "title": "DW News",
-      "start": "2026-07-28T08:00:00.000Z",
-      "end": "2026-07-28T08:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785225600000",
-      "channelId": "viu-99",
-      "title": "超人雅古｜柊的報告書",
-      "start": "2026-07-28T08:00:00.000Z",
-      "end": "2026-07-28T08:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1785225900000",
@@ -3474,24 +3132,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785227400000",
-      "channelId": "viu-96",
-      "title": "BarnKidz",
-      "start": "2026-07-28T08:30:00.000Z",
-      "end": "2026-07-28T08:45:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785227400000",
-      "channelId": "viu-99",
-      "title": "史諾比開騷｜平安夜的雀巢 / 快樂是付出之禮 / 等到那時才打開",
-      "start": "2026-07-28T08:30:00.000Z",
-      "end": "2026-07-28T09:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-84-1785227700000",
       "channelId": "tvb-84",
       "title": "花生動畫[英/粵]",
@@ -3517,15 +3157,6 @@
       "end": "2026-07-28T17:00:00+08:00",
       "description": "彈彈藤上的秀珍妹",
       "source": "港台"
-    },
-    {
-      "id": "viu-96-1785228300000",
-      "channelId": "viu-96",
-      "title": "BarnKidz",
-      "start": "2026-07-28T08:45:00.000Z",
-      "end": "2026-07-28T09:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1785228600000",
@@ -3636,24 +3267,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785229200000",
-      "channelId": "viu-96",
-      "title": "Maddie & Triggs",
-      "start": "2026-07-28T09:00:00.000Z",
-      "end": "2026-07-28T09:15:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785229200000",
-      "channelId": "viu-99",
-      "title": "無敵鹿戰隊 冰封計劃｜失控的機械玫瑰 / 太空麵包",
-      "start": "2026-07-28T09:00:00.000Z",
-      "end": "2026-07-28T09:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1785229380000",
       "channelId": "rthk-33",
       "title": "綠水青山中國答卷",
@@ -3670,15 +3283,6 @@
       "end": "2026-07-28T17:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
-    },
-    {
-      "id": "viu-96-1785230100000",
-      "channelId": "viu-96",
-      "title": "Maddie & Triggs",
-      "start": "2026-07-28T09:15:00.000Z",
-      "end": "2026-07-28T09:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1785230400000",
@@ -3787,24 +3391,6 @@
       "end": "2026-07-28T18:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785231000000",
-      "channelId": "viu-96",
-      "title": "Sam & Julia",
-      "start": "2026-07-28T09:30:00.000Z",
-      "end": "2026-07-28T10:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785231000000",
-      "channelId": "viu-99",
-      "title": "一周睇樓團",
-      "start": "2026-07-28T09:30:00.000Z",
-      "end": "2026-07-28T10:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785231300000",
@@ -3933,15 +3519,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1785232800000",
-      "channelId": "viu-99",
-      "title": "6點新聞報道 (手語新聞)",
-      "start": "2026-07-28T10:00:00.000Z",
-      "end": "2026-07-28T10:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1785233220000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -4039,24 +3616,6 @@
       "end": "2026-07-28T19:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785234600000",
-      "channelId": "viu-96",
-      "title": "Carl the Collector",
-      "start": "2026-07-28T10:30:00.000Z",
-      "end": "2026-07-28T11:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785234600000",
-      "channelId": "viu-99",
-      "title": "美女與純情男",
-      "start": "2026-07-28T10:30:00.000Z",
-      "end": "2026-07-28T11:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1785235020000",
@@ -4176,33 +3735,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785236400000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-07-28T11:00:00.000Z",
-      "end": "2026-07-28T11:15:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785236400000",
-      "channelId": "viu-99",
-      "title": "7點新聞報道",
-      "start": "2026-07-28T11:00:00.000Z",
-      "end": "2026-07-28T11:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-96-1785237300000",
-      "channelId": "viu-96",
-      "title": "Lana Longbeard",
-      "start": "2026-07-28T11:15:00.000Z",
-      "end": "2026-07-28T11:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-81-1785237600000",
       "channelId": "tvb-81",
       "title": "世界觀[粵]",
@@ -4282,24 +3814,6 @@
       "end": "2026-07-28T20:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785238200000",
-      "channelId": "viu-96",
-      "title": "筍盤大翻新",
-      "start": "2026-07-28T11:30:00.000Z",
-      "end": "2026-07-28T12:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785238200000",
-      "channelId": "viu-99",
-      "title": "730 玩返轉｜明洞活化古蹟與藝術館｜別府百年市場",
-      "start": "2026-07-28T11:30:00.000Z",
-      "end": "2026-07-28T12:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785238500000",
@@ -4435,24 +3949,6 @@
       "end": "2026-07-28T20:30:00+08:00",
       "description": "報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785240000000",
-      "channelId": "viu-96",
-      "title": "終極一線",
-      "start": "2026-07-28T12:00:00.000Z",
-      "end": "2026-07-28T13:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785240000000",
-      "channelId": "viu-99",
-      "title": "8點直樂 VIURIETY｜The Choose Day - 「女士之夜」 嘉賓：WINKA@COLLAR、DAY@COLLAR",
-      "start": "2026-07-28T12:00:00.000Z",
-      "end": "2026-07-28T13:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1785240900000",
@@ -4662,15 +4158,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785243600000",
-      "channelId": "viu-96",
-      "title": "劫後新發現",
-      "start": "2026-07-28T13:00:00.000Z",
-      "end": "2026-07-28T14:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1785244380000",
       "channelId": "rthk-33",
       "title": "傳世古建",
@@ -4777,15 +4264,6 @@
       "end": "2026-07-28T21:55:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785245400000",
-      "channelId": "viu-99",
-      "title": "金子般我的明星",
-      "start": "2026-07-28T13:30:00.000Z",
-      "end": "2026-07-28T14:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1785245580000",
@@ -4941,15 +4419,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785247200000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Once Upon a True Crime",
-      "start": "2026-07-28T14:00:00.000Z",
-      "end": "2026-07-28T15:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1785247500000",
       "channelId": "rthk-32",
       "title": "凝聚香港",
@@ -5020,15 +4489,6 @@
       "end": "2026-07-28T22:40:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785249000000",
-      "channelId": "viu-99",
-      "title": "跳祭少女放飛假期｜力量．廣島",
-      "start": "2026-07-28T14:30:00.000Z",
-      "end": "2026-07-28T15:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1785249120000",
@@ -5130,24 +4590,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1785250800000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-07-28T15:00:00.000Z",
-      "end": "2026-07-28T15:15:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785250800000",
-      "channelId": "viu-99",
-      "title": "晚吹 - 男人亂講嘢｜我食咗二碗禾米",
-      "start": "2026-07-28T15:00:00.000Z",
-      "end": "2026-07-28T15:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-76-1785251700000",
       "channelId": "hoy-76",
       "title": "Green Touch",
@@ -5173,15 +4615,6 @@
       "end": "2026-07-28T23:45:00+08:00",
       "description": "報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1785251700000",
-      "channelId": "viu-96",
-      "title": "潛行追蹤 澳洲篇",
-      "start": "2026-07-28T15:15:00.000Z",
-      "end": "2026-07-28T16:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1785252420000",
@@ -5263,24 +4696,6 @@
       "end": "2026-07-29T00:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1785252600000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-07-28T15:30:00.000Z",
-      "end": "2026-07-28T15:35:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1785252900000",
-      "channelId": "viu-99",
-      "title": "I SWIM｜第三個夏天",
-      "start": "2026-07-28T15:35:00.000Z",
-      "end": "2026-07-28T16:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1785253500000",
