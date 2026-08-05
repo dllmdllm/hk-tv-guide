@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-04T21:39:17.575Z",
+  "updatedAt": "2026-08-05T03:36:49.283Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1283,7 +1283,7 @@
       "title": "BobieLand",
       "start": "2026-08-11T06:30:00+08:00",
       "end": "2026-08-11T06:45:00+08:00",
-      "description": "",
+      "description": "第二百七十八集 - 《鳥兒築巢》",
       "source": "港台"
     },
     {
@@ -3605,7 +3605,7 @@
       "title": "BobieLand",
       "start": "2026-08-11T16:30:00+08:00",
       "end": "2026-08-11T16:45:00+08:00",
-      "description": "",
+      "description": "第二百七十九集 - 《黑烏鴉去旅行》",
       "source": "港台"
     },
     {
@@ -5355,6 +5355,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1786461300000",
+      "channelId": "viu-96",
+      "title": "America's Got Talent: Fantasy Team",
+      "start": "2026-08-11T15:15:00.000Z",
+      "end": "2026-08-11T16:10:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1786461540000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -5450,6 +5459,15 @@
       "title": "3 分鐘熱度",
       "start": "2026-08-11T15:30:00.000Z",
       "end": "2026-08-11T15:35:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1786462500000",
+      "channelId": "viu-99",
+      "title": "全領域異常解決室",
+      "start": "2026-08-11T15:35:00.000Z",
+      "end": "2026-08-11T16:45:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
