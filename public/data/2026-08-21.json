@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "updatedAt": "2026-08-14T20:48:24.551Z",
+  "updatedAt": "2026-08-15T01:52:21.648Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5508,6 +5508,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787325300000",
+      "channelId": "viu-96",
+      "title": "歷代皇室秘聞｜Sex",
+      "start": "2026-08-21T15:15:00.000Z",
+      "end": "2026-08-21T16:15:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787325600000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -5603,6 +5612,15 @@
       "title": "3 分鐘熱度",
       "start": "2026-08-21T15:30:00.000Z",
       "end": "2026-08-21T15:35:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787326500000",
+      "channelId": "viu-99",
+      "title": "全領域異常解決室",
+      "start": "2026-08-21T15:35:00.000Z",
+      "end": "2026-08-21T16:30:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
