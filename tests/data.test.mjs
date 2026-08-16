@@ -21,4 +21,16 @@ test("latest schedule has all 14 free-to-air channels and valid programmes", asy
     assert.ok(schedule.channels.some((channel) => channel.id === item.channelId));
     assert.ok(new Date(item.end) > new Date(item.start));
   }
+
+  for (const channel of schedule.channels) {
+    const programmes = schedule.programmes
+      .filter((item) => item.channelId === channel.id)
+      .sort((a, b) => new Date(a.start) - new Date(b.start));
+    for (let index = 1; index < programmes.length; index += 1) {
+      assert.ok(
+        new Date(programmes[index].start) >= new Date(programmes[index - 1].end),
+        `${channel.name} programmes overlap around ${programmes[index].start}`,
+      );
+    }
+  }
 });

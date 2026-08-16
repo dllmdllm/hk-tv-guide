@@ -68,13 +68,15 @@ async function fetchTVB() {
       if (!item.start_datetime || !item.programme_title_tc) return;
       const next = items[index + 1];
       const start = iso(item.start_datetime);
-      const end = next?.start_datetime ? iso(next.start_datetime) : new Date(new Date(start).getTime() + 30 * 60_000).toISOString();
+      const estimatedEnd = !next?.start_datetime;
+      const end = next?.start_datetime ? iso(next.start_datetime) : new Date(new Date(start).getTime() + 60_000).toISOString();
       result.push({
         id: `${channel.id}-${new Date(start).getTime()}`,
         channelId: channel.id,
         title: clean(item.programme_title_tc),
         start,
         end,
+        ...(estimatedEnd ? { endEstimated: true } : {}),
         description: clean(item.episode_synopsis_tc),
         source: "TVB",
       });
@@ -142,31 +144,67 @@ async function fetchRTHK() {
   return result;
 }
 
-function decodeJsonString(value) {
-  try { return JSON.parse(`"${value}"`); } catch { return value.replaceAll("\\u0026", "&").replaceAll("\\/", "/"); }
+function extractJsonObjects(text) {
+  const objects = [];
+  const stack = [];
+  let inString = false;
+  let escaped = false;
+
+  for (let index = 0; index < text.length; index += 1) {
+    const character = text[index];
+    if (inString) {
+      if (escaped) escaped = false;
+      else if (character === "\\") escaped = true;
+      else if (character === '"') inString = false;
+      continue;
+    }
+    if (character === '"') inString = true;
+    else if (character === "{") stack.push(index);
+    else if (character === "}" && stack.length) {
+      const start = stack.pop();
+      try { objects.push(JSON.parse(text.slice(start, index + 1))); } catch {}
+    }
+  }
+  return objects;
+}
+
+function extractNextFlightData(html) {
+  const $ = load(html);
+  const chunks = [];
+  $("script").each((_, script) => {
+    const content = $(script).html() || "";
+    const marker = content.indexOf("self.__next_f.push(");
+    if (marker < 0) return;
+    const start = content.indexOf("[", marker);
+    const end = content.lastIndexOf("]");
+    if (start < 0 || end < start) return;
+    try {
+      const payload = JSON.parse(content.slice(start, end + 1));
+      if (typeof payload[1] === "string") chunks.push(payload[1]);
+    } catch {}
+  });
+  return chunks.join("");
 }
 
 async function fetchViuTV() {
-  const pattern = /"channelId":(96|99),"date":"(\d{4}-\d{2}-\d{2})","startTime":"[^"]+","start":(\d+),"end":(\d+),[\s\S]{0,1000}?"zh_HK":\{([^}]*)\}/g;
   const result = [];
   for (const slug of ["99", "96"]) {
     const html = await fetchText(`https://viu.tv/epg/${slug}`);
-    const decoded = html.replaceAll("\\\"", "\"");
-    for (const match of decoded.matchAll(pattern)) {
-      const number = Number(match[1]);
-      const start = new Date(Number(match[3])).toISOString();
-      const titleMatch = match[5].match(/"program_title":"((?:\\.|[^"\\])*)"/);
-      const episodeMatch = match[5].match(/"episode_name":"((?:\\.|[^"\\])*)"/);
-      const title = decodeJsonString(titleMatch?.[1] || "");
-      const episode = decodeJsonString(episodeMatch?.[1] || "");
+    const flightData = extractNextFlightData(html);
+    for (const item of extractJsonObjects(flightData)) {
+      const number = Number(item.channelId);
+      if (![96, 99].includes(number) || !Number.isFinite(item.start) || !Number.isFinite(item.end)) continue;
+      const start = new Date(item.start).toISOString();
+      const title = clean(item.zh_HK?.program_title);
+      const episode = clean(item.zh_HK?.episode_name);
       if (!title) continue;
       result.push({
-        id: `viu-${number}-${match[3]}`,
+        id: `viu-${number}-${item.start}`,
         channelId: `viu-${number}`,
         title: clean(episode && episode !== "NA" ? `${title}｜${episode}` : title),
         start,
-        end: new Date(Number(match[4])).toISOString(),
-        description: "",
+        end: new Date(item.end).toISOString(),
+        description: clean(item.zh_HK?.short_synopsis),
         source: "ViuTV",
       });
     }
