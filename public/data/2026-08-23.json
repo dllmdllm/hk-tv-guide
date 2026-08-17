@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-16T20:41:27.975Z",
+  "updatedAt": "2026-08-17T01:57:17.421Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5085,6 +5085,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787498100000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-08-23T15:15:00.000Z",
+      "end": "2026-08-23T16:05:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787498580000",
       "channelId": "rthk-33",
       "title": "南洋女兒情 33",
@@ -5155,6 +5164,15 @@
       "end": "2026-08-24T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787499000000",
+      "channelId": "viu-99",
+      "title": "隊長小翼第二季 青少年篇｜傷痕累累的死守",
+      "start": "2026-08-23T15:30:00.000Z",
+      "end": "2026-08-23T16:00:00.000Z",
+      "description": "加時賽下半場開始，日向單對單挑戰皮埃爾，但因為腳傷影響而被截走了球，法國隊亦藉此開展了一波又一波的攻勢！從龍門躍起出迎的若島津出拳解圍，但卻在空中撞上對手球員，右手受到重擊，痛得倒地不起。同樣遍體鱗傷的三杉見狀出言激勵：「餘下的十分鐘，我們不是要拼死作戰的嗎？」若島津聞言眼裡燃起了鬥志之火……",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787499300000",
