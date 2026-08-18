@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-17T20:46:25.081Z",
+  "updatedAt": "2026-08-18T01:52:59.262Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5400,6 +5400,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787584500000",
+      "channelId": "viu-96",
+      "title": "America's Got Talent: Fantasy Team",
+      "start": "2026-08-24T15:15:00.000Z",
+      "end": "2026-08-24T16:10:00.000Z",
+      "description": "Judges will be drafting their ultimate lineup from America's choice of acts from across the global \"got talent\" franchise and they will be competing with the contestants, mentoring and guiding the performances in hope of winning.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787584680000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -5514,6 +5523,15 @@
       "start": "2026-08-24T15:30:00.000Z",
       "end": "2026-08-24T15:35:00.000Z",
       "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787585700000",
+      "channelId": "viu-99",
+      "title": "全領域異常解決室",
+      "start": "2026-08-24T15:35:00.000Z",
+      "end": "2026-08-24T16:30:00.000Z",
+      "description": "蛭兒的「篩選」開始了。看到壽正開發的社交平台的人一個接一個結束了自己的生命。街上自殺人數激增，東京一夜之間陷入大混亂…",
       "source": "ViuTV"
     },
     {
