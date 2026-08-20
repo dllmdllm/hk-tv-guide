@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-19T20:48:08.537Z",
+  "updatedAt": "2026-08-20T01:54:14.258Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5490,6 +5490,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787757300000",
+      "channelId": "viu-96",
+      "title": "America's Got Talent: Fantasy Team",
+      "start": "2026-08-26T15:15:00.000Z",
+      "end": "2026-08-26T16:10:00.000Z",
+      "description": "Judges will be drafting their ultimate lineup from America's choice of acts from across the global \"got talent\" franchise and they will be competing with the contestants, mentoring and guiding the performances in hope of winning.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787757600000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -5595,6 +5604,15 @@
       "start": "2026-08-26T15:30:00.000Z",
       "end": "2026-08-26T15:35:00.000Z",
       "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787758500000",
+      "channelId": "viu-99",
+      "title": "孤獨死又怎樣",
+      "start": "2026-08-26T15:35:00.000Z",
+      "end": "2026-08-26T16:30:00.000Z",
+      "description": "開始思考臨終規劃的鳴海明白了「父母的晚年比自己的更早到來」。如果父母需要照顧，你可以照顧他們嗎？可以一邊工作一邊照顧嗎？如果去世了，葬禮怎麼辦呢？如果這一切都要由自己承擔的話…這不就是自己的終身大事！於是，鳴海為了讓父母開始臨終規劃而想出了一個作戰計劃…",
       "source": "ViuTV"
     },
     {
