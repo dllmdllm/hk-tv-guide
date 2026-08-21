@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "updatedAt": "2026-08-20T20:49:07.393Z",
+  "updatedAt": "2026-08-21T02:00:07.002Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -261,6 +261,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1787848200000",
+      "channelId": "viu-99",
+      "title": "Fashion Killer｜第五輪比賽 (I)",
+      "start": "2026-08-27T16:30:00.000Z",
+      "end": "2026-08-27T17:00:00.000Z",
+      "description": "進入第五輪比賽，參賽者當中四個只能活一個晉級準決賽！各人都必須用盡全力為娟姐 (練美娟)、Hailey (陳俞希) 及 Phoebus@P1X3L (吳啟洋) 設計以配飾為主題的新年造型。今集率先登場有 SK, Z 及 Bobbi，究竟他們會用什麼方法設計造型爭取晉級？",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-96-1787848500000",
+      "channelId": "viu-96",
+      "title": "農場蜜語 - 美國篇",
+      "start": "2026-08-27T16:35:00.000Z",
+      "end": "2026-08-27T17:25:00.000Z",
+      "description": "Four farmers from across the country embark on an adventure of a lifetime in the hopes of finding their future spouse. Women will leave behind the dating apps and pursuit of love in “the big city” in favor of classic American courtship. The farmers will take their group of daters to their farm and show them what it is really like to live as ranchers do — from tending to the homestead to feeding cattle and baling hay. For the daters, the realities of this lifestyle may beg the question: how much of your life are you willing to change for love?",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787848620000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -378,6 +396,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1787850000000",
+      "channelId": "viu-99",
+      "title": "CHILL CLUB 推介",
+      "start": "2026-08-27T17:00:00.000Z",
+      "end": "2026-08-27T17:30:00.000Z",
+      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-84-1787850900000",
       "channelId": "tvb-84",
       "title": "中國24小時[英]",
@@ -394,6 +421,15 @@
       "end": "2026-08-28T02:11:00+08:00",
       "description": "",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1787851500000",
+      "channelId": "viu-96",
+      "title": "全球暖化啓示錄",
+      "start": "2026-08-27T17:25:00.000Z",
+      "end": "2026-08-27T18:20:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1787851620000",
@@ -448,6 +484,15 @@
       "end": "2026-08-28T02:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787851800000",
+      "channelId": "viu-99",
+      "title": "依法相愛吧",
+      "start": "2026-08-27T17:30:00.000Z",
+      "end": "2026-08-27T18:30:00.000Z",
+      "description": "都韓建設的代表理事李片雄拜訪琉璃，正浩再次警告他永遠不要惹琉璃。一位客戶來到Law Cafe，詢問有關少年法的詳細資料...",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787852100000",
@@ -585,6 +630,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787854800000",
+      "channelId": "viu-96",
+      "title": "ViuTVsix Station Closing Slate",
+      "start": "2026-08-27T18:20:00.000Z",
+      "end": "2026-08-28T01:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "hoy-78-1787855400000",
       "channelId": "hoy-78",
       "title": "有線新聞",
@@ -610,6 +664,15 @@
       "end": "2026-08-28T03:00:00+08:00",
       "description": "常言道：「今日新聞，明日歷史」。每天那麼多新聞，大家可能來不及消化，更遑論回望歷史。歷史就是一個大寶庫，少看歷史和小看歷史，很容易「走寶」。新節目《新聞掏寶》帶大家在寶庫「掏」新聞寶藏，除了昔日特輯、直播和系列報道，還有從未曝光的珍貴片段，觀眾有機會重溫李小龍出殯、寶生銀行劫案、四人幫審訊、英女王訪港、的士罷駛、中英簽訂聯合聲明、戴卓爾夫人專訪、越南難民、尤德逝世、彭定康抵港、啟德機場關閉、鄧小平逝世、九七回歸大典、華航香港空難和沙士記者會。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787855400000",
+      "channelId": "viu-99",
+      "title": "深宵新聞",
+      "start": "2026-08-27T18:30:00.000Z",
+      "end": "2026-08-27T19:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-82-1787855700000",
@@ -691,6 +754,15 @@
       "end": "2026-08-28T03:30:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787857200000",
+      "channelId": "viu-99",
+      "title": "940920｜月圓",
+      "start": "2026-08-27T19:00:00.000Z",
+      "end": "2026-08-27T20:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1787858100000",
@@ -837,6 +909,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1787860800000",
+      "channelId": "viu-99",
+      "title": "晚吹 - 講玄",
+      "start": "2026-08-27T20:00:00.000Z",
+      "end": "2026-08-27T20:25:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1787861400000",
       "channelId": "tvb-81",
       "title": "射鵰英雄傳之鐵血丹心#17[粵/普][PG]",
@@ -844,6 +925,15 @@
       "end": "2026-08-28T05:05:00+08:00",
       "description": "歐陽鋒懷疑郭靖給的是假的《九陰真經》，黃蓉聲稱能替他翻譯，要求一餐換翻譯一頁經文；周伯通突然空降船上救走黃蓉等人後就來到牛家村，在酒館內發現傻姑，而傻姑竟然會桃花島的武功，而後在密室發現曲靈風的屍骨…",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787862300000",
+      "channelId": "viu-99",
+      "title": "3 分鐘熱度",
+      "start": "2026-08-27T20:25:00.000Z",
+      "end": "2026-08-27T20:30:00.000Z",
+      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-78-1787862600000",
@@ -880,6 +970,15 @@
       "end": "2026-08-28T05:00:00+08:00",
       "description": "常言道：「今日新聞，明日歷史」。每天那麼多新聞，大家可能來不及消化，更遑論回望歷史。歷史就是一個大寶庫，少看歷史和小看歷史，很容易「走寶」。新節目《新聞掏寶》帶大家在寶庫「掏」新聞寶藏，除了昔日特輯、直播和系列報道，還有從未曝光的珍貴片段，觀眾有機會重溫李小龍出殯、寶生銀行劫案、四人幫審訊、英女王訪港、的士罷駛、中英簽訂聯合聲明、戴卓爾夫人專訪、越南難民、尤德逝世、彭定康抵港、啟德機場關閉、鄧小平逝世、九七回歸大典、華航香港空難和沙士記者會。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787862600000",
+      "channelId": "viu-99",
+      "title": "CHILL CLUB 推介",
+      "start": "2026-08-27T20:30:00.000Z",
+      "end": "2026-08-27T21:00:00.000Z",
+      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787862720000",
@@ -952,6 +1051,15 @@
       "end": "2026-08-28T05:30:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787864400000",
+      "channelId": "viu-99",
+      "title": "國色芳華",
+      "start": "2026-08-27T21:00:00.000Z",
+      "end": "2026-08-27T22:00:00.000Z",
+      "description": "牡丹向蔣長揚提出一個不情之請，請他買下自己，否則牡丹以官奴的身份，就會永遠無法離開，不能脫離苦海…",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787864700000",
@@ -1141,6 +1249,15 @@
       "end": "2026-08-28T07:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787868000000",
+      "channelId": "viu-99",
+      "title": "早晨新聞",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-28T01:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-78-1787869800000",
@@ -1692,6 +1809,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787878800000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-08-28T01:00:00.000Z",
+      "end": "2026-08-28T01:15:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787878800000",
+      "channelId": "viu-99",
+      "title": "國識商通",
+      "start": "2026-08-28T01:00:00.000Z",
+      "end": "2026-08-28T01:30:00.000Z",
+      "description": "《國識商通》每集會邀請不同界別的嘉賓，從經濟、社會、文化、教育等不同範疇，了解內地最新發展和機遇，香港如何把握及運用優勢。",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787879700000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -1708,6 +1843,15 @@
       "end": "2026-08-28T09:30:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787879700000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-08-28T01:15:00.000Z",
+      "end": "2026-08-28T01:30:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1787880420000",
@@ -1771,6 +1915,33 @@
       "end": "2026-08-28T09:50:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787880600000",
+      "channelId": "viu-96",
+      "title": "ThinkerBen and Motor",
+      "start": "2026-08-28T01:30:00.000Z",
+      "end": "2026-08-28T01:45:00.000Z",
+      "description": "ThinkerBen is a boy-genius engineer who teams up with his robo-dog pal, Motor, and his talented friends to help out the friendly folk of Wowtown, using cool gadgets, ingenuity and imagination!",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787880600000",
+      "channelId": "viu-99",
+      "title": "交易時段",
+      "start": "2026-08-28T01:30:00.000Z",
+      "end": "2026-08-28T03:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-96-1787881500000",
+      "channelId": "viu-96",
+      "title": "ThinkerBen and Motor",
+      "start": "2026-08-28T01:45:00.000Z",
+      "end": "2026-08-28T02:00:00.000Z",
+      "description": "ThinkerBen is a boy-genius engineer who teams up with his robo-dog pal, Motor, and his talented friends to help out the friendly folk of Wowtown, using cool gadgets, ingenuity and imagination!",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1787881800000",
@@ -1888,6 +2059,15 @@
       "end": "2026-08-28T10:50:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787882400000",
+      "channelId": "viu-96",
+      "title": "甜品鑑證科",
+      "start": "2026-08-28T02:00:00.000Z",
+      "end": "2026-08-28T03:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787882460000",
@@ -2133,6 +2313,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787886000000",
+      "channelId": "viu-96",
+      "title": "南非種族隔離檔案｜Untouchable",
+      "start": "2026-08-28T03:00:00.000Z",
+      "end": "2026-08-28T04:00:00.000Z",
+      "description": "The documentary series Free at last shows how Apartheid still affects South Africa today. To move forward, the country must address its dark past. Through moving and personal stories from both victims and perpetrators and never seen before footage, we shed light on what has remained hidden for so long. What really happened, who was responsible and why haven’t they been held accountable? This is the definitive and epic re-telling of the history of Apartheid in South Africa.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787886000000",
+      "channelId": "viu-99",
+      "title": "智富通",
+      "start": "2026-08-28T03:00:00.000Z",
+      "end": "2026-08-28T03:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1787886300000",
       "channelId": "rthk-31",
       "title": "生活．健康．資訊",
@@ -2230,6 +2428,15 @@
       "end": "2026-08-28T12:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787887800000",
+      "channelId": "viu-99",
+      "title": "堅返鄉下｜岡山的感動大自然",
+      "start": "2026-08-28T03:30:00.000Z",
+      "end": "2026-08-28T04:00:00.000Z",
+      "description": "日本最終回，感受岡山縣美景。先行石澗，製作組紛紛變「落湯雞」，又沉又浸體驗河水威力。再來勾起Soko 童年回憶——徒手捉魚，少一點功架就要接受魚類接吻大懲罰。經歷完「親親」大自然，來到溫泉旅館。螢火蟲點亮夜空，場面動人，Soko展現感性一面，首次在螢幕前流下男兒淚。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787887980000",
@@ -2358,6 +2565,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787889600000",
+      "channelId": "viu-96",
+      "title": "英超故事26/27｜高雲地利",
+      "start": "2026-08-28T04:00:00.000Z",
+      "end": "2026-08-28T04:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787889600000",
+      "channelId": "viu-99",
+      "title": "午間新聞",
+      "start": "2026-08-28T04:00:00.000Z",
+      "end": "2026-08-28T04:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-32-1787890200000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -2430,6 +2655,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787891400000",
+      "channelId": "viu-96",
+      "title": "今週ATP 2026",
+      "start": "2026-08-28T04:30:00.000Z",
+      "end": "2026-08-28T05:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787891400000",
+      "channelId": "viu-99",
+      "title": "CHILL CLUB 推介",
+      "start": "2026-08-28T04:30:00.000Z",
+      "end": "2026-08-28T04:55:00.000Z",
+      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787891520000",
       "channelId": "rthk-33",
       "title": "今日說法",
@@ -2464,6 +2707,15 @@
       "end": "2026-08-28T13:00:00+08:00",
       "description": "",
       "source": "HOY"
+    },
+    {
+      "id": "viu-99-1787892900000",
+      "channelId": "viu-99",
+      "title": "3 分鐘熱度",
+      "start": "2026-08-28T04:55:00.000Z",
+      "end": "2026-08-28T05:00:00.000Z",
+      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1787892960000",
@@ -2563,6 +2815,24 @@
       "end": "2026-08-28T13:35:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787893200000",
+      "channelId": "viu-96",
+      "title": "NHK Newsline",
+      "start": "2026-08-28T05:00:00.000Z",
+      "end": "2026-08-28T05:30:00.000Z",
+      "description": "NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787893200000",
+      "channelId": "viu-99",
+      "title": "環源基本步｜籃球變成替代燃料",
+      "start": "2026-08-28T05:00:00.000Z",
+      "end": "2026-08-28T05:30:00.000Z",
+      "description": "籃球因高使用頻率需定期更換，本來難以分類回收。Peann與團隊共同研發將籃球回收後升級再造產品及替代燃料應用，並舉辦教育公眾的DIY工作坊，希望可減少原料浪費，促進環保與可持續發展。回收後實現近100%再利用，展現資源循環之美好意義。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787893260000",
@@ -2700,6 +2970,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787895000000",
+      "channelId": "viu-96",
+      "title": "孖住傾 • 孖住煮",
+      "start": "2026-08-28T05:30:00.000Z",
+      "end": "2026-08-28T06:00:00.000Z",
+      "description": "Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787895000000",
+      "channelId": "viu-99",
+      "title": "730 玩返轉",
+      "start": "2026-08-28T05:30:00.000Z",
+      "end": "2026-08-28T06:00:00.000Z",
+      "description": "《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787895180000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -2824,6 +3112,24 @@
       "end": "2026-08-28T14:30:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787896800000",
+      "channelId": "viu-96",
+      "title": "古埃及鐵道行",
+      "start": "2026-08-28T06:00:00.000Z",
+      "end": "2026-08-28T07:00:00.000Z",
+      "description": "Ancient Egypt By Train is a unique travelogue that sees Professor Alice Roberts looking into the world’s oldest and greatest civilisation. And she’s doing it by train. This four-part series starts at the very end of the Ancient Egyptian empire in Alexandria, where the Romans came to take control, and travels back in time, heading south, to Cairo, Luxor and Aswan. Roberts digs deep to look beyond the myths and legends to understand what it must have been like to have lived in this fascinating, brutal and complex ancient civilisation.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787896800000",
+      "channelId": "viu-99",
+      "title": "黑幫的我成了高中生",
+      "start": "2026-08-28T06:00:00.000Z",
+      "end": "2026-08-28T07:00:00.000Z",
+      "description": "德八是七星派的大佬。他試圖拯救跳橋的理憲。不幸的是，德八喪命，靈魂卻佔據了理憲的身體。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1787897100000",
@@ -3042,6 +3348,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787900400000",
+      "channelId": "viu-96",
+      "title": "Al Jazeera News Live",
+      "start": "2026-08-28T07:00:00.000Z",
+      "end": "2026-08-28T07:30:00.000Z",
+      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787900400000",
+      "channelId": "viu-99",
+      "title": "交易時段",
+      "start": "2026-08-28T07:00:00.000Z",
+      "end": "2026-08-28T08:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787900700000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -3121,6 +3445,15 @@
       "end": "2026-08-28T16:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787902200000",
+      "channelId": "viu-96",
+      "title": "探索塔斯之旅",
+      "start": "2026-08-28T07:30:00.000Z",
+      "end": "2026-08-28T08:00:00.000Z",
+      "description": "Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover the hidden gems to ensure that the very best stories are no longer \"Left Off The Map\".",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1787902500000",
@@ -3258,6 +3591,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787904000000",
+      "channelId": "viu-96",
+      "title": "DW News",
+      "start": "2026-08-28T08:00:00.000Z",
+      "end": "2026-08-28T08:30:00.000Z",
+      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787904000000",
+      "channelId": "viu-99",
+      "title": "妖怪手錶",
+      "start": "2026-08-28T08:00:00.000Z",
+      "end": "2026-08-28T08:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1787904300000",
       "channelId": "rthk-31",
       "title": "凝聚香港",
@@ -3393,6 +3744,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787905800000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-08-28T08:30:00.000Z",
+      "end": "2026-08-28T08:45:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787905800000",
+      "channelId": "viu-99",
+      "title": "遊戲王GO RUSH!!｜THE路克 THE路克",
+      "start": "2026-08-28T08:30:00.000Z",
+      "end": "2026-08-28T09:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787906340000",
       "channelId": "rthk-33",
       "title": "人與自然",
@@ -3418,6 +3787,15 @@
       "end": "2026-08-28T17:30:00+08:00",
       "description": "全民國家安全教育日開幕典禮 : 短劇製作特輯-熱血東江 薪火相傳",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1787906700000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-08-28T08:45:00.000Z",
+      "end": "2026-08-28T09:00:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787907000000",
@@ -3510,6 +3888,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787907600000",
+      "channelId": "viu-96",
+      "title": "ThinkerBen and Motor",
+      "start": "2026-08-28T09:00:00.000Z",
+      "end": "2026-08-28T09:15:00.000Z",
+      "description": "ThinkerBen is a boy-genius engineer who teams up with his robo-dog pal, Motor, and his talented friends to help out the friendly folk of Wowtown, using cool gadgets, ingenuity and imagination!",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787907600000",
+      "channelId": "viu-99",
+      "title": "藍精靈｜蜘蛛藍精靈 / 精靈BB與野人發明家",
+      "start": "2026-08-28T09:00:00.000Z",
+      "end": "2026-08-28T09:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787908080000",
       "channelId": "rthk-33",
       "title": "第一動畫樂園",
@@ -3526,6 +3922,15 @@
       "end": "2026-08-28T17:30:00+08:00",
       "description": "",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1787908500000",
+      "channelId": "viu-96",
+      "title": "ThinkerBen and Motor",
+      "start": "2026-08-28T09:15:00.000Z",
+      "end": "2026-08-28T09:30:00.000Z",
+      "description": "ThinkerBen is a boy-genius engineer who teams up with his robo-dog pal, Motor, and his talented friends to help out the friendly folk of Wowtown, using cool gadgets, ingenuity and imagination!",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787908800000",
@@ -3634,6 +4039,24 @@
       "end": "2026-08-28T18:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787909400000",
+      "channelId": "viu-96",
+      "title": "Sam & Julia",
+      "start": "2026-08-28T09:30:00.000Z",
+      "end": "2026-08-28T10:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787909400000",
+      "channelId": "viu-99",
+      "title": "杏林在線",
+      "start": "2026-08-28T09:30:00.000Z",
+      "end": "2026-08-28T10:00:00.000Z",
+      "description": "《杏林在線》採訪團隊每星期走訪各醫院的手術室及實驗室，深度探討不同的醫學問題，以及介紹各種醫療新科技，請來專家剖析和真實個案分享。我們的醫學顧問每集亦會為觀眾解答疑難。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1787910000000",
@@ -3762,6 +4185,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1787911200000",
+      "channelId": "viu-99",
+      "title": "6點新聞報道 (手語新聞)",
+      "start": "2026-08-28T10:00:00.000Z",
+      "end": "2026-08-28T10:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-32-1787911800000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -3850,6 +4282,24 @@
       "end": "2026-08-28T19:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787913000000",
+      "channelId": "viu-96",
+      "title": "Carl the Collector",
+      "start": "2026-08-28T10:30:00.000Z",
+      "end": "2026-08-28T11:00:00.000Z",
+      "description": "Meet Carl, a warm-hearted young autistic racoon, who loves to collect things! Carl and his friends live in Fuzzytown, where they play and explore together, discovering what makes each of them unique.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787913000000",
+      "channelId": "viu-99",
+      "title": "美女與純情男",
+      "start": "2026-08-28T10:30:00.000Z",
+      "end": "2026-08-28T11:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1787913600000",
@@ -3996,6 +4446,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787914800000",
+      "channelId": "viu-96",
+      "title": "ViuTV News",
+      "start": "2026-08-28T11:00:00.000Z",
+      "end": "2026-08-28T11:15:00.000Z",
+      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787914800000",
+      "channelId": "viu-99",
+      "title": "7點新聞報道",
+      "start": "2026-08-28T11:00:00.000Z",
+      "end": "2026-08-28T11:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1787915700000",
       "channelId": "tvb-81",
       "title": "世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]",
@@ -4003,6 +4471,15 @@
       "end": "2026-08-28T19:25:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787915700000",
+      "channelId": "viu-96",
+      "title": "Isadora Moon",
+      "start": "2026-08-28T11:15:00.000Z",
+      "end": "2026-08-28T11:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787916300000",
@@ -4084,6 +4561,24 @@
       "end": "2026-08-28T19:55:00+08:00",
       "description": "明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787916600000",
+      "channelId": "viu-96",
+      "title": "英倫運河日誌",
+      "start": "2026-08-28T11:30:00.000Z",
+      "end": "2026-08-28T12:00:00.000Z",
+      "description": "Join Robbie Cumming onboard the Naughty Lass as he explores the Oxford Canal, River Thames, and more, facing challenges, meeting fellow boaters, and uncovering history along the way.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787916600000",
+      "channelId": "viu-99",
+      "title": "730 玩返轉",
+      "start": "2026-08-28T11:30:00.000Z",
+      "end": "2026-08-28T12:00:00.000Z",
+      "description": "《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787916720000",
@@ -4219,6 +4714,24 @@
       "end": "2026-08-28T20:30:00+08:00",
       "description": "金馬倫和希花結伴同遊馬爾代夫，介紹三個不同的度假村。第一個位於填海建成的人工島。第二個位於生物圈保護區，只有61座別墅。第三個全是水上別墅。三個度假村各有不同特色。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1787918400000",
+      "channelId": "viu-96",
+      "title": "明星闔家問答比賽",
+      "start": "2026-08-28T12:00:00.000Z",
+      "end": "2026-08-28T13:00:00.000Z",
+      "description": "Romesh Ranganathan hosts the celebrity game show where it doesn't matter what you know as it's what your mother and father think you know that really counts.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787918400000",
+      "channelId": "viu-99",
+      "title": "8點直樂 VIURIETY｜Play Hard Night",
+      "start": "2026-08-28T12:00:00.000Z",
+      "end": "2026-08-28T13:30:00.000Z",
+      "description": "《8 點直樂 VIURIETY》為 1.5 小時綜藝節目，集娛樂、資訊、遊戲等不同元素於一身，送上多元而精彩的綜藝環節！星期一至五每晚都有獨特主題，包括 Food Night、The Choose Day、Men’s Challenge Night、Music Night 及 Play Hard Night。每一集主持、藝員及嘉賓傾力演出外，還有豐富獎金獎品送給全港觀眾，務求與大家共渡可能是最有玩味性的綜藝時光！",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-82-1787918700000",
@@ -4455,6 +4968,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787922000000",
+      "channelId": "viu-96",
+      "title": "地獄廚房",
+      "start": "2026-08-28T13:00:00.000Z",
+      "end": "2026-08-28T14:00:00.000Z",
+      "description": "In season 22 of Hell’s Kitchen, eighteen diverse chefs have come from all over America to follow their dream to work for Chef Gordon Ramsey.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1787922840000",
       "channelId": "rthk-33",
       "title": "焦點訪談",
@@ -4588,6 +5110,15 @@
       "end": "2026-08-29T00:40:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787923800000",
+      "channelId": "viu-99",
+      "title": "偶像瘋子",
+      "start": "2026-08-28T13:30:00.000Z",
+      "end": "2026-08-28T14:30:00.000Z",
+      "description": "與此同時，世娜意識到這場車禍是有人精心策劃的。隨著調查的深入，關於宇成的更多真相浮出水面。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787923860000",
@@ -4752,6 +5283,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787925600000",
+      "channelId": "viu-96",
+      "title": "重塑人生",
+      "start": "2026-08-28T14:00:00.000Z",
+      "end": "2026-08-28T15:00:00.000Z",
+      "description": "In a unique clinic in the Yorkshire countryside, activist Jono Lancaster and a team of doctors provide life-changing support and cutting-edge care for people with visible facial differences.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-32-1787925900000",
       "channelId": "rthk-32",
       "title": "凝聚香港",
@@ -4831,6 +5371,15 @@
       "end": "2026-08-28T22:40:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787927400000",
+      "channelId": "viu-99",
+      "title": "公司！我要打Pickleball｜終極一戰",
+      "start": "2026-08-28T14:30:00.000Z",
+      "end": "2026-08-28T15:00:00.000Z",
+      "description": "《公司！我要打Pickleball》的最後一場男雙，兩邊都派出黃金拍檔，戰況難分難解。中途更有球員受傷，需要退賽。換人之後，比賽節奏似乎被打亂。兩隊隊長眼中只有贏球，這場榮譽之戰，究竟誰能一擊致勝，贏下比賽？",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1787927520000",
@@ -4932,6 +5481,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1787929200000",
+      "channelId": "viu-96",
+      "title": "ViuTV News",
+      "start": "2026-08-28T15:00:00.000Z",
+      "end": "2026-08-28T15:15:00.000Z",
+      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1787929200000",
+      "channelId": "viu-99",
+      "title": "晚吹 - 總有一瓣喺左近｜九龍百年名校靈異事件",
+      "start": "2026-08-28T15:00:00.000Z",
+      "end": "2026-08-28T15:30:00.000Z",
+      "description": "校園奇談是大家讀書時期的共同回憶。九龍城區一間名校有着百年歷史，日佔時期被日軍強行徵用作醫院，這些建築目前仍然用作校舍，自然有不少靈異故事在師生間流傳，包括學校球場屢屢出現神秘黑影、亦有留宿老師在校內目睹女靈現身的恐怖經歷！",
+      "source": "ViuTV"
+    },
+    {
       "id": "hoy-76-1787930100000",
       "channelId": "hoy-76",
       "title": "Green Touch",
@@ -5029,6 +5596,15 @@
       "end": "2026-08-29T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1787931000000",
+      "channelId": "viu-99",
+      "title": "3 分鐘熱度",
+      "start": "2026-08-28T15:30:00.000Z",
+      "end": "2026-08-28T15:35:00.000Z",
+      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1787931900000",
