@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-22T08:50:37.525Z",
+  "updatedAt": "2026-08-22T13:03:03.639Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -275,7 +275,7 @@
       "title": "東張西望[粵]",
       "start": "2026-08-23T00:35:00+08:00",
       "end": "2026-08-23T01:05:00+08:00",
-      "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "description": "遊戲卡店結業風波，多名市民控訴預訂卡牌並付款後負責人失聯，懷疑對方捲款潛逃，涉款逾百萬元。母親驚見女兒小手通紅且冒出水泡，懷疑遭外傭疏忽照顧。翻看閉路電視，揭發更多疑似虐兒及疏忽照顧畫片。車輛由小路駛出前本應停車觀察，但有私家車卻罔顧安全高速駛出，撞上其他車輛後更肇事逃逸。《中年好聲音4》七強選手出席宣傳活動，並為明日舉行的《登峯之戰》揀選出場次序，帶來活動花絮。另送上古天樂演唱會的精彩舞台片段。",
       "source": "TVB"
     },
     {
@@ -2335,7 +2335,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T11:10:00+08:00",
-      "end": "2026-08-23T11:30:00+08:00",
+      "end": "2026-08-23T11:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -2346,6 +2346,15 @@
       "start": "2026-08-23T11:15:00+08:00",
       "end": "2026-08-23T11:30:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787455200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T11:20:00+08:00",
+      "end": "2026-08-23T11:30:00+08:00",
+      "description": "廣彩人物紋大碗",
       "source": "港台"
     },
     {
@@ -2578,7 +2587,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T12:10:00+08:00",
-      "end": "2026-08-23T12:30:00+08:00",
+      "end": "2026-08-23T12:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -2590,6 +2599,15 @@
       "end": "2026-08-23T13:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1787458800000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T12:20:00+08:00",
+      "end": "2026-08-23T12:30:00+08:00",
+      "description": "乾隆款外粉彩內青花鏤空花果紋六方套瓶",
+      "source": "港台"
     },
     {
       "id": "hoy-77-1787459400000",
@@ -2839,7 +2857,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T13:07:00+08:00",
-      "end": "2026-08-23T13:30:00+08:00",
+      "end": "2026-08-23T13:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -2851,6 +2869,15 @@
       "end": "2026-08-23T13:20:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1787462400000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T13:20:00+08:00",
+      "end": "2026-08-23T13:30:00+08:00",
+      "description": "戰國巴蜀虎頭紋「成都」銘文青銅矛",
+      "source": "港台"
     },
     {
       "id": "tvb-81-1787462400000",
@@ -3028,8 +3055,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T14:10:00+08:00",
-      "end": "2026-08-23T14:30:00+08:00",
+      "end": "2026-08-23T14:20:00+08:00",
       "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787466000000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T14:20:00+08:00",
+      "end": "2026-08-23T14:30:00+08:00",
+      "description": "銅車馬",
       "source": "港台"
     },
     {
@@ -3226,8 +3262,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T15:10:00+08:00",
-      "end": "2026-08-23T15:30:00+08:00",
+      "end": "2026-08-23T15:20:00+08:00",
       "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787469600000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T15:20:00+08:00",
+      "end": "2026-08-23T15:30:00+08:00",
+      "description": "長信宮燈",
       "source": "港台"
     },
     {
@@ -3460,7 +3505,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T16:10:00+08:00",
-      "end": "2026-08-23T16:30:00+08:00",
+      "end": "2026-08-23T16:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -3481,6 +3526,15 @@
       "end": "2026-08-23T08:30:00.000Z",
       "description": "Gus, there was a little boy who wanted to become The Greatest knight in the whole kingdom of Karamel. The problem is, Gus is - ITSY BITSY. Gus will prove to one and all that a brave heart can overcome everything.",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787473200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T16:20:00+08:00",
+      "end": "2026-08-23T16:30:00+08:00",
+      "description": "四神雲氣圖壁畫",
+      "source": "港台"
     },
     {
       "id": "hoy-76-1787473800000",
@@ -3712,7 +3766,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T17:10:00+08:00",
-      "end": "2026-08-23T17:30:00+08:00",
+      "end": "2026-08-23T17:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -3724,6 +3778,15 @@
       "end": "2026-08-23T09:30:00.000Z",
       "description": "Paul, 10, is a typical little boy. He goes to school, he plays sports, he is secretly in love, he tries to do as little as possible at home, he confuses his parents to get what he wants. And most of all, he would like them to finally understand that he’s not a baby anymore and is old enough to do things ON HIS OWN! Except that... he has a strange gift... or curse... As soon as someone says the words, “When I was your age...” Paul is immediately hurled back to the time when the person he is talking to was 10 years old like he is now. He can shoot back 20, 30...70 years in time! Before mobile phones existed... When boys and girls didn't go to the same school... When there was only one television station... When toilets were at the far end of the yard... In other words, for a boy in 2021: ancient history! So as soon as he hears, “When I was your age,” gasp, gulp, where and when will he land this time? And in what completely crazy situation?”",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787476800000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T17:20:00+08:00",
+      "end": "2026-08-23T17:30:00+08:00",
+      "description": "銅坐龍",
+      "source": "港台"
     },
     {
       "id": "rthk-33-1787477160000",
@@ -3955,7 +4018,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T18:10:00+08:00",
-      "end": "2026-08-23T18:30:00+08:00",
+      "end": "2026-08-23T18:20:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
     },
@@ -3966,6 +4029,15 @@
       "start": "2026-08-23T18:15:00+08:00",
       "end": "2026-08-23T19:00:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787480400000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-23T18:20:00+08:00",
+      "end": "2026-08-23T18:30:00+08:00",
+      "description": "七璜聯珠組玉佩",
       "source": "港台"
     },
     {
