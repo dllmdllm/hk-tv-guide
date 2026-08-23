@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "updatedAt": "2026-08-23T16:45:34.660Z",
+  "updatedAt": "2026-08-23T20:42:04.914Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -135,6 +135,51 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788624000000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T00:00:00+08:00",
+      "end": "2026-09-06T00:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788624000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T00:00:00+08:00",
+      "end": "2026-09-06T00:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788624420000",
+      "channelId": "rthk-33",
+      "title": "動物世界",
+      "start": "2026-09-06T00:07:00+08:00",
+      "end": "2026-09-06T00:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788625800000",
+      "channelId": "rthk-35",
+      "title": "The Agenda",
+      "start": "2026-09-06T00:30:00+08:00",
+      "end": "2026-09-06T01:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788626220000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T00:37:00+08:00",
+      "end": "2026-09-06T01:23:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788627600000",
       "channelId": "rthk-31",
       "title": "體壇快閃",
@@ -149,6 +194,24 @@
       "title": "雙城聯動",
       "start": "2026-09-06T01:00:00+08:00",
       "end": "2026-09-06T01:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788627600000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-09-06T01:00:00+08:00",
+      "end": "2026-09-06T01:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788628980000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T01:23:00+08:00",
+      "end": "2026-09-06T02:11:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -171,6 +234,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788629400000",
+      "channelId": "rthk-35",
+      "title": "Talk Africa",
+      "start": "2026-09-06T01:30:00+08:00",
+      "end": "2026-09-06T02:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788631200000",
       "channelId": "rthk-31",
       "title": "醫生與你 - 醫學．人 2026",
@@ -180,10 +252,55 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788631200000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-09-06T02:00:00+08:00",
+      "end": "2026-09-06T02:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788631860000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-09-06T02:11:00+08:00",
+      "end": "2026-09-06T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788633000000",
       "channelId": "rthk-31",
       "title": "命懸一生",
       "start": "2026-09-06T02:30:00+08:00",
+      "end": "2026-09-06T03:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788633000000",
+      "channelId": "rthk-35",
+      "title": "Biz Talk",
+      "start": "2026-09-06T02:30:00+08:00",
+      "end": "2026-09-06T03:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788634800000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T03:00:00+08:00",
+      "end": "2026-09-06T03:46:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788634800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T03:00:00+08:00",
       "end": "2026-09-06T03:30:00+08:00",
       "description": "",
       "source": "港台"
@@ -198,9 +315,36 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788636600000",
+      "channelId": "rthk-35",
+      "title": "Travelogue",
+      "start": "2026-09-06T03:30:00+08:00",
+      "end": "2026-09-06T04:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788637560000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T03:46:00+08:00",
+      "end": "2026-09-06T04:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788638400000",
       "channelId": "rthk-31",
       "title": "傳媒初體驗 第三季",
+      "start": "2026-09-06T04:00:00+08:00",
+      "end": "2026-09-06T04:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788638400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
       "start": "2026-09-06T04:00:00+08:00",
       "end": "2026-09-06T04:30:00+08:00",
       "description": "",
@@ -216,12 +360,48 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788640200000",
+      "channelId": "rthk-35",
+      "title": "The Agenda",
+      "start": "2026-09-06T04:30:00+08:00",
+      "end": "2026-09-06T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788640320000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-09-06T04:32:00+08:00",
+      "end": "2026-09-06T05:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788642000000",
       "channelId": "rthk-31",
       "title": "香港故事:尾巴會說話(英文版)",
       "start": "2026-09-06T05:00:00+08:00",
       "end": "2026-09-06T05:30:00+08:00",
       "description": "酋長日記",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788642000000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-09-06T05:00:00+08:00",
+      "end": "2026-09-06T05:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788642000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T05:00:00+08:00",
+      "end": "2026-09-06T05:30:00+08:00",
+      "description": "",
       "source": "港台"
     },
     {
@@ -234,10 +414,55 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788643800000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-09-06T05:30:00+08:00",
+      "end": "2026-09-06T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788643800000",
+      "channelId": "rthk-35",
+      "title": "Leaders Talk",
+      "start": "2026-09-06T05:30:00+08:00",
+      "end": "2026-09-06T06:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788645600000",
+      "channelId": "rthk-33",
+      "title": "朝聞天下",
+      "start": "2026-09-06T06:00:00+08:00",
+      "end": "2026-09-06T08:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788645600000",
+      "channelId": "rthk-35",
+      "title": "Full Frame",
+      "start": "2026-09-06T06:00:00+08:00",
+      "end": "2026-09-06T07:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788647400000",
       "channelId": "rthk-31",
       "title": "非凡人物",
       "start": "2026-09-06T06:30:00+08:00",
+      "end": "2026-09-06T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788649200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T07:00:00+08:00",
       "end": "2026-09-06T07:30:00+08:00",
       "description": "",
       "source": "港台"
@@ -252,11 +477,29 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788651000000",
+      "channelId": "rthk-35",
+      "title": "Assignment Asia",
+      "start": "2026-09-06T07:30:00+08:00",
+      "end": "2026-09-06T08:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788652800000",
       "channelId": "rthk-31",
       "title": "盛事傳城",
       "start": "2026-09-06T08:00:00+08:00",
       "end": "2026-09-06T08:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788652800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T08:00:00+08:00",
+      "end": "2026-09-06T08:30:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -279,6 +522,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788654600000",
+      "channelId": "rthk-35",
+      "title": "The Agenda",
+      "start": "2026-09-06T08:30:00+08:00",
+      "end": "2026-09-06T09:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788654720000",
+      "channelId": "rthk-33",
+      "title": "生活圈",
+      "start": "2026-09-06T08:32:00+08:00",
+      "end": "2026-09-06T09:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788655200000",
       "channelId": "rthk-31",
       "title": "BobieLand",
@@ -297,11 +558,29 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788656400000",
+      "channelId": "rthk-35",
+      "title": "Big Story",
+      "start": "2026-09-06T09:00:00+08:00",
+      "end": "2026-09-06T10:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788657000000",
       "channelId": "rthk-31",
       "title": "BobieLand",
       "start": "2026-09-06T09:10:00+08:00",
       "end": "2026-09-06T09:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788657300000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T09:15:00+08:00",
+      "end": "2026-09-06T10:01:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -333,6 +612,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788660000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T10:00:00+08:00",
+      "end": "2026-09-06T10:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788660060000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T10:01:00+08:00",
+      "end": "2026-09-06T10:47:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788661200000",
       "channelId": "rthk-31",
       "title": "盛事傳城",
@@ -348,6 +645,24 @@
       "start": "2026-09-06T10:25:00+08:00",
       "end": "2026-09-06T10:55:00+08:00",
       "description": "指尖與心間",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788661800000",
+      "channelId": "rthk-35",
+      "title": "Inheritors",
+      "start": "2026-09-06T10:30:00+08:00",
+      "end": "2026-09-06T11:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788662820000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T10:47:00+08:00",
+      "end": "2026-09-06T11:33:00+08:00",
+      "description": "",
       "source": "港台"
     },
     {
@@ -378,10 +693,28 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788663600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T11:00:00+08:00",
+      "end": "2026-09-06T11:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788664200000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-09-06T11:10:00+08:00",
+      "end": "2026-09-06T11:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788664500000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-09-06T11:15:00+08:00",
       "end": "2026-09-06T11:30:00+08:00",
       "description": "",
       "source": "港台"
@@ -405,6 +738,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788665400000",
+      "channelId": "rthk-35",
+      "title": "Leaders Talk",
+      "start": "2026-09-06T11:30:00+08:00",
+      "end": "2026-09-06T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788665580000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-09-06T11:33:00+08:00",
+      "end": "2026-09-06T12:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788666000000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -419,6 +770,24 @@
       "title": "新聞簡報",
       "start": "2026-09-06T12:00:00+08:00",
       "end": "2026-09-06T12:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788667200000",
+      "channelId": "rthk-33",
+      "title": "新聞30分",
+      "start": "2026-09-06T12:00:00+08:00",
+      "end": "2026-09-06T12:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788667200000",
+      "channelId": "rthk-35",
+      "title": "Global Watch",
+      "start": "2026-09-06T12:00:00+08:00",
+      "end": "2026-09-06T13:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -450,6 +819,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788669120000",
+      "channelId": "rthk-33",
+      "title": "今日說法",
+      "start": "2026-09-06T12:32:00+08:00",
+      "end": "2026-09-06T13:01:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788669600000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -473,6 +851,24 @@
       "title": "新聞簡報",
       "start": "2026-09-06T13:00:00+08:00",
       "end": "2026-09-06T13:07:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788670800000",
+      "channelId": "rthk-35",
+      "title": "Full Frame",
+      "start": "2026-09-06T13:00:00+08:00",
+      "end": "2026-09-06T14:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788670860000",
+      "channelId": "rthk-33",
+      "title": "動物世界",
+      "start": "2026-09-06T13:01:00+08:00",
+      "end": "2026-09-06T13:33:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -504,6 +900,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788672780000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T13:33:00+08:00",
+      "end": "2026-09-06T14:19:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788673020000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -531,6 +936,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788674400000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T14:00:00+08:00",
+      "end": "2026-09-06T14:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788674700000",
       "channelId": "rthk-31",
       "title": "識多一點點",
@@ -549,11 +963,29 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788675540000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T14:19:00+08:00",
+      "end": "2026-09-06T15:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788676200000",
       "channelId": "rthk-32",
       "title": "新聞簡報",
       "start": "2026-09-06T14:30:00+08:00",
       "end": "2026-09-06T14:40:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788676200000",
+      "channelId": "rthk-35",
+      "title": "Biz Talk",
+      "start": "2026-09-06T14:30:00+08:00",
+      "end": "2026-09-06T15:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -585,6 +1017,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788678000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T15:00:00+08:00",
+      "end": "2026-09-06T15:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788678300000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T15:05:00+08:00",
+      "end": "2026-09-06T15:51:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788678600000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -612,6 +1062,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788679800000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-09-06T15:30:00+08:00",
+      "end": "2026-09-06T16:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788680400000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -621,11 +1080,29 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788681060000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T15:51:00+08:00",
+      "end": "2026-09-06T16:39:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788681600000",
       "channelId": "rthk-32",
       "title": "新聞簡報",
       "start": "2026-09-06T16:00:00+08:00",
       "end": "2026-09-06T16:10:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788681600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T16:00:00+08:00",
+      "end": "2026-09-06T16:30:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -648,6 +1125,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788683400000",
+      "channelId": "rthk-35",
+      "title": "Talk Africa",
+      "start": "2026-09-06T16:30:00+08:00",
+      "end": "2026-09-06T17:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788683940000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-09-06T16:39:00+08:00",
+      "end": "2026-09-06T17:08:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788684000000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -666,6 +1161,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788685200000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T17:00:00+08:00",
+      "end": "2026-09-06T17:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788685680000",
+      "channelId": "rthk-33",
+      "title": "第一動畫樂園",
+      "start": "2026-09-06T17:08:00+08:00",
+      "end": "2026-09-06T18:08:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788685800000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -680,6 +1193,15 @@
       "title": "新聞簡報",
       "start": "2026-09-06T17:30:00+08:00",
       "end": "2026-09-06T17:40:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788687000000",
+      "channelId": "rthk-35",
+      "title": "Faces of Africa",
+      "start": "2026-09-06T17:30:00+08:00",
+      "end": "2026-09-06T18:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -711,11 +1233,38 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788688800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T18:00:00+08:00",
+      "end": "2026-09-06T18:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788689280000",
+      "channelId": "rthk-33",
+      "title": "正大綜藝·動物來啦",
+      "start": "2026-09-06T18:08:00+08:00",
+      "end": "2026-09-06T19:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788689400000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-09-06T18:10:00+08:00",
       "end": "2026-09-06T18:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788689700000",
+      "channelId": "rthk-35",
+      "title": "Africa Live",
+      "start": "2026-09-06T18:15:00+08:00",
+      "end": "2026-09-06T19:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -765,6 +1314,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788692400000",
+      "channelId": "rthk-33",
+      "title": "新聞聯播",
+      "start": "2026-09-06T19:00:00+08:00",
+      "end": "2026-09-06T19:31:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788692400000",
+      "channelId": "rthk-35",
+      "title": "Zoom in",
+      "start": "2026-09-06T19:00:00+08:00",
+      "end": "2026-09-06T20:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788693300000",
       "channelId": "rthk-31",
       "title": "生活．健康．資訊",
@@ -810,6 +1377,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788694260000",
+      "channelId": "rthk-33",
+      "title": "天氣預報",
+      "start": "2026-09-06T19:31:00+08:00",
+      "end": "2026-09-06T19:39:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788694740000",
+      "channelId": "rthk-33",
+      "title": "特別節目",
+      "start": "2026-09-06T19:39:00+08:00",
+      "end": "2026-09-06T20:24:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788696000000",
       "channelId": "rthk-31",
       "title": "國寶時刻 – 精裝版",
@@ -828,11 +1413,38 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788696000000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T20:00:00+08:00",
+      "end": "2026-09-06T20:15:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788696600000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-09-06T20:10:00+08:00",
       "end": "2026-09-06T20:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788696900000",
+      "channelId": "rthk-35",
+      "title": "China 24",
+      "start": "2026-09-06T20:15:00+08:00",
+      "end": "2026-09-06T21:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788697440000",
+      "channelId": "rthk-33",
+      "title": "特別節目",
+      "start": "2026-09-06T20:24:00+08:00",
+      "end": "2026-09-06T21:16:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -873,6 +1485,24 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788699600000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
+      "start": "2026-09-06T21:00:00+08:00",
+      "end": "2026-09-06T21:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788700560000",
+      "channelId": "rthk-33",
+      "title": "焦點訪談",
+      "start": "2026-09-06T21:16:00+08:00",
+      "end": "2026-09-06T21:33:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-31-1788701100000",
       "channelId": "rthk-31",
       "title": "生活．健康．資訊",
@@ -900,11 +1530,47 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788701400000",
+      "channelId": "rthk-35",
+      "title": "The Agenda",
+      "start": "2026-09-06T21:30:00+08:00",
+      "end": "2026-09-06T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788701580000",
+      "channelId": "rthk-33",
+      "title": "人與自然",
+      "start": "2026-09-06T21:33:00+08:00",
+      "end": "2026-09-06T22:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788703200000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-09-06T22:00:00+08:00",
       "end": "2026-09-06T22:05:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788703200000",
+      "channelId": "rthk-33",
+      "title": "晚間新聞",
+      "start": "2026-09-06T22:00:00+08:00",
+      "end": "2026-09-06T22:32:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788703200000",
+      "channelId": "rthk-35",
+      "title": "Big Story",
+      "start": "2026-09-06T22:00:00+08:00",
+      "end": "2026-09-06T23:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -927,9 +1593,27 @@
       "source": "港台"
     },
     {
+      "id": "rthk-33-1788705120000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T22:32:00+08:00",
+      "end": "2026-09-06T23:20:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1788706800000",
       "channelId": "rthk-32",
       "title": "港好十五五",
+      "start": "2026-09-06T23:00:00+08:00",
+      "end": "2026-09-06T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788706800000",
+      "channelId": "rthk-35",
+      "title": "The World Today",
       "start": "2026-09-06T23:00:00+08:00",
       "end": "2026-09-06T23:30:00+08:00",
       "description": "",
@@ -941,6 +1625,15 @@
       "title": "生活．健康．資訊",
       "start": "2026-09-06T23:05:00+08:00",
       "end": "2026-09-06T23:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-33-1788708000000",
+      "channelId": "rthk-33",
+      "title": "電視劇",
+      "start": "2026-09-06T23:20:00+08:00",
+      "end": "2026-09-07T00:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -957,6 +1650,15 @@
       "id": "rthk-32-1788708600000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
+      "start": "2026-09-06T23:30:00+08:00",
+      "end": "2026-09-07T00:00:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788708600000",
+      "channelId": "rthk-35",
+      "title": "Travelogue",
       "start": "2026-09-06T23:30:00+08:00",
       "end": "2026-09-07T00:00:00+08:00",
       "description": "",
