@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T04:54:11.818Z",
+  "updatedAt": "2026-08-23T08:51:15.902Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3065,7 +3065,7 @@
       "title": "識多一點點",
       "start": "2026-08-23T14:05:00+08:00",
       "end": "2026-08-23T15:00:00+08:00",
-      "description": "",
+      "description": "第32集(手語版)香港故事：世界美食堂#1意大利主廚的味覺之旅 (手語版)森動香港#5大樹之靈",
       "source": "港台"
     },
     {
@@ -3100,7 +3100,7 @@
       "channelId": "rthk-32",
       "title": "新聞簡報",
       "start": "2026-08-23T14:30:00+08:00",
-      "end": "2026-08-23T14:40:00+08:00",
+      "end": "2026-08-23T14:32:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3141,11 +3141,29 @@
       "source": "ViuTV"
     },
     {
+      "id": "rthk-32-1787466720000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-23T14:32:00+08:00",
+      "end": "2026-08-23T14:39:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-33-1787466900000",
       "channelId": "rthk-33",
       "title": "歲月有情時 8",
       "start": "2026-08-23T14:35:00+08:00",
       "end": "2026-08-23T15:21:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787467140000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-23T14:39:00+08:00",
+      "end": "2026-08-23T14:40:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3334,7 +3352,7 @@
       "channelId": "rthk-32",
       "title": "新聞簡報",
       "start": "2026-08-23T15:30:00+08:00",
-      "end": "2026-08-23T15:40:00+08:00",
+      "end": "2026-08-23T15:37:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3384,10 +3402,28 @@
       "source": "ViuTV"
     },
     {
+      "id": "rthk-32-1787470620000",
+      "channelId": "rthk-32",
+      "title": "新聞簡報",
+      "start": "2026-08-23T15:37:00+08:00",
+      "end": "2026-08-23T15:40:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "rthk-32-1787470800000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "本地新聞",
       "start": "2026-08-23T15:40:00+08:00",
+      "end": "2026-08-23T15:55:00+08:00",
+      "description": "本地新聞",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787471700000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-08-23T15:55:00+08:00",
       "end": "2026-08-23T16:00:00+08:00",
       "description": "生活．健康．資訊",
       "source": "港台"
@@ -3649,8 +3685,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T16:40:00+08:00",
-      "end": "2026-08-23T17:00:00+08:00",
+      "end": "2026-08-23T16:45:00+08:00",
       "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787474700000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-08-23T16:45:00+08:00",
+      "end": "2026-08-23T16:52:00+08:00",
+      "description": "本地新聞",
       "source": "港台"
     },
     {
@@ -3661,6 +3706,15 @@
       "end": "2026-08-23T09:00:00.000Z",
       "description": "“UNDER THE SOFA” is a comedy in which a group of lost objects get a second chance as they live in hiding under a sofa. Part sitcom, part adventure series, in “Under the Sofa” we meet imperfect characters forced to live together in imperfect harmony, trying to survive in the apartment of a family that aspires to perfection.",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787475120000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-08-23T16:52:00+08:00",
+      "end": "2026-08-23T17:00:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
     },
     {
       "id": "rthk-33-1787475300000",
@@ -3901,8 +3955,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-23T17:40:00+08:00",
-      "end": "2026-08-23T18:00:00+08:00",
+      "end": "2026-08-23T17:45:00+08:00",
       "description": "生活．健康．資訊",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787478300000",
+      "channelId": "rthk-32",
+      "title": "本地新聞",
+      "start": "2026-08-23T17:45:00+08:00",
+      "end": "2026-08-23T17:55:00+08:00",
+      "description": "本地新聞",
       "source": "港台"
     },
     {
@@ -3913,6 +3976,15 @@
       "end": "2026-08-23T10:00:00.000Z",
       "description": "Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787478900000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-08-23T17:55:00+08:00",
+      "end": "2026-08-23T18:00:00+08:00",
+      "description": "生活．健康．資訊",
+      "source": "港台"
     },
     {
       "id": "tvb-81-1787478900000",
