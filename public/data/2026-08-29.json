@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "updatedAt": "2026-08-22T20:42:36.295Z",
+  "updatedAt": "2026-08-23T02:01:52.800Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5292,6 +5292,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1788016500000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-08-29T15:15:00.000Z",
+      "end": "2026-08-29T16:10:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1788016680000",
       "channelId": "rthk-33",
       "title": "南來北往 5",
@@ -5407,6 +5416,15 @@
       "end": "2026-08-30T00:35:00+08:00",
       "description": "屠敏在家晴死後大受打擊，放棄商戰計劃，轉用激進方法綁架卓家四人，並在網絡直播，把廷光的惡行公諸於世。子峰、曉山及時趕到，阻止屠敏殺害廷光；糾纏間不慎啟動炸彈計時器，結果子峰、屠敏和廷光都被埋在瓦礫下…",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1788018300000",
+      "channelId": "viu-99",
+      "title": "怪獸8號｜高牆",
+      "start": "2026-08-29T15:45:00.000Z",
+      "end": "2026-08-29T16:15:00.000Z",
+      "description": "市川雷諾被選為宿有「怪獸6號」力量、並被視為「最強且最危險」的識別怪獸兵器6號的適合者。在成功通過第4部隊隊長．緒方重悟所設下的試用期後，雷諾迎來首次裝備識別怪獸兵器參與的實戰任務。另一方面，與他同樣隸屬於第4部隊的古橋伊春，面對雷諾驚人的成長，內心也激起了複雜的情緒。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1788019020000",
