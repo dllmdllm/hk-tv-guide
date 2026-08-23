@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:51:15.902Z",
+  "updatedAt": "2026-08-23T13:04:51.541Z",
   "dates": [
     "2026-07-01",
     "2026-07-02",
@@ -64,5 +64,7 @@
     "2026-08-30",
     "2026-08-31"
   ],
-  "errors": []
+  "errors": [
+    "TVB: 504 https://content-api.mytvsuper.com/v1/epg?epg_platform=web&country_code=HK&network_code=B&from=20260822&to=20260830"
+  ]
 }
