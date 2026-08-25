@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-24T20:50:46.072Z",
+  "updatedAt": "2026-08-25T01:54:51.892Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -2783,9 +2783,9 @@
     {
       "id": "viu-96-1788066000000",
       "channelId": "viu-96",
-      "title": "ATP 26 精華｜辛辛那堤網球公開賽",
+      "title": "Weekly Re-Viu",
       "start": "2026-08-30T05:00:00.000Z",
-      "end": "2026-08-30T06:00:00.000Z",
+      "end": "2026-08-30T05:30:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -2878,6 +2878,15 @@
       "end": "2026-08-30T14:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1788067800000",
+      "channelId": "viu-96",
+      "title": "愛爾蘭美味環島遊",
+      "start": "2026-08-30T05:30:00.000Z",
+      "end": "2026-08-30T06:00:00.000Z",
+      "description": "Dublin-born celebrity chef Anna Haugh is passionate about Irish food. And after nearly 20 years in London, she’s heading home for The Big Irish Food Tour—a sweet-and-savoury exploration of the Emerald Isle’s unique culture and cuisine.",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1788068220000",
