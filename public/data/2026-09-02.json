@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updatedAt": "2026-08-26T02:00:44.624Z",
+  "updatedAt": "2026-08-26T04:58:11.405Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1010,7 +1010,7 @@
     {
       "id": "rthk-35-1788298200000",
       "channelId": "rthk-35",
-      "title": "The Point with Liu Xin",
+      "title": "The Hub With Wang Guan",
       "start": "2026-09-02T05:30:00+08:00",
       "end": "2026-09-02T06:00:00+08:00",
       "description": "",
@@ -1073,9 +1073,9 @@
     {
       "id": "rthk-35-1788300000000",
       "channelId": "rthk-35",
-      "title": "Americas Now",
+      "title": "The World Today",
       "start": "2026-09-02T06:00:00+08:00",
-      "end": "2026-09-02T07:00:00+08:00",
+      "end": "2026-09-02T06:30:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -1140,6 +1140,15 @@
       "start": "2026-09-02T06:30:00+08:00",
       "end": "2026-09-02T06:45:00+08:00",
       "description": "第二百九十四集 - 《我不是怪獸》下集",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788301800000",
+      "channelId": "rthk-35",
+      "title": "Rediscovering China",
+      "start": "2026-09-02T06:30:00+08:00",
+      "end": "2026-09-02T07:00:00+08:00",
+      "description": "",
       "source": "港台"
     },
     {
@@ -2126,7 +2135,7 @@
     {
       "id": "rthk-35-1788319800000",
       "channelId": "rthk-35",
-      "title": "Travelogue",
+      "title": "The Point with Liu Xin",
       "start": "2026-09-02T11:30:00+08:00",
       "end": "2026-09-02T12:00:00+08:00",
       "description": "",
@@ -2450,9 +2459,9 @@
     {
       "id": "rthk-35-1788325200000",
       "channelId": "rthk-35",
-      "title": "Big Story",
+      "title": "The World Today",
       "start": "2026-09-02T13:00:00+08:00",
-      "end": "2026-09-02T14:00:00+08:00",
+      "end": "2026-09-02T13:15:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2538,6 +2547,15 @@
       "source": "港台"
     },
     {
+      "id": "rthk-35-1788326100000",
+      "channelId": "rthk-35",
+      "title": "Sports Scene",
+      "start": "2026-09-02T13:15:00+08:00",
+      "end": "2026-09-02T13:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
       "id": "tvb-82-1788326100000",
       "channelId": "tvb-82",
       "title": "美食新聞報道[粵]",
@@ -2579,6 +2597,15 @@
       "title": "新聞簡報",
       "start": "2026-09-02T13:30:00+08:00",
       "end": "2026-09-02T13:37:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788327000000",
+      "channelId": "rthk-35",
+      "title": "Rediscovering China",
+      "start": "2026-09-02T13:30:00+08:00",
+      "end": "2026-09-02T14:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3127,7 +3154,7 @@
       "channelId": "rthk-35",
       "title": "The World Today",
       "start": "2026-09-02T16:00:00+08:00",
-      "end": "2026-09-02T16:30:00+08:00",
+      "end": "2026-09-02T16:15:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3173,6 +3200,15 @@
       "title": "生活．健康．資訊",
       "start": "2026-09-02T16:10:00+08:00",
       "end": "2026-09-02T16:30:00+08:00",
+      "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-35-1788336900000",
+      "channelId": "rthk-35",
+      "title": "Global Business",
+      "start": "2026-09-02T16:15:00+08:00",
+      "end": "2026-09-02T17:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3245,15 +3281,6 @@
       "title": "新聞簡報",
       "start": "2026-09-02T16:30:00+08:00",
       "end": "2026-09-02T16:40:00+08:00",
-      "description": "",
-      "source": "港台"
-    },
-    {
-      "id": "rthk-35-1788337800000",
-      "channelId": "rthk-35",
-      "title": "Biz Talk",
-      "start": "2026-09-02T16:30:00+08:00",
-      "end": "2026-09-02T17:00:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3548,7 +3575,7 @@
     {
       "id": "rthk-35-1788341400000",
       "channelId": "rthk-35",
-      "title": "Inheritors",
+      "title": "The Vibe",
       "start": "2026-09-02T17:30:00+08:00",
       "end": "2026-09-02T18:00:00+08:00",
       "description": "",
@@ -3980,7 +4007,7 @@
     {
       "id": "rthk-35-1788348600000",
       "channelId": "rthk-35",
-      "title": "Leaders Talk",
+      "title": "Dialogue",
       "start": "2026-09-02T19:30:00+08:00",
       "end": "2026-09-02T20:00:00+08:00",
       "description": "",
@@ -4376,7 +4403,7 @@
     {
       "id": "rthk-35-1788354000000",
       "channelId": "rthk-35",
-      "title": "The World Today",
+      "title": "Global Business",
       "start": "2026-09-02T21:00:00+08:00",
       "end": "2026-09-02T21:30:00+08:00",
       "description": "",
@@ -4475,7 +4502,7 @@
     {
       "id": "rthk-35-1788355800000",
       "channelId": "rthk-35",
-      "title": "Biz Talk",
+      "title": "The Point with Liu Xin",
       "start": "2026-09-02T21:30:00+08:00",
       "end": "2026-09-02T22:00:00+08:00",
       "description": "",
@@ -4691,7 +4718,7 @@
     {
       "id": "rthk-35-1788359400000",
       "channelId": "rthk-35",
-      "title": "Assignment Asia",
+      "title": "World Insight with Tian Wei",
       "start": "2026-09-02T22:30:00+08:00",
       "end": "2026-09-02T23:00:00+08:00",
       "description": "",
@@ -4898,7 +4925,7 @@
     {
       "id": "rthk-35-1788363000000",
       "channelId": "rthk-35",
-      "title": "Inheritors",
+      "title": "The Vibe",
       "start": "2026-09-02T23:30:00+08:00",
       "end": "2026-09-03T00:00:00+08:00",
       "description": "",

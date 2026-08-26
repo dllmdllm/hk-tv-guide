@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-08-26T02:00:44.624Z",
+  "updatedAt": "2026-08-26T04:58:11.405Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -983,7 +983,7 @@
     {
       "id": "rthk-35-1788211800000",
       "channelId": "rthk-35",
-      "title": "The Hub With Wang Guan",
+      "title": "The Point with Liu Xin",
       "start": "2026-09-01T05:30:00+08:00",
       "end": "2026-09-01T06:00:00+08:00",
       "description": "",
@@ -2090,7 +2090,7 @@
     {
       "id": "rthk-35-1788233400000",
       "channelId": "rthk-35",
-      "title": "The Point with Liu Xin",
+      "title": "The Hub With Wang Guan",
       "start": "2026-09-01T11:30:00+08:00",
       "end": "2026-09-01T12:00:00+08:00",
       "description": "",
@@ -2549,7 +2549,7 @@
     {
       "id": "rthk-35-1788240600000",
       "channelId": "rthk-35",
-      "title": "Assignment Asia",
+      "title": "Rediscovering China",
       "start": "2026-09-01T13:30:00+08:00",
       "end": "2026-09-01T14:00:00+08:00",
       "description": "",
@@ -4430,7 +4430,7 @@
     {
       "id": "rthk-35-1788269400000",
       "channelId": "rthk-35",
-      "title": "The Point with Liu Xin",
+      "title": "The Hub With Wang Guan",
       "start": "2026-09-01T21:30:00+08:00",
       "end": "2026-09-01T22:00:00+08:00",
       "description": "",
