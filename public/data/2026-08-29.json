@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "updatedAt": "2026-08-27T22:18:45.538Z",
+  "updatedAt": "2026-08-28T11:29:17.047Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -140,7 +140,7 @@
       "title": "時事脈動",
       "start": "2026-08-29T00:00:00+08:00",
       "end": "2026-08-29T00:10:00+08:00",
-      "description": "",
+      "description": "時事脈動 (英語)",
       "source": "港台"
     },
     {
@@ -365,7 +365,7 @@
       "title": "東張西望[粵]",
       "start": "2026-08-29T01:00:00+08:00",
       "end": "2026-08-29T01:35:00+08:00",
-      "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "description": "近月，內地某齣動畫片大熱，網上隨即出現騙徒聲稱出售電影周邊，意圖騙取買家的個人與信用卡資料。的士於隧道內遭旅遊巴追撞，卻因閉路電視片段未能清晰捕捉旅巴司機樣貌，令的士司機索償無門。受害司機質疑現行法律存在漏洞，讓旅巴公司能逃避提供肇事司機的資料。許雲妮舉行粉絲聚會，獲鄭家聲與《中4》其他戰友撐場。來自《魔音女團》的一眾藝員參與拍攝微短劇，送上相關活動花絮。擔心衣物殘留病毒與細菌？這集帶來洗衣資訊。",
       "source": "TVB"
     },
     {
@@ -560,10 +560,10 @@
     {
       "id": "rthk-32-1787940000000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "寰宇直播",
       "start": "2026-08-29T02:00:00+08:00",
-      "end": "2026-08-29T07:30:00+08:00",
-      "description": "",
+      "end": "2026-08-29T02:50:00+08:00",
+      "description": "寰宇直播",
       "source": "港台"
     },
     {
@@ -691,6 +691,15 @@
       "end": "2026-08-29T03:30:00+08:00",
       "description": "傅柔聽說周王被皇上杖責，內心愧疚，便去探望他、為他讀書。楚慕墜崖的消息傳回軍中，傅濤本想趁陸雲戟醉酒時復仇，但叛軍突然殺出，傅濤解決叛軍餘孽，反得到陸家父子讚賞提拔。傅柔得知楚慕戰死的噩耗，一病不起。",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1787943000000",
+      "channelId": "rthk-32",
+      "title": "生活．健康．資訊",
+      "start": "2026-08-29T02:50:00+08:00",
+      "end": "2026-08-29T07:30:00+08:00",
+      "description": "",
+      "source": "港台"
     },
     {
       "id": "tvb-81-1787943000000",
@@ -1454,7 +1463,7 @@
       "title": "盛事傳城",
       "start": "2026-08-29T07:30:00+08:00",
       "end": "2026-08-29T07:35:00+08:00",
-      "description": "",
+      "description": "CENTRESTAGE國際時尚匯展；琳瑯珠寶珍藏展",
       "source": "港台"
     },
     {
@@ -1499,7 +1508,7 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-08-29T07:35:00+08:00",
       "end": "2026-08-29T07:40:00+08:00",
-      "description": "",
+      "description": "政正關你事 - 官員講話摘要 #49 (孫東、許澤森、羅淑佩、林國偉)",
       "source": "港台"
     },
     {
@@ -1571,7 +1580,7 @@
       "title": "盛事傳城",
       "start": "2026-08-29T08:00:00+08:00",
       "end": "2026-08-29T08:05:00+08:00",
-      "description": "",
+      "description": "CENTRESTAGE國際時尚匯展；琳瑯珠寶珍藏展",
       "source": "港台"
     },
     {
@@ -2192,7 +2201,7 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-08-29T10:50:00+08:00",
       "end": "2026-08-29T10:55:00+08:00",
-      "description": "",
+      "description": "政正關你事 - 官員講話摘要 #49 (孫東、許澤森、羅淑佩、林國偉)",
       "source": "港台"
     },
     {
@@ -2308,7 +2317,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T11:10:00+08:00",
-      "end": "2026-08-29T11:30:00+08:00",
+      "end": "2026-08-29T11:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2319,6 +2328,15 @@
       "start": "2026-08-29T11:15:00+08:00",
       "end": "2026-08-29T11:30:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787973600000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T11:20:00+08:00",
+      "end": "2026-08-29T11:30:00+08:00",
+      "description": "鑲金獸首瑪瑙杯",
       "source": "港台"
     },
     {
@@ -2560,8 +2578,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T12:10:00+08:00",
-      "end": "2026-08-29T12:30:00+08:00",
+      "end": "2026-08-29T12:20:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787977200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T12:20:00+08:00",
+      "end": "2026-08-29T12:30:00+08:00",
+      "description": "蓮鶴方壺",
       "source": "港台"
     },
     {
@@ -2803,7 +2830,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T13:07:00+08:00",
-      "end": "2026-08-29T13:30:00+08:00",
+      "end": "2026-08-29T13:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2815,6 +2842,15 @@
       "end": "2026-08-29T13:20:00+08:00",
       "description": "金融市場瞬息萬變，加上科技發展日新月異，如何影響投資市場？《滙豐Premier Elite財富滙談》，雲集不同行業專家，剖析市場趨勢，講解金融、投資及理財等話題，務求做到深入淺出，聚焦分析不同議題，為大家捕捉市場先機。",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1787980800000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T13:20:00+08:00",
+      "end": "2026-08-29T13:30:00+08:00",
+      "description": "七孔骨笛",
+      "source": "港台"
     },
     {
       "id": "tvb-81-1787980800000",
@@ -2957,7 +2993,7 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-08-29T14:00:00+08:00",
       "end": "2026-08-29T14:05:00+08:00",
-      "description": "",
+      "description": "政正關你事 - 官員講話摘要 #49 (孫東、許澤森、羅淑佩、林國偉)",
       "source": "港台"
     },
     {
@@ -3019,8 +3055,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T14:10:00+08:00",
-      "end": "2026-08-29T14:30:00+08:00",
+      "end": "2026-08-29T14:20:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787984400000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T14:20:00+08:00",
+      "end": "2026-08-29T14:30:00+08:00",
+      "description": "翔鷺紋銅鼓",
       "source": "港台"
     },
     {
@@ -3208,7 +3253,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T15:10:00+08:00",
-      "end": "2026-08-29T15:30:00+08:00",
+      "end": "2026-08-29T15:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3222,12 +3267,21 @@
       "source": "HOY"
     },
     {
+      "id": "rthk-32-1787988000000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T15:20:00+08:00",
+      "end": "2026-08-29T15:30:00+08:00",
+      "description": "鑲嵌綠松石獸面紋銅牌飾",
+      "source": "港台"
+    },
+    {
       "id": "tvb-81-1787988000000",
       "channelId": "tvb-81",
       "title": "地球大神秘[粵]",
       "start": "2026-08-29T15:20:00+08:00",
       "end": "2026-08-29T15:55:00+08:00",
-      "description": "",
+      "description": "《地球大神秘》在過去兩輯，為大家從世界各地大神秘事物之中尋找出路，從而應對未知的將來，並於即將播放的新一輯節目當中，藉揭開終極神秘Secret X更了解地球奧秘。所謂「前事不忘、後事之師」，我們在新一輯節目播放之前，先播放過往兩輯節目的精選片段，透過重溫部分重點大神秘，讓我們從中得到嶄新啟發，為即將進入更深入的尋秘之旅打下更堅實的基礎。",
       "source": "TVB"
     },
     {
@@ -3514,7 +3568,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T16:10:00+08:00",
-      "end": "2026-08-29T16:30:00+08:00",
+      "end": "2026-08-29T16:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3544,6 +3598,15 @@
       "end": "2026-08-29T08:30:00.000Z",
       "description": "Gus, there was a little boy who wanted to become The Greatest knight in the whole kingdom of Karamel. The problem is, Gus is - ITSY BITSY. Gus will prove to one and all that a brave heart can overcome everything.",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787991600000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T16:20:00+08:00",
+      "end": "2026-08-29T16:30:00+08:00",
+      "description": "司馬金龍墓石雕棺床",
+      "source": "港台"
     },
     {
       "id": "hoy-76-1787992200000",
@@ -3793,7 +3856,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T17:10:00+08:00",
-      "end": "2026-08-29T17:30:00+08:00",
+      "end": "2026-08-29T17:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3814,6 +3877,15 @@
       "end": "2026-08-29T09:30:00.000Z",
       "description": "Paul, 10, is a typical little boy. He goes to school, he plays sports, he is secretly in love, he tries to do as little as possible at home, he confuses his parents to get what he wants. And most of all, he would like them to finally understand that he’s not a baby anymore and is old enough to do things ON HIS OWN! Except that... he has a strange gift... or curse... As soon as someone says the words, “When I was your age...” Paul is immediately hurled back to the time when the person he is talking to was 10 years old like he is now. He can shoot back 20, 30...70 years in time! Before mobile phones existed... When boys and girls didn't go to the same school... When there was only one television station... When toilets were at the far end of the yard... In other words, for a boy in 2021: ancient history! So as soon as he hears, “When I was your age,” gasp, gulp, where and when will he land this time? And in what completely crazy situation?”",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1787995200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T17:20:00+08:00",
+      "end": "2026-08-29T17:30:00+08:00",
+      "description": "T形帛畫",
+      "source": "港台"
     },
     {
       "id": "rthk-34-1787995620000",
@@ -4072,7 +4144,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-29T18:10:00+08:00",
-      "end": "2026-08-29T18:30:00+08:00",
+      "end": "2026-08-29T18:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -4083,6 +4155,15 @@
       "start": "2026-08-29T18:15:00+08:00",
       "end": "2026-08-29T19:00:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1787998800000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-29T18:20:00+08:00",
+      "end": "2026-08-29T18:30:00+08:00",
+      "description": "馬王堆一號墓木槨",
       "source": "港台"
     },
     {
@@ -4280,7 +4361,7 @@
       "title": "新聞透視[粵]",
       "start": "2026-08-29T19:00:00+08:00",
       "end": "2026-08-29T19:30:00+08:00",
-      "description": "《新聞透視》，每周專題報道多段香港以至國際的矚目新聞，聚焦港人最關心的民生話題，並邀請各界人士、學者、專家，一同深入探討箇中來龍去脈。",
+      "description": "開學在即，家長忙於為子女採購開學用品，其中中小教科書今個學年平均加價約百分之3.6，高於同期通脹，有家長更反映書簿費一人超過5,000元。為了減輕家長負擔，當局規定出版社「五年不改版」，但不少教材附設電子課本和練習，部分電子附件年年更新，家長要連同實體書全套購買全新教材，會否加重家庭的負擔？近年不少學校推行自攜裝置計劃，要求學生自備指定牌子平板電腦上課，為何電子書未能取代實體書？現時電子學習推行進度及成效如何呢？",
       "source": "TVB"
     },
     {
@@ -4361,7 +4442,7 @@
       "title": "盛事傳城",
       "start": "2026-08-29T19:20:00+08:00",
       "end": "2026-08-29T19:30:00+08:00",
-      "description": "",
+      "description": "CENTRESTAGE國際時尚匯展；琳瑯珠寶珍藏展",
       "source": "港台"
     },
     {
@@ -4415,7 +4496,7 @@
       "title": "雙城聯動",
       "start": "2026-08-29T19:30:00+08:00",
       "end": "2026-08-29T20:00:00+08:00",
-      "description": "雙城聯動 8月29日",
+      "description": "",
       "source": "港台"
     },
     {
@@ -4676,7 +4757,7 @@
       "title": "盛事傳城",
       "start": "2026-08-29T20:15:00+08:00",
       "end": "2026-08-29T20:20:00+08:00",
-      "description": "",
+      "description": "CENTRESTAGE國際時尚匯展；琳瑯珠寶珍藏展",
       "source": "港台"
     },
     {
@@ -5207,7 +5288,7 @@
       "title": "雙城聯動",
       "start": "2026-08-29T23:00:00+08:00",
       "end": "2026-08-29T23:30:00+08:00",
-      "description": "雙城聯動 8月29日",
+      "description": "",
       "source": "港台"
     },
     {
