@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-29T07:08:54.893Z",
+  "updatedAt": "2026-08-29T13:51:53.810Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -293,7 +293,7 @@
       "title": "東張西望[粵]",
       "start": "2026-08-30T00:35:00+08:00",
       "end": "2026-08-30T01:05:00+08:00",
-      "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "description": "早前報道的牛頭角棄貓案，失蹤小貓得有心人尋獲收養，惟熱心義工卻接獲疑似恐嚇惡意來電！農曆七月，市民燒街衣本屬平常，西環高街有紅衣女子燒衣不但「嚇死人」更帶出安全隱患！《2026香港小姐競選決賽》前夕，6號盧蔚晴被抽中試戴后冠，3號李澄晴勇奪友誼小姐，兩位佳麗可擔心中魔咒？聲稱能溶掉血管脂肪的強效魚油丸，事主往青島旅行時購入，吃完有甚麼效果、專家又有何見解？深圳按摩店跨境投訴港客慣犯走數惡行。",
       "source": "TVB"
     },
     {
@@ -2290,7 +2290,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T11:10:00+08:00",
-      "end": "2026-08-30T11:30:00+08:00",
+      "end": "2026-08-30T11:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2301,6 +2301,15 @@
       "start": "2026-08-30T11:15:00+08:00",
       "end": "2026-08-30T11:30:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1788060000000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T11:20:00+08:00",
+      "end": "2026-08-30T11:30:00+08:00",
+      "description": "孔子徒人圖漆衣鏡",
       "source": "港台"
     },
     {
@@ -2542,8 +2551,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T12:10:00+08:00",
-      "end": "2026-08-30T12:30:00+08:00",
+      "end": "2026-08-30T12:20:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1788063600000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T12:20:00+08:00",
+      "end": "2026-08-30T12:30:00+08:00",
+      "description": "琺華彩貼金應龍紋梅瓶",
       "source": "港台"
     },
     {
@@ -2812,7 +2830,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T13:07:00+08:00",
-      "end": "2026-08-30T13:30:00+08:00",
+      "end": "2026-08-30T13:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2824,6 +2842,15 @@
       "end": "2026-08-30T13:20:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "rthk-32-1788067200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T13:20:00+08:00",
+      "end": "2026-08-30T13:30:00+08:00",
+      "description": "太陽神鳥金飾",
+      "source": "港台"
     },
     {
       "id": "tvb-81-1788067200000",
@@ -3010,8 +3037,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T14:10:00+08:00",
-      "end": "2026-08-30T14:30:00+08:00",
+      "end": "2026-08-30T14:20:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1788070800000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T14:20:00+08:00",
+      "end": "2026-08-30T14:30:00+08:00",
+      "description": "人物御龍帛畫、人物龍鳳帛畫",
       "source": "港台"
     },
     {
@@ -3217,8 +3253,17 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T15:10:00+08:00",
-      "end": "2026-08-30T15:30:00+08:00",
+      "end": "2026-08-30T15:20:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1788074400000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T15:20:00+08:00",
+      "end": "2026-08-30T15:30:00+08:00",
+      "description": "曾侯乙编鐘",
       "source": "港台"
     },
     {
@@ -3478,7 +3523,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T16:10:00+08:00",
-      "end": "2026-08-30T16:30:00+08:00",
+      "end": "2026-08-30T16:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3499,6 +3544,15 @@
       "end": "2026-08-30T08:30:00.000Z",
       "description": "Gus, there was a little boy who wanted to become The Greatest knight in the whole kingdom of Karamel. The problem is, Gus is - ITSY BITSY. Gus will prove to one and all that a brave heart can overcome everything.",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1788078000000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T16:20:00+08:00",
+      "end": "2026-08-30T16:30:00+08:00",
+      "description": "《坤輿萬國全圖》",
+      "source": "港台"
     },
     {
       "id": "hoy-77-1788078600000",
@@ -3730,7 +3784,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T17:10:00+08:00",
-      "end": "2026-08-30T17:30:00+08:00",
+      "end": "2026-08-30T17:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3742,6 +3796,15 @@
       "end": "2026-08-30T09:30:00.000Z",
       "description": "Paul, 10, is a typical little boy. He goes to school, he plays sports, he is secretly in love, he tries to do as little as possible at home, he confuses his parents to get what he wants. And most of all, he would like them to finally understand that he’s not a baby anymore and is old enough to do things ON HIS OWN! Except that... he has a strange gift... or curse... As soon as someone says the words, “When I was your age...” Paul is immediately hurled back to the time when the person he is talking to was 10 years old like he is now. He can shoot back 20, 30...70 years in time! Before mobile phones existed... When boys and girls didn't go to the same school... When there was only one television station... When toilets were at the far end of the yard... In other words, for a boy in 2021: ancient history! So as soon as he hears, “When I was your age,” gasp, gulp, where and when will he land this time? And in what completely crazy situation?”",
       "source": "ViuTV"
+    },
+    {
+      "id": "rthk-32-1788081600000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T17:20:00+08:00",
+      "end": "2026-08-30T17:30:00+08:00",
+      "description": "魯國大玉璧",
+      "source": "港台"
     },
     {
       "id": "rthk-33-1788082020000",
@@ -3982,7 +4045,7 @@
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
       "start": "2026-08-30T18:10:00+08:00",
-      "end": "2026-08-30T18:30:00+08:00",
+      "end": "2026-08-30T18:20:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -3993,6 +4056,15 @@
       "start": "2026-08-30T18:15:00+08:00",
       "end": "2026-08-30T19:00:00+08:00",
       "description": "",
+      "source": "港台"
+    },
+    {
+      "id": "rthk-32-1788085200000",
+      "channelId": "rthk-32",
+      "title": "國寶時刻",
+      "start": "2026-08-30T18:20:00+08:00",
+      "end": "2026-08-30T18:30:00+08:00",
+      "description": "永樂大鐘",
       "source": "港台"
     },
     {
