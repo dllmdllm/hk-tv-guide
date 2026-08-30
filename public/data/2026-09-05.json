@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-08-29T22:41:11.911Z",
+  "updatedAt": "2026-08-30T05:29:24.618Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5202,6 +5202,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1788621300000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-09-05T15:15:00.000Z",
+      "end": "2026-09-05T16:00:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1788621480000",
       "channelId": "rthk-33",
       "title": "南來北往 19",
@@ -5308,6 +5317,15 @@
       "end": "2026-09-06T00:35:00+08:00",
       "description": "Ｏ記跟蹤沛國軍火商到演唱會進行交易，期間沛國流亡公主與同黨企圖搶奪懷疑裝有軍火的手提箱，並發生槍戰，Ｏ記要求飛虎隊支援；碰巧現場有阿軒等飛虎隊成員被脅持做人質，范Sir要求阿軒等人裡應外合，救出所有人質。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1788623100000",
+      "channelId": "viu-99",
+      "title": "怪獸8號｜宿命",
+      "start": "2026-09-05T15:45:00.000Z",
+      "end": "2026-09-05T16:15:00.000Z",
+      "description": "面對快被怪獸6號之力吞噬的雷諾，伊春對他嚴厲叱責並激勵鼓舞，毅然挺身迎戰主獸。伊春在那瞬間釋放出極高的解放戰力，其與緒方相同的「瞬間適合者」資質正逐漸覺醒。伊春與雷諾憑藉對彼此的信任為武器，一同拉近了獲勝的契機。看到兩人的模樣，緒方回想起過去與同事四之宮光之間的對話。",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1788623400000",
