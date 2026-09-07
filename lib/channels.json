@@ -1,0 +1,16 @@
+[
+  { "id": "rthk-31", "number": 31, "name": "港台電視 31", "operator": "港台", "accent": "#31c48d", "sourceUrl": "https://www.rthk.hk/timetable/tv31" },
+  { "id": "rthk-32", "number": 32, "name": "港台電視 32", "operator": "港台", "accent": "#31c48d", "sourceUrl": "https://www.rthk.hk/timetable/tv32" },
+  { "id": "rthk-33", "number": 33, "name": "港台電視 33", "operator": "港台", "accent": "#31c48d", "sourceUrl": "https://www.rthk.hk/timetable/tv33" },
+  { "id": "rthk-34", "number": 34, "name": "港台電視 34", "operator": "港台", "accent": "#31c48d", "sourceUrl": "https://www.rthk.hk/timetable/tv34" },
+  { "id": "rthk-35", "number": 35, "name": "港台電視 35", "operator": "港台", "accent": "#31c48d", "sourceUrl": "https://www.rthk.hk/timetable/tv35" },
+  { "id": "hoy-76", "number": 76, "name": "HOY 76", "operator": "HOY", "accent": "#ff9f43", "sourceUrl": "https://hoy.tv/live" },
+  { "id": "hoy-77", "number": 77, "name": "HOY 77", "operator": "HOY", "accent": "#ff9f43", "sourceUrl": "https://hoy.tv/live" },
+  { "id": "hoy-78", "number": 78, "name": "HOY 78", "operator": "HOY", "accent": "#ff9f43", "sourceUrl": "https://hoy.tv/live" },
+  { "id": "tvb-81", "number": 81, "name": "翡翠台", "operator": "TVB", "accent": "#36a3ff", "sourceUrl": "https://programme.tvb.com/" },
+  { "id": "tvb-82", "number": 82, "name": "TVB Plus", "operator": "TVB", "accent": "#36a3ff", "sourceUrl": "https://programme.tvb.com/" },
+  { "id": "tvb-83", "number": 83, "name": "無綫新聞台", "operator": "TVB", "accent": "#36a3ff", "sourceUrl": "https://programme.tvb.com/" },
+  { "id": "tvb-84", "number": 84, "name": "明珠台", "operator": "TVB", "accent": "#36a3ff", "sourceUrl": "https://programme.tvb.com/" },
+  { "id": "viu-96", "number": 96, "name": "ViuTVsix", "operator": "ViuTV", "accent": "#ffd84d", "sourceUrl": "https://viu.tv/epg" },
+  { "id": "viu-99", "number": 99, "name": "ViuTV", "operator": "ViuTV", "accent": "#ffd84d", "sourceUrl": "https://viu.tv/epg" }
+]

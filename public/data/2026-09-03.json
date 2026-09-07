@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "updatedAt": "2026-09-06T22:09:06.890Z",
+  "updatedAt": "2026-09-07T04:21:55.512Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -141,6 +141,7 @@
       "start": "2026-09-03T00:00:00+08:00",
       "end": "2026-09-03T00:30:00+08:00",
       "description": "第一千二百三十八集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -150,6 +151,7 @@
       "start": "2026-09-03T00:00:00+08:00",
       "end": "2026-09-03T00:10:00+08:00",
       "description": "時事脈動 (英語)",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -195,6 +197,7 @@
       "start": "2026-09-03T00:10:00+08:00",
       "end": "2026-09-03T00:35:00+08:00",
       "description": "路政同行四十載(I) - 通港連城",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/40yalongthehighways_eng",
       "source": "港台"
     },
     {
@@ -222,6 +225,7 @@
       "start": "2026-09-03T00:30:00+08:00",
       "end": "2026-09-03T01:00:00+08:00",
       "description": "#569 皮膚癌",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/doctorandyou2021",
       "source": "港台"
     },
     {
@@ -231,6 +235,7 @@
       "start": "2026-09-03T00:35:00+08:00",
       "end": "2026-09-03T01:00:00+08:00",
       "description": "給大澳的情書",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkgreenerybiodiversity_eng",
       "source": "港台"
     },
     {
@@ -285,6 +290,7 @@
       "start": "2026-09-03T01:00:00+08:00",
       "end": "2026-09-03T02:00:00+08:00",
       "description": "第十六集：林臻東無法將第二人格叫出來",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -294,6 +300,7 @@
       "start": "2026-09-03T01:00:00+08:00",
       "end": "2026-09-03T01:30:00+08:00",
       "description": "健康中國藍圖",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/vision15hkschapter",
       "source": "港台"
     },
     {
@@ -348,6 +355,7 @@
       "start": "2026-09-03T01:30:00+08:00",
       "end": "2026-09-03T02:00:00+08:00",
       "description": "第一千零九十八集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -402,6 +410,7 @@
       "start": "2026-09-03T02:00:00+08:00",
       "end": "2026-09-03T02:30:00+08:00",
       "description": "健康中國藍圖",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/vision15hkschapter",
       "source": "港台"
     },
     {
@@ -456,6 +465,7 @@
       "start": "2026-09-03T02:30:00+08:00",
       "end": "2026-09-03T03:30:00+08:00",
       "description": "第四集: 失蹤的陪酒女郎",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/whoishe",
       "source": "港台"
     },
     {
@@ -546,6 +556,7 @@
       "start": "2026-09-03T03:30:00+08:00",
       "end": "2026-09-03T04:30:00+08:00",
       "description": "第四集：血色投名",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -636,6 +647,7 @@
       "start": "2026-09-03T04:30:00+08:00",
       "end": "2026-09-03T05:30:00+08:00",
       "description": "第一集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/raceacrosstheworld3_c",
       "source": "港台"
     },
     {
@@ -735,6 +747,7 @@
       "start": "2026-09-03T05:30:00+08:00",
       "end": "2026-09-03T06:00:00+08:00",
       "description": "#569 皮膚癌",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/doctorandyou2021",
       "source": "港台"
     },
     {
@@ -807,6 +820,7 @@
       "start": "2026-09-03T06:00:00+08:00",
       "end": "2026-09-03T06:30:00+08:00",
       "description": "第一千零九十八集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -852,6 +866,7 @@
       "start": "2026-09-03T06:30:00+08:00",
       "end": "2026-09-03T06:45:00+08:00",
       "description": "第二百九十五集 - 【航天大解密／手作EASY JOB／WhyWhy 花博士】",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -870,6 +885,7 @@
       "start": "2026-09-03T06:45:00+08:00",
       "end": "2026-09-03T07:00:00+08:00",
       "description": "照顧蝸牛",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -915,6 +931,7 @@
       "start": "2026-09-03T07:00:00+08:00",
       "end": "2026-09-03T07:15:00+08:00",
       "description": "菇菇鎮的領袖",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -942,6 +959,7 @@
       "start": "2026-09-03T07:15:00+08:00",
       "end": "2026-09-03T07:23:00+08:00",
       "description": "分享喜悅",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -951,6 +969,7 @@
       "start": "2026-09-03T07:23:00+08:00",
       "end": "2026-09-03T07:30:00+08:00",
       "description": "奇癢無比",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -996,6 +1015,7 @@
       "start": "2026-09-03T07:30:00+08:00",
       "end": "2026-09-03T07:35:00+08:00",
       "description": "CENTRESTAGE國際時尚匯展；盂蘭文化節",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1005,6 +1025,7 @@
       "start": "2026-09-03T07:30:00+08:00",
       "end": "2026-09-03T07:35:00+08:00",
       "description": "CENTRESTAGE國際時尚匯展；盂蘭文化節",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -1041,6 +1062,7 @@
       "start": "2026-09-03T07:35:00+08:00",
       "end": "2026-09-03T07:40:00+08:00",
       "description": "參觀北部都會區暨「連青．有約」青年交流會",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1059,6 +1081,7 @@
       "start": "2026-09-03T07:42:00+08:00",
       "end": "2026-09-03T08:13:00+08:00",
       "description": "中國人民抗日戰爭勝利紀念日儀式",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/victorycpwr",
       "source": "港台"
     },
     {
@@ -1140,6 +1163,7 @@
       "start": "2026-09-03T08:05:00+08:00",
       "end": "2026-09-03T10:00:00+08:00",
       "description": "千禧年代 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1149,6 +1173,7 @@
       "start": "2026-09-03T08:13:00+08:00",
       "end": "2026-09-03T10:00:00+08:00",
       "description": "千禧年代 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1329,6 +1354,7 @@
       "start": "2026-09-03T10:00:00+08:00",
       "end": "2026-09-03T10:55:00+08:00",
       "description": "第三十四集: 中桑友好醫院投入使用",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/welcometomilele",
       "source": "港台"
     },
     {
@@ -1365,6 +1391,7 @@
       "start": "2026-09-03T10:05:00+08:00",
       "end": "2026-09-03T10:30:00+08:00",
       "description": "第一千二百三十八集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -1428,6 +1455,7 @@
       "start": "2026-09-03T10:35:00+08:00",
       "end": "2026-09-03T11:00:00+08:00",
       "description": "第一千零九十八集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -1446,6 +1474,7 @@
       "start": "2026-09-03T10:55:00+08:00",
       "end": "2026-09-03T11:00:00+08:00",
       "description": "參觀北部都會區暨「連青．有約」青年交流會",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1482,6 +1511,7 @@
       "start": "2026-09-03T11:00:00+08:00",
       "end": "2026-09-03T11:05:00+08:00",
       "description": "CENTRESTAGE國際時尚匯展；盂蘭文化節",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1491,6 +1521,7 @@
       "start": "2026-09-03T11:00:00+08:00",
       "end": "2026-09-03T11:02:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1518,6 +1549,7 @@
       "start": "2026-09-03T11:02:00+08:00",
       "end": "2026-09-03T11:06:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1536,6 +1568,7 @@
       "start": "2026-09-03T11:06:00+08:00",
       "end": "2026-09-03T11:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1545,6 +1578,7 @@
       "start": "2026-09-03T11:10:00+08:00",
       "end": "2026-09-03T12:00:00+08:00",
       "description": "香江暖流《好玩醫學》",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/magasenior",
       "source": "港台"
     },
     {
@@ -1572,6 +1606,7 @@
       "start": "2026-09-03T11:20:00+08:00",
       "end": "2026-09-03T11:30:00+08:00",
       "description": "琺華彩貼金應龍紋梅瓶",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1617,6 +1652,7 @@
       "start": "2026-09-03T11:30:00+08:00",
       "end": "2026-09-03T11:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1689,6 +1725,7 @@
       "start": "2026-09-03T12:00:00+08:00",
       "end": "2026-09-03T13:00:00+08:00",
       "description": "周遊列車 再出發 - 三藩市",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/amazingtrainjourneys5",
       "source": "港台"
     },
     {
@@ -1698,6 +1735,7 @@
       "start": "2026-09-03T12:00:00+08:00",
       "end": "2026-09-03T12:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1743,6 +1781,7 @@
       "start": "2026-09-03T12:20:00+08:00",
       "end": "2026-09-03T12:30:00+08:00",
       "description": "孔子徒人圖漆衣鏡",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1770,6 +1809,7 @@
       "start": "2026-09-03T12:30:00+08:00",
       "end": "2026-09-03T12:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1851,6 +1891,7 @@
       "start": "2026-09-03T13:00:00+08:00",
       "end": "2026-09-03T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1860,6 +1901,7 @@
       "start": "2026-09-03T13:00:00+08:00",
       "end": "2026-09-03T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1914,6 +1956,7 @@
       "start": "2026-09-03T13:10:00+08:00",
       "end": "2026-09-03T14:00:00+08:00",
       "description": "精靈一點 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/healthpedia_tv",
       "source": "港台"
     },
     {
@@ -1932,6 +1975,7 @@
       "start": "2026-09-03T13:20:00+08:00",
       "end": "2026-09-03T13:30:00+08:00",
       "description": "亞醜鉞",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1968,6 +2012,7 @@
       "start": "2026-09-03T13:30:00+08:00",
       "end": "2026-09-03T13:37:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2049,6 +2094,7 @@
       "start": "2026-09-03T14:00:00+08:00",
       "end": "2026-09-03T14:05:00+08:00",
       "description": "參觀北部都會區暨「連青．有約」青年交流會",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -2058,6 +2104,7 @@
       "start": "2026-09-03T14:00:00+08:00",
       "end": "2026-09-03T14:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2085,6 +2132,7 @@
       "start": "2026-09-03T14:05:00+08:00",
       "end": "2026-09-03T14:50:00+08:00",
       "description": "第六集：家麗寫下與為民情斷的保證書",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -2103,6 +2151,7 @@
       "start": "2026-09-03T14:20:00+08:00",
       "end": "2026-09-03T14:30:00+08:00",
       "description": "一號青銅神樹",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2130,6 +2179,7 @@
       "start": "2026-09-03T14:30:00+08:00",
       "end": "2026-09-03T14:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2166,6 +2216,7 @@
       "start": "2026-09-03T14:50:00+08:00",
       "end": "2026-09-03T15:40:00+08:00",
       "description": "第七集： 常勝邀請建國來家裏吃飯",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -2202,6 +2253,7 @@
       "start": "2026-09-03T15:00:00+08:00",
       "end": "2026-09-03T15:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2238,6 +2290,7 @@
       "start": "2026-09-03T15:20:00+08:00",
       "end": "2026-09-03T15:25:00+08:00",
       "description": "秘色瓷蓮花碗",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2283,6 +2336,7 @@
       "start": "2026-09-03T15:30:00+08:00",
       "end": "2026-09-03T15:33:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2310,6 +2364,7 @@
       "start": "2026-09-03T15:33:00+08:00",
       "end": "2026-09-03T15:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2319,6 +2374,7 @@
       "start": "2026-09-03T15:40:00+08:00",
       "end": "2026-09-03T16:05:00+08:00",
       "description": "第一千二百三十八集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -2382,6 +2438,7 @@
       "start": "2026-09-03T16:00:00+08:00",
       "end": "2026-09-03T16:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2409,6 +2466,7 @@
       "start": "2026-09-03T16:05:00+08:00",
       "end": "2026-09-03T16:30:00+08:00",
       "description": "第一千零九十八集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -2445,6 +2503,7 @@
       "start": "2026-09-03T16:20:00+08:00",
       "end": "2026-09-03T16:30:00+08:00",
       "description": "青瓷釉下彩羽人纹盤口壺",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2481,6 +2540,7 @@
       "start": "2026-09-03T16:30:00+08:00",
       "end": "2026-09-03T16:45:00+08:00",
       "description": "第二百九十六集 - 【嘉賓來了】環遊世界馬戲表演者",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -2490,6 +2550,7 @@
       "start": "2026-09-03T16:30:00+08:00",
       "end": "2026-09-03T16:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2508,6 +2569,7 @@
       "start": "2026-09-03T16:45:00+08:00",
       "end": "2026-09-03T17:00:00+08:00",
       "description": "最「奀」菇菇",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -2562,6 +2624,7 @@
       "start": "2026-09-03T17:00:00+08:00",
       "end": "2026-09-03T17:15:00+08:00",
       "description": "回來吧，泥濘怪",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -2571,6 +2634,7 @@
       "start": "2026-09-03T17:00:00+08:00",
       "end": "2026-09-03T17:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2607,6 +2671,7 @@
       "start": "2026-09-03T17:15:00+08:00",
       "end": "2026-09-03T17:23:00+08:00",
       "description": "嚇人恐龍",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -2616,6 +2681,7 @@
       "start": "2026-09-03T17:20:00+08:00",
       "end": "2026-09-03T17:30:00+08:00",
       "description": "馬王堆一號墓木槨",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2625,6 +2691,7 @@
       "start": "2026-09-03T17:23:00+08:00",
       "end": "2026-09-03T17:30:00+08:00",
       "description": "分開一會兒",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -2679,6 +2746,7 @@
       "start": "2026-09-03T17:30:00+08:00",
       "end": "2026-09-03T18:00:00+08:00",
       "description": "#569 皮膚癌",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/doctorandyou2021",
       "source": "港台"
     },
     {
@@ -2688,6 +2756,7 @@
       "start": "2026-09-03T17:30:00+08:00",
       "end": "2026-09-03T17:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2778,6 +2847,7 @@
       "start": "2026-09-03T18:00:00+08:00",
       "end": "2026-09-03T18:30:00+08:00",
       "description": "第一千二百三十九集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -2787,6 +2857,7 @@
       "start": "2026-09-03T18:00:00+08:00",
       "end": "2026-09-03T18:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2832,6 +2903,7 @@
       "start": "2026-09-03T18:20:00+08:00",
       "end": "2026-09-03T18:30:00+08:00",
       "description": "T形帛畫",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2859,6 +2931,7 @@
       "start": "2026-09-03T18:30:00+08:00",
       "end": "2026-09-03T19:00:00+08:00",
       "description": "第一千零九十九集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -2868,6 +2941,7 @@
       "start": "2026-09-03T18:30:00+08:00",
       "end": "2026-09-03T18:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2895,6 +2969,7 @@
       "start": "2026-09-03T18:50:00+08:00",
       "end": "2026-09-03T19:00:00+08:00",
       "description": "玉琮王",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2949,6 +3024,7 @@
       "start": "2026-09-03T19:00:00+08:00",
       "end": "2026-09-03T19:30:00+08:00",
       "description": "20260903",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -2958,6 +3034,7 @@
       "start": "2026-09-03T19:00:00+08:00",
       "end": "2026-09-03T19:30:00+08:00",
       "description": "20260903",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -3003,6 +3080,7 @@
       "start": "2026-09-03T19:30:00+08:00",
       "end": "2026-09-03T20:25:00+08:00",
       "description": "第十七集：張馳發現林臻東竟然改變了策略",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -3012,6 +3090,7 @@
       "start": "2026-09-03T19:30:00+08:00",
       "end": "2026-09-03T20:00:00+08:00",
       "description": "十八好時光 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/18heartfeltvibestv",
       "source": "港台"
     },
     {
@@ -3111,6 +3190,7 @@
       "start": "2026-09-03T20:00:00+08:00",
       "end": "2026-09-03T20:15:00+08:00",
       "description": "晚間新聞",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/eveningnews_tv",
       "source": "港台"
     },
     {
@@ -3156,6 +3236,7 @@
       "start": "2026-09-03T20:15:00+08:00",
       "end": "2026-09-03T20:55:00+08:00",
       "description": "時事脈動 (英語)",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -3183,6 +3264,7 @@
       "start": "2026-09-03T20:25:00+08:00",
       "end": "2026-09-03T20:30:00+08:00",
       "description": "公務員事務局｜聯合國初級專業人員方案｜去聯合國工作，有咩體驗？",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3210,6 +3292,7 @@
       "start": "2026-09-03T20:30:00+08:00",
       "end": "2026-09-03T21:25:00+08:00",
       "description": "第五集：北望驚瀾",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -3228,6 +3311,7 @@
       "start": "2026-09-03T20:55:00+08:00",
       "end": "2026-09-03T21:00:00+08:00",
       "description": "CENTRESTAGE國際時尚匯展；盂蘭文化節",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -3273,6 +3357,7 @@
       "start": "2026-09-03T21:00:00+08:00",
       "end": "2026-09-03T21:30:00+08:00",
       "description": "俄羅斯「假鬼妹」",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/inclusivehk_eng",
       "source": "港台"
     },
     {
@@ -3309,6 +3394,7 @@
       "start": "2026-09-03T21:25:00+08:00",
       "end": "2026-09-03T21:30:00+08:00",
       "description": "公務員事務局｜聯合國初級專業人員方案｜去聯合國工作，有咩體驗？",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3336,6 +3422,7 @@
       "start": "2026-09-03T21:30:00+08:00",
       "end": "2026-09-03T22:00:00+08:00",
       "description": "AI反轉職場",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkcc",
       "source": "港台"
     },
     {
@@ -3345,6 +3432,7 @@
       "start": "2026-09-03T21:30:00+08:00",
       "end": "2026-09-03T22:00:00+08:00",
       "description": "綠色一帶一路",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/greenfuture_eng",
       "source": "港台"
     },
     {
@@ -3435,6 +3523,7 @@
       "start": "2026-09-03T22:00:00+08:00",
       "end": "2026-09-03T22:25:00+08:00",
       "description": "十八好時光 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/18heartfeltvibestv",
       "source": "港台"
     },
     {
@@ -3444,6 +3533,7 @@
       "start": "2026-09-03T22:00:00+08:00",
       "end": "2026-09-03T22:05:00+08:00",
       "description": "公務員事務局｜聯合國初級專業人員方案｜去聯合國工作，有咩體驗？",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3480,6 +3570,7 @@
       "start": "2026-09-03T22:05:00+08:00",
       "end": "2026-09-03T22:30:00+08:00",
       "description": "第一千零九十九集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3489,6 +3580,7 @@
       "start": "2026-09-03T22:25:00+08:00",
       "end": "2026-09-03T22:30:00+08:00",
       "description": "CENTRESTAGE國際時尚匯展；盂蘭文化節",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -3507,6 +3599,7 @@
       "start": "2026-09-03T22:30:00+08:00",
       "end": "2026-09-03T23:25:00+08:00",
       "description": "第三十四集: 中桑友好醫院投入使用",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/welcometomilele",
       "source": "港台"
     },
     {
@@ -3516,6 +3609,7 @@
       "start": "2026-09-03T22:30:00+08:00",
       "end": "2026-09-03T23:00:00+08:00",
       "description": "華北古韵及草舞沙揚",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkscivilizationofchina",
       "source": "港台"
     },
     {
@@ -3579,6 +3673,7 @@
       "start": "2026-09-03T23:00:00+08:00",
       "end": "2026-09-03T23:30:00+08:00",
       "description": "十八好時光 9月3日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/18heartfeltvibestv",
       "source": "港台"
     },
     {
@@ -3624,6 +3719,7 @@
       "start": "2026-09-03T23:25:00+08:00",
       "end": "2026-09-03T23:30:00+08:00",
       "description": "玉琮王",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -3669,6 +3765,7 @@
       "start": "2026-09-03T23:30:00+08:00",
       "end": "2026-09-04T00:00:00+08:00",
       "description": "第一千零九十九集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3678,6 +3775,7 @@
       "start": "2026-09-03T23:30:00+08:00",
       "end": "2026-09-04T00:00:00+08:00",
       "description": "時事脈動 (英語)",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -3740,5 +3838,6 @@
     "HOY": true,
     "港台": true,
     "ViuTV": true
-  }
+  },
+  "errors": []
 }

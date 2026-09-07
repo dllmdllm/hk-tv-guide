@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "updatedAt": "2026-09-06T22:09:06.890Z",
+  "updatedAt": "2026-09-07T04:21:55.512Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -141,6 +141,7 @@
       "start": "2026-09-14T00:00:00+08:00",
       "end": "2026-09-14T01:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/theextraordinary",
       "source": "港台"
     },
     {
@@ -189,6 +190,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789315200000",
+      "channelId": "viu-96",
+      "title": "荷里活娛樂快遞",
+      "start": "2026-09-13T16:00:00.000Z",
+      "end": "2026-09-13T16:15:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789315200000",
+      "channelId": "viu-99",
+      "title": "隊長小翼第二季 青少年篇｜破碎的帽子",
+      "start": "2026-09-13T16:00:00.000Z",
+      "end": "2026-09-13T16:30:00.000Z",
+      "description": "上半場25分鐘，小翼與岬憑雙人魚躍頭槌射門成功追平，戰況又再次回到原點。因為被追平而被激起鬥志的施奈德在上半場完場之際創造了大好機會，單刀直奔龍門。若林出營撲救，但施奈德仍然毫不猶豫地使出了火焰射門，猛烈旋轉的球迸發出火花，燒著了若林的帽子……",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1789315440000",
       "channelId": "rthk-33",
       "title": "南來北往 36",
@@ -198,12 +217,22 @@
       "source": "港台"
     },
     {
+      "id": "viu-96-1789316100000",
+      "channelId": "viu-96",
+      "title": "玩「串」大激鬥",
+      "start": "2026-09-13T16:15:00.000Z",
+      "end": "2026-09-13T17:10:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-84-1789316700000",
       "channelId": "tvb-84",
       "title": "藍海世界[英]",
       "start": "2026-09-14T00:25:00+08:00",
       "end": "2026-09-14T00:55:00+08:00",
       "description": "喬納森、托德和洞潛教練麥迪結伴，潛下佛羅里達一個陰森洞穴，名為黑淵。他們從翡翠天坑潛下，全程差不多三小時。之後喬納森一家前去葡萄牙的馬德拉群島潛水，喬納森兒子里安嘗試與章魚溝通。",
+      "url": "https://www.mytvsuper.com/tc/programme/blueworldix_146873/",
       "source": "TVB"
     },
     {
@@ -243,12 +272,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789317000000",
+      "channelId": "viu-99",
+      "title": "美麗40路｜終‧身美麗",
+      "start": "2026-09-13T16:30:00.000Z",
+      "end": "2026-09-13T17:30:00.000Z",
+      "description": "終身美麗之聚，爭奪美麗之最，都有限期。決戰前夕，15位佳被分成5組，互相揭曉11張決賽通行證的幸運兒，淚灑現場。備戰前夕，節目組安排11強佳麗度假，放鬆心情，盡訴心聲。",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789317300000",
       "channelId": "tvb-81",
       "title": "東張西望[粵]",
       "start": "2026-09-14T00:35:00+08:00",
       "end": "2026-09-14T01:10:00+08:00",
       "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "url": "https://www.mytvsuper.com/tc/programme/scoop_37/",
       "source": "TVB"
     },
     {
@@ -312,6 +351,7 @@
       "start": "2026-09-14T01:00:00+08:00",
       "end": "2026-09-14T01:30:00+08:00",
       "description": "第二集 - 臨場急變之考驗",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mediaeds3",
       "source": "港台"
     },
     {
@@ -339,6 +379,7 @@
       "start": "2026-09-14T01:00:00+08:00",
       "end": "2026-09-14T02:00:00+08:00",
       "description": "電影中，常常有不少神秘組織，戲如人生，有指某些組織確是真實存在？例如保護地球的英雄「MIB」，惟他們可能是「封口工具」？此外，一個被指是「UFO資訊頂級金字塔」的組織，在地球的職責不止撿拾飛碟殘骸，更負責建立地底的外星基地？美國「51區」向來是外星人與飛碟的代名詞，嘉賓Stan更曾到過51區的禁區門口。有科幻電影情節，描述地球志願者登上外星母艦進行「第三類接觸」，據稱有可能真有其事？",
+      "url": "https://www.mytvsuper.com/tc/programme/alieniscomingtotown_146801/",
       "source": "TVB"
     },
     {
@@ -357,7 +398,17 @@
       "start": "2026-09-14T01:10:00+08:00",
       "end": "2026-09-14T02:50:00+08:00",
       "description": "《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過\"潮養生活\"與\"中醫歷練\"，開啟一場年輕態的中醫文化科普之旅。",
+      "url": "https://www.mytvsuper.com/tc/programme/workplacenewcomersseasonoftraditionalchinesemedicine_146360/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789319400000",
+      "channelId": "viu-96",
+      "title": "超凡餅藝家",
+      "start": "2026-09-13T17:10:00.000Z",
+      "end": "2026-09-13T18:10:00.000Z",
+      "description": "The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1789319700000",
@@ -402,6 +453,7 @@
       "start": "2026-09-14T01:30:00+08:00",
       "end": "2026-09-14T02:00:00+08:00",
       "description": "第142集：不朽 張國榮",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/cantopoppower",
       "source": "港台"
     },
     {
@@ -421,6 +473,15 @@
       "end": "2026-09-14T02:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789320600000",
+      "channelId": "viu-99",
+      "title": "大力情人｜讓大佛見證我們的起與落",
+      "start": "2026-09-13T17:30:00.000Z",
+      "end": "2026-09-13T18:00:00.000Z",
+      "description": "愛情和運動，相同之處總比你想像的來得多。《大力情人》找來四對熱愛運動的情侶，不但考驗體能，更要試驗他們的愛情能否抵得過壓力！第一個考驗就是喪跑天壇大佛的超長樓梯，到底四對情侶可否順利完成？",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1789321200000",
@@ -474,6 +535,7 @@
       "start": "2026-09-14T02:00:00+08:00",
       "end": "2026-09-14T02:30:00+08:00",
       "description": "仙階求索．畫史溯源",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina_se",
       "source": "港台"
     },
     {
@@ -501,6 +563,7 @@
       "start": "2026-09-14T02:00:00+08:00",
       "end": "2026-09-14T02:30:00+08:00",
       "description": "大岡山風景區擁有許多自然生態，光禿禿的「惡地地形」極為罕見！黃資晴探索朝元寺後山的山林秘境，輕鬆穿過「一線天」，再深入僅能容納一人通過的「瘦身洞」！「石頭廟」用玉石、瑪瑙等裝飾而成，憑另類的寺廟風格成為網紅打卡熱點之一。某餐廳主打走地雞，配合獨門菜脯、醬料等，炮製出多重滋味。騎着共享單車飽覽阿公店水庫美景之後，資晴到附近觀景餐廳點吃超澎湃的「海鮮燉飯」；招牌菜「麻油雞燉飯」還結合了意式、台式風味。",
+      "url": "https://www.mytvsuper.com/tc/programme/attackofthebackpackerkaohsiung0001_147180/",
       "source": "TVB"
     },
     {
@@ -520,6 +583,24 @@
       "end": "2026-09-14T06:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789322400000",
+      "channelId": "viu-99",
+      "title": "日本winwin企画 S2｜日本飲食業",
+      "start": "2026-09-13T18:00:00.000Z",
+      "end": "2026-09-13T18:30:00.000Z",
+      "description": "飲食業難做，曾經在日本餐廳打工的Win Win，將會重操故業，在大阪的港人餐廳充當半天侍應，與店主阿寶與阿兒交流在日生活，並會在不同食店覓食。",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-96-1789323000000",
+      "channelId": "viu-96",
+      "title": "ViuTVsix Station Closing Slate",
+      "start": "2026-09-13T18:10:00.000Z",
+      "end": "2026-09-14T01:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789323420000",
@@ -555,6 +636,7 @@
       "start": "2026-09-14T02:30:00+08:00",
       "end": "2026-09-14T03:30:00+08:00",
       "description": "第十二集：共濟",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/thehunt",
       "source": "港台"
     },
     {
@@ -573,6 +655,7 @@
       "start": "2026-09-14T02:30:00+08:00",
       "end": "2026-09-14T03:00:00+08:00",
       "description": "大廚葉世昌師傅帶波波造訪九龍城一間私房菜餐廳，品嚐零味精粵菜。貴妃醬炒蟶子皇配煎米粉底，蟶子鮮甜爽脆；陳皮碎蒸海斑肉質爽滑彈牙；胡椒粉絲中蝦煲鑊氣十足；大澳蝦醬脆香雞翼鹹香惹味。黃嘉雯則帶伍倩彤到錦田一間隱世餐廳，品嚐當歸豬膶豬骨湯米粉、煎肉餅飯及蠔仔肉碎泡飯等家常滋味，食材新鮮，令人回味無窮。中環一間由星級大廚主理的泰國餐廳，主打新派泰菜，咖喱雞湯麵、燒牛骨髓蟹肉奄列及雞肉炒河，皆不容錯過。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -582,7 +665,17 @@
       "start": "2026-09-14T02:30:00+08:00",
       "end": "2026-09-14T03:00:00+08:00",
       "description": "《星期日檔案》，每周聚焦於熱門新聞人物，特寫報道；或以人性化角度，透過走訪社會不同階層，不同界別人士，深入探討大眾關切的政治、社會民生等議題。",
+      "url": "https://www.mytvsuper.com/tc/programme/sundayreport_34/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789324200000",
+      "channelId": "viu-99",
+      "title": "潛在挑戰中｜水底攝影 (II)",
+      "start": "2026-09-13T18:30:00.000Z",
+      "end": "2026-09-13T19:00:00.000Z",
+      "description": "攝影比賽第三回合主題為危險地形，四位潛水員要在水底險峻地形拍出感覺「危險」的相片。期間Lezlie及Kylie卡在岩石縫隙，究竟她們如何利用潛水技巧脫險呢?最後由團隊水底攝影師Simon任評判，表示Kylie攝影作品確實高水準。Kylie自香港出海便不太享受潛水，攝影比賽後，她發掘自己長處，愛上水底攝影，亦開始愛上潛水。",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1789325400000",
@@ -591,6 +684,7 @@
       "start": "2026-09-14T02:50:00+08:00",
       "end": "2026-09-14T03:10:00+08:00",
       "description": "從澳洲引入香港養殖的寶石魚肉質紮實而優質，營養豐富，這一集Gigi姐會為大家示範竹蔗蒸寶石魚，原來用竹蔗墊底來蒸魚是一位大廚向Gigi姐建議的，當中有什麼因由呢？Gigi姐還會分享預先切好蔥絲仍能保持新鮮的妙法。",
+      "url": "https://www.mytvsuper.com/tc/programme/gigistastefulkitchen_137308/",
       "source": "TVB"
     },
     {
@@ -654,6 +748,7 @@
       "start": "2026-09-14T03:00:00+08:00",
       "end": "2026-09-14T03:30:00+08:00",
       "description": "食評家Agnes推介主打避風塘風味的名人愛店，與施焯日先品嚐白灼粉腸、豬肚等前菜拼盤，配上蟹油更添鮮味。二人再細味古法避風塘炒蟹，惹味且層次豐富，最後以燒鴨湯河作結，手切河粉盡吸大地魚湯精華。伍倩彤、倪嘉雯則到訪一間咖啡店，品嚐玫瑰鹽芝士奶蓋冷萃咖啡、比利時白朱古力奶，以及啤酒脆漿炸魚薯條、黑松露煙三文魚班尼迪牛油果鬆餅、三重芝士和牛漢堡及蟹籽香辣蒜片鮮蟹肉意粉等美食，皆以優質食材炮製，滋味十足。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -666,12 +761,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789326000000",
+      "channelId": "viu-99",
+      "title": "MM730 - 困獸鬥｜中秋C位爭霸戰",
+      "start": "2026-09-13T19:00:00.000Z",
+      "end": "2026-09-13T19:30:00.000Z",
+      "description": "中秋剛過，一眾主持為大家延續節日的歡樂氣氛，為各個中秋的特色人物來一個《中秋C位爭霸戰》，每人都各自打扮成與中秋相關的角色，贏得比賽就可以幫該角色奪得中秋C位！當中富哥的衝擊性裝扮令一眾主持都為之佩服，他這個造型又能否爭奪得到中秋C位呢？",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789326600000",
       "channelId": "tvb-81",
       "title": "甜心先生[粵]",
       "start": "2026-09-14T03:10:00+08:00",
       "end": "2026-09-14T03:40:00+08:00",
       "description": "萬聖節將至，阿古(古嘉俊)繼續為觀眾送上甜品創作「鬼」主意，期間還請來充滿年輕活力的張景淳到來，合作炮製一款富有節日氣氛的「肉桂藍莓朱古力」。由藍莓製成的朱古力外層，配合加入了多種鮮果的朱古力軟心餡料，口味配搭天衣無縫，紫色搶眼造型還與萬聖節氣氛「襯到絕」。阿古竟然拿出「望遠鏡」協助示範製作，到底這件小法寶與控制甜品質量有何關係？",
+      "url": "https://www.mytvsuper.com/tc/programme/sweetcorner20154_147113/",
       "source": "TVB"
     },
     {
@@ -690,6 +795,7 @@
       "start": "2026-09-14T03:30:00+08:00",
       "end": "2026-09-14T04:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/lookandlearn",
       "source": "港台"
     },
     {
@@ -720,12 +826,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789327800000",
+      "channelId": "viu-99",
+      "title": "識碳惜生活｜環保新手出發",
+      "start": "2026-09-13T19:30:00.000Z",
+      "end": "2026-09-13T20:00:00.000Z",
+      "description": "主持桂儀Abbie本身是環保初哥，對於環保生活的概念只是「BB班」，第一集先聽各位環保達人對環保的概念，之後再去升級再造中心做一日實習生。",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789328400000",
       "channelId": "tvb-81",
       "title": "嫁到這世界邊端[粵]",
       "start": "2026-09-14T03:40:00+08:00",
       "end": "2026-09-14T04:05:00+08:00",
       "description": "Laila到阿聯酋參與珠寶展，邂逅了敍利亞人Assad，就認定了他是命中註定的終身伴侶？陳貝兒到達阿聯酋首都阿布扎比，跟Laila選購黑袍，才知道當地女性穿黑袍全屬自願，遮得越多竟然是越有自信？當地女性不能隨便拍攝，攝影師即時遇到死亡恐嚇，嚇壞貝兒，背後原因是甚麼？適逢齋戒月，非教徒及遊客要遵守甚麼規矩，以示尊重？貝兒還參觀全球最貴的清真寺，與Laila暢談從放慢腳步得來的幸福。",
+      "url": "https://www.mytvsuper.com/tc/programme/farawaybrides0002_146696/",
       "source": "TVB"
     },
     {
@@ -792,6 +908,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789329600000",
+      "channelId": "viu-99",
+      "title": "聲畫合拍 9｜天時地利人和",
+      "start": "2026-09-13T20:00:00.000Z",
+      "end": "2026-09-13T20:30:00.000Z",
+      "description": "《天時地利人和》講述主角林皓文趕到異地把妹妹的骨灰拿回香港。在短暫的時間裏， 他與妹妹的男友經歷了一場小冒險⋯⋯今集請來導演和歌手上來分享拍攝故事。",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789329900000",
       "channelId": "tvb-81",
       "title": "鬼馬教煮[粵]",
@@ -834,6 +959,7 @@
       "start": "2026-09-14T04:30:00+08:00",
       "end": "2026-09-14T05:00:00+08:00",
       "description": "欺凌",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkce",
       "source": "港台"
     },
     {
@@ -852,7 +978,17 @@
       "start": "2026-09-14T04:30:00+08:00",
       "end": "2026-09-14T05:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/ontherecord_101478/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789331400000",
+      "channelId": "viu-99",
+      "title": "10個尖房故事｜老爺",
+      "start": "2026-09-13T20:30:00.000Z",
+      "end": "2026-09-13T21:00:00.000Z",
+      "description": "「尖房」代有才人出，67歲的「老爺」自是前輩，十幾歲時趕李小龍熱愛上健身，練就今日fit到漏身型，以及長青心境。臨退休年齡考得健身教練牌，並將所學以義教回饋社會，這位胸肌和愛心同樣漲卜卜的長者，值得我們來拜見！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789331520000",
@@ -906,6 +1042,7 @@
       "start": "2026-09-14T05:00:00+08:00",
       "end": "2026-09-14T05:30:00+08:00",
       "description": "看不見的力量",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/careerbeyondbarriers_e",
       "source": "港台"
     },
     {
@@ -942,6 +1079,7 @@
       "start": "2026-09-14T05:00:00+08:00",
       "end": "2026-09-14T06:00:00+08:00",
       "description": "Bettany繼續她的旅程,走訪烏茲別克、喬治亞、亞塞拜然、希臘、土耳其和保加利亞等地探索偏遠的社區,為觀眾帶來新的考古發掘以及意想不到的故事。",
+      "url": "https://www.mytvsuper.com/tc/programme/treasureswithbettanyhughesiv0001_146880/",
       "source": "TVB"
     },
     {
@@ -961,6 +1099,15 @@
       "end": "2026-09-14T05:30:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789333200000",
+      "channelId": "viu-99",
+      "title": "雙線運動人生",
+      "start": "2026-09-13T21:00:00.000Z",
+      "end": "2026-09-13T21:30:00.000Z",
+      "description": "《雙線運動人生》聚焦香港兼職運動員的故事。每集邀請一位從事普通職業、卻在閒暇投身運動的嘉賓，分享他們如何在繁忙的香港生活中平衡工作與熱情。他們用汗水與毅力詮釋「雙重身份」的精彩。節目呈現他們的起點、低谷與突破，探討時間管理、經濟壓力等挑戰，以及對夢想的執著。從日常訓練的堅持，到比賽中的難忘瞬間，觀眾將看到他們如何在快節奏的城市中為自己爭取一席之地。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789334820000",
@@ -987,6 +1134,7 @@
       "start": "2026-09-14T05:30:00+08:00",
       "end": "2026-09-14T06:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/doctorandyou2021",
       "source": "港台"
     },
     {
@@ -1024,6 +1172,15 @@
       "end": "2026-09-14T06:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789335000000",
+      "channelId": "viu-99",
+      "title": "設計新態度｜中華花藝 (II)",
+      "start": "2026-09-13T21:30:00.000Z",
+      "end": "2026-09-13T22:00:00.000Z",
+      "description": "中華花藝風格獨特，不同場所又能如何應用？今集繼續訪問花藝師與其合作夥伴，了解他們的合作故事。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789336620000",
@@ -1068,6 +1225,7 @@
       "start": "2026-09-14T06:00:00+08:00",
       "end": "2026-09-14T06:30:00+08:00",
       "description": "看得見的關懷",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkstories68",
       "source": "港台"
     },
     {
@@ -1104,6 +1262,7 @@
       "start": "2026-09-14T06:00:00+08:00",
       "end": "2026-09-14T07:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1113,6 +1272,7 @@
       "start": "2026-09-14T06:00:00+08:00",
       "end": "2026-09-14T06:30:00+08:00",
       "description": "補習生意有得做嗎？美棋曾想過開辦補習中心，在教育行列大展拳腳，但甚麼經歷令她打退堂鼓？坊間有不少作風古怪的補習老師，紫恩、Sandy憶述恐怖往事，困在神秘房間上課，還要抵受不斷被罵的驚恐；眾人討論激烈教學方法仍吸引學生的原因。嘉賓Patrick Sir淺談補習老師的基本態度及竅門，並分享搞補習社的心得，創業初期如何面對經營困難？保守估計需要多少預算？在聘請導師方面，原來外貌太標緻或會惹來風波！",
+      "url": "https://www.mytvsuper.com/tc/programme/youngandrestless0002_144103/",
       "source": "TVB"
     },
     {
@@ -1134,6 +1294,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789336800000",
+      "channelId": "viu-99",
+      "title": "早晨新聞",
+      "start": "2026-09-13T22:00:00.000Z",
+      "end": "2026-09-14T01:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "hoy-78-1789338600000",
       "channelId": "hoy-78",
       "title": "財智．商傳",
@@ -1149,6 +1318,7 @@
       "start": "2026-09-14T06:30:00+08:00",
       "end": "2026-09-14T07:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/theextraordinary",
       "source": "港台"
     },
     {
@@ -1158,6 +1328,7 @@
       "start": "2026-09-14T06:30:00+08:00",
       "end": "2026-09-14T07:00:00+08:00",
       "description": "後生女對「男神」各有口味，Harriet畫出男團標誌，明晒；她細談「入坑」經過，為追星做過甚麼瘋狂事？紫恩迷戀肌肉男，靠自製合成照滿足擁有男神的心。讓Yuki心心眼的「弟控」，又會是誰？美棋的一級自家男神，原來靠音樂才華俘虜伊人芳心，大量閃光彈，盲了。六號意外入圍某人男神之選，暖男門檻超廉價。祖儀仰慕全球首富，其人生哲理滿滿，Charm在骨子裡。輪到Bonnie公開她的經典男神，後生女尖叫吧！",
+      "url": "https://www.mytvsuper.com/tc/programme/youngandrestless0002_144103/",
       "source": "TVB"
     },
     {
@@ -1230,6 +1401,7 @@
       "start": "2026-09-14T07:00:00+08:00",
       "end": "2026-09-14T07:30:00+08:00",
       "description": "不同類型的男團、女團，在亞洲樂壇強勢崛起。本地女子偶像組合乙女新夢，近年衝出香港，走日系女團風格，努力追逐地下星夢。談到新世代日系偶像，經理人稱女團不需完美，但要與歌迷共同成長？了解日系偶像的神秘文化之餘，舞台下的粉絲們同樣精彩，獨有的「打Call」節奏，相當有趣。偶像也要落地生活，放下女團身分，四位成員分別回復日常粵劇演員和日文、繪畫、跳舞老師等不同正職。缺少資源下拼命追夢，經營女團有何難度？",
+      "url": "https://www.mytvsuper.com/tc/programme/nowiknowyou0001_146912/",
       "source": "TVB"
     },
     {
@@ -1248,6 +1420,7 @@
       "start": "2026-09-14T07:00:00+08:00",
       "end": "2026-09-14T07:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/newcreationtv2026_145186/",
       "source": "TVB"
     },
     {
@@ -1284,6 +1457,7 @@
       "start": "2026-09-14T07:30:00+08:00",
       "end": "2026-09-14T08:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/solarproject2026",
       "source": "港台"
     },
     {
@@ -1293,6 +1467,7 @@
       "start": "2026-09-14T07:30:00+08:00",
       "end": "2026-09-14T07:35:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -1320,6 +1495,7 @@
       "start": "2026-09-14T07:30:00+08:00",
       "end": "2026-09-14T08:00:00+08:00",
       "description": "日本瀨戶內海上第二大島小豆島，約有300隻日本獼猴，號稱銚子溪猴子王國。兩位主持沿路上山卻只見猴子糞便，幸而園區負責人呼喚猴子「開餐」，主角們終於現身，何以主持卻被關進籠內？小豆島盛產醬油及橄欖，二人參觀百年醬油廠，淺嚐現製生醬油，再去種滿橄欖樹的紀念公園「打卡」，這裡更是某部電影的拍攝地。二人又品嚐橄欖牛、醬油意大利麵等地道美食。島上還有個每日限時出現的景點，為何成為戀人必去的浪漫勝地？",
+      "url": "https://www.mytvsuper.com/tc/programme/friendofforest0001_146915/",
       "source": "TVB"
     },
     {
@@ -1347,6 +1523,7 @@
       "start": "2026-09-14T07:35:00+08:00",
       "end": "2026-09-14T07:40:00+08:00",
       "description": "數字政策辦公室 - 「友智識」長者數碼共融計劃",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1365,6 +1542,7 @@
       "start": "2026-09-14T07:40:00+08:00",
       "end": "2026-09-14T08:10:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1419,6 +1597,7 @@
       "start": "2026-09-14T08:00:00+08:00",
       "end": "2026-09-14T08:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1446,6 +1625,7 @@
       "start": "2026-09-14T08:00:00+08:00",
       "end": "2026-09-14T08:30:00+08:00",
       "description": "香港匯聚環球美食！倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；並會相約「星級飯腳」開餐，到他們喜愛的「飯堂」品嚐佳餚。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -1464,6 +1644,7 @@
       "start": "2026-09-14T08:05:00+08:00",
       "end": "2026-09-14T10:00:00+08:00",
       "description": "千禧年代 9月14日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1473,6 +1654,7 @@
       "start": "2026-09-14T08:05:00+08:00",
       "end": "2026-09-14T10:00:00+08:00",
       "description": "千禧年代 9月14日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1482,6 +1664,7 @@
       "start": "2026-09-14T08:10:00+08:00",
       "end": "2026-09-14T08:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1509,6 +1692,7 @@
       "start": "2026-09-14T08:30:00+08:00",
       "end": "2026-09-14T09:00:00+08:00",
       "description": "位處北都的洪水橋，樓價一直相對低水，政府早前於區內以片區形式賣地，能否刺激樓價？大圍新盤陸續入伙，有大單位玻璃崩花，浴室過牆喉沒封妥，連電掣面板也鬆脫，怎樣處理？",
+      "url": "https://www.mytvsuper.com/tc/programme/propertyexperts_112853/",
       "source": "TVB"
     },
     {
@@ -1536,6 +1720,7 @@
       "start": "2026-09-14T08:40:00+08:00",
       "end": "2026-09-14T09:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1629,6 +1814,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789347600000",
+      "channelId": "viu-96",
+      "title": "島嶼人情味",
+      "start": "2026-09-14T01:00:00.000Z",
+      "end": "2026-09-14T01:30:00.000Z",
+      "description": "Join acclaimed Torres Strait Islander chef and cultural ambassador Nornie Bero in Island Echoes, a vibrant journey through the breathtaking landscapes and rich traditions of her homeland. Each episode explores the unique stories, flavours and histories of the Torres Strait Islands, showcasing the diverse cultures that thrive in this remote paradise.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789347600000",
+      "channelId": "viu-99",
+      "title": "平行教室｜我想成為「武術指導」",
+      "start": "2026-09-14T01:00:00.000Z",
+      "end": "2026-09-14T01:30:00.000Z",
+      "description": "資深武術指導-Boen，擁有超過十年影視動作設計經驗。專精於將武術融入鏡頭語言，設計兼具視覺衝擊與安全性的動作場面，是銀幕背後推動香港動作電影的重要力量。",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1789348500000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -1644,6 +1847,7 @@
       "start": "2026-09-14T09:15:00+08:00",
       "end": "2026-09-14T09:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -1710,6 +1914,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789349400000",
+      "channelId": "viu-96",
+      "title": "哈比人食遍世界｜London Part 1",
+      "start": "2026-09-14T01:30:00.000Z",
+      "end": "2026-09-14T02:00:00.000Z",
+      "description": "Best friends on-screen and off, Billy Boyd and Dominic Monaghan, famed for portraying the lovable and mischievous hobbits in The Lord of the Rings trilogy, are embarking on a quest to eat the world. They’ll be travelling the globe to gain new insights into different countries unique culinary cultures, trying local cuisines, and getting up to plenty of shenanigans.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789349400000",
+      "channelId": "viu-99",
+      "title": "交易時段",
+      "start": "2026-09-14T01:30:00.000Z",
+      "end": "2026-09-14T03:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-84-1789350600000",
       "channelId": "tvb-84",
       "title": "財經快訊[普]",
@@ -1761,6 +1983,7 @@
       "start": "2026-09-14T10:00:00+08:00",
       "end": "2026-09-14T10:55:00+08:00",
       "description": "第一集：在外闖蕩的東霓回家了",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/takeushome",
       "source": "港台"
     },
     {
@@ -1827,6 +2050,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789351200000",
+      "channelId": "viu-96",
+      "title": "玩「串」大激鬥",
+      "start": "2026-09-14T02:00:00.000Z",
+      "end": "2026-09-14T03:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1789351260000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -1842,6 +2074,7 @@
       "start": "2026-09-14T10:05:00+08:00",
       "end": "2026-09-14T10:30:00+08:00",
       "description": "第一千二百四十五集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -1851,6 +2084,7 @@
       "start": "2026-09-14T10:05:00+08:00",
       "end": "2026-09-14T10:35:00+08:00",
       "description": "朋見婷因準備會考而弄得精神緊張，特意為她購入一套增強記憶力的軟件，麗亦為婷購協助睡眠的香薰機，喜用優惠價購入大量的「補腦藥油」給婷。可是當婷使用過三人為她準備的「禮物」後，卻發現不是翻版就是貨不對辦。",
+      "url": "https://www.mytvsuper.com/tc/programme/welcometothehouse0001_115893/",
       "source": "TVB"
     },
     {
@@ -1923,6 +2157,7 @@
       "start": "2026-09-14T10:30:00+08:00",
       "end": "2026-09-14T10:55:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -1932,6 +2167,7 @@
       "start": "2026-09-14T10:35:00+08:00",
       "end": "2026-09-14T11:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkcc",
       "source": "港台"
     },
     {
@@ -1941,6 +2177,7 @@
       "start": "2026-09-14T10:35:00+08:00",
       "end": "2026-09-14T11:40:00+08:00",
       "description": "郭靖和黃蓉帶兵攻下撒馬爾罕城，並抓到完顏洪烈，完顏洪烈自刎前告誡郭靖，鐵木真滅了大金之後就會滅宋；郭靖在街上遇到穆念慈，把楊康已死的消息告訴她，穆念慈希望孩兒以後能堂堂正正做人，並請郭靖給孩兒起名字…",
+      "url": "https://www.mytvsuper.com/tc/programme/legendofheroeshotbloodedthe_141462/",
       "source": "TVB"
     },
     {
@@ -1959,6 +2196,7 @@
       "start": "2026-09-14T10:50:00+08:00",
       "end": "2026-09-14T11:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -1968,6 +2206,7 @@
       "start": "2026-09-14T10:55:00+08:00",
       "end": "2026-09-14T11:00:00+08:00",
       "description": "數字政策辦公室 - 「友智識」長者數碼共融計劃",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1977,6 +2216,7 @@
       "start": "2026-09-14T10:55:00+08:00",
       "end": "2026-09-14T11:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -2022,6 +2262,7 @@
       "start": "2026-09-14T11:00:00+08:00",
       "end": "2026-09-14T11:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -2031,6 +2272,7 @@
       "start": "2026-09-14T11:00:00+08:00",
       "end": "2026-09-14T11:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2070,6 +2312,24 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789354800000",
+      "channelId": "viu-96",
+      "title": "二戰逃生實錄",
+      "start": "2026-09-14T03:00:00.000Z",
+      "end": "2026-09-14T04:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789354800000",
+      "channelId": "viu-99",
+      "title": "智富通",
+      "start": "2026-09-14T03:00:00.000Z",
+      "end": "2026-09-14T03:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1789355100000",
       "channelId": "rthk-31",
       "title": "生活．健康．資訊",
@@ -2085,6 +2345,7 @@
       "start": "2026-09-14T11:10:00+08:00",
       "end": "2026-09-14T12:00:00+08:00",
       "description": "香江暖流",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/magasenior",
       "source": "港台"
     },
     {
@@ -2148,6 +2409,7 @@
       "start": "2026-09-14T11:30:00+08:00",
       "end": "2026-09-14T11:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2176,6 +2438,15 @@
       "end": "2026-09-14T12:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789356600000",
+      "channelId": "viu-99",
+      "title": "堅返鄉下｜重慶大團圓結局",
+      "start": "2026-09-14T03:30:00.000Z",
+      "end": "2026-09-14T04:00:00.000Z",
+      "description": "鄧月平媽媽及弟弟專程從香港飛過來，驚喜現身，埸面動人。帶「港童」弟弟玩鄉下的童年遊戲，在山澗比賽捉蟹，更以河水「雪」西瓜，口感極冰涼。臨走前一晚，鄧月平決定一腳踢煮一圍飯餸，孝敬一眾鄉親父老，但個個輪流請纓「幫拖」，鄉下就是這麼有人情味。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789356780000",
@@ -2247,6 +2518,7 @@
       "start": "2026-09-14T12:00:00+08:00",
       "end": "2026-09-14T13:00:00+08:00",
       "description": "生態捍衛戰 - 菲律賓篇",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/thelastdefenders",
       "source": "港台"
     },
     {
@@ -2256,6 +2528,7 @@
       "start": "2026-09-14T12:00:00+08:00",
       "end": "2026-09-14T12:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2292,6 +2565,7 @@
       "start": "2026-09-14T12:00:00+08:00",
       "end": "2026-09-14T12:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -2301,7 +2575,26 @@
       "start": "2026-09-14T12:00:00+08:00",
       "end": "2026-09-14T13:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/cgtnglobalwatch2021_126695/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789358400000",
+      "channelId": "viu-96",
+      "title": "歐洲鐵路深度遊",
+      "start": "2026-09-14T04:00:00.000Z",
+      "end": "2026-09-14T05:00:00.000Z",
+      "description": "Michael Portillo embarks on a spectacular new railway journey through Uzbekistan, a country steeped in Silk Road history. Travelling on high-speed trains, bustling metro systems and bone-shaking suburban lines, he explores Uzbekistan’s diverse landscapes—from fertile plains to vast deserts. Touring through Belgium and Hungary and the Mediterranean islands of Corsica and Sardinia, he discovers how history has left its mark on their landscapes, culture and people.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789358400000",
+      "channelId": "viu-99",
+      "title": "午間新聞",
+      "start": "2026-09-14T04:00:00.000Z",
+      "end": "2026-09-14T04:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1789359000000",
@@ -2319,6 +2612,7 @@
       "start": "2026-09-14T12:15:00+08:00",
       "end": "2026-09-14T13:00:00+08:00",
       "description": "「一個人的晚餐」不想吃「飯」，有用唐芹、甘筍、參峇醬炒的「參峇醬炒腸粉」、足料「法式蠔湯伴BB番薯」，以及水煮法炒出的「家肥屋潤餅」餡料，極之實用。肥媽還解答有關剩菜的問題，你可知雞蛋殼有何用處？",
+      "url": "https://www.mytvsuper.com/tc/programme/germanpoolspecialgoodcheapeatssr3_146784/",
       "source": "TVB"
     },
     {
@@ -2328,6 +2622,7 @@
       "start": "2026-09-14T12:15:00+08:00",
       "end": "2026-09-14T13:15:00+08:00",
       "description": "傅音向陸琪獻身，又故意讓他知道玲瓏有珍珠衣，玲瓏說出是陸漢星偷來的。傅濤抓到洪義德手下，得知洪義德將去長安鬧事後壓下消息。嚴子方和馬海虎與強搶民女的駙馬起爭執，駙馬仗勢欺人，嚴子方攔下欲報仇的兄弟。",
+      "url": "https://www.mytvsuper.com/tc/programme/courtlady0001_133464/",
       "source": "TVB"
     },
     {
@@ -2355,6 +2650,7 @@
       "start": "2026-09-14T12:30:00+08:00",
       "end": "2026-09-14T12:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2365,6 +2661,15 @@
       "end": "2026-09-14T13:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789360200000",
+      "channelId": "viu-99",
+      "title": "CHILL CLUB 推介",
+      "start": "2026-09-14T04:30:00.000Z",
+      "end": "2026-09-14T04:55:00.000Z",
+      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789360320000",
@@ -2383,6 +2688,15 @@
       "end": "2026-09-14T13:00:00+08:00",
       "description": "",
       "source": "港台"
+    },
+    {
+      "id": "viu-99-1789361700000",
+      "channelId": "viu-99",
+      "title": "3 分鐘熱度",
+      "start": "2026-09-14T04:55:00.000Z",
+      "end": "2026-09-14T05:00:00.000Z",
+      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789361760000",
@@ -2427,6 +2741,7 @@
       "start": "2026-09-14T13:00:00+08:00",
       "end": "2026-09-14T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2436,6 +2751,7 @@
       "start": "2026-09-14T13:00:00+08:00",
       "end": "2026-09-14T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2463,6 +2779,7 @@
       "start": "2026-09-14T13:00:00+08:00",
       "end": "2026-09-14T13:20:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/noonnewsjade0001_117075/",
       "source": "TVB"
     },
     {
@@ -2482,6 +2799,24 @@
       "end": "2026-09-14T13:35:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789362000000",
+      "channelId": "viu-96",
+      "title": "狂野時速4",
+      "start": "2026-09-14T05:00:00.000Z",
+      "end": "2026-09-14T07:00:00.000Z",
+      "description": "Vin Diesel and Paul Walker reteam for the ultimate chapter of the franchise built on speed -- Fast and Furious. Heading back to the streets where it all began, they rejoin Michelle Rodriguez and Jordana Brewster to blast muscle, tuner and exotic cars across Los Angeles and floor through the Mexican desert in this high-octane action-thriller. Directed by Justin Lin.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789362000000",
+      "channelId": "viu-99",
+      "title": "創文館｜花藝",
+      "start": "2026-09-14T05:00:00.000Z",
+      "end": "2026-09-14T05:30:00.000Z",
+      "description": "90後花藝師遠赴韓國學藝，回港後自立品牌。靠著細緻的手藝得到客戶的青睞。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789362060000",
@@ -2517,6 +2852,7 @@
       "start": "2026-09-14T13:10:00+08:00",
       "end": "2026-09-14T14:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/healthpedia_tv",
       "source": "港台"
     },
     {
@@ -2535,6 +2871,7 @@
       "start": "2026-09-14T13:15:00+08:00",
       "end": "2026-09-14T13:45:00+08:00",
       "description": "香港匯聚環球美食！倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；並會相約「星級飯腳」開餐，到他們喜愛的「飯堂」品嚐佳餚。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -2544,6 +2881,7 @@
       "start": "2026-09-14T13:20:00+08:00",
       "end": "2026-09-14T14:10:00+08:00",
       "description": "《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。",
+      "url": "https://www.mytvsuper.com/tc/programme/bigcityshop_118508/",
       "source": "TVB"
     },
     {
@@ -2580,6 +2918,7 @@
       "start": "2026-09-14T13:30:00+08:00",
       "end": "2026-09-14T13:37:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2610,6 +2949,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789363800000",
+      "channelId": "viu-99",
+      "title": "730 玩返轉｜烏鎮扎染工藝｜新奧爾良百年景點",
+      "start": "2026-09-14T05:30:00.000Z",
+      "end": "2026-09-14T06:00:00.000Z",
+      "description": "《730 玩返轉》阿陳續遊烏鎮，體驗當地傳統扎染印花布工藝，親手創作獨一無二的布藝作品，並品嚐小鎮特色美食。阿靖分享她在英國留學的經歷，以及參與沉浸式劇場的獨特體驗。Shereen走訪三個超過一百年歷史的新奧爾良景點，感受時光沉澱的南方韻味。",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1789363980000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -2625,6 +2973,7 @@
       "start": "2026-09-14T13:35:00+08:00",
       "end": "2026-09-14T13:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -2652,6 +3001,7 @@
       "start": "2026-09-14T13:45:00+08:00",
       "end": "2026-09-14T14:15:00+08:00",
       "description": "首季《怪宿宿》入住了全球多地的奇葩住宿。這一季由蔡景行、馮皓揚、李茵彤、李海銅進軍中國內地六個地方：北京、西安、寧夏、上海、浙江、黃山，探索住宿內的奇特設施，發掘背後的故事與建築人文歷史，也會前往就近當地的特色景點打卡和尋找美食，並給出相應的「怪度評分」。",
+      "url": "https://www.mytvsuper.com/tc/programme/traveloddchina_146802/",
       "source": "TVB"
     },
     {
@@ -2697,6 +3047,7 @@
       "start": "2026-09-14T14:00:00+08:00",
       "end": "2026-09-14T14:05:00+08:00",
       "description": "數字政策辦公室 - 「友智識」長者數碼共融計劃",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -2706,6 +3057,7 @@
       "start": "2026-09-14T14:00:00+08:00",
       "end": "2026-09-14T14:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2736,12 +3088,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789365600000",
+      "channelId": "viu-99",
+      "title": "夜之花",
+      "start": "2026-09-14T06:00:00.000Z",
+      "end": "2026-09-14T07:00:00.000Z",
+      "description": "在某天晚上她卻遇到了追查年幼時慘死的父親死因的男人…小花被抓去為父親還賭債，與花得知後決定親自前往救她，卻不料遇上了秀浩， 二人正面發生了衝突。",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1789365900000",
       "channelId": "rthk-31",
       "title": "六姊妹",
       "start": "2026-09-14T14:05:00+08:00",
       "end": "2026-09-14T14:50:00+08:00",
       "description": "第二十集：家喜怒氣衝衝回娘家",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -2760,6 +3122,7 @@
       "start": "2026-09-14T14:10:00+08:00",
       "end": "2026-09-14T14:50:00+08:00",
       "description": "為了給鄭伊健一個難忘體驗，主持黎諾懿帶好友走入街市買菜，再回電視城飯堂設立秘密廚房，合力炮製「諾E海鮮麵」。曹永廉、戲劇監製羅永賢聞風而至，一嚐二人手勢，並趣談與伊健的合作往事；阿廉還笑指當年被伊健教壞，影響星途。羅冠蘭、鄭丹瑞與伊健甚有淵源，諾懿特意邀請兩位前輩到來，為伊健送上驚喜！伊健與冠蘭老師多年前因拍劇結下母子緣，這次重聚卻被「媽媽」投訴無心肝！諾懿還引領伊健重遊電視城，跟多位舊朋友聚舊。",
+      "url": "https://www.mytvsuper.com/tc/programme/achefandagentleman_122360/",
       "source": "TVB"
     },
     {
@@ -2769,6 +3132,7 @@
       "start": "2026-09-14T14:15:00+08:00",
       "end": "2026-09-14T14:45:00+08:00",
       "description": "日本瀨戶內海上第二大島小豆島，約有300隻日本獼猴，號稱銚子溪猴子王國。兩位主持沿路上山卻只見猴子糞便，幸而園區負責人呼喚猴子「開餐」，主角們終於現身，何以主持卻被關進籠內？小豆島盛產醬油及橄欖，二人參觀百年醬油廠，淺嚐現製生醬油，再去種滿橄欖樹的紀念公園「打卡」，這裡更是某部電影的拍攝地。二人又品嚐橄欖牛、醬油意大利麵等地道美食。島上還有個每日限時出現的景點，為何成為戀人必去的浪漫勝地？",
+      "url": "https://www.mytvsuper.com/tc/programme/friendofforest0001_146915/",
       "source": "TVB"
     },
     {
@@ -2805,6 +3169,7 @@
       "start": "2026-09-14T14:30:00+08:00",
       "end": "2026-09-14T14:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2823,6 +3188,7 @@
       "start": "2026-09-14T14:30:00+08:00",
       "end": "2026-09-14T15:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -2841,6 +3207,7 @@
       "start": "2026-09-14T14:45:00+08:00",
       "end": "2026-09-14T15:50:00+08:00",
       "description": "熙瓊和丈夫貞國艱苦經營小型手工鞋店。熙瓊的初戀情人赫相現為大型鞋履公司社長，妻子患精神病。熙瓊向赫相公司提供的設計圖大受歡迎，二人巧遇時赫相送她一雙紅色高跟鞋，令曾被父母拋棄而心靈受創的貞國妒火中燒…",
+      "url": "https://www.mytvsuper.com/tc/programme/redshoes_138618/",
       "source": "TVB"
     },
     {
@@ -2850,6 +3217,7 @@
       "start": "2026-09-14T14:50:00+08:00",
       "end": "2026-09-14T15:40:00+08:00",
       "description": "第二十一集：小玲和振民的關係轉差",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -2859,6 +3227,7 @@
       "start": "2026-09-14T14:50:00+08:00",
       "end": "2026-09-14T15:50:00+08:00",
       "description": "苗天請艷萍代他把「羊城第一莊」牌匾送給濟民，美娟欲阻新月與苗天往二牛村。鍾鑑表示要成立村務委員會，並要求新月每年資助三百元，眾人指鍾鑑搶錢。苗天與新月探望愛娣，愛娣不應門。天終於下雨，村民歡迎不已。",
+      "url": "https://www.mytvsuper.com/tc/programme/thelaststeepascent0001_110375/",
       "source": "TVB"
     },
     {
@@ -2904,6 +3273,7 @@
       "start": "2026-09-14T15:00:00+08:00",
       "end": "2026-09-14T15:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2931,6 +3301,7 @@
       "start": "2026-09-14T15:00:00+08:00",
       "end": "2026-09-14T15:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -2941,6 +3312,24 @@
       "end": "2026-09-14T15:35:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789369200000",
+      "channelId": "viu-96",
+      "title": "Al Jazeera News Live",
+      "start": "2026-09-14T07:00:00.000Z",
+      "end": "2026-09-14T07:30:00.000Z",
+      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789369200000",
+      "channelId": "viu-99",
+      "title": "交易時段",
+      "start": "2026-09-14T07:00:00.000Z",
+      "end": "2026-09-14T08:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789369500000",
@@ -2985,6 +3374,7 @@
       "start": "2026-09-14T15:30:00+08:00",
       "end": "2026-09-14T15:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3015,12 +3405,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789371000000",
+      "channelId": "viu-96",
+      "title": "澳遊三兄弟",
+      "start": "2026-09-14T07:30:00.000Z",
+      "end": "2026-09-14T08:00:00.000Z",
+      "description": "Three Blue Ducks is a six-part Australian television cooking show which follows hosts Mark Labrooy, Darren Robertson and Andy Allen, as they travel Australia in search for inspiration to create six new dishes for their restaurant's menu.",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-84-1789371300000",
       "channelId": "tvb-84",
       "title": "交易直播室[普]",
       "start": "2026-09-14T15:35:00+08:00",
       "end": "2026-09-14T15:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -3030,6 +3430,7 @@
       "start": "2026-09-14T15:40:00+08:00",
       "end": "2026-09-14T16:05:00+08:00",
       "description": "第一千二百四十五集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -3120,6 +3521,7 @@
       "start": "2026-09-14T16:00:00+08:00",
       "end": "2026-09-14T16:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3150,12 +3552,31 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789372800000",
+      "channelId": "viu-96",
+      "title": "DW News",
+      "start": "2026-09-14T08:00:00.000Z",
+      "end": "2026-09-14T08:30:00.000Z",
+      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789372800000",
+      "channelId": "viu-99",
+      "title": "小獸醫維達｜維達的快樂獸醫日 / 傑柏暈陀陀之謎",
+      "start": "2026-09-14T08:00:00.000Z",
+      "end": "2026-09-14T08:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-31-1789373100000",
       "channelId": "rthk-31",
       "title": "港樂 • 講樂",
       "start": "2026-09-14T16:05:00+08:00",
       "end": "2026-09-14T16:30:00+08:00",
       "description": "第142集：不朽 張國榮",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/cantopoppower",
       "source": "港台"
     },
     {
@@ -3183,6 +3604,7 @@
       "start": "2026-09-14T16:15:00+08:00",
       "end": "2026-09-14T16:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/putonghuanews_106227/",
       "source": "TVB"
     },
     {
@@ -3192,6 +3614,7 @@
       "start": "2026-09-14T16:20:00+08:00",
       "end": "2026-09-14T16:50:00+08:00",
       "description": "小丸子家中雪櫃內積存了大量牛奶。為了解決此問題，小丸子向花輪同學請教如何處置剩餘的牛奶。花輪同學回答可用牛奶來烹調西式菜色及製作蛋糕等等。小丸子如實向媽媽提議，媽媽認為可行，於是開始製作奶油燉菜。",
+      "url": "https://www.mytvsuper.com/tc/programme/chibimarukochaniiep13691417_142550/",
       "source": "TVB"
     },
     {
@@ -3201,6 +3624,7 @@
       "start": "2026-09-14T16:20:00+08:00",
       "end": "2026-09-14T16:55:00+08:00",
       "description": "長沙灣一個400多平方呎兩房，屋主兩姊弟均喜歡較深色設計，設計師如何突出不同風格？",
+      "url": "https://www.mytvsuper.com/tc/programme/propertytoday_140055/",
       "source": "TVB"
     },
     {
@@ -3237,6 +3661,7 @@
       "start": "2026-09-14T16:30:00+08:00",
       "end": "2026-09-14T16:45:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -3246,6 +3671,7 @@
       "start": "2026-09-14T16:30:00+08:00",
       "end": "2026-09-14T16:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3264,7 +3690,26 @@
       "start": "2026-09-14T16:30:00+08:00",
       "end": "2026-09-14T17:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/newcreationtv2026_145186/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789374600000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-09-14T08:30:00.000Z",
+      "end": "2026-09-14T08:46:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789374600000",
+      "channelId": "viu-99",
+      "title": "史諾比的好玩夏令營｜小獵犬對抗昆蟲 / 營歌",
+      "start": "2026-09-14T08:30:00.000Z",
+      "end": "2026-09-14T09:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789375140000",
@@ -3291,7 +3736,17 @@
       "start": "2026-09-14T16:45:00+08:00",
       "end": "2026-09-14T16:55:00+08:00",
       "description": "飲料瓶",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1789375560000",
+      "channelId": "viu-96",
+      "title": "Hey Fuzzy Yellow",
+      "start": "2026-09-14T08:46:00.000Z",
+      "end": "2026-09-14T09:00:00.000Z",
+      "description": "In Hey! Fuzzy Yellow, we meet a blurry bundle of fun and friends who want you all to know the world is full of possibilities.",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1789375800000",
@@ -3300,6 +3755,7 @@
       "start": "2026-09-14T16:50:00+08:00",
       "end": "2026-09-14T17:20:00+08:00",
       "description": "兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！",
+      "url": "https://www.mytvsuper.com/tc/programme/handsup2021_132896/",
       "source": "TVB"
     },
     {
@@ -3309,6 +3765,7 @@
       "start": "2026-09-14T16:55:00+08:00",
       "end": "2026-09-14T17:05:00+08:00",
       "description": "泳衣",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -3318,6 +3775,7 @@
       "start": "2026-09-14T16:55:00+08:00",
       "end": "2026-09-14T17:25:00+08:00",
       "description": "不少面膜、精華液或乳液都含有玻尿酸成分，但大家對它有多少認識？美肌達人林凱鈞講解這種天然多醣體對肌膚的效用，並教女生如何正確使用玻尿酸護膚品，以及打造玻尿酸水潤嘟嘟唇。台北中山區的旺區旁，有一間化妝品原料化工行，「聰明愛美麗」來到這個成立超過半世紀的化工品牌，DIY玻尿酸化妝水；「愛美麗盲測」則比較四款來自日本和台灣的開架式玻尿酸面膜的保濕度。",
+      "url": "https://www.mytvsuper.com/tc/programme/justbeautysr4_121285/",
       "source": "TVB"
     },
     {
@@ -3363,6 +3821,7 @@
       "start": "2026-09-14T17:00:00+08:00",
       "end": "2026-09-14T17:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3390,6 +3849,7 @@
       "start": "2026-09-14T17:00:00+08:00",
       "end": "2026-09-14T17:25:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -3399,7 +3859,26 @@
       "start": "2026-09-14T17:00:00+08:00",
       "end": "2026-09-14T17:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sesamestreetlv_147102/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789376400000",
+      "channelId": "viu-96",
+      "title": "Silly Sundays",
+      "start": "2026-09-14T09:00:00.000Z",
+      "end": "2026-09-14T09:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789376400000",
+      "channelId": "viu-99",
+      "title": "熊出沒之小小世界 2",
+      "start": "2026-09-14T09:00:00.000Z",
+      "end": "2026-09-14T09:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1789376700000",
@@ -3408,6 +3887,7 @@
       "start": "2026-09-14T17:05:00+08:00",
       "end": "2026-09-14T17:15:00+08:00",
       "description": "滑板",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -3435,6 +3915,7 @@
       "start": "2026-09-14T17:15:00+08:00",
       "end": "2026-09-14T17:23:00+08:00",
       "description": "友誼不再？",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -3444,6 +3925,7 @@
       "start": "2026-09-14T17:20:00+08:00",
       "end": "2026-09-14T17:50:00+08:00",
       "description": "大雄用「機械珠」令物件自行做家務，卻不珍惜舊物，導致機械珠叛變，最後由多啦A夢收拾殘局。大家為避開胖虎的生日會，力勸他與家人一起慶祝，但後者卻毫無表示，大家於是出盡法寶助其成事。",
+      "url": "https://www.mytvsuper.com/tc/programme/newdoraemonxii_146521/",
       "source": "TVB"
     },
     {
@@ -3453,6 +3935,7 @@
       "start": "2026-09-14T17:23:00+08:00",
       "end": "2026-09-14T17:30:00+08:00",
       "description": "打鬧遊戲",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -3462,6 +3945,7 @@
       "start": "2026-09-14T17:25:00+08:00",
       "end": "2026-09-14T17:55:00+08:00",
       "description": "大廚葉世昌師傅帶波波造訪九龍城一間私房菜餐廳，品嚐零味精粵菜。貴妃醬炒蟶子皇配煎米粉底，蟶子鮮甜爽脆；陳皮碎蒸海斑肉質爽滑彈牙；胡椒粉絲中蝦煲鑊氣十足；大澳蝦醬脆香雞翼鹹香惹味。黃嘉雯則帶伍倩彤到錦田一間隱世餐廳，品嚐當歸豬膶豬骨湯米粉、煎肉餅飯及蠔仔肉碎泡飯等家常滋味，食材新鮮，令人回味無窮。中環一間由星級大廚主理的泰國餐廳，主打新派泰菜，咖喱雞湯麵、燒牛骨髓蟹肉奄列及雞肉炒河，皆不容錯過。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -3516,6 +4000,7 @@
       "start": "2026-09-14T17:30:00+08:00",
       "end": "2026-09-14T18:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/solarproject2026",
       "source": "港台"
     },
     {
@@ -3525,6 +4010,7 @@
       "start": "2026-09-14T17:30:00+08:00",
       "end": "2026-09-14T17:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3561,7 +4047,26 @@
       "start": "2026-09-14T17:30:00+08:00",
       "end": "2026-09-14T18:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/galacticagency_147313/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789378200000",
+      "channelId": "viu-96",
+      "title": "Klincus",
+      "start": "2026-09-14T09:30:00.000Z",
+      "end": "2026-09-14T10:00:00.000Z",
+      "description": "Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789378200000",
+      "channelId": "viu-99",
+      "title": "經緯線",
+      "start": "2026-09-14T09:30:00.000Z",
+      "end": "2026-09-14T10:00:00.000Z",
+      "description": "專題式深入報道香港及世界熱門時事。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1789378800000",
@@ -3579,6 +4084,7 @@
       "start": "2026-09-14T17:50:00+08:00",
       "end": "2026-09-14T18:00:00+08:00",
       "description": "緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。",
+      "url": "https://www.mytvsuper.com/tc/programme/financialnews_99/",
       "source": "TVB"
     },
     {
@@ -3588,6 +4094,7 @@
       "start": "2026-09-14T17:55:00+08:00",
       "end": "2026-09-14T18:30:00+08:00",
       "description": "阿斯塔納四周可見搶眼的地標，梁彥宗到訪頂層有機動遊戲及室內人造沙灘的帳幕商場，並於世博場地旁的文化村，欣賞馬術表演。之後，他返回阿拉木圖的吉爾吉斯駐阿拉木圖大使館申請簽證，卻發現要排隊把文件交到櫃位，原來並非一件易事。地下鐵也可算是阿拉木圖的景點，每站的設計不同，梁彥宗於地鐵站流連一番後，到大型市集「綠色市場」閒逛；最後還應當地朋友Batima的邀請，到其家與她的好友用餐，進行文化交流。",
+      "url": "https://www.mytvsuper.com/tc/programme/backpackutopia_113090/",
       "source": "TVB"
     },
     {
@@ -3633,6 +4140,7 @@
       "start": "2026-09-14T18:00:00+08:00",
       "end": "2026-09-14T18:30:00+08:00",
       "description": "第一千二百四十六集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -3642,6 +4150,7 @@
       "start": "2026-09-14T18:00:00+08:00",
       "end": "2026-09-14T18:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3669,6 +4178,7 @@
       "start": "2026-09-14T18:00:00+08:00",
       "end": "2026-09-14T18:25:00+08:00",
       "description": "住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。",
+      "url": "https://www.mytvsuper.com/tc/programme/propertytoday_140055/",
       "source": "TVB"
     },
     {
@@ -3687,7 +4197,17 @@
       "start": "2026-09-14T18:00:00+08:00",
       "end": "2026-09-14T18:50:00+08:00",
       "description": "本集繼續笑餐飽，搞笑內容包括狗公園；球類蒙太奇；背景影片；笑笑小想法；艾方素的陰謀論；最後且看誰能贏得兩萬，是取圈圈的狗狗、代價高昂的信用卡整蠱、抑或開餐要去塔可鐘？",
+      "url": "https://www.mytvsuper.com/tc/programme/americasfunniesthomevideosxxxv_146507/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789380000000",
+      "channelId": "viu-99",
+      "title": "6點新聞報道 (手語新聞)",
+      "start": "2026-09-14T10:00:00.000Z",
+      "end": "2026-09-14T10:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1789380600000",
@@ -3741,6 +4261,7 @@
       "start": "2026-09-14T18:30:00+08:00",
       "end": "2026-09-14T19:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3750,6 +4271,7 @@
       "start": "2026-09-14T18:30:00+08:00",
       "end": "2026-09-14T18:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3759,6 +4281,7 @@
       "start": "2026-09-14T18:30:00+08:00",
       "end": "2026-09-14T19:15:00+08:00",
       "description": "翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。",
+      "url": "https://www.mytvsuper.com/tc/programme/newsat630_26/",
       "source": "TVB"
     },
     {
@@ -3768,6 +4291,7 @@
       "start": "2026-09-14T18:30:00+08:00",
       "end": "2026-09-14T19:00:00+08:00",
       "description": "「米苔目」由米漿蒸煮而成，口感滑而煙韌，而台灣不同地區會加入各式配料，製成鹹、甜、冷、熱美食。主持先帶大家到設有人氣配料排行榜的米苔目店，位居次席的「沙拉魚卵」有何口感？麵條彈牙、湯底清而不膩，老闆娘大方公開秘方。韓式咖啡店創出米苔目新吃法，老闆研發的麵條特別煙韌，韻婷更稱似吃香口膠？各款創意口味顛覆味蕾，韻婷吃到不顧「港姐」儀態！料理老師示範自製米苔目，並以冰鎮、放湯和炒煮方式，變奏出三重滋味。",
+      "url": "https://www.mytvsuper.com/tc/programme/stolentasteofformosa2_137914/",
       "source": "TVB"
     },
     {
@@ -3778,6 +4302,24 @@
       "end": "2026-09-14T19:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789381800000",
+      "channelId": "viu-96",
+      "title": "Carl the Collector",
+      "start": "2026-09-14T10:30:00.000Z",
+      "end": "2026-09-14T11:00:00.000Z",
+      "description": "Meet Carl, a warm-hearted young autistic racoon, who loves to collect things! Carl and his friends live in Fuzzytown, where they play and explore together, discovering what makes each of them unique.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789381800000",
+      "channelId": "viu-99",
+      "title": "美女與純情男",
+      "start": "2026-09-14T10:30:00.000Z",
+      "end": "2026-09-14T11:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1789382400000",
@@ -3804,6 +4346,7 @@
       "start": "2026-09-14T18:50:00+08:00",
       "end": "2026-09-14T19:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -3858,6 +4401,7 @@
       "start": "2026-09-14T19:00:00+08:00",
       "end": "2026-09-14T19:30:00+08:00",
       "description": "20260914",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -3867,6 +4411,7 @@
       "start": "2026-09-14T19:00:00+08:00",
       "end": "2026-09-14T19:30:00+08:00",
       "description": "20260914",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -3903,6 +4448,7 @@
       "start": "2026-09-14T19:00:00+08:00",
       "end": "2026-09-14T20:00:00+08:00",
       "description": "傅柔想出雀屏中選的辦法以阻止皇帝將歆楠公主許配給陸琪。傅柔在雀屏中做了手腳，使陸琪沒能射中。陸家父子覺得當中有蹊蹺，讓長安最有經驗的繡娘檢查雀屏。傅柔對李寶林說出屏風刺繡的秘密，二人成了換命之交。",
+      "url": "https://www.mytvsuper.com/tc/programme/courtlady0001_133464/",
       "source": "TVB"
     },
     {
@@ -3912,6 +4458,7 @@
       "start": "2026-09-14T19:00:00+08:00",
       "end": "2026-09-14T19:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -3921,7 +4468,26 @@
       "start": "2026-09-14T19:00:00+08:00",
       "end": "2026-09-14T19:30:00+08:00",
       "description": "在澳洲，癡迷非缺陷，而是求存手段。澳洲的動物深知癡迷等同成功，嗜血的三月蠅，護子心切的鴯鶓老爹，挑剔的珊瑚，挖穴的袋熊，證明輕度神經症可保命長久。",
+      "url": "https://www.mytvsuper.com/tc/programme/extraordinaryanimalsii_147220/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789383600000",
+      "channelId": "viu-96",
+      "title": "ViuTV News",
+      "start": "2026-09-14T11:00:00.000Z",
+      "end": "2026-09-14T11:15:00.000Z",
+      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789383600000",
+      "channelId": "viu-99",
+      "title": "7點新聞報道",
+      "start": "2026-09-14T11:00:00.000Z",
+      "end": "2026-09-14T11:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1789384500000",
@@ -3933,12 +4499,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789384500000",
+      "channelId": "viu-96",
+      "title": "Isadora Moon",
+      "start": "2026-09-14T11:15:00.000Z",
+      "end": "2026-09-14T11:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789385100000",
       "channelId": "tvb-81",
       "title": "有理說得清[粵]",
       "start": "2026-09-14T19:25:00+08:00",
       "end": "2026-09-14T19:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/critics_137539/",
       "source": "TVB"
     },
     {
@@ -3957,6 +4533,7 @@
       "start": "2026-09-14T19:30:00+08:00",
       "end": "2026-09-14T20:25:00+08:00",
       "description": "第二十四集：林臻東歸隊",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -3966,6 +4543,7 @@
       "start": "2026-09-14T19:30:00+08:00",
       "end": "2026-09-14T20:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -3993,6 +4571,7 @@
       "start": "2026-09-14T19:30:00+08:00",
       "end": "2026-09-14T20:00:00+08:00",
       "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "url": "https://www.mytvsuper.com/tc/programme/scoop_37/",
       "source": "TVB"
     },
     {
@@ -4011,7 +4590,26 @@
       "start": "2026-09-14T19:30:00+08:00",
       "end": "2026-09-14T19:55:00+08:00",
       "description": "明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。",
+      "url": "https://www.mytvsuper.com/tc/programme/pearlnewsat730_105084/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789385400000",
+      "channelId": "viu-96",
+      "title": "10分鐘廚房",
+      "start": "2026-09-14T11:30:00.000Z",
+      "end": "2026-09-14T12:00:00.000Z",
+      "description": "Ten Minute Kitchen is all about recipes that require minimum effort for maximum results. Each episode explores a completely different genre, ranging from breakfast food to hearty dinners for the winter, and even at times taking us on a gastronomical world tour.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789385400000",
+      "channelId": "viu-99",
+      "title": "730 玩返轉",
+      "start": "2026-09-14T11:30:00.000Z",
+      "end": "2026-09-14T12:00:00.000Z",
+      "description": "《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789385520000",
@@ -4101,6 +4699,7 @@
       "start": "2026-09-14T20:00:00+08:00",
       "end": "2026-09-14T20:15:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/eveningnews_tv",
       "source": "港台"
     },
     {
@@ -4128,6 +4727,7 @@
       "start": "2026-09-14T20:00:00+08:00",
       "end": "2026-09-14T20:30:00+08:00",
       "description": "公關女皇唐萬里獨力照顧Gen Z女兒唐芯，控制欲極強。萬里的母親唐曹嘉冰半生相夫教子，忽然「覺醒」，由加拿大返港，決心尋回失落時光，更搬入萬里家中。當年嘉冰曾因萬里堅持未婚生下女兒，母女徹底鬧僵，如今嘉冰卻突然無預警殺入及擾亂萬里的生活。萬里力圖維持秩序，唐芯則周旋兩人之間，三代同堂火花四濺，矛盾不斷。職場上，富二代老闆空降「營銷大神」楊帆，與萬里平起平坐正面交鋒，萬里事業與家庭同時迎來危機……",
+      "url": "https://www.mytvsuper.com/tc/programme/likemotherlikedaughter_146867/",
       "source": "TVB"
     },
     {
@@ -4137,6 +4737,7 @@
       "start": "2026-09-14T20:00:00+08:00",
       "end": "2026-09-14T20:30:00+08:00",
       "description": "香港匯聚環球美食！倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；並會相約「星級飯腳」開餐，到他們喜愛的「飯堂」品嚐佳餚。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -4146,6 +4747,7 @@
       "start": "2026-09-14T20:00:00+08:00",
       "end": "2026-09-14T20:30:00+08:00",
       "description": "報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。",
+      "url": "https://www.mytvsuper.com/tc/programme/onehournewsat800_146757/",
       "source": "TVB"
     },
     {
@@ -4155,7 +4757,26 @@
       "start": "2026-09-14T20:00:00+08:00",
       "end": "2026-09-14T20:30:00+08:00",
       "description": "《明珠雜誌》每星期為香港及世界各地觀眾，緊貼分析本地時事及國際大事。專業記者團隊的報道遍及社會、政治、教育、醫療健康，以至經濟和商業趨勢等範疇。",
+      "url": "https://www.mytvsuper.com/tc/programme/pearlmagazine_117377/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789387200000",
+      "channelId": "viu-96",
+      "title": "解謎王挑戰賽",
+      "start": "2026-09-14T12:00:00.000Z",
+      "end": "2026-09-14T13:00:00.000Z",
+      "description": "Ranvir Singh hosts the quiz where contestants take on the Riddlemaster in a bid to solve his riddles. Only one team can make it through to the final to face the iconic Riddle Run.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789387200000",
+      "channelId": "viu-99",
+      "title": "人妻私房料理｜嘉賓: 周家蔚",
+      "start": "2026-09-14T12:00:00.000Z",
+      "end": "2026-09-14T12:30:00.000Z",
+      "description": "剛拜陳國強師傅學藝的周家蔚今集會煮「⽑⾖年糕炒蟹」同「⾺蹄煎蝦餅」。她最近參加廚藝比賽奪得佳績，節⽬中Brian陳安立邀請洪天明一起視像通話，他更⼤讚太太廚藝。天明還憶述初戀拍拖時，她曾做過⼀道菜，還叫她以後不要再煮，背後⼜有什麼廚藝⼩故事？",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1789388100000",
@@ -4173,6 +4794,7 @@
       "start": "2026-09-14T20:15:00+08:00",
       "end": "2026-09-14T20:55:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -4200,6 +4822,7 @@
       "start": "2026-09-14T20:25:00+08:00",
       "end": "2026-09-14T20:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -4236,6 +4859,7 @@
       "start": "2026-09-14T20:30:00+08:00",
       "end": "2026-09-14T21:20:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -4245,6 +4869,7 @@
       "start": "2026-09-14T20:30:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "新任女法醫程芷昕從小受林琛啟發，立志加入法醫科，入職後卻被上司林琛投閒置散。林琛與身為重案組高級督察的前妻高淑嫻水火不容，兩人因女兒林雪蕾離家出走而再次交集。芷昕憑藉認真的工作態度贏得林琛認同，並與警員高俊結緣，三人漸成默契十足的辦案鐵三角。芷昕閨密單佩嘉經歷失戀、失業打擊後轉任港聞記者，跟資深記者詹柏宇從歡喜冤家發展成互相扶持的夥伴。正當芷昕事業步入正軌，卻聞好友佩嘉死訊，誓要還原真相，為逝者發聲！",
+      "url": "https://www.mytvsuper.com/tc/programme/causeofdeath_147213/",
       "source": "TVB"
     },
     {
@@ -4254,6 +4879,7 @@
       "start": "2026-09-14T20:30:00+08:00",
       "end": "2026-09-14T21:00:00+08:00",
       "description": "以美食為引，勾連起市井煙火中的百態人生。跟隨鏡頭輾轉江門、樂山、泉州等六座城市，從熱鬧都市的美食殿堂到靜謐巷陌的民間風味，每一道菜肴都承載著獨特的文化底蘊與烹飪藝術。",
+      "url": "https://www.mytvsuper.com/tc/programme/yummyworldiii_147214/",
       "source": "TVB"
     },
     {
@@ -4263,6 +4889,7 @@
       "start": "2026-09-14T20:30:00+08:00",
       "end": "2026-09-14T20:50:00+08:00",
       "description": "報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。",
+      "url": "https://www.mytvsuper.com/tc/programme/onehournewsat800_146757/",
       "source": "TVB"
     },
     {
@@ -4272,7 +4899,17 @@
       "start": "2026-09-14T20:30:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "安祖、賓、羅娜和詩奈需要複製德米特里奧斯的朱古力流星. 構思是流星墜落時燃燒, 然後蒸發, 最後剩下隕石. 最困難部分是朱古力外殼. 外殼凝固後要取出裡面的氣球. 最後誰交不出完美甜品?",
+      "url": "https://www.mytvsuper.com/tc/programme/masterchefaustraliaxvii_146764/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789389000000",
+      "channelId": "viu-99",
+      "title": "直樂VIURIETY 考朋友大作戰",
+      "start": "2026-09-14T12:30:00.000Z",
+      "end": "2026-09-14T13:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-83-1789390200000",
@@ -4281,6 +4918,7 @@
       "start": "2026-09-14T20:50:00+08:00",
       "end": "2026-09-14T21:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -4299,6 +4937,7 @@
       "start": "2026-09-14T20:55:00+08:00",
       "end": "2026-09-14T21:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -4344,6 +4983,7 @@
       "start": "2026-09-14T21:00:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkce",
       "source": "港台"
     },
     {
@@ -4371,6 +5011,7 @@
       "start": "2026-09-14T21:00:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。",
+      "url": "https://www.mytvsuper.com/tc/programme/entertainmentnews_100100/",
       "source": "TVB"
     },
     {
@@ -4380,7 +5021,17 @@
       "start": "2026-09-14T21:00:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789390800000",
+      "channelId": "viu-96",
+      "title": "失落的阿美利堅",
+      "start": "2026-09-14T13:00:00.000Z",
+      "end": "2026-09-14T14:00:00.000Z",
+      "description": "Scattered across the United States are abandoned structures and those who know their stories. These forgotten ruins reveal the past of this land and its people. These are the secrets of Hidden America.",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789391640000",
@@ -4398,6 +5049,7 @@
       "start": "2026-09-14T21:20:00+08:00",
       "end": "2026-09-14T21:25:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -4416,6 +5068,7 @@
       "start": "2026-09-14T21:25:00+08:00",
       "end": "2026-09-14T21:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -4443,6 +5096,7 @@
       "start": "2026-09-14T21:30:00+08:00",
       "end": "2026-09-14T22:00:00+08:00",
       "description": "AI與樂齡的距離",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkstories68",
       "source": "港台"
     },
     {
@@ -4451,7 +5105,8 @@
       "title": "夢想中華人物誌 (英文版)",
       "start": "2026-09-14T21:30:00+08:00",
       "end": "2026-09-14T22:00:00+08:00",
-      "description": "",
+      "description": "開基創業—李兆基",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/chronicleofnotablechinese_eng",
       "source": "港台"
     },
     {
@@ -4479,6 +5134,7 @@
       "start": "2026-09-14T21:30:00+08:00",
       "end": "2026-09-14T22:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/blossomsofpower_147190/",
       "source": "TVB"
     },
     {
@@ -4488,6 +5144,7 @@
       "start": "2026-09-14T21:30:00+08:00",
       "end": "2026-09-14T22:30:00+08:00",
       "description": "人類對未知永遠充滿好奇，尤其是外星人這個範疇，總是令地球人忍不住想問，「呢度都有外星人」是真的嗎？主持陸浩明、羅毓儀、馮熙燮都對外星文明深感興趣，並邀請神秘學愛好者一同腦洞大開，探索各項外星議題與網絡傳聞，更會透過視像與海外研究者連線討論。節目除了圍繞經典的羅茲威爾事件、古代文明之謎，也會深入探討外星族群特徵、外星人綁架等話題。準備好打開潘多拉的盒子，與主持們一起窺探各種未解的奧秘。",
+      "url": "https://www.mytvsuper.com/tc/programme/alieniscomingtotown_146801/",
       "source": "TVB"
     },
     {
@@ -4497,6 +5154,7 @@
       "start": "2026-09-14T21:30:00+08:00",
       "end": "2026-09-14T21:45:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/closerlook_101477/",
       "source": "TVB"
     },
     {
@@ -4507,6 +5165,15 @@
       "end": "2026-09-14T23:50:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789392600000",
+      "channelId": "viu-99",
+      "title": "申社長Project",
+      "start": "2026-09-14T13:30:00.000Z",
+      "end": "2026-09-14T14:30:00.000Z",
+      "description": "踏上前往小城鎮「江春」的旅程...在一次法律調解中險些喪命後，申先生發現海鮮醬事件背後隱藏著一個龐大的陰謀。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789392660000",
@@ -4542,6 +5209,7 @@
       "start": "2026-09-14T21:55:00+08:00",
       "end": "2026-09-14T22:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -4587,6 +5255,7 @@
       "start": "2026-09-14T22:00:00+08:00",
       "end": "2026-09-14T22:25:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -4596,6 +5265,7 @@
       "start": "2026-09-14T22:00:00+08:00",
       "end": "2026-09-14T22:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -4635,12 +5305,22 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789394400000",
+      "channelId": "viu-96",
+      "title": "Case File 96: Cold Case Files S4",
+      "start": "2026-09-14T14:00:00.000Z",
+      "end": "2026-09-14T15:00:00.000Z",
+      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-32-1789394700000",
       "channelId": "rthk-32",
       "title": "凝聚香港",
       "start": "2026-09-14T22:05:00+08:00",
       "end": "2026-09-14T22:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -4650,6 +5330,7 @@
       "start": "2026-09-14T22:25:00+08:00",
       "end": "2026-09-14T22:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -4677,6 +5358,7 @@
       "start": "2026-09-14T22:30:00+08:00",
       "end": "2026-09-14T23:30:00+08:00",
       "description": "第一集：在外闖蕩的東霓回家了",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/takeushome",
       "source": "港台"
     },
     {
@@ -4686,6 +5368,7 @@
       "start": "2026-09-14T22:30:00+08:00",
       "end": "2026-09-14T23:00:00+08:00",
       "description": "第二集 - 周吉佩、練美娟、岑珈其 | 漢朝漢服大解構！",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/masterofchineseknowledge2",
       "source": "港台"
     },
     {
@@ -4713,6 +5396,7 @@
       "start": "2026-09-14T22:30:00+08:00",
       "end": "2026-09-14T23:30:00+08:00",
       "description": "卓凱集合臥底的情報後，決定拘捕歡喜一黨，但行動其間，兆良突然介入指揮行動。家強約安琳交收毒品，突然受到伏擊，原來是崇金安排。歡喜於是策動反擊。家強為掩護小嘉，被脅持帶走。小嘉決定獨自身纏炸藥往救家強。",
+      "url": "https://www.mytvsuper.com/tc/programme/linewalker0003_122338/",
       "source": "TVB"
     },
     {
@@ -4722,7 +5406,17 @@
       "start": "2026-09-14T22:30:00+08:00",
       "end": "2026-09-14T22:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789396200000",
+      "channelId": "viu-99",
+      "title": "孩子，你怎樣長大？",
+      "start": "2026-09-14T14:30:00.000Z",
+      "end": "2026-09-14T15:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789396320000",
@@ -4785,6 +5479,7 @@
       "start": "2026-09-14T23:00:00+08:00",
       "end": "2026-09-14T23:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -4812,6 +5507,7 @@
       "start": "2026-09-14T23:00:00+08:00",
       "end": "2026-09-14T23:15:00+08:00",
       "description": "節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。",
+      "url": "https://www.mytvsuper.com/tc/programme/extra_233/",
       "source": "TVB"
     },
     {
@@ -4821,7 +5517,26 @@
       "start": "2026-09-14T23:00:00+08:00",
       "end": "2026-09-14T23:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789398000000",
+      "channelId": "viu-96",
+      "title": "ViuTV News",
+      "start": "2026-09-14T15:00:00.000Z",
+      "end": "2026-09-14T15:15:00.000Z",
+      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1789398000000",
+      "channelId": "viu-99",
+      "title": "晚吹 - 怨女俱樂部",
+      "start": "2026-09-14T15:00:00.000Z",
+      "end": "2026-09-14T15:30:00.000Z",
+      "description": "都市女性，每日面對社會、經濟、感情等形形色色的不公平，令怨氣愈積愈多。節目為她們提供出口，由主持陪伴解開心結，勉勵大家適時抒發情緒，To be happy girl in the happy world。",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1789398900000",
@@ -4839,6 +5554,7 @@
       "start": "2026-09-14T23:15:00+08:00",
       "end": "2026-09-14T23:45:00+08:00",
       "description": "報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。",
+      "url": "https://www.mytvsuper.com/tc/programme/newsroundup_29/",
       "source": "TVB"
     },
     {
@@ -4875,6 +5591,7 @@
       "start": "2026-09-14T23:30:00+08:00",
       "end": "2026-09-15T00:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -4884,6 +5601,7 @@
       "start": "2026-09-14T23:30:00+08:00",
       "end": "2026-09-15T00:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -4911,6 +5629,7 @@
       "start": "2026-09-14T23:30:00+08:00",
       "end": "2026-09-15T00:50:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/horseracingtrackwork20262027_147191/",
       "source": "TVB"
     },
     {
@@ -4921,6 +5640,15 @@
       "end": "2026-09-15T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789399800000",
+      "channelId": "viu-99",
+      "title": "3 分鐘熱度",
+      "start": "2026-09-14T15:30:00.000Z",
+      "end": "2026-09-14T15:35:00.000Z",
+      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1789400700000",
@@ -4956,6 +5684,7 @@
       "start": "2026-09-14T23:55:00+08:00",
       "end": "2026-09-15T01:00:00+08:00",
       "description": "景患上末期肺癌，欲取悅嬌，為她戒煙。堅送琳婚紗店，藉此提升琳身分。文、琳與好逛錶行遇祺，祺欲借送手錶給文來侮辱勝，不果。景欲與嬌返家鄉上海，嬌以為他另有所圖，推說沒空。好穿起婚紗，信、勝驚為天人。",
+      "url": "https://www.mytvsuper.com/tc/programme/returnofthecuckoo0001_117473/",
       "source": "TVB"
     },
     {
@@ -4973,5 +5702,6 @@
     "HOY": true,
     "港台": true,
     "ViuTV": true
-  }
+  },
+  "errors": []
 }
