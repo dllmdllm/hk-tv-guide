@@ -1,0 +1,24 @@
+[
+  {
+    "item": [
+      {
+        "epg": [
+          {
+            "start_datetime": "2026-09-07 22:00:00",
+            "programme_title_tc": "新聞報道",
+            "episode_synopsis_tc": "今日要聞",
+            "programme_path": "news_1",
+            "programme_id": 1
+          },
+          {
+            "start_datetime": "2026-09-07 23:30:00",
+            "programme_title_tc": "夜半劇場",
+            "episode_synopsis_tc": "電影",
+            "programme_path": "movie_2",
+            "programme_id": 2
+          }
+        ]
+      }
+    ]
+  }
+]

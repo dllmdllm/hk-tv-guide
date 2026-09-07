@@ -11,7 +11,9 @@
     "start": "next start",
     "fetch-data": "node scripts/fetch-schedules.mjs",
     "test": "node --test tests/data.test.mjs && npm run build",
-    "lint": "eslint . --ignore-pattern .next"
+    "lint": "eslint . --ignore-pattern .next",
+    "test:data": "node --test tests/data.test.mjs tests/parsers.test.mjs",
+    "test:build": "next build"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

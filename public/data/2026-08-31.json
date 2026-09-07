@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updatedAt": "2026-09-06T22:09:06.890Z",
+  "updatedAt": "2026-09-07T04:21:55.512Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -141,6 +141,7 @@
       "start": "2026-08-31T00:00:00+08:00",
       "end": "2026-08-31T01:00:00+08:00",
       "description": "字裏戲間 : 岑偉宗",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkshow",
       "source": "港台"
     },
     {
@@ -267,6 +268,7 @@
       "start": "2026-08-31T01:00:00+08:00",
       "end": "2026-08-31T01:30:00+08:00",
       "description": "茹子楠",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/outofbounds",
       "source": "港台"
     },
     {
@@ -303,6 +305,7 @@
       "start": "2026-08-31T01:30:00+08:00",
       "end": "2026-08-31T02:00:00+08:00",
       "description": "第163集：鄭杞瑤、鄭芷淇",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/cantopoppower",
       "source": "港台"
     },
     {
@@ -348,6 +351,7 @@
       "start": "2026-08-31T02:00:00+08:00",
       "end": "2026-08-31T02:30:00+08:00",
       "description": "王者兵刃．尚武精神",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina_se",
       "source": "港台"
     },
     {
@@ -411,6 +415,7 @@
       "start": "2026-08-31T02:30:00+08:00",
       "end": "2026-08-31T03:30:00+08:00",
       "description": "第八集：偷生",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/thehunt",
       "source": "港台"
     },
     {
@@ -510,6 +515,7 @@
       "start": "2026-08-31T03:30:00+08:00",
       "end": "2026-08-31T04:30:00+08:00",
       "description": "第33集(手語版)香港故事：世界美食堂#2非常老撾菜 (手語版)森動香港#6護樹之道",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/lookandlearn",
       "source": "港台"
     },
     {
@@ -600,6 +606,7 @@
       "start": "2026-08-31T04:30:00+08:00",
       "end": "2026-08-31T05:00:00+08:00",
       "description": "舉起快樂",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkce",
       "source": "港台"
     },
     {
@@ -654,6 +661,7 @@
       "start": "2026-08-31T05:00:00+08:00",
       "end": "2026-08-31T05:30:00+08:00",
       "description": "『零』的突破",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/careerbeyondbarriers_e",
       "source": "港台"
     },
     {
@@ -708,6 +716,7 @@
       "start": "2026-08-31T05:30:00+08:00",
       "end": "2026-08-31T06:00:00+08:00",
       "description": "#568 糖尿腳",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/doctorandyou2021",
       "source": "港台"
     },
     {
@@ -780,6 +789,7 @@
       "start": "2026-08-31T06:00:00+08:00",
       "end": "2026-08-31T06:30:00+08:00",
       "description": "AI建未來",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkstories68",
       "source": "港台"
     },
     {
@@ -825,6 +835,7 @@
       "start": "2026-08-31T06:30:00+08:00",
       "end": "2026-08-31T07:30:00+08:00",
       "description": "字裏戲間 : 岑偉宗",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkshow",
       "source": "港台"
     },
     {
@@ -915,6 +926,7 @@
       "start": "2026-08-31T07:30:00+08:00",
       "end": "2026-08-31T08:00:00+08:00",
       "description": "從「前海」到新疆 從自我到成長",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/solarproject2026",
       "source": "港台"
     },
     {
@@ -924,6 +936,7 @@
       "start": "2026-08-31T07:30:00+08:00",
       "end": "2026-08-31T07:35:00+08:00",
       "description": "盂蘭文化節；「設計啊！」展覽",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -951,6 +964,7 @@
       "start": "2026-08-31T07:35:00+08:00",
       "end": "2026-08-31T07:40:00+08:00",
       "description": "入境事務處 - 打擊非法勞工",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1014,6 +1028,7 @@
       "start": "2026-08-31T08:00:00+08:00",
       "end": "2026-08-31T08:05:00+08:00",
       "description": "盂蘭文化節；「設計啊！」展覽",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1041,6 +1056,7 @@
       "start": "2026-08-31T08:05:00+08:00",
       "end": "2026-08-31T10:00:00+08:00",
       "description": "千禧年代 8月31日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1050,6 +1066,7 @@
       "start": "2026-08-31T08:05:00+08:00",
       "end": "2026-08-31T10:00:00+08:00",
       "description": "千禧年代 8月31日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1221,6 +1238,7 @@
       "start": "2026-08-31T10:00:00+08:00",
       "end": "2026-08-31T10:55:00+08:00",
       "description": "第三十一集: 馬嘉鼓勵年青醫生擔當做手術",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/welcometomilele",
       "source": "港台"
     },
     {
@@ -1257,6 +1275,7 @@
       "start": "2026-08-31T10:05:00+08:00",
       "end": "2026-08-31T10:30:00+08:00",
       "description": "第一千二百三十五集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -1311,6 +1330,7 @@
       "start": "2026-08-31T10:35:00+08:00",
       "end": "2026-08-31T11:00:00+08:00",
       "description": "宿位難求?",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkcc",
       "source": "港台"
     },
     {
@@ -1329,6 +1349,7 @@
       "start": "2026-08-31T10:55:00+08:00",
       "end": "2026-08-31T11:00:00+08:00",
       "description": "入境事務處 - 打擊非法勞工",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1365,6 +1386,7 @@
       "start": "2026-08-31T11:00:00+08:00",
       "end": "2026-08-31T11:05:00+08:00",
       "description": "盂蘭文化節；「設計啊！」展覽",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1374,6 +1396,7 @@
       "start": "2026-08-31T11:00:00+08:00",
       "end": "2026-08-31T11:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1410,6 +1433,7 @@
       "start": "2026-08-31T11:10:00+08:00",
       "end": "2026-08-31T12:00:00+08:00",
       "description": "香江暖流《拜見師傅》",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/magasenior",
       "source": "港台"
     },
     {
@@ -1437,6 +1461,7 @@
       "start": "2026-08-31T11:20:00+08:00",
       "end": "2026-08-31T11:30:00+08:00",
       "description": "鑲金獸首瑪瑙杯",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1473,6 +1498,7 @@
       "start": "2026-08-31T11:30:00+08:00",
       "end": "2026-08-31T11:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1545,6 +1571,7 @@
       "start": "2026-08-31T12:00:00+08:00",
       "end": "2026-08-31T13:00:00+08:00",
       "description": "古代穀物救未來(上)",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/forgottenpalate",
       "source": "港台"
     },
     {
@@ -1554,6 +1581,7 @@
       "start": "2026-08-31T12:00:00+08:00",
       "end": "2026-08-31T12:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1608,6 +1636,7 @@
       "start": "2026-08-31T12:20:00+08:00",
       "end": "2026-08-31T12:30:00+08:00",
       "description": "蓮鶴方壺",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1635,6 +1664,7 @@
       "start": "2026-08-31T12:30:00+08:00",
       "end": "2026-08-31T12:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1698,6 +1728,7 @@
       "start": "2026-08-31T13:00:00+08:00",
       "end": "2026-08-31T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1707,6 +1738,7 @@
       "start": "2026-08-31T13:00:00+08:00",
       "end": "2026-08-31T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1761,6 +1793,7 @@
       "start": "2026-08-31T13:10:00+08:00",
       "end": "2026-08-31T14:00:00+08:00",
       "description": "精靈一點 8月31日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/healthpedia_tv",
       "source": "港台"
     },
     {
@@ -1779,6 +1812,7 @@
       "start": "2026-08-31T13:20:00+08:00",
       "end": "2026-08-31T13:30:00+08:00",
       "description": "七孔骨笛",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1815,6 +1849,7 @@
       "start": "2026-08-31T13:30:00+08:00",
       "end": "2026-08-31T13:37:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1914,6 +1949,7 @@
       "start": "2026-08-31T14:00:00+08:00",
       "end": "2026-08-31T14:05:00+08:00",
       "description": "入境事務處 - 打擊非法勞工",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1923,6 +1959,7 @@
       "start": "2026-08-31T14:00:00+08:00",
       "end": "2026-08-31T14:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -1950,6 +1987,7 @@
       "start": "2026-08-31T14:05:00+08:00",
       "end": "2026-08-31T14:50:00+08:00",
       "description": "第三十八集：良城案連環殺手落網",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/wearecriminalpolice",
       "source": "港台"
     },
     {
@@ -1968,6 +2006,7 @@
       "start": "2026-08-31T14:20:00+08:00",
       "end": "2026-08-31T14:30:00+08:00",
       "description": "翔鷺紋銅鼓",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -1995,6 +2034,7 @@
       "start": "2026-08-31T14:30:00+08:00",
       "end": "2026-08-31T14:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2031,6 +2071,7 @@
       "start": "2026-08-31T14:50:00+08:00",
       "end": "2026-08-31T15:40:00+08:00",
       "description": "第一集：何家長女隨奶奶來淮南",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -2067,6 +2108,7 @@
       "start": "2026-08-31T15:00:00+08:00",
       "end": "2026-08-31T15:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2103,6 +2145,7 @@
       "start": "2026-08-31T15:20:00+08:00",
       "end": "2026-08-31T15:30:00+08:00",
       "description": "鑲嵌綠松石獸面紋銅牌飾",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2139,6 +2182,7 @@
       "start": "2026-08-31T15:30:00+08:00",
       "end": "2026-08-31T15:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2166,6 +2210,7 @@
       "start": "2026-08-31T15:40:00+08:00",
       "end": "2026-08-31T16:05:00+08:00",
       "description": "第一千二百三十五集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -2220,6 +2265,7 @@
       "start": "2026-08-31T16:00:00+08:00",
       "end": "2026-08-31T16:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2247,6 +2293,7 @@
       "start": "2026-08-31T16:05:00+08:00",
       "end": "2026-08-31T16:30:00+08:00",
       "description": "第163集：鄭杞瑤、鄭芷淇",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/cantopoppower",
       "source": "港台"
     },
     {
@@ -2283,6 +2330,7 @@
       "start": "2026-08-31T16:20:00+08:00",
       "end": "2026-08-31T16:30:00+08:00",
       "description": "青花蕭何月下追韓信圖梅瓶",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2310,6 +2358,7 @@
       "start": "2026-08-31T16:30:00+08:00",
       "end": "2026-08-31T16:45:00+08:00",
       "description": "第二百九十三集 - 《我不是怪獸》上集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -2319,6 +2368,7 @@
       "start": "2026-08-31T16:30:00+08:00",
       "end": "2026-08-31T16:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2337,6 +2387,7 @@
       "start": "2026-08-31T16:45:00+08:00",
       "end": "2026-08-31T17:00:00+08:00",
       "description": "黑暗中的天賦",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -2382,6 +2433,7 @@
       "start": "2026-08-31T17:00:00+08:00",
       "end": "2026-08-31T17:15:00+08:00",
       "description": "最潮斗篷",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/mushmushs2",
       "source": "港台"
     },
     {
@@ -2391,6 +2443,7 @@
       "start": "2026-08-31T17:00:00+08:00",
       "end": "2026-08-31T17:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2427,6 +2480,7 @@
       "start": "2026-08-31T17:15:00+08:00",
       "end": "2026-08-31T17:23:00+08:00",
       "description": "新的阿盧",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -2436,6 +2490,7 @@
       "start": "2026-08-31T17:20:00+08:00",
       "end": "2026-08-31T17:30:00+08:00",
       "description": "四牛鎏金騎士銅貯貝器",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2445,6 +2500,7 @@
       "start": "2026-08-31T17:23:00+08:00",
       "end": "2026-08-31T17:30:00+08:00",
       "description": "惡作劇",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -2490,6 +2546,7 @@
       "start": "2026-08-31T17:30:00+08:00",
       "end": "2026-08-31T18:00:00+08:00",
       "description": "從「前海」到新疆 從自我到成長",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/solarproject2026",
       "source": "港台"
     },
     {
@@ -2499,6 +2556,7 @@
       "start": "2026-08-31T17:30:00+08:00",
       "end": "2026-08-31T17:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2571,6 +2629,7 @@
       "start": "2026-08-31T18:00:00+08:00",
       "end": "2026-08-31T18:30:00+08:00",
       "description": "第一千二百三十六集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -2580,6 +2639,7 @@
       "start": "2026-08-31T18:00:00+08:00",
       "end": "2026-08-31T18:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2625,6 +2685,7 @@
       "start": "2026-08-31T18:20:00+08:00",
       "end": "2026-08-31T18:30:00+08:00",
       "description": "T形帛畫",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2652,6 +2713,7 @@
       "start": "2026-08-31T18:30:00+08:00",
       "end": "2026-08-31T19:00:00+08:00",
       "description": "第一千零九十六集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -2661,6 +2723,7 @@
       "start": "2026-08-31T18:30:00+08:00",
       "end": "2026-08-31T18:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2688,6 +2751,7 @@
       "start": "2026-08-31T18:50:00+08:00",
       "end": "2026-08-31T19:00:00+08:00",
       "description": "汝窯天藍釉刻花鵝頸瓶",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -2733,6 +2797,7 @@
       "start": "2026-08-31T19:00:00+08:00",
       "end": "2026-08-31T19:30:00+08:00",
       "description": "20260831",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -2742,6 +2807,7 @@
       "start": "2026-08-31T19:00:00+08:00",
       "end": "2026-08-31T19:30:00+08:00",
       "description": "20260831",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -2796,6 +2862,7 @@
       "start": "2026-08-31T19:30:00+08:00",
       "end": "2026-08-31T20:25:00+08:00",
       "description": "第十四集：林臻東喝了功能飲料就會心跳加速",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -2805,6 +2872,7 @@
       "start": "2026-08-31T19:30:00+08:00",
       "end": "2026-08-31T20:00:00+08:00",
       "description": "海南航天科技帶動旅遊產業 青少年用AI聊天引家長憂慮",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -2895,6 +2963,7 @@
       "start": "2026-08-31T20:00:00+08:00",
       "end": "2026-08-31T20:15:00+08:00",
       "description": "晚間新聞",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/eveningnews_tv",
       "source": "港台"
     },
     {
@@ -2931,6 +3000,7 @@
       "start": "2026-08-31T20:15:00+08:00",
       "end": "2026-08-31T20:55:00+08:00",
       "description": "時事脈動 (英語)",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -2958,6 +3028,7 @@
       "start": "2026-08-31T20:25:00+08:00",
       "end": "2026-08-31T20:30:00+08:00",
       "description": "勞工處 80 周年",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -2985,6 +3056,7 @@
       "start": "2026-08-31T20:30:00+08:00",
       "end": "2026-08-31T21:20:00+08:00",
       "description": "第二集：火噬宮闈",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -3012,6 +3084,7 @@
       "start": "2026-08-31T20:55:00+08:00",
       "end": "2026-08-31T21:00:00+08:00",
       "description": "盂蘭文化節；「設計啊！」展覽",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -3048,6 +3121,7 @@
       "start": "2026-08-31T21:00:00+08:00",
       "end": "2026-08-31T21:30:00+08:00",
       "description": "遊艇經濟",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkce",
       "source": "港台"
     },
     {
@@ -3075,6 +3149,7 @@
       "start": "2026-08-31T21:20:00+08:00",
       "end": "2026-08-31T21:25:00+08:00",
       "description": "汝窯天藍釉刻花鵝頸瓶",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -3093,6 +3168,7 @@
       "start": "2026-08-31T21:25:00+08:00",
       "end": "2026-08-31T21:30:00+08:00",
       "description": "勞工處 80 周年",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3129,6 +3205,7 @@
       "start": "2026-08-31T21:30:00+08:00",
       "end": "2026-08-31T22:00:00+08:00",
       "description": "算出來的運動力",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkstories68",
       "source": "港台"
     },
     {
@@ -3138,6 +3215,7 @@
       "start": "2026-08-31T21:30:00+08:00",
       "end": "2026-08-31T22:00:00+08:00",
       "description": "領帶大王—曾憲梓",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/chronicleofnotablechinese_eng",
       "source": "港台"
     },
     {
@@ -3228,6 +3306,7 @@
       "start": "2026-08-31T22:00:00+08:00",
       "end": "2026-08-31T22:25:00+08:00",
       "description": "海南航天科技帶動旅遊產業 青少年用AI聊天引家長憂慮",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -3237,6 +3316,7 @@
       "start": "2026-08-31T22:00:00+08:00",
       "end": "2026-08-31T22:05:00+08:00",
       "description": "勞工處 80 周年",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3273,6 +3353,7 @@
       "start": "2026-08-31T22:05:00+08:00",
       "end": "2026-08-31T22:30:00+08:00",
       "description": "第一千零九十六集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3282,6 +3363,7 @@
       "start": "2026-08-31T22:25:00+08:00",
       "end": "2026-08-31T22:30:00+08:00",
       "description": "盂蘭文化節；「設計啊！」展覽",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -3300,6 +3382,7 @@
       "start": "2026-08-31T22:30:00+08:00",
       "end": "2026-08-31T23:30:00+08:00",
       "description": "第三十一集: 馬嘉鼓勵年青醫生擔當做手術",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/welcometomilele",
       "source": "港台"
     },
     {
@@ -3309,6 +3392,7 @@
       "start": "2026-08-31T22:30:00+08:00",
       "end": "2026-08-31T23:00:00+08:00",
       "description": "第七集 - 「品色衣」顏色分高低? | 東北瀋陽 x 「天下第一關」嘉峪關 x 敦煌莫高窟 冷知識！| 最後一集問題大激鬥 — 戰爭歷史、經典文學、國家政府部門架構、國家科技發展等等等等住考你",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/blpatrioticeduquiz",
       "source": "港台"
     },
     {
@@ -3372,6 +3456,7 @@
       "start": "2026-08-31T23:00:00+08:00",
       "end": "2026-08-31T23:30:00+08:00",
       "description": "海南航天科技帶動旅遊產業 青少年用AI聊天引家長憂慮",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/kanshenzhou",
       "source": "港台"
     },
     {
@@ -3453,6 +3538,7 @@
       "start": "2026-08-31T23:30:00+08:00",
       "end": "2026-09-01T00:00:00+08:00",
       "description": "第一千零九十六集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3462,6 +3548,7 @@
       "start": "2026-08-31T23:30:00+08:00",
       "end": "2026-09-01T00:00:00+08:00",
       "description": "時事脈動 (英語)",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -3506,5 +3593,6 @@
     "HOY": true,
     "港台": true,
     "ViuTV": true
-  }
+  },
+  "errors": []
 }

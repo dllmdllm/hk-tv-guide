@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "updatedAt": "2026-09-06T22:09:06.890Z",
+  "updatedAt": "2026-09-07T04:21:55.512Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -132,6 +132,7 @@
       "start": "2026-09-11T00:00:00+08:00",
       "end": "2026-09-11T00:30:00+08:00",
       "description": "第一千二百四十四集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -141,6 +142,7 @@
       "start": "2026-09-11T00:00:00+08:00",
       "end": "2026-09-11T00:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -195,6 +197,7 @@
       "start": "2026-09-11T00:10:00+08:00",
       "end": "2026-09-11T00:35:00+08:00",
       "description": "巴有囍事",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/inclusivehk_eng",
       "source": "港台"
     },
     {
@@ -222,6 +225,7 @@
       "start": "2026-09-11T00:15:00+08:00",
       "end": "2026-09-11T00:45:00+08:00",
       "description": "食評家Agnes推介主打避風塘風味的名人愛店，與施焯日先品嚐白灼粉腸、豬肚等前菜拼盤，配上蟹油更添鮮味。二人再細味古法避風塘炒蟹，惹味且層次豐富，最後以燒鴨湯河作結，手切河粉盡吸大地魚湯精華。伍倩彤、倪嘉雯則到訪一間咖啡店，品嚐玫瑰鹽芝士奶蓋冷萃咖啡、比利時白朱古力奶，以及啤酒脆漿炸魚薯條、黑松露煙三文魚班尼迪牛油果鬆餅、三重芝士和牛漢堡及蟹籽香辣蒜片鮮蟹肉意粉等美食，皆以優質食材炮製，滋味十足。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -240,6 +244,7 @@
       "start": "2026-09-11T00:30:00+08:00",
       "end": "2026-09-11T01:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkcc",
       "source": "港台"
     },
     {
@@ -258,6 +263,7 @@
       "start": "2026-09-11T00:30:00+08:00",
       "end": "2026-09-11T01:20:00+08:00",
       "description": "伊娃為慶祝以馬貝拉為家，探索其豐富美食遺產，並舉行精彩晚宴，感謝當地友好。她跟本地朋友和廚師探索烤沙甸魚、山羊菜式、新鮮時令產物和獨特西班牙凍湯，在結合傳統與創意之餘，揭示正宗的馬貝拉風味。",
+      "url": "https://www.mytvsuper.com/tc/programme/evalongoriasearchingforspain_146779/",
       "source": "TVB"
     },
     {
@@ -276,6 +282,7 @@
       "start": "2026-09-11T00:35:00+08:00",
       "end": "2026-09-11T01:00:00+08:00",
       "description": "聽石頭說．．．",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/greenfuture_eng",
       "source": "港台"
     },
     {
@@ -294,6 +301,7 @@
       "start": "2026-09-11T00:45:00+08:00",
       "end": "2026-09-11T01:15:00+08:00",
       "description": "每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。",
+      "url": "https://www.mytvsuper.com/tc/programme/entertainmentnews_100100/",
       "source": "TVB"
     },
     {
@@ -339,6 +347,7 @@
       "start": "2026-09-11T01:00:00+08:00",
       "end": "2026-09-11T02:00:00+08:00",
       "description": "第二十二集：母親宣佈林臻東將加入萬事車隊",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -348,6 +357,7 @@
       "start": "2026-09-11T01:00:00+08:00",
       "end": "2026-09-11T01:30:00+08:00",
       "description": "十八好時光 9月10日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/18heartfeltvibestv",
       "source": "港台"
     },
     {
@@ -375,6 +385,7 @@
       "start": "2026-09-11T01:00:00+08:00",
       "end": "2026-09-11T01:35:00+08:00",
       "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "url": "https://www.mytvsuper.com/tc/programme/scoop_37/",
       "source": "TVB"
     },
     {
@@ -438,6 +449,7 @@
       "start": "2026-09-11T01:30:00+08:00",
       "end": "2026-09-11T02:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -483,6 +495,7 @@
       "start": "2026-09-11T01:35:00+08:00",
       "end": "2026-09-11T02:20:00+08:00",
       "description": "《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。",
+      "url": "https://www.mytvsuper.com/tc/programme/bigcityshop_118508/",
       "source": "TVB"
     },
     {
@@ -492,6 +505,7 @@
       "start": "2026-09-11T01:35:00+08:00",
       "end": "2026-09-11T02:05:00+08:00",
       "description": "首季《怪宿宿》入住了全球多地的奇葩住宿。這一季由蔡景行、馮皓揚、李茵彤、李海銅進軍中國內地六個地方：北京、西安、寧夏、上海、浙江、黃山，探索住宿內的奇特設施，發掘背後的故事與建築人文歷史，也會前往就近當地的特色景點打卡和尋找美食，並給出相應的「怪度評分」。",
+      "url": "https://www.mytvsuper.com/tc/programme/traveloddchina_146802/",
       "source": "TVB"
     },
     {
@@ -546,6 +560,7 @@
       "start": "2026-09-11T02:00:00+08:00",
       "end": "2026-09-11T02:30:00+08:00",
       "description": "十八好時光 9月10日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/18heartfeltvibestv",
       "source": "港台"
     },
     {
@@ -582,6 +597,7 @@
       "start": "2026-09-11T02:00:00+08:00",
       "end": "2026-09-11T02:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -591,6 +607,7 @@
       "start": "2026-09-11T02:05:00+08:00",
       "end": "2026-09-11T02:35:00+08:00",
       "description": "胃癌是起源於胃黏膜上皮的惡性腫瘤，初期症狀常與胃炎或胃潰瘍相似而不易察覺。除了做手術切除受影響的胃部，部分亦要接受吊針化療，而且要配合口服化療藥。",
+      "url": "https://www.mytvsuper.com/tc/programme/vitallifeline_112856/",
       "source": "TVB"
     },
     {
@@ -618,6 +635,7 @@
       "start": "2026-09-11T02:20:00+08:00",
       "end": "2026-09-11T02:50:00+08:00",
       "description": "處理魷魚有不少步驟，諾懿逐一示範，並炮製「爆炒鮮魷」。敏之則以西瓜等多款水果，做出與別不同的「蛋糕」。蔣怡修畢法國藍帶廚藝課程後，其愛吃愛煮的心仍未滿足，現時亦積極學習烹調中菜。她到臨傳授簡單的煙燻方法，並奉上「太爺雞」。豆腐營養價值極高，諾懿帶來傳統菜式「太史豆腐」的家常版。期間，蔣怡竟自揭曾打歪敏之的鼻子，究竟所為何事？豆腐亦可採用中西合璧的煮法？蔣怡用芝士、酸菜伴以豆腐，焗出外脆內軟的滋味！",
+      "url": "https://www.mytvsuper.com/tc/programme/happydinnertogether0002_147143/",
       "source": "TVB"
     },
     {
@@ -645,6 +663,7 @@
       "start": "2026-09-11T02:30:00+08:00",
       "end": "2026-09-11T03:30:00+08:00",
       "description": "第十集: 愛製作動物標本的嫌疑人",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/whoishe",
       "source": "港台"
     },
     {
@@ -654,6 +673,7 @@
       "start": "2026-09-11T02:30:00+08:00",
       "end": "2026-09-11T03:00:00+08:00",
       "description": "常言道：「今日新聞，明日歷史」。每天那麼多新聞，大家可能來不及消化，更遑論回望歷史。歷史就是一個大寶庫，少看歷史和小看歷史，很容易「走寶」。新節目《新聞掏寶》帶大家在寶庫「掏」新聞寶藏，除了昔日特輯、直播和系列報道，還有從未曝光的珍貴片段，觀眾有機會重溫李小龍出殯、寶生銀行劫案、四人幫審訊、英女王訪港、的士罷駛、中英簽訂聯合聲明、戴卓爾夫人專訪、越南難民、尤德逝世、彭定康抵港、啟德機場關閉、鄧小平逝世、九七回歸大典、華航香港空難和沙士記者會。",
+      "url": "https://www.mytvsuper.com/tc/programme/newstreasury_125665/",
       "source": "TVB"
     },
     {
@@ -681,6 +701,7 @@
       "start": "2026-09-11T02:35:00+08:00",
       "end": "2026-09-11T03:30:00+08:00",
       "description": "陸琪跟梁王說起楚慕的心上人傅柔，讓他對傅柔產生極大的好奇。玲瓏想搶走傅音的玉鐲，管家向陸琪彙報後，玲瓏被訓了一頓。陸琪作畫時，傅音說起自己對作畫的見地，讓他注意到她並漸生好感，玲瓏嫉妒，叫漢星輕薄她。",
+      "url": "https://www.mytvsuper.com/tc/programme/courtlady0001_133464/",
       "source": "TVB"
     },
     {
@@ -699,6 +720,7 @@
       "start": "2026-09-11T02:50:00+08:00",
       "end": "2026-09-11T03:45:00+08:00",
       "description": "苗天得知美娟用私己錢，新月則欲把大屋按掉來應付困境後，立即往找濟民出賣藥材套現。苗天得濟民以原價七成把全批藥材買下。苗天往找賣酒的瘦骨仙，發現他突然富，終真相大白。眾人飲酒慶祝，苗天竟飲至爛醉如泥。",
+      "url": "https://www.mytvsuper.com/tc/programme/thelaststeepascent0004_147244/",
       "source": "TVB"
     },
     {
@@ -798,6 +820,7 @@
       "start": "2026-09-11T03:30:00+08:00",
       "end": "2026-09-11T04:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -897,6 +920,7 @@
       "start": "2026-09-11T04:00:00+08:00",
       "end": "2026-09-11T04:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -915,6 +939,7 @@
       "start": "2026-09-11T04:10:00+08:00",
       "end": "2026-09-11T05:05:00+08:00",
       "description": "楊康挾持柯鎮惡，要郭靖交出《武穆遺書》，幸得周伯通及時出現…黃蓉救柯鎮惡到廟裡躲藏，歐陽鋒和楊康等人隨後來到，黃蓉決定現身，借傻姑的嘴揭穿楊康殺死歐陽克，楊康怕歐陽鋒相信便想殺死黃蓉，一掌打在她背上…",
+      "url": "https://www.mytvsuper.com/tc/programme/legendofheroeshotbloodedthe_141462/",
       "source": "TVB"
     },
     {
@@ -942,6 +967,7 @@
       "start": "2026-09-11T04:30:00+08:00",
       "end": "2026-09-11T05:30:00+08:00",
       "description": "第十八屆“香港盃”外交知識競賽",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/18thhkcdiplomaticknowledge",
       "source": "港台"
     },
     {
@@ -960,6 +986,7 @@
       "start": "2026-09-11T04:30:00+08:00",
       "end": "2026-09-11T05:00:00+08:00",
       "description": "常言道：「今日新聞，明日歷史」。每天那麼多新聞，大家可能來不及消化，更遑論回望歷史。歷史就是一個大寶庫，少看歷史和小看歷史，很容易「走寶」。新節目《新聞掏寶》帶大家在寶庫「掏」新聞寶藏，除了昔日特輯、直播和系列報道，還有從未曝光的珍貴片段，觀眾有機會重溫李小龍出殯、寶生銀行劫案、四人幫審訊、英女王訪港、的士罷駛、中英簽訂聯合聲明、戴卓爾夫人專訪、越南難民、尤德逝世、彭定康抵港、啟德機場關閉、鄧小平逝世、九七回歸大典、華航香港空難和沙士記者會。",
+      "url": "https://www.mytvsuper.com/tc/programme/newstreasury_125665/",
       "source": "TVB"
     },
     {
@@ -1068,6 +1095,7 @@
       "start": "2026-09-11T05:05:00+08:00",
       "end": "2026-09-11T05:30:00+08:00",
       "description": "周柏豪與袁偉豪登場，Do姐份外雀躍，更稱要將農夫「炒魷魚」，換上兩位型男當助手！東京一間動漫Cafe以主角遇水即轉換性別的漫畫為主題，店內一道熊貓造型食物，淋上茶後會變成甚麼？「問題專員」凱晴在台北買來「唇膏」朱古力，「雙豪」要在真、假唇膏當中選出假貨。二人親自品嚐所選「唇膏」，可會「中伏」？韓國的泡菜種類繁多，「總角泡菜」有甚麼來頭？今集獎金再創新高，有嘉賓兌換得逾二萬元，幸運兒是……",
+      "url": "https://www.mytvsuper.com/tc/programme/dodideatsr20002_146546/",
       "source": "TVB"
     },
     {
@@ -1095,6 +1123,7 @@
       "start": "2026-09-11T05:30:00+08:00",
       "end": "2026-09-11T06:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkcc",
       "source": "港台"
     },
     {
@@ -1131,6 +1160,7 @@
       "start": "2026-09-11T05:30:00+08:00",
       "end": "2026-09-11T06:00:00+08:00",
       "description": "張敬軒、「豹哥」單立文、「豹嫂」胡蓓蔚均熱愛音樂，三位嘉賓亮相之前，農夫竟聯想到中韓美食？旅遊資訊方面，各處鄉村各處例，搖滾手勢切勿亂做！「問題專員」胡慧冲發現泰國人會在樹幹塗上爽身粉，莫非要令樹皮變得更加幼滑？名廚余健志發揮鬼馬煮意，把常見食材變成一道「別問我是誰」，兩隊嘉賓能否猜出食材的真正身分？台中一款「心痛扭蛋」內裡只包含字條，有「搵笨」之嫌；「心動扭蛋」緊接登場，卻有女生高呼物超所值！",
+      "url": "https://www.mytvsuper.com/tc/programme/dodideatsr20002_146546/",
       "source": "TVB"
     },
     {
@@ -1185,6 +1215,7 @@
       "start": "2026-09-11T06:00:00+08:00",
       "end": "2026-09-11T06:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -1221,6 +1252,7 @@
       "start": "2026-09-11T06:00:00+08:00",
       "end": "2026-09-11T07:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1230,6 +1262,7 @@
       "start": "2026-09-11T06:00:00+08:00",
       "end": "2026-09-11T06:30:00+08:00",
       "description": "情歌容易觸動人心，歌手許靖韻到臨，清唱集合多首經典作品歌名的情歌，耳朵懷孕了！祖儀也興起唱兩句「復合」新曲。失戀時會聽咩歌慰藉自己？一句「感動過、燦爛過亦不枉過」，深深打動欣茵。峰心情谷底時要鬥負，沉淪過會變好。Enson不只是失戀層面，治癒系列必選偶像的<遊樂場>。六號「接近失戀」時，唱爆咪之作<愛我別走>、<我懷念的>幫到手。靖韻每首情歌都是自身經歷，<謝謝對不起>，只聽歌名已經夠虐心。",
+      "url": "https://www.mytvsuper.com/tc/programme/youngandrestless0002_144103/",
       "source": "TVB"
     },
     {
@@ -1275,6 +1308,7 @@
       "start": "2026-09-11T06:30:00+08:00",
       "end": "2026-09-11T06:45:00+08:00",
       "description": "第三百零一集 - 【嘉賓來了】一把口一個樂團- Beatboxer Heartgrey",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -1293,6 +1327,7 @@
       "start": "2026-09-11T06:30:00+08:00",
       "end": "2026-09-11T07:00:00+08:00",
       "description": "失戀歌，周董情歌不可少，GM聽<一路向北>最有Feel，還沉溺於MV意境。嘉賓許靖韻提到好怕太愛一個人，因會失去安全感？Bonnie嚴選<忽然之間>，令人勾起戀愛回憶。Sandy甫聽「盡情愚弄我吧」勁有畫面，一秒崩潰。靖韻、Danny即席Jam出失戀歌，道盡火星、金星大不同的愛情觀。後生仔細數幸福合唱歌，越唱越心甜，盈盈「深情」演繹<告白汽球>，竟爆出黃色歌詞？傾傾吓，眾人禁不住來個經典大合唱！",
+      "url": "https://www.mytvsuper.com/tc/programme/youngandrestless0002_144103/",
       "source": "TVB"
     },
     {
@@ -1311,6 +1346,7 @@
       "start": "2026-09-11T06:45:00+08:00",
       "end": "2026-09-11T06:55:00+08:00",
       "description": "鉛筆",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -1320,6 +1356,7 @@
       "start": "2026-09-11T06:55:00+08:00",
       "end": "2026-09-11T07:05:00+08:00",
       "description": "褲",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -1383,6 +1420,7 @@
       "start": "2026-09-11T07:00:00+08:00",
       "end": "2026-09-11T07:30:00+08:00",
       "description": "每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。",
+      "url": "https://www.mytvsuper.com/tc/programme/entertainmentnews_100100/",
       "source": "TVB"
     },
     {
@@ -1401,6 +1439,7 @@
       "start": "2026-09-11T07:00:00+08:00",
       "end": "2026-09-11T07:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/newcreationtv2026_145186/",
       "source": "TVB"
     },
     {
@@ -1410,6 +1449,7 @@
       "start": "2026-09-11T07:05:00+08:00",
       "end": "2026-09-11T07:15:00+08:00",
       "description": "磅秤",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -1419,6 +1459,7 @@
       "start": "2026-09-11T07:15:00+08:00",
       "end": "2026-09-11T07:23:00+08:00",
       "description": "搖滾樂",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -1428,6 +1469,7 @@
       "start": "2026-09-11T07:23:00+08:00",
       "end": "2026-09-11T07:30:00+08:00",
       "description": "我愛整潔",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -1464,6 +1506,7 @@
       "start": "2026-09-11T07:30:00+08:00",
       "end": "2026-09-11T08:00:00+08:00",
       "description": "第一千二百四十四集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -1473,6 +1516,7 @@
       "start": "2026-09-11T07:30:00+08:00",
       "end": "2026-09-11T07:35:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -1500,6 +1544,7 @@
       "start": "2026-09-11T07:30:00+08:00",
       "end": "2026-09-11T08:00:00+08:00",
       "description": "以美食為引，勾連起市井煙火中的百態人生。跟隨鏡頭輾轉江門、樂山、泉州等六座城市，從熱鬧都市的美食殿堂到靜謐巷陌的民間風味，每一道菜肴都承載著獨特的文化底蘊與烹飪藝術。",
+      "url": "https://www.mytvsuper.com/tc/programme/yummyworldiii_147214/",
       "source": "TVB"
     },
     {
@@ -1527,6 +1572,7 @@
       "start": "2026-09-11T07:35:00+08:00",
       "end": "2026-09-11T07:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -1554,6 +1600,7 @@
       "start": "2026-09-11T07:40:00+08:00",
       "end": "2026-09-11T07:45:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -1563,6 +1610,7 @@
       "start": "2026-09-11T07:45:00+08:00",
       "end": "2026-09-11T08:10:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1626,6 +1674,7 @@
       "start": "2026-09-11T08:00:00+08:00",
       "end": "2026-09-11T08:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -1653,6 +1702,7 @@
       "start": "2026-09-11T08:00:00+08:00",
       "end": "2026-09-11T08:30:00+08:00",
       "description": "食評家Agnes推介主打避風塘風味的名人愛店，與施焯日先品嚐白灼粉腸、豬肚等前菜拼盤，配上蟹油更添鮮味。二人再細味古法避風塘炒蟹，惹味且層次豐富，最後以燒鴨湯河作結，手切河粉盡吸大地魚湯精華。伍倩彤、倪嘉雯則到訪一間咖啡店，品嚐玫瑰鹽芝士奶蓋冷萃咖啡、比利時白朱古力奶，以及啤酒脆漿炸魚薯條、黑松露煙三文魚班尼迪牛油果鬆餅、三重芝士和牛漢堡及蟹籽香辣蒜片鮮蟹肉意粉等美食，皆以優質食材炮製，滋味十足。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -1662,6 +1712,7 @@
       "start": "2026-09-11T08:05:00+08:00",
       "end": "2026-09-11T10:00:00+08:00",
       "description": "千禧年代 9月11日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1671,6 +1722,7 @@
       "start": "2026-09-11T08:05:00+08:00",
       "end": "2026-09-11T10:00:00+08:00",
       "description": "千禧年代 9月11日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/talkabout",
       "source": "港台"
     },
     {
@@ -1680,6 +1732,7 @@
       "start": "2026-09-11T08:10:00+08:00",
       "end": "2026-09-11T08:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1716,6 +1769,7 @@
       "start": "2026-09-11T08:30:00+08:00",
       "end": "2026-09-11T09:00:00+08:00",
       "description": "胃癌是起源於胃黏膜上皮的惡性腫瘤，初期症狀常與胃炎或胃潰瘍相似而不易察覺。除了做手術切除受影響的胃部，部分亦要接受吊針化療，而且要配合口服化療藥。",
+      "url": "https://www.mytvsuper.com/tc/programme/vitallifeline_112856/",
       "source": "TVB"
     },
     {
@@ -1734,6 +1788,7 @@
       "start": "2026-09-11T08:40:00+08:00",
       "end": "2026-09-11T09:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/goodmorninghongkong_117074/",
       "source": "TVB"
     },
     {
@@ -1851,6 +1906,7 @@
       "start": "2026-09-11T09:15:00+08:00",
       "end": "2026-09-11T09:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -1986,6 +2042,7 @@
       "start": "2026-09-11T10:00:00+08:00",
       "end": "2026-09-11T10:55:00+08:00",
       "description": "第五集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/linzexudocumentaryseries",
       "source": "港台"
     },
     {
@@ -2067,6 +2124,7 @@
       "start": "2026-09-11T10:05:00+08:00",
       "end": "2026-09-11T10:30:00+08:00",
       "description": "第一千二百四十四集",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -2076,6 +2134,7 @@
       "start": "2026-09-11T10:05:00+08:00",
       "end": "2026-09-11T10:35:00+08:00",
       "description": "朋徒弟朱莉亞又再求朋教她下廚，開中菜館的她卻求朋教她煮西餐。朱原來想以西餐配合杭州菜弄出新菜色，朋及朱終設計了一系列新杭州菜。可惜，當朱的父親火爺看過菜單後，竟當眾責罵朱此舉正是侮辱了杭州菜。",
+      "url": "https://www.mytvsuper.com/tc/programme/welcometothehouse0001_115893/",
       "source": "TVB"
     },
     {
@@ -2148,6 +2207,7 @@
       "start": "2026-09-11T10:30:00+08:00",
       "end": "2026-09-11T10:45:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -2157,6 +2217,7 @@
       "start": "2026-09-11T10:35:00+08:00",
       "end": "2026-09-11T11:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -2166,6 +2227,7 @@
       "start": "2026-09-11T10:35:00+08:00",
       "end": "2026-09-11T11:40:00+08:00",
       "description": "郭靖一路北上尋找黃蓉，途中助蒙古兵解決了金人，再次見到拖雷。郭靖隨拖雷回草原拜見大汗，大汗讓郭靖跟隨自己西征。郭靖參悟陣法不得要領，但魯有腳總能在次日給出答案，郭靖察覺異常跟蹤魯有腳，卻遇上了歐陽鋒…",
+      "url": "https://www.mytvsuper.com/tc/programme/legendofheroeshotbloodedthe_141462/",
       "source": "TVB"
     },
     {
@@ -2184,6 +2246,7 @@
       "start": "2026-09-11T10:45:00+08:00",
       "end": "2026-09-11T10:55:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -2193,6 +2256,7 @@
       "start": "2026-09-11T10:50:00+08:00",
       "end": "2026-09-11T11:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -2202,6 +2266,7 @@
       "start": "2026-09-11T10:55:00+08:00",
       "end": "2026-09-11T11:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -2211,6 +2276,7 @@
       "start": "2026-09-11T10:55:00+08:00",
       "end": "2026-09-11T11:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -2256,6 +2322,7 @@
       "start": "2026-09-11T11:00:00+08:00",
       "end": "2026-09-11T11:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -2265,6 +2332,7 @@
       "start": "2026-09-11T11:00:00+08:00",
       "end": "2026-09-11T11:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2337,6 +2405,7 @@
       "start": "2026-09-11T11:10:00+08:00",
       "end": "2026-09-11T12:00:00+08:00",
       "description": "香江暖流",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/magasenior",
       "source": "港台"
     },
     {
@@ -2400,6 +2469,7 @@
       "start": "2026-09-11T11:30:00+08:00",
       "end": "2026-09-11T11:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2508,6 +2578,7 @@
       "start": "2026-09-11T12:00:00+08:00",
       "end": "2026-09-11T12:30:00+08:00",
       "description": "第三集：麵裏乾坤",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shaanxicuisine",
       "source": "港台"
     },
     {
@@ -2517,6 +2588,7 @@
       "start": "2026-09-11T12:00:00+08:00",
       "end": "2026-09-11T12:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2553,6 +2625,7 @@
       "start": "2026-09-11T12:00:00+08:00",
       "end": "2026-09-11T12:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -2562,6 +2635,7 @@
       "start": "2026-09-11T12:00:00+08:00",
       "end": "2026-09-11T13:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/cgtnglobalwatch2021_126695/",
       "source": "TVB"
     },
     {
@@ -2598,6 +2672,7 @@
       "start": "2026-09-11T12:15:00+08:00",
       "end": "2026-09-11T12:55:00+08:00",
       "description": "林希靈、黃愷怡、余德丞、黃碧蓮、李雯希到來，肥媽炮製「椰青蟹」和「香酥軟殼蟹」招待。炸軟殼蟹為何用啤酒？「蒜蓉牛油帆立貝」暗藏四種味道？「秘製豬仔髀」在電飯煲燜煮三十分鐘完成。李雯希還與肥媽Jam歌。",
+      "url": "https://www.mytvsuper.com/tc/programme/germanpoolspecialgoodcheapeatssr3_146784/",
       "source": "TVB"
     },
     {
@@ -2607,6 +2682,7 @@
       "start": "2026-09-11T12:15:00+08:00",
       "end": "2026-09-11T13:15:00+08:00",
       "description": "陸琪跟梁王說起楚慕的心上人傅柔，讓他對傅柔產生極大的好奇。玲瓏想搶走傅音的玉鐲，管家向陸琪彙報後，玲瓏被訓了一頓。陸琪作畫時，傅音說起自己對作畫的見地，讓他注意到她並漸生好感，玲瓏嫉妒，叫漢星輕薄她。",
+      "url": "https://www.mytvsuper.com/tc/programme/courtlady0001_133464/",
       "source": "TVB"
     },
     {
@@ -2634,6 +2710,7 @@
       "start": "2026-09-11T12:30:00+08:00",
       "end": "2026-09-11T13:00:00+08:00",
       "description": "第四集：三秦五味",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shaanxicuisine",
       "source": "港台"
     },
     {
@@ -2643,6 +2720,7 @@
       "start": "2026-09-11T12:30:00+08:00",
       "end": "2026-09-11T12:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2715,6 +2793,7 @@
       "start": "2026-09-11T12:55:00+08:00",
       "end": "2026-09-11T13:00:00+08:00",
       "description": "來自選秀節目《魔音女團》的莊子璇、喬美莎、倪樂琳、宋宛穎、倪嘉雯、盧映彤等「星級」藝員參演的微短劇。故事描述Hilary(莊子璇)為了追尋唱跳夢，參加「超級新星」選拔；某天，她於偶然下發現「魔幻百變床褥」的神奇效果，毅然有所決定……",
+      "url": "https://www.mytvsuper.com/tc/programme/magicversatilemattress_147238/",
       "source": "TVB"
     },
     {
@@ -2769,6 +2848,7 @@
       "start": "2026-09-11T13:00:00+08:00",
       "end": "2026-09-11T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2778,6 +2858,7 @@
       "start": "2026-09-11T13:00:00+08:00",
       "end": "2026-09-11T13:07:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2805,6 +2886,7 @@
       "start": "2026-09-11T13:00:00+08:00",
       "end": "2026-09-11T13:20:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/noonnewsjade0001_117075/",
       "source": "TVB"
     },
     {
@@ -2877,6 +2959,7 @@
       "start": "2026-09-11T13:10:00+08:00",
       "end": "2026-09-11T14:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/healthpedia_tv",
       "source": "港台"
     },
     {
@@ -2895,6 +2978,7 @@
       "start": "2026-09-11T13:15:00+08:00",
       "end": "2026-09-11T13:45:00+08:00",
       "description": "食評家Agnes推介主打避風塘風味的名人愛店，與施焯日先品嚐白灼粉腸、豬肚等前菜拼盤，配上蟹油更添鮮味。二人再細味古法避風塘炒蟹，惹味且層次豐富，最後以燒鴨湯河作結，手切河粉盡吸大地魚湯精華。伍倩彤、倪嘉雯則到訪一間咖啡店，品嚐玫瑰鹽芝士奶蓋冷萃咖啡、比利時白朱古力奶，以及啤酒脆漿炸魚薯條、黑松露煙三文魚班尼迪牛油果鬆餅、三重芝士和牛漢堡及蟹籽香辣蒜片鮮蟹肉意粉等美食，皆以優質食材炮製，滋味十足。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -2904,6 +2988,7 @@
       "start": "2026-09-11T13:20:00+08:00",
       "end": "2026-09-11T14:10:00+08:00",
       "description": "《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。",
+      "url": "https://www.mytvsuper.com/tc/programme/bigcityshop_118508/",
       "source": "TVB"
     },
     {
@@ -2940,6 +3025,7 @@
       "start": "2026-09-11T13:30:00+08:00",
       "end": "2026-09-11T13:37:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -2994,6 +3080,7 @@
       "start": "2026-09-11T13:35:00+08:00",
       "end": "2026-09-11T13:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -3021,6 +3108,7 @@
       "start": "2026-09-11T13:45:00+08:00",
       "end": "2026-09-11T14:15:00+08:00",
       "description": "日本劇作家撰寫的小說以書信作鋪排，由讀者自行解讀信件的故事。Patrick Sir細述箇中幾封信的內容，作者如何運用日常書信組合情節，末尾來趟大逆轉？電影編劇兼小說家譚惠貞到臨，細談編寫有關身障者劇本的點滴，要令影片「貼地」，資料搜集功夫不可少。泳芍帶來講述被家庭與社會遺棄的主人翁，努力茁壯生活的小說；孤獨時看，可望感受正能量。韻婷的推介寫出電影巨星與其七位丈夫的虛構故事，竟想藉此「啟發」獨家村？",
+      "url": "https://www.mytvsuper.com/tc/programme/openbook0001_146364/",
       "source": "TVB"
     },
     {
@@ -3075,6 +3163,7 @@
       "start": "2026-09-11T14:00:00+08:00",
       "end": "2026-09-11T14:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -3084,6 +3173,7 @@
       "start": "2026-09-11T14:00:00+08:00",
       "end": "2026-09-11T14:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3138,6 +3228,7 @@
       "start": "2026-09-11T14:05:00+08:00",
       "end": "2026-09-11T14:50:00+08:00",
       "description": "第十八集：方濤找家歡深談",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -3156,6 +3247,7 @@
       "start": "2026-09-11T14:10:00+08:00",
       "end": "2026-09-11T14:50:00+08:00",
       "description": "嘉賓曹永廉曾任職廚房工作，自言刀法一流。他到來炮製意頭菜「蠔豉鬆生菜包」，趁機露兩手！烹煮花蟹前，先要去除多組內臟，諾懿繼而帶來「花雕蛋白蒸花蟹」，香滑美味。如何把蘋果、青葡萄變身成「蟹」？留意敏之示範。西班牙黑毛豬神秘肉有多特別？諾懿的慢煮豬肉卷口感鬆軟，伴以焦糖蘋果享用，還可減低油膩感。阿廉則搞搞新意思，將黑毛豬肉混合麵粉、墨魚等材料，再參照日式大阪燒的做法，又會創出怎樣的風味？",
+      "url": "https://www.mytvsuper.com/tc/programme/buffaloprogrammeworkingtitle_129479/",
       "source": "TVB"
     },
     {
@@ -3165,6 +3257,7 @@
       "start": "2026-09-11T14:15:00+08:00",
       "end": "2026-09-11T14:45:00+08:00",
       "description": "每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。",
+      "url": "https://www.mytvsuper.com/tc/programme/entertainmentnews_100100/",
       "source": "TVB"
     },
     {
@@ -3192,6 +3285,7 @@
       "start": "2026-09-11T14:30:00+08:00",
       "end": "2026-09-11T14:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3210,6 +3304,7 @@
       "start": "2026-09-11T14:30:00+08:00",
       "end": "2026-09-11T14:45:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -3237,6 +3332,7 @@
       "start": "2026-09-11T14:45:00+08:00",
       "end": "2026-09-11T15:15:00+08:00",
       "description": "以美食為引，勾連起市井煙火中的百態人生。跟隨鏡頭輾轉江門、樂山、泉州等六座城市，從熱鬧都市的美食殿堂到靜謐巷陌的民間風味，每一道菜肴都承載著獨特的文化底蘊與烹飪藝術。",
+      "url": "https://www.mytvsuper.com/tc/programme/yummyworldiii_147214/",
       "source": "TVB"
     },
     {
@@ -3246,6 +3342,7 @@
       "start": "2026-09-11T14:45:00+08:00",
       "end": "2026-09-11T15:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -3255,6 +3352,7 @@
       "start": "2026-09-11T14:50:00+08:00",
       "end": "2026-09-11T15:40:00+08:00",
       "description": "第十九集：家麗打了家喜一巴掌",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/sixsisters",
       "source": "港台"
     },
     {
@@ -3264,6 +3362,7 @@
       "start": "2026-09-11T14:50:00+08:00",
       "end": "2026-09-11T15:50:00+08:00",
       "description": "世豪教父親散播謠言，指新月與苗天有曖昧關係。苗天向新月表示，懷疑柴胡中被加入巴豆粉乃坤堯父子所為。保羅與美娟施計，讓美娟請新月安排保羅在店中工作。托馬斯到賀正堂，苗天終與他達成合作協議。",
+      "url": "https://www.mytvsuper.com/tc/programme/thelaststeepascent0001_110375/",
       "source": "TVB"
     },
     {
@@ -3309,6 +3408,7 @@
       "start": "2026-09-11T15:00:00+08:00",
       "end": "2026-09-11T15:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3336,6 +3436,7 @@
       "start": "2026-09-11T15:00:00+08:00",
       "end": "2026-09-11T15:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -3381,6 +3482,7 @@
       "start": "2026-09-11T15:15:00+08:00",
       "end": "2026-09-11T15:50:00+08:00",
       "description": "「女神」邢慧敏(Sharon)多才多藝，德丞、俊其隨她學做手工蠟燭，藉機探問Sharon的顏色喜好、房間環境。飲品造型蠟燭完成，讓老師評評分！俊其趁好天氣與Sharon結伴郊遊，不忘拍攝唯美芒草照，還使出冧招，為女神準備驚喜……德丞與女神延續手作約會，共同回味交換訂情禮物的青澀時光。Sharon偕同愛犬跟兩位主持見面，為博取女神芳心，男生們不惜落力討好小毛孩！面對暖男俊其與進擊德丞，伊人如何抉擇？",
+      "url": "https://www.mytvsuper.com/tc/programme/ohmygoddess_133703/",
       "source": "TVB"
     },
     {
@@ -3426,6 +3528,7 @@
       "start": "2026-09-11T15:30:00+08:00",
       "end": "2026-09-11T15:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3471,6 +3574,7 @@
       "start": "2026-09-11T15:35:00+08:00",
       "end": "2026-09-11T15:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/insidemarket0001_138396/",
       "source": "TVB"
     },
     {
@@ -3480,6 +3584,7 @@
       "start": "2026-09-11T15:40:00+08:00",
       "end": "2026-09-11T16:05:00+08:00",
       "description": "第一千二百四十四集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -3561,6 +3666,7 @@
       "start": "2026-09-11T16:00:00+08:00",
       "end": "2026-09-11T16:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3588,6 +3694,7 @@
       "start": "2026-09-11T16:00:00+08:00",
       "end": "2026-09-11T16:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -3615,6 +3722,7 @@
       "start": "2026-09-11T16:05:00+08:00",
       "end": "2026-09-11T16:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -3651,6 +3759,7 @@
       "start": "2026-09-11T16:15:00+08:00",
       "end": "2026-09-11T16:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/putonghuanews_106227/",
       "source": "TVB"
     },
     {
@@ -3660,6 +3769,7 @@
       "start": "2026-09-11T16:20:00+08:00",
       "end": "2026-09-11T16:50:00+08:00",
       "description": "俊子透過有獎賀年明信片，得到了一些獎品。見此，小丸子決意核對所有收到的賀年明信片有否中獎。經過一輪核對之後，終於發現有一張是中了獎的。但是，那張中了獎的明信片上，卻寫著一些令小丸子困惑的字句。",
+      "url": "https://www.mytvsuper.com/tc/programme/chibimarukochaniiep13691417_142550/",
       "source": "TVB"
     },
     {
@@ -3714,6 +3824,7 @@
       "start": "2026-09-11T16:30:00+08:00",
       "end": "2026-09-11T16:45:00+08:00",
       "description": "第三百零二集 - 【玩轉星期五】- 搞笑大激戰",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/bobieland",
       "source": "港台"
     },
     {
@@ -3723,6 +3834,7 @@
       "start": "2026-09-11T16:30:00+08:00",
       "end": "2026-09-11T16:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3732,6 +3844,7 @@
       "start": "2026-09-11T16:30:00+08:00",
       "end": "2026-09-11T18:00:00+08:00",
       "description": "節目突破以色彩和軟裝為主的傳統裝修形式，聚焦於空間改變和功能實現上。由頂尖設計師以有限的資金，在有限的空間裡，根據委託人的特殊需求進行徹底改造。通過設計師的匠心巧思，完成看似不可能的家裝夢想。",
+      "url": "https://www.mytvsuper.com/tc/programme/dreamhomevi0001_146870/",
       "source": "TVB"
     },
     {
@@ -3750,6 +3863,7 @@
       "start": "2026-09-11T16:30:00+08:00",
       "end": "2026-09-11T17:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/newcreationtv2026_145186/",
       "source": "TVB"
     },
     {
@@ -3786,6 +3900,7 @@
       "start": "2026-09-11T16:45:00+08:00",
       "end": "2026-09-11T16:55:00+08:00",
       "description": "梳子",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -3804,6 +3919,7 @@
       "start": "2026-09-11T16:50:00+08:00",
       "end": "2026-09-11T17:20:00+08:00",
       "description": "兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！",
+      "url": "https://www.mytvsuper.com/tc/programme/handsup2021_132896/",
       "source": "TVB"
     },
     {
@@ -3822,6 +3938,7 @@
       "start": "2026-09-11T16:55:00+08:00",
       "end": "2026-09-11T17:05:00+08:00",
       "description": "椅子",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -3867,6 +3984,7 @@
       "start": "2026-09-11T17:00:00+08:00",
       "end": "2026-09-11T17:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -3894,6 +4012,7 @@
       "start": "2026-09-11T17:00:00+08:00",
       "end": "2026-09-11T17:25:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -3903,6 +4022,7 @@
       "start": "2026-09-11T17:00:00+08:00",
       "end": "2026-09-11T17:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sesamestreetlv_147102/",
       "source": "TVB"
     },
     {
@@ -3930,6 +4050,7 @@
       "start": "2026-09-11T17:05:00+08:00",
       "end": "2026-09-11T17:15:00+08:00",
       "description": "剪刀",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onceuponatimeobjects",
       "source": "港台"
     },
     {
@@ -3948,6 +4069,7 @@
       "start": "2026-09-11T17:15:00+08:00",
       "end": "2026-09-11T17:23:00+08:00",
       "description": "快樂的小鳥",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -3957,6 +4079,7 @@
       "start": "2026-09-11T17:20:00+08:00",
       "end": "2026-09-11T17:50:00+08:00",
       "description": "縱使白之女王的目的是出於善意，是為了守護愛麗絲比亞，但她們一伙襲擊女生的所為，始終讓公主無法接受。大敵當前，不代表要放棄愛麗絲比亞的活動，奈津見狀，繼而提議大家舉行一場演唱會。",
+      "url": "https://www.mytvsuper.com/tc/programme/princessionorchestra_146314/",
       "source": "TVB"
     },
     {
@@ -3966,6 +4089,7 @@
       "start": "2026-09-11T17:23:00+08:00",
       "end": "2026-09-11T17:30:00+08:00",
       "description": "Tra La La大合唱",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/kiriandlou2026",
       "source": "港台"
     },
     {
@@ -4029,6 +4153,7 @@
       "start": "2026-09-11T17:30:00+08:00",
       "end": "2026-09-11T18:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkcc",
       "source": "港台"
     },
     {
@@ -4038,6 +4163,7 @@
       "start": "2026-09-11T17:30:00+08:00",
       "end": "2026-09-11T17:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -4074,6 +4200,7 @@
       "start": "2026-09-11T17:30:00+08:00",
       "end": "2026-09-11T18:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sesamestreetmechabuilders_146503/",
       "source": "TVB"
     },
     {
@@ -4110,6 +4237,7 @@
       "start": "2026-09-11T17:50:00+08:00",
       "end": "2026-09-11T18:00:00+08:00",
       "description": "緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。",
+      "url": "https://www.mytvsuper.com/tc/programme/financialnews_99/",
       "source": "TVB"
     },
     {
@@ -4155,6 +4283,7 @@
       "start": "2026-09-11T18:00:00+08:00",
       "end": "2026-09-11T18:30:00+08:00",
       "description": "第一千二百四十五集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/gbalifestyle",
       "source": "港台"
     },
     {
@@ -4164,6 +4293,7 @@
       "start": "2026-09-11T18:00:00+08:00",
       "end": "2026-09-11T18:10:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -4191,6 +4321,7 @@
       "start": "2026-09-11T18:00:00+08:00",
       "end": "2026-09-11T18:25:00+08:00",
       "description": "長沙灣一個400多平方呎兩房，屋主兩姊弟均喜歡較深色設計，設計師如何突出不同風格？",
+      "url": "https://www.mytvsuper.com/tc/programme/propertytoday_140055/",
       "source": "TVB"
     },
     {
@@ -4200,6 +4331,7 @@
       "start": "2026-09-11T18:00:00+08:00",
       "end": "2026-09-11T18:30:00+08:00",
       "description": "阿斯塔納四周可見搶眼的地標，梁彥宗到訪頂層有機動遊戲及室內人造沙灘的帳幕商場，並於世博場地旁的文化村，欣賞馬術表演。之後，他返回阿拉木圖的吉爾吉斯駐阿拉木圖大使館申請簽證，卻發現要排隊把文件交到櫃位，原來並非一件易事。地下鐵也可算是阿拉木圖的景點，每站的設計不同，梁彥宗於地鐵站流連一番後，到大型市集「綠色市場」閒逛；最後還應當地朋友Batima的邀請，到其家與她的好友用餐，進行文化交流。",
+      "url": "https://www.mytvsuper.com/tc/programme/backpackutopia_113090/",
       "source": "TVB"
     },
     {
@@ -4218,6 +4350,7 @@
       "start": "2026-09-11T18:00:00+08:00",
       "end": "2026-09-11T18:55:00+08:00",
       "description": "伊娃為慶祝以馬貝拉為家，探索其豐富美食遺產，並舉行精彩晚宴，感謝當地友好。她跟本地朋友和廚師探索烤沙甸魚、山羊菜式、新鮮時令產物和獨特西班牙凍湯，在結合傳統與創意之餘，揭示正宗的馬貝拉風味。",
+      "url": "https://www.mytvsuper.com/tc/programme/evalongoriasearchingforspain_146779/",
       "source": "TVB"
     },
     {
@@ -4281,6 +4414,7 @@
       "start": "2026-09-11T18:30:00+08:00",
       "end": "2026-09-11T19:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -4290,6 +4424,7 @@
       "start": "2026-09-11T18:30:00+08:00",
       "end": "2026-09-11T18:40:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newshighlights",
       "source": "港台"
     },
     {
@@ -4299,6 +4434,7 @@
       "start": "2026-09-11T18:30:00+08:00",
       "end": "2026-09-11T19:15:00+08:00",
       "description": "翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。",
+      "url": "https://www.mytvsuper.com/tc/programme/newsat630_26/",
       "source": "TVB"
     },
     {
@@ -4308,6 +4444,7 @@
       "start": "2026-09-11T18:30:00+08:00",
       "end": "2026-09-11T19:00:00+08:00",
       "description": "扁食，與香港的雲吞類近，在台灣慣常用豬骨湯浸食，也會以「紅油抄手」的方式奉餐。暉哥帶韻婷到扁食店，一試成龍喜愛的「鮮蝦扁食」，餡料份量適中，韻婷反「投訴」港式雲吞蝦肉太多？店內還有限量的「頂級松露扁食」，所用松露醬夠高級！除放進帶子外，扁食如包成金魚般的模樣，又會如何？以為只是另一店包法有異，原來連味道和營養價值也不同。既然要偷食譜，一於跟料理老師學包大、小金魚扁食，還可加入芫荽，做出非一般香味。",
+      "url": "https://www.mytvsuper.com/tc/programme/stolentasteofformosa2_137914/",
       "source": "TVB"
     },
     {
@@ -4362,6 +4499,7 @@
       "start": "2026-09-11T18:50:00+08:00",
       "end": "2026-09-11T19:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -4380,6 +4518,7 @@
       "start": "2026-09-11T18:55:00+08:00",
       "end": "2026-09-11T19:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/littlebigworldviii_144518/",
       "source": "TVB"
     },
     {
@@ -4416,6 +4555,7 @@
       "start": "2026-09-11T19:00:00+08:00",
       "end": "2026-09-11T19:30:00+08:00",
       "description": "20260911",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -4425,6 +4565,7 @@
       "start": "2026-09-11T19:00:00+08:00",
       "end": "2026-09-11T19:30:00+08:00",
       "description": "20260911",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hktoday_tv",
       "source": "港台"
     },
     {
@@ -4461,6 +4602,7 @@
       "start": "2026-09-11T19:00:00+08:00",
       "end": "2026-09-11T20:00:00+08:00",
       "description": "傅音向陸琪獻身，又故意讓他知道玲瓏有珍珠衣，玲瓏說出是陸漢星偷來的。傅濤抓到洪義德手下，得知洪義德將去長安鬧事後壓下消息。嚴子方和馬海虎與強搶民女的駙馬起爭執，駙馬仗勢欺人，嚴子方攔下欲報仇的兄弟。",
+      "url": "https://www.mytvsuper.com/tc/programme/courtlady0001_133464/",
       "source": "TVB"
     },
     {
@@ -4470,6 +4612,7 @@
       "start": "2026-09-11T19:00:00+08:00",
       "end": "2026-09-11T19:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -4479,6 +4622,7 @@
       "start": "2026-09-11T19:00:00+08:00",
       "end": "2026-09-11T19:30:00+08:00",
       "description": "薩希來到美屬維京群島，探索聖托馬斯島、聖約翰島和聖克羅伊島的美食傳統。從加勒比油炸肉批、夏威夷蓋飯和醃魚生，到本土的手工麵包果伏特加，此行揭示了島嶼豐富的天然資源，還認識到遠古種植園背後的幽暗歷史。",
+      "url": "https://www.mytvsuper.com/tc/programme/maximumfoodie_145899/",
       "source": "TVB"
     },
     {
@@ -4524,6 +4668,7 @@
       "start": "2026-09-11T19:25:00+08:00",
       "end": "2026-09-11T19:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/critics_137539/",
       "source": "TVB"
     },
     {
@@ -4542,6 +4687,7 @@
       "start": "2026-09-11T19:30:00+08:00",
       "end": "2026-09-11T20:25:00+08:00",
       "description": "第二十三集：葉功讓紀星準備兩輛車到現場",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/pegasus",
       "source": "港台"
     },
     {
@@ -4551,6 +4697,7 @@
       "start": "2026-09-11T19:30:00+08:00",
       "end": "2026-09-11T20:00:00+08:00",
       "description": "廣播道會客室 9月11日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/onbroadcastdrive",
       "source": "港台"
     },
     {
@@ -4578,6 +4725,7 @@
       "start": "2026-09-11T19:30:00+08:00",
       "end": "2026-09-11T20:00:00+08:00",
       "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "url": "https://www.mytvsuper.com/tc/programme/scoop_37/",
       "source": "TVB"
     },
     {
@@ -4596,6 +4744,7 @@
       "start": "2026-09-11T19:30:00+08:00",
       "end": "2026-09-11T19:55:00+08:00",
       "description": "每晚七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。",
+      "url": "https://www.mytvsuper.com/tc/programme/pearlnewsat730_105084/",
       "source": "TVB"
     },
     {
@@ -4713,6 +4862,7 @@
       "start": "2026-09-11T20:00:00+08:00",
       "end": "2026-09-11T20:15:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/eveningnews_tv",
       "source": "港台"
     },
     {
@@ -4740,6 +4890,7 @@
       "start": "2026-09-11T20:00:00+08:00",
       "end": "2026-09-11T20:30:00+08:00",
       "description": "楊光與楊帆鬧翻，並向唐芯、萬里與嘉冰大吐苦水。原來他不滿楊帆變得愛耍手段，自己亦曾因對方而成為網民笑柄，兄弟嫌隙由來已久。失去廣告商支持後，楊光需另想辦法為貓舍籌款。萬里想到一個既可為貓舍籌募資金、又能打擊楊帆的方法。計劃最終大獲成功，令楊帆吃了悶虧。萬里以為楊帆會以特別招數反擊，詎料……其後，楊帆與楊光的姨母梅貴花充當和事老，勸楊光出席與楊帆的「周年活動」，更透露楊帆落敗背後，原來另有內情……",
+      "url": "https://www.mytvsuper.com/tc/programme/likemotherlikedaughter_146867/",
       "source": "TVB"
     },
     {
@@ -4767,6 +4918,7 @@
       "start": "2026-09-11T20:00:00+08:00",
       "end": "2026-09-11T20:30:00+08:00",
       "description": "金馬倫和梅莉莎梁結伴同遊南非。首先入住開普敦十二門徒水療酒店。由於位於桌山和大西洋之間，戶外是優美荒野，室內美輪美奐。然後他們去薩比沙自然保護區，體驗荒野遊獵之樂。",
+      "url": "https://www.mytvsuper.com/tc/programme/luxuryescapesvi0001_146781/",
       "source": "TVB"
     },
     {
@@ -4794,6 +4946,7 @@
       "start": "2026-09-11T20:05:00+08:00",
       "end": "2026-09-11T20:30:00+08:00",
       "description": "香港匯聚環球美食！倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；並會相約「星級飯腳」開餐，到他們喜愛的「飯堂」品嚐佳餚。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "url": "https://www.mytvsuper.com/tc/programme/gourmetexpress_140825/",
       "source": "TVB"
     },
     {
@@ -4803,6 +4956,7 @@
       "start": "2026-09-11T20:05:00+08:00",
       "end": "2026-09-11T20:30:00+08:00",
       "description": "報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。",
+      "url": "https://www.mytvsuper.com/tc/programme/onehournewsat800_146757/",
       "source": "TVB"
     },
     {
@@ -4821,6 +4975,7 @@
       "start": "2026-09-11T20:15:00+08:00",
       "end": "2026-09-11T20:55:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -4848,6 +5003,7 @@
       "start": "2026-09-11T20:25:00+08:00",
       "end": "2026-09-11T20:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -4875,6 +5031,7 @@
       "start": "2026-09-11T20:30:00+08:00",
       "end": "2026-09-11T21:20:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/swordsintoplowshares",
       "source": "港台"
     },
     {
@@ -4884,6 +5041,7 @@
       "start": "2026-09-11T20:30:00+08:00",
       "end": "2026-09-11T21:30:00+08:00",
       "description": "高俊從閉路電視查知暴龍手下生番、鯊膽曾於案發當晚進出木工場，展開追捕卻被二人逃脫，更撞見追蹤此案的柏宇。柏宇想報道工場命案，被警方壓下來，感氣憤。暴龍親自將生番、鯊膽送到警署自首，但二人只承認曾與死者發生衝突，並沒殺人……重案組高級督察高淑嫻獲線索準備落案起訴生番、鯊膽，卻與林琛判斷的死因不符。林琛、淑嫻本為離婚夫妻，再因公事生磨擦。芷昕和高俊重回工場調查，遇到一位與死者相識的小孩，獲關鍵線索……",
+      "url": "https://www.mytvsuper.com/tc/programme/causeofdeath_147213/",
       "source": "TVB"
     },
     {
@@ -4893,6 +5051,7 @@
       "start": "2026-09-11T20:30:00+08:00",
       "end": "2026-09-11T21:00:00+08:00",
       "description": "以美食為引，勾連起市井煙火中的百態人生。跟隨鏡頭輾轉江門、樂山、泉州等六座城市，從熱鬧都市的美食殿堂到靜謐巷陌的民間風味，每一道菜肴都承載著獨特的文化底蘊與烹飪藝術。",
+      "url": "https://www.mytvsuper.com/tc/programme/yummyworldiii_147214/",
       "source": "TVB"
     },
     {
@@ -4902,6 +5061,7 @@
       "start": "2026-09-11T20:30:00+08:00",
       "end": "2026-09-11T20:50:00+08:00",
       "description": "報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。",
+      "url": "https://www.mytvsuper.com/tc/programme/onehournewsat800_146757/",
       "source": "TVB"
     },
     {
@@ -4929,6 +5089,7 @@
       "start": "2026-09-11T20:50:00+08:00",
       "end": "2026-09-11T21:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -4965,6 +5126,7 @@
       "start": "2026-09-11T20:55:00+08:00",
       "end": "2026-09-11T21:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/megaeventsmegahk2026_eng",
       "source": "港台"
     },
     {
@@ -5001,6 +5163,7 @@
       "start": "2026-09-11T21:00:00+08:00",
       "end": "2026-09-11T21:55:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/vibranthongkong",
       "source": "港台"
     },
     {
@@ -5028,6 +5191,7 @@
       "start": "2026-09-11T21:00:00+08:00",
       "end": "2026-09-11T21:30:00+08:00",
       "description": "每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。",
+      "url": "https://www.mytvsuper.com/tc/programme/entertainmentnews_100100/",
       "source": "TVB"
     },
     {
@@ -5037,6 +5201,7 @@
       "start": "2026-09-11T21:00:00+08:00",
       "end": "2026-09-11T21:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -5055,6 +5220,7 @@
       "start": "2026-09-11T21:20:00+08:00",
       "end": "2026-09-11T21:25:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/shiningtreasuresofchina",
       "source": "港台"
     },
     {
@@ -5073,6 +5239,7 @@
       "start": "2026-09-11T21:25:00+08:00",
       "end": "2026-09-11T21:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -5082,6 +5249,7 @@
       "start": "2026-09-11T21:25:00+08:00",
       "end": "2026-09-11T21:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/littlebigworldviii_144518/",
       "source": "TVB"
     },
     {
@@ -5109,6 +5277,7 @@
       "start": "2026-09-11T21:30:00+08:00",
       "end": "2026-09-11T22:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/solarproject2026",
       "source": "港台"
     },
     {
@@ -5136,6 +5305,7 @@
       "start": "2026-09-11T21:30:00+08:00",
       "end": "2026-09-11T22:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/blossomsofpower_147190/",
       "source": "TVB"
     },
     {
@@ -5145,6 +5315,7 @@
       "start": "2026-09-11T21:30:00+08:00",
       "end": "2026-09-11T22:00:00+08:00",
       "description": "首季《怪宿宿》入住了全球多地的奇葩住宿。這一季由蔡景行、馮皓揚、李茵彤、李海銅進軍中國內地六個地方：北京、西安、寧夏、上海、浙江、黃山，探索住宿內的奇特設施，發掘背後的故事與建築人文歷史，也會前往就近當地的特色景點打卡和尋找美食，並給出相應的「怪度評分」。",
+      "url": "https://www.mytvsuper.com/tc/programme/traveloddchina_146802/",
       "source": "TVB"
     },
     {
@@ -5154,6 +5325,7 @@
       "start": "2026-09-11T21:30:00+08:00",
       "end": "2026-09-11T21:45:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/closerlook_101477/",
       "source": "TVB"
     },
     {
@@ -5217,6 +5389,7 @@
       "start": "2026-09-11T21:55:00+08:00",
       "end": "2026-09-11T22:00:00+08:00",
       "description": "經濟發展：憲法與繁榮未來",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/appreciatingtheconstitution_e",
       "source": "港台"
     },
     {
@@ -5226,6 +5399,7 @@
       "start": "2026-09-11T21:55:00+08:00",
       "end": "2026-09-11T22:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/internationalnewsfile_104591/",
       "source": "TVB"
     },
     {
@@ -5262,6 +5436,7 @@
       "start": "2026-09-11T22:00:00+08:00",
       "end": "2026-09-11T22:25:00+08:00",
       "description": "廣播道會客室 9月11日",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/onbroadcastdrive",
       "source": "港台"
     },
     {
@@ -5271,6 +5446,7 @@
       "start": "2026-09-11T22:00:00+08:00",
       "end": "2026-09-11T22:05:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/governmentandyou",
       "source": "港台"
     },
     {
@@ -5307,6 +5483,7 @@
       "start": "2026-09-11T22:00:00+08:00",
       "end": "2026-09-11T22:30:00+08:00",
       "description": "位處北都的洪水橋，樓價一直相對低水，政府早前於區內以片區形式賣地，能否刺激樓價？大圍新盤陸續入伙，有大單位玻璃崩花，浴室過牆喉沒封妥，連電掣面板也鬆脫，怎樣處理？",
+      "url": "https://www.mytvsuper.com/tc/programme/propertyexperts_112853/",
       "source": "TVB"
     },
     {
@@ -5334,6 +5511,7 @@
       "start": "2026-09-11T22:05:00+08:00",
       "end": "2026-09-11T22:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/hkunited",
       "source": "港台"
     },
     {
@@ -5343,6 +5521,7 @@
       "start": "2026-09-11T22:25:00+08:00",
       "end": "2026-09-11T22:30:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/megaeventsmegahk2026",
       "source": "港台"
     },
     {
@@ -5370,6 +5549,7 @@
       "start": "2026-09-11T22:30:00+08:00",
       "end": "2026-09-11T23:30:00+08:00",
       "description": "第五集",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/linzexudocumentaryseries",
       "source": "港台"
     },
     {
@@ -5379,6 +5559,7 @@
       "start": "2026-09-11T22:30:00+08:00",
       "end": "2026-09-11T23:00:00+08:00",
       "description": "時事摘錄",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/newsreview2026",
       "source": "港台"
     },
     {
@@ -5397,6 +5578,7 @@
       "start": "2026-09-11T22:30:00+08:00",
       "end": "2026-09-11T23:00:00+08:00",
       "description": "自古以來，參透未來、扭轉乾坤的玄妙之術總是令人神往。然而，在流派百家爭鳴的當前，真正洞悉天機的能人，到底身在何方？注入直播元素的新節目《玄戰》，會掀開不一樣的戰幕。節目組廣邀潛藏民間的玄學高手化身「黑先知」，眾人務必通過重重嚴苛關卡，爭奪晉級資格。海選中表現最好五人獲賦以「白先知」身分，並與突圍而出的黑先知開展對壘。這是一場賭上名譽與實力的玄學之戰，究竟誰人可破譯天機、洞悉玄奧，成為「一代先知」？",
+      "url": "https://www.mytvsuper.com/tc/programme/warofdiviners_147125/",
       "source": "TVB"
     },
     {
@@ -5406,6 +5588,7 @@
       "start": "2026-09-11T22:30:00+08:00",
       "end": "2026-09-11T23:30:00+08:00",
       "description": "永權欲引爆煤氣炸死羨晴，卓凱與浩勤剛好趕到救人。歡喜光顧小嘉的足浴店，令眾養母歡欣若狂。羨昕自從爆炸事件後一直心神彷彿，妒火中燒的兆良對浩勤展開打擊。木榮的地盤被外人入侵，家強與小嘉出手相助取回地盤。",
+      "url": "https://www.mytvsuper.com/tc/programme/linewalker0003_122338/",
       "source": "TVB"
     },
     {
@@ -5415,6 +5598,7 @@
       "start": "2026-09-11T22:30:00+08:00",
       "end": "2026-09-11T22:40:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/globalview0001_126072/",
       "source": "TVB"
     },
     {
@@ -5487,6 +5671,7 @@
       "start": "2026-09-11T23:00:00+08:00",
       "end": "2026-09-11T23:30:00+08:00",
       "description": "廣播道會客室 9月11日",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/onbroadcastdrive",
       "source": "港台"
     },
     {
@@ -5514,6 +5699,7 @@
       "start": "2026-09-11T23:00:00+08:00",
       "end": "2026-09-11T23:15:00+08:00",
       "description": "節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。",
+      "url": "https://www.mytvsuper.com/tc/programme/extra_233/",
       "source": "TVB"
     },
     {
@@ -5523,6 +5709,7 @@
       "start": "2026-09-11T23:00:00+08:00",
       "end": "2026-09-11T23:30:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/sunhungkaicreditpresentsallaboutproperty_121892/",
       "source": "TVB"
     },
     {
@@ -5568,6 +5755,7 @@
       "start": "2026-09-11T23:15:00+08:00",
       "end": "2026-09-11T23:45:00+08:00",
       "description": "報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。",
+      "url": "https://www.mytvsuper.com/tc/programme/newsroundup_29/",
       "source": "TVB"
     },
     {
@@ -5622,6 +5810,7 @@
       "start": "2026-09-11T23:30:00+08:00",
       "end": "2026-09-12T00:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt31/programme/hkunited",
       "source": "港台"
     },
     {
@@ -5631,6 +5820,7 @@
       "start": "2026-09-11T23:30:00+08:00",
       "end": "2026-09-12T00:00:00+08:00",
       "description": "",
+      "url": "https://www.rthk.hk/tv/dtt32/programme/thecurrent",
       "source": "港台"
     },
     {
@@ -5658,6 +5848,7 @@
       "start": "2026-09-11T23:30:00+08:00",
       "end": "2026-09-12T01:00:00+08:00",
       "description": "",
+      "url": "https://www.mytvsuper.com/tc/programme/horseracingtrackwork20262027_147191/",
       "source": "TVB"
     },
     {
@@ -5730,6 +5921,7 @@
       "start": "2026-09-11T23:55:00+08:00",
       "end": "2026-09-12T01:00:00+08:00",
       "description": "君好偷聽展輝與莎嬌對話，見莎嬌婉拒展輝所贈金錢感佩服。冰心發現展輝開給莎嬌的支票，不甘心為家庭所負出的一切，將付諸流水，急謀對策。禮信獲派為世光做專訪，金勝向侍應暢談劈友驚險史，禮信不期然亦說出訪問重要人物的經歷。金勝以為禮信被世光收買，刻意毀掉禮信稿件，及後知道怪錯禮信，尷尬離開。禮信從莎嬌口中得悉金勝之可憐身世，明白他為何憎恨世光。莎嬌拉禮信、金勝往唱卡拉OK，二人惺惺相惜，更與文初三人結義。",
+      "url": "https://www.mytvsuper.com/tc/programme/returnofthecuckoo0001_117473/",
       "source": "TVB"
     },
     {
@@ -5747,5 +5939,6 @@
     "HOY": true,
     "港台": true,
     "ViuTV": true
-  }
+  },
+  "errors": []
 }

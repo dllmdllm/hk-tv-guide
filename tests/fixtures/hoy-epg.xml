@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProgramGuide>
+  <Channel>
+    <EpgItem>
+      <EpgStartDateTime>2026-09-07 20:00:00</EpgStartDateTime>
+      <EpgEndDateTime>2026-09-07 21:00:00</EpgEndDateTime>
+      <ProgramInfo><ProgramTitle>晚間新聞</ProgramTitle></ProgramInfo>
+      <EpisodeInfo>
+        <EpisodeShortDescription>晚間新聞</EpisodeShortDescription>
+        <EpisodeLongDescription>今日焦點</EpisodeLongDescription>
+      </EpisodeInfo>
+    </EpgItem>
+  </Channel>
+</ProgramGuide>
