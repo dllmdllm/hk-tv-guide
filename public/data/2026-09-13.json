@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "updatedAt": "2026-09-06T22:09:06.890Z",
+  "updatedAt": "2026-09-07T04:48:52.039Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5004,6 +5004,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789312500000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-09-13T15:15:00.000Z",
+      "end": "2026-09-13T16:00:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1789312680000",
       "channelId": "rthk-33",
       "title": "南來北往 35",
@@ -5065,6 +5074,15 @@
       "end": "2026-09-14T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1789313400000",
+      "channelId": "viu-99",
+      "title": "隊長小翼第二季 青少年篇｜史上最強射門",
+      "start": "2026-09-13T15:30:00.000Z",
+      "end": "2026-09-13T16:00:00.000Z",
+      "description": "史奈德的火焰射門讓日本隊錯失先入球的機會。伺機反擊的日向留意到穆勒不擅長應付穿過胯下的射門，發現了一絲生機，但這個弱點亦被穆勒在比賽中克服了，難道已經束手無策了嗎……面對絕望地呆立的日向，小翼大喊「力保不失的門將是沒可能存在於這世上的！」。當小翼和日向心意相通之時，出乎所有人意料的史上最強射門誕生了！",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1789313700000",
