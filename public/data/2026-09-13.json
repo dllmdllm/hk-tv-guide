@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "updatedAt": "2026-09-07T22:52:05.858Z",
+  "updatedAt": "2026-09-08T04:44:15.106Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -2666,9 +2666,9 @@
     {
       "id": "viu-96-1789275600000",
       "channelId": "viu-96",
-      "title": "世界羽聯巡迴賽 2026 台北公開賽｜女雙決賽",
+      "title": "世界羽聯巡迴賽 2026 中國大師賽 每日精選｜準決賽 (A & B)",
       "start": "2026-09-13T05:00:00.000Z",
-      "end": "2026-09-13T06:00:00.000Z",
+      "end": "2026-09-13T06:30:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -2862,15 +2862,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789279200000",
-      "channelId": "viu-96",
-      "title": "PGA巡迴賽精華2026｜高爾夫球巡迴錦標賽",
-      "start": "2026-09-13T06:00:00.000Z",
-      "end": "2026-09-13T07:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1789279200000",
       "channelId": "viu-99",
       "title": "大力情人｜讓大佛見證我們的起與落",
@@ -2941,6 +2932,15 @@
       "end": "2026-09-13T15:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789281000000",
+      "channelId": "viu-96",
+      "title": "世界羽聯巡迴賽 2026 中國大師賽｜男單決賽",
+      "start": "2026-09-13T06:30:00.000Z",
+      "end": "2026-09-13T07:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789281000000",
@@ -3078,15 +3078,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789282800000",
-      "channelId": "viu-96",
-      "title": "空中浩劫",
-      "start": "2026-09-13T07:00:00.000Z",
-      "end": "2026-09-13T08:00:00.000Z",
-      "description": "Every time a plane crashes, the world takes notice. And so do the experts whose job it is to figure out what happened. MAYDAY uncovers the truth behind the most legendary aviation disasters, and every episode features eyewitness accounts, captivating reenactments, state-of-the-art CGI, and interviews with the investigators who ultimately determined what went wrong.",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1789283400000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -3184,6 +3175,15 @@
       "end": "2026-09-13T16:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789284600000",
+      "channelId": "viu-96",
+      "title": "輕鬆煮一餐",
+      "start": "2026-09-13T07:30:00.000Z",
+      "end": "2026-09-13T08:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789284600000",
