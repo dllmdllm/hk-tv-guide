@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-14T05:02:35.601Z",
+  "updatedAt": "2026-09-14T15:03:37.853Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -225,15 +225,6 @@
       "source": "ViuTV"
     },
     {
-      "id": "viu-96-1789834800000",
-      "channelId": "viu-96",
-      "title": "奪金之巔 - 美國篇",
-      "start": "2026-09-19T16:20:00.000Z",
-      "end": "2026-09-19T17:10:00.000Z",
-      "description": "Sixteen strangers trek through the New Zealand Alps, facing challenges for a $1 million prize. Only survivors reaching the distant peak's summit win.",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-76-1789835100000",
       "channelId": "hoy-76",
       "title": "FIFA U-20 世界盃女子足球賽半準決賽",
@@ -286,6 +277,15 @@
       "end": "2026-09-20T01:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789835400000",
+      "channelId": "viu-96",
+      "title": "英格蘭超級聯賽｜諾定咸森林 對 高雲地利",
+      "start": "2026-09-19T16:30:00.000Z",
+      "end": "2026-09-19T18:30:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-82-1789835700000",
@@ -389,7 +389,7 @@
     {
       "id": "tvb-83-1789837200000",
       "channelId": "tvb-83",
-      "title": "深宵新聞報道 及 灣區零距離 及 寰宇掠影",
+      "title": "深宵新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影",
       "start": "2026-09-20T01:00:00+08:00",
       "end": "2026-09-20T01:30:00+08:00",
       "description": "",
@@ -403,15 +403,6 @@
       "end": "2026-09-20T01:35:00+08:00",
       "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789837800000",
-      "channelId": "viu-96",
-      "title": "Sweat! The Human Superpower",
-      "start": "2026-09-19T17:10:00.000Z",
-      "end": "2026-09-19T18:10:00.000Z",
-      "description": "With the planet getting warmer, Anthony Morgan decides it's high time we got to know more about our unique cooling system and oft maligned superpower – SWEAT!",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789838100000",
@@ -545,7 +536,7 @@
       "title": "醫生與你 - 醫學．人 2026",
       "start": "2026-09-20T02:00:00+08:00",
       "end": "2026-09-20T02:30:00+08:00",
-      "description": "#12 整形俠醫 - 彭志宏",
+      "description": "#12 整形俠醫 - 彭志宏醫生",
       "source": "港台"
     },
     {
@@ -601,15 +592,6 @@
       "end": "2026-09-20T02:35:00+08:00",
       "description": "購物置裝是許多女士外遊的指定活動，胡杏兒引領姊妹們潮拜名滿墨爾本的「造帽大師」，還來一場花生騷！胡蓓蔚為了改造李施嬅的衣著品味，竟帶她到訪莊嚴教堂？登上由天台停車場改建的型格酒店，參觀同時豈能忘記「打卡」！腹大便便的杏兒斗膽挑戰吸血鬼主題餐廳，場景有多刺激恐怖？特色酒吧全店物品任君選購，眾女竟向型男負責人打主意？所謂「酒後見真情」，六姊妹互揭酒後醉態，「醉酒小霸王」胡定欣憶述杏兒「生人勿近」時刻。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789841400000",
-      "channelId": "viu-96",
-      "title": "ViuTVsix Station Closing Slate",
-      "start": "2026-09-19T18:10:00.000Z",
-      "end": "2026-09-20T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1789841940000",
@@ -682,6 +664,15 @@
       "end": "2026-09-20T06:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789842600000",
+      "channelId": "viu-96",
+      "title": "ViuTVsix Station Closing Slate",
+      "start": "2026-09-19T18:30:00.000Z",
+      "end": "2026-09-20T01:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789842600000",
@@ -767,7 +758,7 @@
     {
       "id": "tvb-83-1789844400000",
       "channelId": "tvb-83",
-      "title": "深宵新聞報道 及 灣區零距離 及 寰宇掠影",
+      "title": "深宵新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影",
       "start": "2026-09-20T03:00:00+08:00",
       "end": "2026-09-20T03:30:00+08:00",
       "description": "",
@@ -2408,13 +2399,13 @@
       "title": "美食新聞報道[粵]",
       "start": "2026-09-20T12:00:00+08:00",
       "end": "2026-09-20T12:30:00+08:00",
-      "description": "香港匯聚環球美食！黃嘉雯、倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；又會相約居港的外國人，到訪經他們認證的家鄉風味食肆。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "description": "美食KOL Arthur帶何泳芍享用精緻淮揚菜。清燉獅子頭肥瘦均勻，湯汁清甜鮮美；茶皇脆皮雞皮脆肉嫩，茶香四溢；揚州炒飯選用特別品種的米炮製，並加入海參提鮮。Arthur還分享拍攝美食的小貼士。伍倩彤則帶倪嘉雯到銅鑼灣一間老字號酒樓嘆夜茶，先品嚐麻辣開胃的萵筍涼拌鮑魚片、集三種蝦炮製的櫻花蝦柚子香脆富貴蝦，以及獲米芝蓮推介的芝麻鹽焗雞等精緻粵菜，再細嚐鮑魚燒賣、甜醋雞蛋豬腳薑等點心，幸福感滿滿。",
       "source": "TVB"
     },
     {
       "id": "tvb-83-1789876800000",
       "channelId": "tvb-83",
-      "title": "午間新聞 及 香港賽馬會特約: 運動大本營 及 灣區零距離",
+      "title": "午間新聞 及 香港賽馬會特約: 運動大本營 及 宏利保險呈獻: 灣區零距離",
       "start": "2026-09-20T12:00:00+08:00",
       "end": "2026-09-20T12:30:00+08:00",
       "description": "",
@@ -3440,7 +3431,7 @@
     {
       "id": "tvb-83-1789894800000",
       "channelId": "tvb-83",
-      "title": "新聞報道 及 灣區零距離 及 寰宇掠影",
+      "title": "新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影",
       "start": "2026-09-20T17:00:00+08:00",
       "end": "2026-09-20T17:30:00+08:00",
       "description": "",
@@ -3632,7 +3623,7 @@
       "title": "夢想中華人物誌 (普通話版)",
       "start": "2026-09-20T18:00:00+08:00",
       "end": "2026-09-20T18:30:00+08:00",
-      "description": "",
+      "description": "改革先鋒—霍英東",
       "source": "港台"
     },
     {
@@ -4108,7 +4099,7 @@
       "channelId": "viu-96",
       "title": "節目待定",
       "start": "2026-09-20T11:40:00.000Z",
-      "end": "2026-09-20T15:40:00.000Z",
+      "end": "2026-09-20T16:10:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -4896,15 +4887,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789918800000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-09-20T15:40:00.000Z",
-      "end": "2026-09-20T15:55:00.000Z",
-      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-84-1789919400000",
       "channelId": "tvb-84",
       "title": "晚間新聞[英]",
@@ -4930,15 +4912,6 @@
       "end": "2026-09-21T00:00:00+08:00",
       "description": "",
       "source": "HOY"
-    },
-    {
-      "id": "viu-96-1789919700000",
-      "channelId": "viu-96",
-      "title": "夢想家居大改造 澳洲篇",
-      "start": "2026-09-20T15:55:00.000Z",
-      "end": "2026-09-20T16:45:00.000Z",
-      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789919760000",
