@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-13T22:27:33.239Z",
+  "updatedAt": "2026-09-14T05:02:35.601Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1121,7 +1121,7 @@
       "title": "31看世界 - 周遊列車- 再出發",
       "start": "2026-09-20T05:30:00+08:00",
       "end": "2026-09-20T06:30:00+08:00",
-      "description": "",
+      "description": "周遊列車 再出發 - 斯洛文尼亞",
       "source": "港台"
     },
     {
@@ -3532,7 +3532,7 @@
       "channelId": "tvb-81",
       "title": "櫻桃小丸子[粵/日]",
       "start": "2026-09-20T17:30:00+08:00",
-      "end": "2026-09-20T18:00:00+08:00",
+      "end": "2026-09-20T17:55:00+08:00",
       "description": "藤木表示聽到傳聞說巴川有鱷魚出沒。丸尾決定去查明真相，但又不敢自己一個人去，於是要求小丸子他們陪同。媽媽買了一對新的高踭鞋。小丸子因一時貪玩而把其弄破了，之後因為害怕被責罵而企圖隱瞞。",
       "source": "TVB"
     },
@@ -3589,6 +3589,15 @@
       "end": "2026-09-20T10:00:00.000Z",
       "description": "Chloe’s life changed when Buddybot, a hyper-enthusiastic robot from the future, arrived in her garden. Now, they’re on a mission to save the planet! But even though their hearts are in the right place, things don't always go as planned…",
       "source": "ViuTV"
+    },
+    {
+      "id": "tvb-81-1789898100000",
+      "channelId": "tvb-81",
+      "title": "好嘢港多啲[粵]",
+      "start": "2026-09-20T17:55:00+08:00",
+      "end": "2026-09-20T18:00:00+08:00",
+      "description": "香港特區政府帶領各個部門及單位，適時推出不同的政策措施，為本港市民、到訪旅客、來自外地的投資者提供便捷服務。香港這麼好，當然要多說一些讓大家知道。《好嘢港多啲》以輕鬆有趣的拍攝手法，配合陳豪、高海寧、張振朗、劉佩玥、周嘉洛、羅子溢、馬國明、陳懿德、陳展鵬、劉穎鏇等一眾星級藝員，透過不同角色、形象，生動地表達香港的各樣美好和優勢。",
+      "source": "TVB"
     },
     {
       "id": "rthk-34-1789898160000",
@@ -4478,7 +4487,7 @@
       "title": "香港電台電視節目",
       "start": "2026-09-20T21:30:00+08:00",
       "end": "2026-09-21T00:00:00+08:00",
-      "description": "",
+      "description": "4 parts dummy",
       "source": "港台"
     },
     {
@@ -4700,10 +4709,10 @@
     {
       "id": "viu-99-1789914600000",
       "channelId": "viu-99",
-      "title": "CHILL CLUB｜嘉賓: Micheal C",
+      "title": "CHILL CLUB｜嘉賓: Michael C",
       "start": "2026-09-20T14:30:00.000Z",
       "end": "2026-09-20T15:00:00.000Z",
-      "description": "本集嘉賓是Micheal C，今集以「我的電結他好像在哭」為主題，Micheal揀選了幾首帶著傷痛的歌，以電結他作改編並聯同Chill Club Band Crossover，成長路上少不免留下眼淚和傷痕，今集就由Micheal C用電結他和大家同聲一哭吧！此外，節目亦設有 「CHILL CLUB 推介榜」，與樂迷一同公布本週第一至第十位推介歌曲。",
+      "description": "本集嘉賓是Michael C，今集以「我的電結他好像在哭」為主題，Michael揀選了幾首帶著傷痛的歌，以電結他作改編並聯同Chill Club Band Crossover，成長路上少不免留下眼淚和傷痕，今集就由Michael C用電結他和大家同聲一哭吧！此外，節目亦設有 「CHILL CLUB 推介榜」，與樂迷一同公布本週第一至第十位推介歌曲。",
       "source": "ViuTV"
     },
     {
@@ -4869,6 +4878,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1789918200000",
+      "channelId": "viu-99",
+      "title": "隊長小翼第二季 青少年篇｜回應訊息吧",
+      "start": "2026-09-20T15:30:00.000Z",
+      "end": "2026-09-20T16:00:00.000Z",
+      "description": "上半場以1比1作結，下半場開始。但小翼很是在意中場休息時片桐轉達給他的訊息：「記事簿的第52頁」。所謂的「筆記」一定是指在小翼仍是小學生時，師父羅伯特・本郷在回巴西之前留給他的記事簿，上面毫無保留地記下了師父的畢生造詣。到底第52頁寫了甚麼呢？小翼順著令人懷念的回憶，從第1頁開始掀起……",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789918500000",
       "channelId": "tvb-81",
       "title": "飛虎3壯志英雄#6[粵][PG]",
@@ -4912,6 +4930,15 @@
       "end": "2026-09-21T00:00:00+08:00",
       "description": "",
       "source": "HOY"
+    },
+    {
+      "id": "viu-96-1789919700000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-09-20T15:55:00.000Z",
+      "end": "2026-09-20T16:45:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789919760000",
