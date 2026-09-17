@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-17T04:58:00.026Z",
+  "updatedAt": "2026-09-17T13:32:17.143Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -117,6 +117,15 @@
   ],
   "programmes": [
     {
+      "id": "hoy-76-1789920000000",
+      "channelId": "hoy-76",
+      "title": "In Good Shape",
+      "start": "2026-09-21T00:00:00+08:00",
+      "end": "2026-09-21T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
       "id": "hoy-77-1789920000000",
       "channelId": "hoy-77",
       "title": "愛知‧名古屋亞運最精彩",
@@ -137,10 +146,10 @@
     {
       "id": "rthk-31-1789920000000",
       "channelId": "rthk-31",
-      "title": "香港電台電視節目",
+      "title": "非凡人物",
       "start": "2026-09-21T00:00:00+08:00",
-      "end": "2026-09-21T01:30:00+08:00",
-      "description": "4 parts dummy",
+      "end": "2026-09-21T01:00:00+08:00",
+      "description": "",
       "source": "港台"
     },
     {
@@ -207,31 +216,13 @@
       "source": "港台"
     },
     {
-      "id": "hoy-76-1789920600000",
-      "channelId": "hoy-76",
-      "title": "有線新聞",
-      "start": "2026-09-21T00:10:00+08:00",
-      "end": "2026-09-21T00:25:00+08:00",
-      "description": "",
-      "source": "HOY"
-    },
-    {
-      "id": "viu-96-1789920600000",
+      "id": "viu-96-1789920900000",
       "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-09-20T16:10:00.000Z",
-      "end": "2026-09-20T16:30:00.000Z",
-      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-09-20T16:15:00.000Z",
+      "end": "2026-09-20T17:05:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
       "source": "ViuTV"
-    },
-    {
-      "id": "hoy-76-1789921500000",
-      "channelId": "hoy-76",
-      "title": "小空間大活用 3",
-      "start": "2026-09-21T00:25:00+08:00",
-      "end": "2026-09-21T01:00:00+08:00",
-      "description": "",
-      "source": "HOY"
     },
     {
       "id": "hoy-77-1789921500000",
@@ -240,6 +231,15 @@
       "start": "2026-09-21T00:25:00+08:00",
       "end": "2026-09-21T02:30:00+08:00",
       "description": "半準決賽",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-76-1789921800000",
+      "channelId": "hoy-76",
+      "title": "Made In Germany",
+      "start": "2026-09-21T00:30:00+08:00",
+      "end": "2026-09-21T01:00:00+08:00",
+      "description": "",
       "source": "HOY"
     },
     {
@@ -268,15 +268,6 @@
       "end": "2026-09-21T01:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789921800000",
-      "channelId": "viu-96",
-      "title": "玩「串」大激鬥",
-      "start": "2026-09-20T16:30:00.000Z",
-      "end": "2026-09-20T17:20:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789921800000",
@@ -351,6 +342,15 @@
       "source": "HOY"
     },
     {
+      "id": "rthk-31-1789923600000",
+      "channelId": "rthk-31",
+      "title": "傳媒初體驗 第三季",
+      "start": "2026-09-21T01:00:00+08:00",
+      "end": "2026-09-21T01:30:00+08:00",
+      "description": "第三集 - 八強實戰正式展開",
+      "source": "港台"
+    },
+    {
       "id": "rthk-34-1789923600000",
       "channelId": "rthk-34",
       "title": "中山國4",
@@ -378,6 +378,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1789923900000",
+      "channelId": "viu-96",
+      "title": "玩「串」大激鬥",
+      "start": "2026-09-20T17:05:00.000Z",
+      "end": "2026-09-20T17:55:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1789924200000",
       "channelId": "tvb-81",
       "title": "初入職場·中醫季[粵/普]",
@@ -385,15 +394,6 @@
       "end": "2026-09-21T02:50:00+08:00",
       "description": "《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過\"潮養生活\"與\"中醫歷練\"，開啟一場年輕態的中醫文化科普之旅。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789924800000",
-      "channelId": "viu-96",
-      "title": "超凡餅藝家",
-      "start": "2026-09-20T17:20:00.000Z",
-      "end": "2026-09-20T18:10:00.000Z",
-      "description": "The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-78-1789925400000",
@@ -439,6 +439,15 @@
       "end": "2026-09-21T02:00:00+08:00",
       "description": "茶餐廳美食，陪伴香港人成長，然而「啖啖肉」的滋味，素食者只能在記憶中回味？「全素」廚師潘祖兒(Pamela)與拍檔Gillian和Michelle，決心炮製全素「茶記美食」，選來「邪惡」化身的西多士和乾炒牛河。雞蛋是「西多」的靈魂食材；還有與花生醬餡配搭成「邪惡軸心」的牛油和糖漿，Pam用甚麼一一取代？雞髀菇(杏鮑菇)是肉類的首選替身，自然成為「全素」乾炒牛河的主角，但怎樣可令「肉片」像真度更高？",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789926900000",
+      "channelId": "viu-96",
+      "title": "超凡餅藝家",
+      "start": "2026-09-20T17:55:00.000Z",
+      "end": "2026-09-20T18:45:00.000Z",
+      "description": "The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1789926960000",
@@ -531,15 +540,6 @@
       "source": "ViuTV"
     },
     {
-      "id": "viu-96-1789927800000",
-      "channelId": "viu-96",
-      "title": "ViuTVsix Station Closing Slate",
-      "start": "2026-09-20T18:10:00.000Z",
-      "end": "2026-09-21T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-84-1789928400000",
       "channelId": "tvb-84",
       "title": "中國24小時[英]",
@@ -627,6 +627,15 @@
       "start": "2026-09-20T18:30:00.000Z",
       "end": "2026-09-20T19:00:00.000Z",
       "description": "傳聞菲律賓科隆島居住了一群美人魚，每年吸引不少遊客到當地一睹其風彩。為了可以尋找牠們的蹤影，4位潛水員學習如何成為美人魚，希望可以追逐到這群神秘的生物⋯⋯然而沒有潛水裝備輔助的他們，學習過程中困難重重，有人甚至無法以一口氣潛入海底，到底最後他們可否以魚人之姿，成功追尋到傳說中的美人魚嗎？",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-96-1789929900000",
+      "channelId": "viu-96",
+      "title": "ViuTVsix Station Closing Slate",
+      "start": "2026-09-20T18:45:00.000Z",
+      "end": "2026-09-21T01:00:00.000Z",
+      "description": "",
       "source": "ViuTV"
     },
     {
@@ -1624,7 +1633,7 @@
       "channelId": "rthk-32",
       "title": "千禧年代",
       "start": "2026-09-21T08:05:00+08:00",
-      "end": "2026-09-21T10:00:00+08:00",
+      "end": "2026-09-21T09:30:00+08:00",
       "description": "千禧年代 9月21日",
       "source": "港台"
     },
@@ -1836,6 +1845,15 @@
       "source": "HOY"
     },
     {
+      "id": "rthk-32-1789954200000",
+      "channelId": "rthk-32",
+      "title": "千禧年代",
+      "start": "2026-09-21T09:30:00+08:00",
+      "end": "2026-09-21T10:00:00+08:00",
+      "description": "千禧年代 9月21日",
+      "source": "港台"
+    },
+    {
       "id": "rthk-34-1789954200000",
       "channelId": "rthk-34",
       "title": "傳承中國：宣紙",
@@ -1937,9 +1955,9 @@
     {
       "id": "rthk-32-1789956000000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "《香港第一個五年規劃》和《施政報告》相關措施記者會",
       "start": "2026-09-21T10:00:00+08:00",
-      "end": "2026-09-21T10:05:00+08:00",
+      "end": "2026-09-21T10:30:00+08:00",
       "description": "",
       "source": "港台"
     },
@@ -2013,15 +2031,6 @@
       "start": "2026-09-21T10:01:00+08:00",
       "end": "2026-09-21T10:47:00+08:00",
       "description": "",
-      "source": "港台"
-    },
-    {
-      "id": "rthk-32-1789956300000",
-      "channelId": "rthk-32",
-      "title": "灣區全媒睇",
-      "start": "2026-09-21T10:05:00+08:00",
-      "end": "2026-09-21T10:30:00+08:00",
-      "description": "第一千二百五十集",
       "source": "港台"
     },
     {
@@ -2270,7 +2279,7 @@
     {
       "id": "rthk-32-1789960200000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "《香港第一個五年規劃》和《施政報告》相關措施記者會",
       "start": "2026-09-21T11:10:00+08:00",
       "end": "2026-09-21T11:30:00+08:00",
       "description": "",
@@ -2360,7 +2369,7 @@
     {
       "id": "rthk-32-1789962000000",
       "channelId": "rthk-32",
-      "title": "生活．健康．資訊",
+      "title": "《香港第一個五年規劃》和《施政報告》相關措施記者會",
       "start": "2026-09-21T11:40:00+08:00",
       "end": "2026-09-21T12:00:00+08:00",
       "description": "",
@@ -4748,7 +4757,7 @@
       "title": "德國斯寶亞創電熱水器呈獻:冲遊泰國 12[粵]",
       "start": "2026-09-21T21:30:00+08:00",
       "end": "2026-09-21T22:00:00+08:00",
-      "description": "《冲遊泰國》又來了！「冲哥」胡慧冲帶領新拍檔黃紫恩(Jojo)，以及「冬蔭家族」成員，精選「泰」地道的旅遊、娛樂熱點。遊走曼谷、Bang Saen、芭堤雅、布吉島等多地，享受陽光與海灘，「開箱」網紅度假酒店，到訪人氣咖啡店，盡情吃喝玩樂。泰國寺廟林立，蘊藏不同傳說與故事，團隊一探當地信仰文化，讓觀眾「拜得其所」。另外，本輯節目亦會加入趣味短劇元素，以輕鬆角度放送泰國旅遊情報，碰撞出更多新鮮活力。",
+      "description": "Bang Saen距離曼谷約一小時車程，是泰國人的消暑熱點。「冲哥」胡慧冲偕黃紫恩漫步沙灘，探看刺激海上玩意。寺廟外型的餐廳內有乾坤，可品嚐到前五星級酒店大廚的點心手藝，價錢卻好實惠？海水潮退時，也能觀察泥灘生態。融合非洲部落元素的度假式酒店，每晚不需三百港元？紫恩換上泳裝，嬉水降溫。在沙灘享用海鮮燒烤夠風味，百幾蚊任食兼不設用餐時限？另外，河畔咖啡店環境幽美，還可Chill住欣賞泰國皇室菜展品。",
       "source": "TVB"
     },
     {
