@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-17T22:52:35.802Z",
+  "updatedAt": "2026-09-18T04:50:07.554Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -216,11 +216,11 @@
       "source": "港台"
     },
     {
-      "id": "viu-96-1789920900000",
+      "id": "viu-96-1789920600000",
       "channelId": "viu-96",
       "title": "夢想家居大改造 澳洲篇",
-      "start": "2026-09-20T16:15:00.000Z",
-      "end": "2026-09-20T17:05:00.000Z",
+      "start": "2026-09-20T16:10:00.000Z",
+      "end": "2026-09-20T17:00:00.000Z",
       "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
       "source": "ViuTV"
     },
@@ -378,11 +378,11 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789923900000",
+      "id": "viu-96-1789923600000",
       "channelId": "viu-96",
       "title": "玩「串」大激鬥",
-      "start": "2026-09-20T17:05:00.000Z",
-      "end": "2026-09-20T17:55:00.000Z",
+      "start": "2026-09-20T17:00:00.000Z",
+      "end": "2026-09-20T17:50:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -441,11 +441,11 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789926900000",
+      "id": "viu-96-1789926600000",
       "channelId": "viu-96",
       "title": "超凡餅藝家",
-      "start": "2026-09-20T17:55:00.000Z",
-      "end": "2026-09-20T18:45:00.000Z",
+      "start": "2026-09-20T17:50:00.000Z",
+      "end": "2026-09-20T18:40:00.000Z",
       "description": "The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-popping and delicious cake will go home with a $10,000 prize.",
       "source": "ViuTV"
     },
@@ -630,10 +630,10 @@
       "source": "ViuTV"
     },
     {
-      "id": "viu-96-1789929900000",
+      "id": "viu-96-1789929600000",
       "channelId": "viu-96",
       "title": "ViuTVsix Station Closing Slate",
-      "start": "2026-09-20T18:45:00.000Z",
+      "start": "2026-09-20T18:40:00.000Z",
       "end": "2026-09-21T01:00:00.000Z",
       "description": "",
       "source": "ViuTV"
@@ -2486,10 +2486,10 @@
     {
       "id": "viu-96-1789963200000",
       "channelId": "viu-96",
-      "title": "英倫地鐵探知館",
+      "title": "Jamie簡單快煮",
       "start": "2026-09-21T04:00:00.000Z",
-      "end": "2026-09-21T05:00:00.000Z",
-      "description": "",
+      "end": "2026-09-21T04:30:00.000Z",
+      "description": "Want to make deliciously simple meals, and fast? Jamie Oliver's got us covered, as he strips back cooking to its essentials and shows us some innovative ways to speed up our time in the kitchen.",
       "source": "ViuTV"
     },
     {
@@ -2554,6 +2554,15 @@
       "end": "2026-09-21T13:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1789965000000",
+      "channelId": "viu-96",
+      "title": "Jamie簡單快煮",
+      "start": "2026-09-21T04:30:00.000Z",
+      "end": "2026-09-21T05:00:00.000Z",
+      "description": "Want to make deliciously simple meals, and fast? Jamie Oliver's got us covered, as he strips back cooking to its essentials and shows us some innovative ways to speed up our time in the kitchen.",
+      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789965000000",
@@ -2693,10 +2702,10 @@
     {
       "id": "viu-96-1789966800000",
       "channelId": "viu-96",
-      "title": "NHK Newsline",
+      "title": "盜火線",
       "start": "2026-09-21T05:00:00.000Z",
-      "end": "2026-09-21T05:30:00.000Z",
-      "description": "NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.",
+      "end": "2026-09-21T08:00:00.000Z",
+      "description": "Academy Award® winners Robert DeNiro and Al Pacino head a stellar cast in this taut psychological drama about an obsessive detective and a brilliant thief whose fates are linked in the aftermath of a high-stakes securities heist. As the criminal plans his final heist, their personal lives begin to unravel as they engage in a high-stakes game of cat and mouse, leading the adversaries to come to hate and respect one another.",
       "source": "ViuTV"
     },
     {
@@ -2826,15 +2835,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789968600000",
-      "channelId": "viu-96",
-      "title": "快閃十二道風味｜AMSTERDAM",
-      "start": "2026-09-21T05:30:00.000Z",
-      "end": "2026-09-21T06:00:00.000Z",
-      "description": "Big Zuu takes an array of celebrity guests on a food pilgrimage across Europe. People dream of seeing the world - but TV chef Big Zuu is here to eat it. Forget museums and tourist trains, according to Zuu, the heart and soul of any place is best served on a plate. So he's taking viewers and an array of celebrity guests on a food pilgrimage across Europe to uncover the 12 dishes that define each city.",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1789968600000",
       "channelId": "viu-99",
       "title": "730 玩返轉｜濮院時尚古鎮｜紅統府巨佛參拜",
@@ -2959,15 +2959,6 @@
       "end": "2026-09-21T14:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789970400000",
-      "channelId": "viu-96",
-      "title": "Homo Plasticus - Plastic Inside Us",
-      "start": "2026-09-21T06:00:00.000Z",
-      "end": "2026-09-21T07:00:00.000Z",
-      "description": "Micro- and nano-plastics are everywhere. However, what we don't know is that scientists have found some of them lodged in our vital organs: liver, lungs, intestines, placenta... The list goes on and on. Is this colonization harmful? Is Homo Sapiens becoming Homo Plasticus?",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1789970400000",
@@ -3177,15 +3168,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1789974000000",
-      "channelId": "viu-96",
-      "title": "Al Jazeera News Live",
-      "start": "2026-09-21T07:00:00.000Z",
-      "end": "2026-09-21T07:30:00.000Z",
-      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1789974000000",
       "channelId": "viu-99",
       "title": "交易時段",
@@ -3265,15 +3247,6 @@
       "end": "2026-09-21T16:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1789975800000",
-      "channelId": "viu-96",
-      "title": "澳遊三兄弟",
-      "start": "2026-09-21T07:30:00.000Z",
-      "end": "2026-09-21T08:00:00.000Z",
-      "description": "Three Blue Ducks is a six-part Australian television cooking show which follows hosts Mark Labrooy, Darren Robertson and Andy Allen, as they travel Australia in search for inspiration to create six new dishes for their restaurant's menu.",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1789976100000",
@@ -3569,7 +3542,7 @@
       "title": "Hands Up[粵]",
       "start": "2026-09-21T16:50:00+08:00",
       "end": "2026-09-21T17:20:00+08:00",
-      "description": "兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！",
+      "description": "中國結與西洋結在編織方法、用料上有何不同？本集「Kids’ Notes」邀請到繩結專家，介紹箇中分別。嘉賓還即場示範中國結的雙錢結、吉祥結，以及西洋結的斜捲結等基本編織技巧。只要靈活運用這些技法，就能變化出無數精緻又漂亮的繩結作品。她展示的一條東方龍，便是中西技術合璧的結晶。為了向小朋友推廣繩結藝術，嘉賓發揮無限創意，設計出手槍、金魚等有趣造型的作品。另外，本集亦會播放AI生成動畫《鑿壁偷光》。",
       "source": "TVB"
     },
     {
@@ -3821,7 +3794,7 @@
       "title": "經緯線｜無鼠城市？",
       "start": "2026-09-21T09:30:00.000Z",
       "end": "2026-09-21T10:00:00.000Z",
-      "description": "專題式深入報道香港及世界熱門時事。",
+      "description": "政府近年投放多了人手，亦使用不同新工具捉老鼠，但有市民說經常有老鼠入屋。李生和女兒住在深水埗一個劏房單位，他說大廈附近一直有老鼠出沒，但今年二月開始，大廈停止安排清潔工晚上清理垃圾，吸引了大量老鼠，經常有老鼠沿著水渠從窗口進入家中；他今年在家中捉了十多隻老鼠，令他感到很大壓力。「你看到牠的皮膚潰爛，是否有病菌？如果觸碰到牠，或將牠咬過的食物煮來吃，會否傳染病毒給自己，會否死掉？」食環署指，由於鼠隻對食物的喜好，會因應時間和地點而有所不同，現時會在鼠籠放置燒味、紅腸、蘋果、魷魚等，作為捕捉老鼠的誘餌；但有滅鼠專家實地觀察，不少食環署鼠籠都是使用蕃薯作為誘餌，認為效果可能未如理想，例如有些蕃薯已發霉，加上後巷有食肆，廚餘比蕃薯更能吸引老鼠，專家建議可以多做一步，先將蕃薯烤焗加熱，讓糖份發揮出來，效果會更好。政府前年推出統計老鼠出沒頻率的新方法，以「無鼠百分比」作為新的鼠患指數。食環署使用熱能探測攝錄機，於調查地點連續三天，從晚上七時到翌日早上七時，每兩分鐘拍攝一次熱成像照片；但根據滅蟲業界人士的觀察，現時攝錄機只會放在政府管轄的公眾地方，認為「無鼠百分比」指數，未能完整地覆蓋和反映不同地點的鼠患情況，一些私人地方，甚至已出租的食環署物業，都監察不了。「無鼠百分比」以照片數目作為單位計算，立法會議員陳凱欣認為，數字未能反映實際鼠患情況。「一張照片裡有二十隻老鼠，比起只有一隻、兩隻，問題嚴重很多，但也只是計算作一張照片，便會低估情況。」究竟，香港距離「無鼠城市」有多遠？",
       "source": "ViuTV"
     },
     {
@@ -4397,7 +4370,7 @@
       "title": "美食新聞報道[粵]",
       "start": "2026-09-21T20:00:00+08:00",
       "end": "2026-09-21T20:30:00+08:00",
-      "description": "香港匯聚環球美食！黃嘉雯、倪嘉雯、蔡景行、施焯日、黃婧靈等主持四出試食，帶來真實食評；推介自駕覓食好去處，發掘各區「掃街」名物、名人愛店，驗證網上「抵食」傳聞；又會相約居港的外國人，到訪經他們認證的家鄉風味食肆。星級大廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來精彩推介；識食之人還會細說美食典故。節目緊貼最新飲食潮流，速遞美食優惠，讓觀眾掌握最滋味、抵食的飲食情報。",
+      "description": "中秋節將至，張與辰帶行仔到深水埗老字號餅家，品嚐餡料香滑的單黃白蓮蓉月餅、滋味獨特的陳皮豆沙月餅，以及果香濃郁的新派榴槤月餅。與辰更在老闆指導下親手炮製傳統單黃白蓮蓉月餅，滋味如何？元朗「地膽」鄧達智則帶同為街坊的行仔造訪區內串燒店，主打以本地自家雞場養殖的皇香雞炮製佳餚，提供逾20個部位的雞肉供選擇。二人細嚐雞蠔肉、雞翼、雞腸等不同部位，各有風味，最後再品嚐皮脆肉嫩的燒石岐乳鴿，吃得十分滿足。",
       "source": "TVB"
     },
     {
