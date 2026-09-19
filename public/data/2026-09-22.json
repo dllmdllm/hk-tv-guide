@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-18T22:37:39.814Z",
+  "updatedAt": "2026-09-19T04:42:51.821Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -2281,7 +2281,7 @@
       "channelId": "viu-96",
       "title": "失落的阿美利堅",
       "start": "2026-09-22T03:00:00.000Z",
-      "end": "2026-09-22T04:00:00.000Z",
+      "end": "2026-09-22T03:55:00.000Z",
       "description": "Scattered across the United States are abandoned structures and those who know their stories. These forgotten ruins reveal the past of this land and its people. These are the secrets of Hidden America.",
       "source": "ViuTV"
     },
@@ -2439,6 +2439,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1790049300000",
+      "channelId": "viu-96",
+      "title": "NFL 美式足球賽 26/27｜印城小馬 @ 肯薩斯城酋長",
+      "start": "2026-09-22T03:55:00.000Z",
+      "end": "2026-09-22T06:10:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-34-1790049420000",
       "channelId": "rthk-34",
       "title": "頻道導視(英)",
@@ -2527,15 +2536,6 @@
       "end": "2026-09-22T13:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1790049600000",
-      "channelId": "viu-96",
-      "title": "NFL 美式足球賽 26/27｜印城小馬 @ 肯薩斯城酋長",
-      "start": "2026-09-22T04:00:00.000Z",
-      "end": "2026-09-22T06:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1790049600000",
@@ -2979,15 +2979,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1790056800000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Cold Case Files S4",
-      "start": "2026-09-22T06:00:00.000Z",
-      "end": "2026-09-22T07:00:00.000Z",
-      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1790056800000",
       "channelId": "viu-99",
       "title": "夜之花",
@@ -3022,6 +3013,15 @@
       "end": "2026-09-22T14:50:00+08:00",
       "description": "諾懿與田蕊妮「老友鬼鬼」，這次同遊日本東京，豪言「玩乜都得」！二人相聚「肌肉酒吧」，點喝甚麼特飲，竟見猛男脫衣瘋狂騷肌？他們及後一同見識當地的情趣酒店，房間內設秘密診所，阿田笑言要替諾懿檢查身體；而「港普教父」諾懿來到課室主題房間，當然要大展功架！築地向來以新鮮刺身聞名，諾懿卻帶阿田品嚐牛肉飯、牛雜，究竟有多滋味？二人又走進廚藝中心學煮日式料理，並交流夫妻相處之道；阿田還會細說丈夫的窩心舉動。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1790057400000",
+      "channelId": "viu-96",
+      "title": "Case File 96: Cold Case Files S4",
+      "start": "2026-09-22T06:10:00.000Z",
+      "end": "2026-09-22T07:00:00.000Z",
+      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-82-1790057700000",
