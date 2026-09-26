@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-25T23:19:52.857Z",
+  "updatedAt": "2026-09-26T05:05:40.296Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -2308,7 +2308,7 @@
       "channelId": "viu-96",
       "title": "英倫地鐵探知館",
       "start": "2026-09-29T03:00:00.000Z",
-      "end": "2026-09-29T04:00:00.000Z",
+      "end": "2026-09-29T03:55:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -2457,6 +2457,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1790654100000",
+      "channelId": "viu-96",
+      "title": "NFL 美式足球賽 26/27｜洛杉磯公羊 @ 丹佛野馬",
+      "start": "2026-09-29T03:55:00.000Z",
+      "end": "2026-09-29T06:10:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-34-1790654220000",
       "channelId": "rthk-34",
       "title": "頻道導視(英)",
@@ -2545,15 +2554,6 @@
       "end": "2026-09-29T13:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1790654400000",
-      "channelId": "viu-96",
-      "title": "NFL 美式足球賽 26/27｜洛杉磯公羊 @ 丹佛野馬",
-      "start": "2026-09-29T04:00:00.000Z",
-      "end": "2026-09-29T06:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1790654400000",
@@ -3015,15 +3015,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1790661600000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Cold Case Files S4",
-      "start": "2026-09-29T06:00:00.000Z",
-      "end": "2026-09-29T07:00:00.000Z",
-      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1790661600000",
       "channelId": "viu-99",
       "title": "夜之花",
@@ -3058,6 +3049,15 @@
       "end": "2026-09-29T14:50:00+08:00",
       "description": "楊明甫抵檳城，即與「兄弟」諾懿登上65層高的大廈。畏高的諾懿，能否克服恐懼完成空中飛索等挑戰？喬治城有不少打卡位，由七間排屋重建而成的酒店充滿懷舊風；「最長咖啡館」則可邊嘆蛋糕邊畫畫。二人再訪新派娘惹菜餐廳，以相宜價錢享用豐富美食。吉隆坡一間創意料理餐廳，竟將椰漿飯、海南雞飯改造成壽司，二人前往拜師學藝。兩兄弟到健身室運動後，往餐廳談心；楊明還盡訴感情事，「大馬十億準女婿」的稱號可曾為他帶來壓力？",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1790662200000",
+      "channelId": "viu-96",
+      "title": "Case File 96: Cold Case Files S4",
+      "start": "2026-09-29T06:10:00.000Z",
+      "end": "2026-09-29T07:00:00.000Z",
+      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-82-1790662500000",
