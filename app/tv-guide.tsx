@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { CalendarBlank, CaretLeft, CaretRight, Clock, MagnifyingGlass } from "@phosphor-icons/react";
 
 type Channel = {
@@ -43,10 +43,12 @@ const fallbackChannels: Channel[] = [
 ];
 
 const PX_PER_MINUTE = 2.5;
-const DAY_HEIGHT = 24 * 60 * PX_PER_MINUTE;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
 const halfHourMarks = Array.from({ length: 48 }, (_, halfHour) => halfHour);
 const priorityChannelIds = ["rthk-31", "hoy-77", "tvb-81", "viu-99"];
+
+type TimelinePosition = { top: number; height: number };
+type TimelineSegment = { start: number; end: number; top: number; scale: number };
 
 function hktDate(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
@@ -89,15 +91,70 @@ function isPast(programme: Programme, selectedDate: string, now: number) {
   return selectedDate === hktDate() && new Date(programme.end).getTime() <= now;
 }
 
-function programmePosition(programme: Programme, selectedDate: string) {
+function programmeSpan(programme: Programme, selectedDate: string) {
   const dayStart = new Date(`${selectedDate}T00:00:00+08:00`).getTime();
   const dayEnd = dayStart + 24 * 60 * 60 * 1000;
-  const start = Math.max(dayStart, new Date(programme.start).getTime());
-  const end = Math.min(dayEnd, new Date(programme.end).getTime());
+  const start = Math.min(dayEnd, Math.max(dayStart, new Date(programme.start).getTime()));
+  const end = Math.min(dayEnd, Math.max(dayStart, new Date(programme.end).getTime()));
+  const startMinute = (start - dayStart) / 60000;
+  const endMinute = (end - dayStart) / 60000;
   return {
-    top: ((start - dayStart) / 60000) * PX_PER_MINUTE,
-    height: Math.max(2, ((end - start) / 60000) * PX_PER_MINUTE),
+    startMinute,
+    endMinute,
+    height: Math.max(2, (endMinute - startMinute) * PX_PER_MINUTE),
   };
+}
+
+function createTimelineLayout(programmes: Programme[], selectedDate: string, measuredHeights: Record<string, number>) {
+  const spans = programmes.map((programme) => {
+    const span = programmeSpan(programme, selectedDate);
+    return {
+      id: programme.id,
+      start: span.startMinute,
+      end: span.endMinute,
+      scale: Math.max(1, (measuredHeights[programme.id] ?? 0) / span.height),
+    };
+  }).filter((span) => span.end > span.start);
+
+  const boundaries = new Set<number>([0, 24 * 60]);
+  for (let minute = 30; minute < 24 * 60; minute += 30) boundaries.add(minute);
+  spans.forEach((span) => {
+    boundaries.add(span.start);
+    boundaries.add(span.end);
+  });
+
+  const points = [...boundaries].sort((a, b) => a - b);
+  const segments: TimelineSegment[] = [];
+  let height = 0;
+  for (let index = 0; index < points.length - 1; index += 1) {
+    const start = points[index];
+    const end = points[index + 1];
+    const scale = spans.reduce((largest, span) => span.start < end && span.end > start ? Math.max(largest, span.scale) : largest, 1);
+    segments.push({ start, end, top: height, scale });
+    height += (end - start) * PX_PER_MINUTE * scale;
+  }
+
+  const minuteToY = (minute: number) => {
+    const clamped = Math.min(24 * 60, Math.max(0, minute));
+    if (clamped === 24 * 60) return height;
+    let low = 0;
+    let high = segments.length - 1;
+    while (low < high) {
+      const middle = Math.floor((low + high) / 2);
+      if (clamped <= segments[middle].end) high = middle;
+      else low = middle + 1;
+    }
+    const segment = segments[low];
+    return segment.top + (clamped - segment.start) * PX_PER_MINUTE * segment.scale;
+  };
+
+  const positions = new Map<string, TimelinePosition>();
+  spans.forEach((span) => {
+    const top = minuteToY(span.start);
+    positions.set(span.id, { top, height: minuteToY(span.end) - top });
+  });
+
+  return { height, positions, minuteToY };
 }
 
 export function TvGuide() {
@@ -109,6 +166,7 @@ export function TvGuide() {
   const [now, setNow] = useState(0);
   const [columnCount, setColumnCount] = useState(4);
   const [selectedChannelIds, setSelectedChannelIds] = useState(priorityChannelIds);
+  const [measuredHeights, setMeasuredHeights] = useState<Record<string, number>>({});
   const gridRef = useRef<HTMLDivElement>(null);
   const didAutoScroll = useRef("");
 
@@ -199,13 +257,43 @@ export function TvGuide() {
     });
   }, []);
 
-  const programmesByChannel = useMemo(() => {
-    const needle = query.trim().toLocaleLowerCase("zh-HK");
+  const layoutProgrammesByChannel = useMemo(() => {
     return new Map(displayChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
       .filter((programme) => programme.channelId === channel.id)
-      .filter((programme) => !needle || programme.title.toLocaleLowerCase("zh-HK").includes(needle))
       .sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime())]));
-  }, [displayChannels, query, schedule]);
+  }, [displayChannels, schedule]);
+
+  const programmesByChannel = useMemo(() => {
+    const needle = query.trim().toLocaleLowerCase("zh-HK");
+    return new Map(displayChannels.map((channel) => [channel.id, (layoutProgrammesByChannel.get(channel.id) ?? [])
+      .filter((programme) => !needle || programme.title.toLocaleLowerCase("zh-HK").includes(needle))]));
+  }, [displayChannels, layoutProgrammesByChannel, query]);
+
+  const timelineProgrammes = useMemo(() => Array.from(layoutProgrammesByChannel.values()).flat(), [layoutProgrammesByChannel]);
+  const timeline = useMemo(() => createTimelineLayout(timelineProgrammes, selectedDate, measuredHeights), [measuredHeights, selectedDate, timelineProgrammes]);
+
+  useLayoutEffect(() => {
+    const viewport = gridRef.current;
+    if (!viewport) return;
+
+    const measureProgrammeCards = () => {
+      const next: Record<string, number> = {};
+      viewport.querySelectorAll<HTMLElement>("[data-programme-measure]").forEach((element) => {
+        const programmeId = element.dataset.programmeMeasure;
+        if (programmeId) next[programmeId] = Math.ceil(element.offsetHeight + 2);
+      });
+      setMeasuredHeights((current) => {
+        const ids = Object.keys(next);
+        if (ids.length === Object.keys(current).length && ids.every((id) => Math.abs(next[id] - (current[id] ?? 0)) < 2)) return current;
+        return next;
+      });
+    };
+
+    measureProgrammeCards();
+    const observer = new ResizeObserver(measureProgrammeCards);
+    observer.observe(viewport);
+    return () => observer.disconnect();
+  }, [activeChannelIds, columnCount, layoutProgrammesByChannel, schedule?.date]);
 
   const allVisibleProgrammes = useMemo(() => Array.from(programmesByChannel.values()).flat(), [programmesByChannel]);
   const liveCount = allVisibleProgrammes.filter((programme) => isLive(programme, selectedDate, now)).length;
@@ -217,10 +305,10 @@ export function TvGuide() {
     if (!gridRef.current) return;
     const targetMinutes = selectedDate === hktDate() && nowMinutes !== null ? nowMinutes : 8 * 60;
     const headerHeight = Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--header-height")) || 0;
-    const targetTop = headerHeight + (targetMinutes * PX_PER_MINUTE) - (gridRef.current.clientHeight / 2);
+    const targetTop = headerHeight + timeline.minuteToY(targetMinutes) - (gridRef.current.clientHeight / 2);
     const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
     gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
-  }, [nowMinutes, selectedDate]);
+  }, [nowMinutes, selectedDate, timeline]);
 
   useEffect(() => {
     if (!loading && schedule?.date === selectedDate && didAutoScroll.current !== selectedDate) {
@@ -285,7 +373,7 @@ export function TvGuide() {
               })}
             </div>
             <div className="epg-viewport" ref={gridRef}>
-              <div className="epg-canvas" style={{ "--channel-count": Math.max(displayChannels.length, 1), "--day-height": `${DAY_HEIGHT}px` } as React.CSSProperties}>
+              <div className="epg-canvas" style={{ "--channel-count": Math.max(displayChannels.length, 1) } as React.CSSProperties}>
                 <div className="epg-corner">時間</div>
                 <div className="channel-headers">
                   {displayChannels.map((channel) => {
@@ -299,16 +387,17 @@ export function TvGuide() {
                   })}
                 </div>
 
-                <div className="time-axis" style={{ height: DAY_HEIGHT }}>
-                  {hourMarks.map((hour) => <span className="time-label" key={hour} style={{ top: hour * 60 * PX_PER_MINUTE }}>{String(hour).padStart(2, "0")}:00</span>)}
+                <div className="time-axis" style={{ height: timeline.height }}>
+                  {hourMarks.map((hour) => <span className="time-label" key={hour} style={{ top: timeline.minuteToY(hour * 60) }}>{String(hour).padStart(2, "0")}:00</span>)}
                 </div>
 
-                <div className="schedule-grid" style={{ height: DAY_HEIGHT }}>
-                  {halfHourMarks.map((mark) => <span className={mark % 2 === 0 ? "grid-line hour" : "grid-line"} key={mark} style={{ top: mark * 30 * PX_PER_MINUTE }} />)}
+                <div className="schedule-grid" style={{ height: timeline.height }}>
+                  {halfHourMarks.map((mark) => <span className={mark % 2 === 0 ? "grid-line hour" : "grid-line"} key={mark} style={{ top: timeline.minuteToY(mark * 30) }} />)}
                   {displayChannels.map((channel) => (
                     <div className="channel-column" key={channel.id}>
                       {(programmesByChannel.get(channel.id) ?? []).map((programme) => {
-                        const position = programmePosition(programme, selectedDate);
+                        const position = timeline.positions.get(programme.id);
+                        if (!position) return null;
                         const live = isLive(programme, selectedDate, now);
                         const past = isPast(programme, selectedDate, now);
                         const compact = position.height < 46;
@@ -321,9 +410,22 @@ export function TvGuide() {
                           </a>
                         );
                       })}
+                      <div className="programme-measure-layer" aria-hidden="true">
+                        {(layoutProgrammesByChannel.get(channel.id) ?? []).map((programme) => {
+                          const span = programmeSpan(programme, selectedDate);
+                          if (span.height < 18 && !programme.description) return null;
+                          return (
+                            <div className="programme-measure" data-programme-measure={programme.id} key={programme.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
+                              <span className="programme-slot">{programmeMeta(programme)}</span>
+                              <strong>{programme.title}</strong>
+                              {programme.description && <small>{programme.description}</small>}
+                            </div>
+                          );
+                        })}
+                      </div>
                     </div>
                   ))}
-                  {nowMinutes !== null && <div className="now-line" style={{ top: nowMinutes * PX_PER_MINUTE }}><span>而家 {time(new Date(now).toISOString())}</span></div>}
+                  {nowMinutes !== null && <div className="now-line" style={{ top: timeline.minuteToY(nowMinutes) }}><span>而家 {time(new Date(now).toISOString())}</span></div>}
                 </div>
               </div>
             </div>
