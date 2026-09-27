@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-09-26T22:55:33.500Z",
+  "updatedAt": "2026-09-27T05:23:38.263Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -4455,6 +4455,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-99-1791041400000",
+      "channelId": "viu-99",
+      "title": "新聞報道",
+      "start": "2026-10-03T15:30:00.000Z",
+      "end": "2026-10-03T16:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
+    },
+    {
       "id": "tvb-81-1791041700000",
       "channelId": "tvb-81",
       "title": "香港賽馬會特約：J Sport[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]",
@@ -4507,6 +4516,15 @@
       "end": "2026-10-04T00:00:00+08:00",
       "description": "穿梭歷史時空",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1791042900000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-10-03T15:55:00.000Z",
+      "end": "2026-10-03T16:40:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
     }
   ],
   "sourceStatus": {
