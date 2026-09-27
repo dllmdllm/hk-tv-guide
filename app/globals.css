@@ -161,8 +161,11 @@ footer p { margin: 0; }
   .programme-block { left: 3px; right: 3px; row-gap: 5px; padding: 9px 10px; border-radius: 5px; }
   .programme-measure { row-gap: 5px; padding: 9px 10px; }
   .programme-slot { font-size: 12px; text-align: center; }
+  .programme-measure .programme-slot { font-size: 12px; text-align: center; }
   .programme-block strong { font-size: 17px; line-height: 1.22; }
+  .programme-measure strong { font-size: 17px; line-height: 1.22; }
   .programme-block small { font-size: 12px; line-height: 1.35; text-align: center; }
+  .programme-measure small { font-size: 12px; line-height: 1.35; text-align: center; }
   footer { flex-direction: column; }
 }
 
