@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-27T23:06:32.451Z",
+  "updatedAt": "2026-09-28T05:30:27.796Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1508,7 +1508,7 @@
       "title": "盛事傳城",
       "start": "2026-09-29T07:30:00+08:00",
       "end": "2026-09-29T07:35:00+08:00",
-      "description": "",
+      "description": "國慶煙花；「拍住上」電影場景展",
       "source": "港台"
     },
     {
@@ -1652,7 +1652,7 @@
       "title": "盛事傳城",
       "start": "2026-09-29T08:00:00+08:00",
       "end": "2026-09-29T08:05:00+08:00",
-      "description": "",
+      "description": "國慶煙花；「拍住上」電影場景展",
       "source": "港台"
     },
     {
@@ -2255,7 +2255,7 @@
       "title": "盛事傳城",
       "start": "2026-09-29T11:00:00+08:00",
       "end": "2026-09-29T11:05:00+08:00",
-      "description": "",
+      "description": "國慶煙花；「拍住上」電影場景展",
       "source": "港台"
     },
     {
@@ -2308,7 +2308,7 @@
       "channelId": "viu-96",
       "title": "英倫地鐵探知館",
       "start": "2026-09-29T03:00:00.000Z",
-      "end": "2026-09-29T03:55:00.000Z",
+      "end": "2026-09-29T04:00:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -2457,15 +2457,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1790654100000",
-      "channelId": "viu-96",
-      "title": "NFL 美式足球賽 26/27｜洛杉磯公羊 @ 丹佛野馬",
-      "start": "2026-09-29T03:55:00.000Z",
-      "end": "2026-09-29T06:10:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-34-1790654220000",
       "channelId": "rthk-34",
       "title": "頻道導視(英)",
@@ -2554,6 +2545,15 @@
       "end": "2026-09-29T13:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1790654400000",
+      "channelId": "viu-96",
+      "title": "NFL 美式足球賽 26/27｜洛杉磯公羊 @ 丹佛野馬",
+      "start": "2026-09-29T04:00:00.000Z",
+      "end": "2026-09-29T06:45:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "viu-99-1790654400000",
@@ -3051,15 +3051,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1790662200000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Cold Case Files S4",
-      "start": "2026-09-29T06:10:00.000Z",
-      "end": "2026-09-29T07:00:00.000Z",
-      "description": "There are over 100,000 cold cases in America, and only about 1% are ever solved. With recent advancements in technology and the methods used to solve these cases, as well as the unwavering dedication of victims’ families, law enforcement and the public, “Cold Case Files” explores the cases the defied the odds.",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-82-1790662500000",
       "channelId": "tvb-82",
       "title": "娛樂新聞報道[粵]",
@@ -3130,6 +3121,15 @@
       "end": "2026-09-29T15:50:00+08:00",
       "description": "抄襲設計事件越鬧越大，赫相甚至遊說熙瓊辭職下台，熙瓊不得已只好親上火線，召開記者會以挽回劣勢。熙瓊去找手工鞋店的金老闆，想要確認珍瑪是否就是珍雅，不料卻從金老闆口中聽到珍鎬身亡的消息，讓她備受打擊。",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1790664300000",
+      "channelId": "viu-96",
+      "title": "荷里活娛樂快遞",
+      "start": "2026-09-29T06:45:00.000Z",
+      "end": "2026-09-29T07:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1790664600000",
@@ -4631,7 +4631,7 @@
       "title": "盛事傳城",
       "start": "2026-09-29T20:55:00+08:00",
       "end": "2026-09-29T21:00:00+08:00",
-      "description": "",
+      "description": "國慶煙花；「拍住上」電影場景展",
       "source": "港台"
     },
     {
@@ -5000,7 +5000,7 @@
       "title": "盛事傳城",
       "start": "2026-09-29T22:25:00+08:00",
       "end": "2026-09-29T22:30:00+08:00",
-      "description": "",
+      "description": "國慶煙花；「拍住上」電影場景展",
       "source": "港台"
     },
     {
