@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T05:46:08.362Z",
+  "updatedAt": "2026-10-02T14:46:28.785Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -1262,7 +1262,7 @@
     {
       "id": "tvb-82-1790892000000",
       "channelId": "tvb-82",
-      "title": "#後生仔傾吓偈[粵]",
+      "title": "#後生仔傾吓偈",
       "start": "2026-10-02T06:00:00+08:00",
       "end": "2026-10-02T06:30:00+08:00",
       "description": "Fred人大了也成熟了，自覺較初加入後生仔時寡言，當真？他最難忘與嘉欣的一日Dating，更一時感觸……GM四年前後身形有轉變；同樣地，「中大陳冠希」雖不時被拍檔波波嫌棄，仍無損其心繫四廠的感情。Amber受紫恩影響，發奮變好學寶寶。峰入行初期散發濃烈「宅氣場」，現時已脫胎換骨。後生仔回看亮相節目的第一次，誰人的樣子變化最大？重溫波波一手「發掘」GM的經過；Bella常被六號取笑為嘉賓式主持？",
@@ -3721,7 +3721,7 @@
       "channelId": "viu-96",
       "title": "國際足協東盟盃2026｜泰國 對 菲律賓",
       "start": "2026-10-02T08:50:00.000Z",
-      "end": "2026-10-02T11:00:00.000Z",
+      "end": "2026-10-02T12:00:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -4136,7 +4136,7 @@
       "title": "凝聚香港",
       "start": "2026-10-02T18:30:00+08:00",
       "end": "2026-10-02T19:00:00+08:00",
-      "description": "",
+      "description": "第一千一百二十集",
       "source": "港台"
     },
     {
@@ -4293,15 +4293,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1790938800000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-10-02T11:00:00.000Z",
-      "end": "2026-10-02T11:15:00.000Z",
-      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
-      "source": "ViuTV"
-    },
-    {
       "id": "viu-99-1790938800000",
       "channelId": "viu-99",
       "title": "7點新聞報道",
@@ -4318,15 +4309,6 @@
       "end": "2026-10-02T19:25:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1790939700000",
-      "channelId": "viu-96",
-      "title": "Isadora Moon",
-      "start": "2026-10-02T11:15:00.000Z",
-      "end": "2026-10-02T11:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1790940300000",
@@ -4388,7 +4370,7 @@
       "title": "東張西望[粵]",
       "start": "2026-10-02T19:30:00+08:00",
       "end": "2026-10-02T20:00:00+08:00",
-      "description": "《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。",
+      "description": "某連鎖式瑜伽中心突然結業，不少會員控訴近日才被遊說續約會籍及購買課程，強烈批評中心的做法。多位市民找同一名通渠師傅通渠，但都遭遇不快經歷。眾人指控該通渠師傅起初僅提出數百至上千元的報價，怎料登門後以問題嚴重為由大幅加價，有事主最終被迫支付逾萬元費用。據悉該師傅曾因類似的不良銷售手法被捕；攝製隊聯絡到涉事通渠師傅，對方現身時堅決否認有關指控，更反指遭人誣衊？本集還會帶來儲蓄優惠情報。",
       "source": "TVB"
     },
     {
@@ -4408,15 +4390,6 @@
       "end": "2026-10-02T19:55:00+08:00",
       "description": "明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1790940600000",
-      "channelId": "viu-96",
-      "title": "英倫運河日誌",
-      "start": "2026-10-02T11:30:00.000Z",
-      "end": "2026-10-02T12:00:00.000Z",
-      "description": "Join Robbie Cumming onboard the Naughty Lass as he explores the Oxford Canal, River Thames, and more, facing challenges, meeting fellow boaters, and uncovering history along the way.",
-      "source": "ViuTV"
     },
     {
       "id": "viu-99-1790940600000",
@@ -4460,7 +4433,7 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-10-02T19:54:00+08:00",
       "end": "2026-10-02T20:00:00+08:00",
-      "description": "",
+      "description": "政正關你事-官員講話摘要#59 （李家超、陳茂波、丘應樺）",
       "source": "港台"
     },
     {
@@ -4496,7 +4469,7 @@
       "title": "香港同胞慶祝中華人民共和國成立七十七周年文藝晚會",
       "start": "2026-10-02T20:00:00+08:00",
       "end": "2026-10-02T21:30:00+08:00",
-      "description": "",
+      "description": "香港同胞慶祝中華人民共和國成立七十七周年文藝晚會",
       "source": "港台"
     },
     {
@@ -4505,7 +4478,7 @@
       "title": "晚間新聞",
       "start": "2026-10-02T20:00:00+08:00",
       "end": "2026-10-02T20:15:00+08:00",
-      "description": "",
+      "description": "晚間新聞",
       "source": "港台"
     },
     {
@@ -4565,10 +4538,10 @@
     {
       "id": "viu-96-1790942400000",
       "channelId": "viu-96",
-      "title": "星級解碼",
+      "title": "ViuTV News",
       "start": "2026-10-02T12:00:00.000Z",
-      "end": "2026-10-02T13:00:00.000Z",
-      "description": "Hosted by actress-singer Keke Palmer and The Tonight Show’s Jimmy Fallon, this iconic game show has captivated a new generation, as big names like Jimmy Kimmel, Meghan Trainor and Chance the Rapper take the stage and join in the fun. Zany single-word clues and laugh-out-loud moments reveal the stars’ improv skills, witty banter and camaraderie.",
+      "end": "2026-10-02T12:15:00.000Z",
+      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
       "source": "ViuTV"
     },
     {
@@ -4576,7 +4549,7 @@
       "channelId": "viu-99",
       "title": "香港同胞慶祝中華人民共和國成立七十七周年文藝晚會",
       "start": "2026-10-02T12:00:00.000Z",
-      "end": "2026-10-02T13:30:00.000Z",
+      "end": "2026-10-02T13:40:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -4613,7 +4586,7 @@
       "title": "時事脈動",
       "start": "2026-10-02T20:15:00+08:00",
       "end": "2026-10-02T20:55:00+08:00",
-      "description": "",
+      "description": "時事脈動 (英語)",
       "source": "港台"
     },
     {
@@ -4624,6 +4597,15 @@
       "end": "2026-10-02T21:00:00+08:00",
       "description": "",
       "source": "港台"
+    },
+    {
+      "id": "viu-96-1790943300000",
+      "channelId": "viu-96",
+      "title": "星級解碼",
+      "start": "2026-10-02T12:15:00.000Z",
+      "end": "2026-10-02T13:00:00.000Z",
+      "description": "Hosted by actress-singer Keke Palmer and The Tonight Show’s Jimmy Fallon, this iconic game show has captivated a new generation, as big names like Jimmy Kimmel, Meghan Trainor and Chance the Rapper take the stage and join in the fun. Zany single-word clues and laugh-out-loud moments reveal the stars’ improv skills, witty banter and camaraderie.",
+      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1790944200000",
@@ -4896,15 +4878,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1790947800000",
-      "channelId": "viu-99",
-      "title": "申社長Project",
-      "start": "2026-10-02T13:30:00.000Z",
-      "end": "2026-10-02T14:25:00.000Z",
-      "description": "大家期待已久的大婚之日到來了，所有人齊聚現場慶祝。然而，婚姻安排上卻出現了意想不到的衝突，使得婚禮幾乎被取消。最終，為了確保婚禮順利和諧地進行，申先生出面調解。",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-78-1790948100000",
       "channelId": "hoy-78",
       "title": "中國銀行(香港)呈獻 : 亞運戰報",
@@ -4912,6 +4885,15 @@
       "end": "2026-10-02T21:45:00+08:00",
       "description": "",
       "source": "HOY"
+    },
+    {
+      "id": "viu-99-1790948400000",
+      "channelId": "viu-99",
+      "title": "申社長Project",
+      "start": "2026-10-02T13:40:00.000Z",
+      "end": "2026-10-02T14:35:00.000Z",
+      "description": "大家期待已久的大婚之日到來了，所有人齊聚現場慶祝。然而，婚姻安排上卻出現了意想不到的衝突，使得婚禮幾乎被取消。最終，為了確保婚禮順利和諧地進行，申先生出面調解。",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1790948580000",
@@ -5009,7 +4991,7 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-10-02T22:00:00+08:00",
       "end": "2026-10-02T22:05:00+08:00",
-      "description": "",
+      "description": "政正關你事-官員講話摘要#59 （李家超、陳茂波、丘應樺）",
       "source": "港台"
     },
     {
@@ -5072,7 +5054,7 @@
       "title": "凝聚香港",
       "start": "2026-10-02T22:05:00+08:00",
       "end": "2026-10-02T22:30:00+08:00",
-      "description": "",
+      "description": "第一千一百二十集",
       "source": "港台"
     },
     {
@@ -5081,17 +5063,8 @@
       "title": "政正關你事 - 官員講話摘要",
       "start": "2026-10-02T22:25:00+08:00",
       "end": "2026-10-02T22:30:00+08:00",
-      "description": "",
+      "description": "政正關你事-官員講話摘要#59 （李家超、陳茂波、丘應樺）",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1790951100000",
-      "channelId": "viu-99",
-      "title": "地獄大狀製作特輯：庭外搜證",
-      "start": "2026-10-02T14:25:00.000Z",
-      "end": "2026-10-02T14:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1790951400000",
@@ -5166,12 +5139,12 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1790951400000",
+      "id": "viu-99-1790951700000",
       "channelId": "viu-99",
-      "title": "沿路幫緊你｜特攝特訓的求婚企劃",
-      "start": "2026-10-02T14:30:00.000Z",
-      "end": "2026-10-02T15:00:00.000Z",
-      "description": "本集有來自飲食頻道團隊阿保與 Matthew 的特別委託，娟姐受任出動！兩人的好兄弟兼攝影師潮彤一直有求婚的心意，沒想到卻在旅行時被女友搶先一步求婚，阿保與 Matthew 決定聯手節目組協助潮彤，為「未來阿嫂」準備一場難忘的求婚驚喜！接受委託前，娟姐與兩位委託人先對潮彤展開實地考察。為了考驗潮彤是否值得信賴以及面對突發狀況的EQ，團隊狠心策劃了一場大整蠱！幸好有驚無險地渡過測試，眾人開始為他籌備一場「以特攝片完結象徵男孩長大成人」的求婚企劃，節目組更重磅邀請到星級武指團隊，對潮彤、阿保與 Matthew 展開魔鬼特訓！究竟這場英雄救美求婚，能否順利擄獲未來阿嫂的心？！",
+      "title": "地獄大狀製作特輯：庭外搜證",
+      "start": "2026-10-02T14:35:00.000Z",
+      "end": "2026-10-02T14:40:00.000Z",
+      "description": "",
       "source": "ViuTV"
     },
     {
@@ -5191,6 +5164,15 @@
       "end": "2026-10-02T23:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1790952000000",
+      "channelId": "viu-99",
+      "title": "沿路幫緊你｜特攝特訓的求婚企劃",
+      "start": "2026-10-02T14:40:00.000Z",
+      "end": "2026-10-02T15:10:00.000Z",
+      "description": "本集有來自飲食頻道團隊阿保與 Matthew 的特別委託，娟姐受任出動！兩人的好兄弟兼攝影師潮彤一直有求婚的心意，沒想到卻在旅行時被女友搶先一步求婚，阿保與 Matthew 決定聯手節目組協助潮彤，為「未來阿嫂」準備一場難忘的求婚驚喜！接受委託前，娟姐與兩位委託人先對潮彤展開實地考察。為了考驗潮彤是否值得信賴以及面對突發狀況的EQ，團隊狠心策劃了一場大整蠱！幸好有驚無險地渡過測試，眾人開始為他籌備一場「以特攝片完結象徵男孩長大成人」的求婚企劃，節目組更重磅邀請到星級武指團隊，對潮彤、阿保與 Matthew 展開魔鬼特訓！究竟這場英雄救美求婚，能否順利擄獲未來阿嫂的心？！",
+      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1790952960000",
@@ -5265,11 +5247,11 @@
       "source": "ViuTV"
     },
     {
-      "id": "viu-99-1790953200000",
+      "id": "viu-99-1790953800000",
       "channelId": "viu-99",
       "title": "晚吹 - 總有一瓣喺左近｜高靈人士Rinko分享靈異經歷",
-      "start": "2026-10-02T15:00:00.000Z",
-      "end": "2026-10-02T15:30:00.000Z",
+      "start": "2026-10-02T15:10:00.000Z",
+      "end": "2026-10-02T15:40:00.000Z",
       "description": "嘉賓Rinko曾參與《入住請敲門V》馬來西亞站拍攝，她從小就有靈異體質，長大後喜歡去人跡罕至的地方探索，在過程中遇到不少怪事之餘，亦拍到不少疑似出現靈體的詭異照片！例如相片裡自己無故變成黑白，又看見奇異異像等等。",
       "source": "ViuTV"
     },
@@ -5342,7 +5324,7 @@
       "title": "凝聚香港",
       "start": "2026-10-02T23:30:00+08:00",
       "end": "2026-10-03T00:00:00+08:00",
-      "description": "",
+      "description": "第一千一百二十集",
       "source": "港台"
     },
     {
@@ -5351,7 +5333,7 @@
       "title": "時事脈動",
       "start": "2026-10-02T23:30:00+08:00",
       "end": "2026-10-03T00:00:00+08:00",
-      "description": "",
+      "description": "時事脈動 (英語)",
       "source": "港台"
     },
     {
@@ -5391,21 +5373,12 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1790955000000",
+      "id": "viu-99-1790955600000",
       "channelId": "viu-99",
       "title": "3 分鐘熱度",
-      "start": "2026-10-02T15:30:00.000Z",
-      "end": "2026-10-02T15:35:00.000Z",
+      "start": "2026-10-02T15:40:00.000Z",
+      "end": "2026-10-02T15:45:00.000Z",
       "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1790955300000",
-      "channelId": "viu-99",
-      "title": "日本第一的爛男人-我的假家人們",
-      "start": "2026-10-02T15:35:00.000Z",
-      "end": "2026-10-02T16:30:00.000Z",
-      "description": "一平得知向陽最近不去上學，他向黑岩議員提及此事。黑岩建議他利用不去上學的孩子，跟他們的家長打好關係…",
       "source": "ViuTV"
     },
     {
@@ -5425,6 +5398,15 @@
       "end": "2026-10-02T23:50:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1790955900000",
+      "channelId": "viu-99",
+      "title": "日本第一的爛男人-我的假家人們",
+      "start": "2026-10-02T15:45:00.000Z",
+      "end": "2026-10-02T16:40:00.000Z",
+      "description": "一平得知向陽最近不去上學，他向黑岩議員提及此事。黑岩建議他利用不去上學的孩子，跟他們的家長打好關係…",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1790956200000",
