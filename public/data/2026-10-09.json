@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-02T20:47:44.041Z",
+  "updatedAt": "2026-10-03T05:24:03.861Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5544,6 +5544,15 @@
       "source": "ViuTV"
     },
     {
+      "id": "viu-99-1791560100000",
+      "channelId": "viu-99",
+      "title": "日本第一的爛男人-我的假家人們",
+      "start": "2026-10-09T15:35:00.000Z",
+      "end": "2026-10-09T16:30:00.000Z",
+      "description": "大江戶第一小學附近的託管班突然結束營業，家長們必須儘快找到新的託管班。一平決定暫時照看孩子，正助也盡力幫忙。",
+      "source": "ViuTV"
+    },
+    {
       "id": "hoy-76-1791560400000",
       "channelId": "hoy-76",
       "title": "阿聯酋聯賽盃- FC沙迦 對 艾查捷拉",
@@ -5569,6 +5578,15 @@
       "end": "2026-10-09T23:50:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-96-1791560700000",
+      "channelId": "viu-96",
+      "title": "皇室檔案：喬治王子",
+      "start": "2026-10-09T15:45:00.000Z",
+      "end": "2026-10-09T16:40:00.000Z",
+      "description": "The hopes of a nation resting on his shoulders, Prince George is destined for greatness. This unique young man represents both the future of the Royal Family and the entire institution of the monarchy. But how could anybody possibly learn to be the King… the most exclusive job in the world? In this documentary, we will uncover the secrets of his royal upbringing; how he is raised, his education, the Royal rituals he must learn, and how his modern upbringing is bringing the Royal Family kicking and screaming into the modern age.",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1791561000000",
