@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-04T23:14:24.110Z",
+  "updatedAt": "2026-10-05T05:49:07.038Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3155,7 +3155,7 @@
       "title": "Mia Cucina by Towngas Lifestyle特約:清心直說[英]",
       "start": "2026-10-11T15:00:00+08:00",
       "end": "2026-10-11T15:30:00+08:00",
-      "description": "嘉賓：香港工業總會主席林世豪",
+      "description": "\"What's next for Hong Kong industries in the coming 5 years?\"",
       "source": "TVB"
     },
     {
@@ -5067,6 +5067,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1791731700000",
+      "channelId": "viu-96",
+      "title": "夢想家居大改造 澳洲篇",
+      "start": "2026-10-11T15:15:00.000Z",
+      "end": "2026-10-11T16:00:00.000Z",
+      "description": "Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1791731880000",
       "channelId": "rthk-33",
       "title": "淬火年代 14",
@@ -5155,6 +5164,15 @@
       "end": "2026-10-12T00:00:00+08:00",
       "description": "",
       "source": "TVB"
+    },
+    {
+      "id": "viu-99-1791732600000",
+      "channelId": "viu-99",
+      "title": "新聞報道",
+      "start": "2026-10-11T15:30:00.000Z",
+      "end": "2026-10-11T16:00:00.000Z",
+      "description": "",
+      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1791732900000",
