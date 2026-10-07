@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-06T23:51:57.286Z",
+  "updatedAt": "2026-10-07T06:07:02.714Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3469,7 +3469,7 @@
       "channelId": "viu-99",
       "title": "NBA 球迷日2026",
       "start": "2026-10-10T08:20:00.000Z",
-      "end": "2026-10-10T10:00:00.000Z",
+      "end": "2026-10-10T11:00:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -3951,15 +3951,6 @@
       "source": "ViuTV"
     },
     {
-      "id": "viu-99-1791626400000",
-      "channelId": "viu-99",
-      "title": "6點新聞報道 (手語新聞)",
-      "start": "2026-10-10T10:00:00.000Z",
-      "end": "2026-10-10T10:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-31-1791626700000",
       "channelId": "rthk-31",
       "title": "港樂 • 講樂",
@@ -4065,15 +4056,6 @@
       "start": "2026-10-10T10:30:00.000Z",
       "end": "2026-10-10T11:00:00.000Z",
       "description": "Dublin-born celebrity chef Anna Haugh is passionate about Irish food. And after nearly 20 years in London, she’s heading home for The Big Irish Food Tour—a sweet-and-savoury exploration of the Emerald Isle’s unique culture and cuisine.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791628200000",
-      "channelId": "viu-99",
-      "title": "大鳴大放",
-      "start": "2026-10-10T10:30:00.000Z",
-      "end": "2026-10-10T11:00:00.000Z",
-      "description": "《大鳴大放》是一個30分鐘的時事討論節目，識英雄重英雄，請來各界重磅名人，拋出論點，言無不盡，深入討論時事，跨越維港神州，宏觀全世界。",
       "source": "ViuTV"
     },
     {
@@ -4232,10 +4214,10 @@
     {
       "id": "viu-99-1791630000000",
       "channelId": "viu-99",
-      "title": "7點新聞報道",
+      "title": "大鳴大放",
       "start": "2026-10-10T11:00:00.000Z",
       "end": "2026-10-10T11:30:00.000Z",
-      "description": "",
+      "description": "《大鳴大放》是一個30分鐘的時事討論節目，識英雄重英雄，請來各界重磅名人，拋出論點，言無不盡，深入討論時事，跨越維港神州，宏觀全世界。",
       "source": "ViuTV"
     },
     {
@@ -4376,10 +4358,10 @@
     {
       "id": "viu-96-1791631800000",
       "channelId": "viu-96",
-      "title": "雲端對談 第六系列｜嘉賓: 郭俊峯 (香港入境事務處處長)",
+      "title": "雲端對談 第六系列｜嘉賓: 郭俊峯 (香港⼊境處處長)",
       "start": "2026-10-10T11:30:00.000Z",
       "end": "2026-10-10T12:00:00.000Z",
-      "description": "",
+      "description": "郭俊峯(香港⼊境處處長)。自2023年起出任入境事務處處長至今。於1989年加入前人民入境事務處，任職助理入境事務主任。2009年晉升總入境事務主任，2013年晉升助理首席入境事務主任，2016年晉升首席入境事務主任。他於2020年晉升入境事務處助理處長，並於2022年晉升入境事務處副處長。",
       "source": "ViuTV"
     },
     {
