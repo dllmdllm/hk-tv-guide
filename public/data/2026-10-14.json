@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-07T21:20:56.350Z",
+  "updatedAt": "2026-10-08T06:12:16.092Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5013,6 +5013,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1791990900000",
+      "channelId": "viu-96",
+      "title": "America's Got Talent S19",
+      "start": "2026-10-14T15:15:00.000Z",
+      "end": "2026-10-14T16:15:00.000Z",
+      "description": "A talent competition where an array of performers -- from singers and dancers, to comedians and novelty acts -- vie for a $1 million cash prize.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-33-1791991200000",
       "channelId": "rthk-33",
       "title": "電視劇",
@@ -5091,6 +5100,15 @@
       "start": "2026-10-14T15:30:00.000Z",
       "end": "2026-10-14T15:35:00.000Z",
       "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1791992100000",
+      "channelId": "viu-99",
+      "title": "日本第一的爛男人-我的假家人們",
+      "start": "2026-10-14T15:35:00.000Z",
+      "end": "2026-10-14T16:30:00.000Z",
+      "description": "一平公開了長谷川的爭議影片，令長谷川的形象受損。此時，一名意想不到的人宣佈要參加選舉。",
       "source": "ViuTV"
     },
     {

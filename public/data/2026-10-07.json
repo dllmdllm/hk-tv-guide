@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T21:20:56.350Z",
+  "updatedAt": "2026-10-08T06:12:16.092Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -207,15 +207,6 @@
       "source": "HOY"
     },
     {
-      "id": "viu-96-1791303300000",
-      "channelId": "viu-96",
-      "title": "農場蜜語 - 澳洲篇",
-      "start": "2026-10-06T16:15:00.000Z",
-      "end": "2026-10-06T17:30:00.000Z",
-      "description": "Farmer Wants A Wife returns for a 13th series with five new farmers joining the search for true love. We follow their journeys as each pick five potential partners from thousands of hopefuls, before going through a series of solo and group dates on the farm – from a camping trip to a family get together and more. With a shocking twist midway through the series and major life choices to be made, there’s drama and romance like never before as this year’s farmers sow the seeds of love.",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-78-1791304200000",
       "channelId": "hoy-78",
       "title": "有線新聞",
@@ -232,15 +223,6 @@
       "end": "2026-10-07T01:00:00+08:00",
       "description": "第六集 - 終極四強開戰！星級試鍊登場",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1791304200000",
-      "channelId": "viu-99",
-      "title": "初戀Action!｜女人最痛",
-      "start": "2026-10-06T16:30:00.000Z",
-      "end": "2026-10-06T17:00:00.000Z",
-      "description": "女人每個月都會經歷一次月經帶來的痛苦，而男朋友「越幫越忙」的行為，更令 Alice 火冒三丈。今集男嘉賓會使出渾身解數，用他們認為最有用的方法令哄經中的 Alice 開心，但這些招數似乎不太有用！",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1791304500000",
@@ -333,15 +315,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-99-1791306000000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-10-06T17:00:00.000Z",
-      "end": "2026-10-06T17:30:00.000Z",
-      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-34-1791307620000",
       "channelId": "rthk-34",
       "title": "頻道導視(英)",
@@ -385,33 +358,6 @@
       "end": "2026-10-07T01:57:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-96-1791307800000",
-      "channelId": "viu-96",
-      "title": "荷里活娛樂快遞",
-      "start": "2026-10-06T17:30:00.000Z",
-      "end": "2026-10-06T17:45:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791307800000",
-      "channelId": "viu-99",
-      "title": "無用的謊言",
-      "start": "2026-10-06T17:30:00.000Z",
-      "end": "2026-10-06T18:30:00.000Z",
-      "description": "康民從嚴浩手中救出道河，他警告道河要確保率熙的安全，並不要讓她發現這件事，可是道河卻認為這很困難。",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-96-1791308700000",
-      "channelId": "viu-96",
-      "title": "Jamie Oliver: 季節料理",
-      "start": "2026-10-06T17:45:00.000Z",
-      "end": "2026-10-06T18:10:00.000Z",
-      "description": "Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet. This series is a celebration of sustainable, seasonal produce and how to cook it; whether we’ve grown it ourselves or found it in a farmer’s market, greengrocer’s, or the supermarket.",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791309420000",
@@ -477,15 +423,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-96-1791310200000",
-      "channelId": "viu-96",
-      "title": "ViuTVsix Station Closing Slate",
-      "start": "2026-10-06T18:10:00.000Z",
-      "end": "2026-10-07T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-77-1791310500000",
       "channelId": "hoy-77",
       "title": "地膽帶路日本遊",
@@ -520,15 +457,6 @@
       "end": "2026-10-07T03:00:00+08:00",
       "description": "第151集：JW王灝兒",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1791311400000",
-      "channelId": "viu-99",
-      "title": "深宵新聞",
-      "start": "2026-10-06T18:30:00.000Z",
-      "end": "2026-10-06T19:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1791312300000",
@@ -610,15 +538,6 @@
       "end": "2026-10-07T03:30:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1791313200000",
-      "channelId": "viu-99",
-      "title": "冥冥之中",
-      "start": "2026-10-06T19:00:00.000Z",
-      "end": "2026-10-06T20:00:00.000Z",
-      "description": "心兒接替麗珍，成為香港區域的主管，也順利得到了續命水，然而，就在心兒準備將續命水交給秋男之時，續命水卻被搶走，而更令心兒震驚的是，秋男的身世及小軍的真相。同時間，代理公司的「滅世計劃」已經展開，疫情擴散，寶玲的女兒也因此身亡，為改變女兒命運，寶玲不惜將心兒殺害，蝴蝶效應再次被觸發…",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791314820000",
@@ -720,24 +639,6 @@
       "source": "港台"
     },
     {
-      "id": "viu-99-1791316800000",
-      "channelId": "viu-99",
-      "title": "晚吹 - 男人亂講嘢｜我老婆走火入魔",
-      "start": "2026-10-06T20:00:00.000Z",
-      "end": "2026-10-06T20:25:00.000Z",
-      "description": "成為新手父母本係喜事，但巴打老婆似乎走火入魔？今集投稿講出初爲人父悲歌，老婆力臻完美想畀個仔更加多，成日比較驚個仔未踢先輸波，巴打湊細路同時要照顧老婆，主持們麻煩你哋落啲力呵。",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791318300000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-10-06T20:25:00.000Z",
-      "end": "2026-10-06T20:30:00.000Z",
-      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
-      "source": "ViuTV"
-    },
-    {
       "id": "hoy-78-1791318600000",
       "channelId": "hoy-78",
       "title": "有線新聞",
@@ -772,15 +673,6 @@
       "end": "2026-10-07T05:00:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1791318600000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-10-06T20:30:00.000Z",
-      "end": "2026-10-06T21:00:00.000Z",
-      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791320160000",
@@ -835,15 +727,6 @@
       "end": "2026-10-07T05:30:00+08:00",
       "description": "",
       "source": "港台"
-    },
-    {
-      "id": "viu-99-1791320400000",
-      "channelId": "viu-99",
-      "title": "掌心",
-      "start": "2026-10-06T21:00:00.000Z",
-      "end": "2026-10-06T22:00:00.000Z",
-      "description": "葉平安讓霓裳和陸丹心圍繞質庫行動，打探出質庫背後與東橋鹽倉和海宜平都有著千絲萬縷的關聯，葉平安再次懷疑上海宜平。",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791322020000",
@@ -1006,15 +889,6 @@
       "end": "2026-10-07T07:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791324000000",
-      "channelId": "viu-99",
-      "title": "早晨新聞",
-      "start": "2026-10-06T22:00:00.000Z",
-      "end": "2026-10-07T01:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-78-1791325800000",
@@ -1566,24 +1440,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791334800000",
-      "channelId": "viu-96",
-      "title": "Rosie's Rules S2",
-      "start": "2026-10-07T01:00:00.000Z",
-      "end": "2026-10-07T01:15:00.000Z",
-      "description": "The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791334800000",
-      "channelId": "viu-99",
-      "title": "識碳惜生活｜Upcycling - 木材升級再造",
-      "start": "2026-10-07T01:00:00.000Z",
-      "end": "2026-10-07T01:30:00.000Z",
-      "description": "被大自然吹倒的樹木，或被人類以不同原因砍伐的樹木，最終是否只有被遺棄的命運？今集讓我們一起欣賞如何將「美感設計＋環保再用」結合，讓木資源再生為社會帶來更大的價值。",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1791335340000",
       "channelId": "rthk-33",
       "title": "家業 6",
@@ -1600,15 +1456,6 @@
       "end": "2026-10-07T09:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791335700000",
-      "channelId": "viu-96",
-      "title": "Rosie's Rules S2",
-      "start": "2026-10-07T01:15:00.000Z",
-      "end": "2026-10-07T01:30:00.000Z",
-      "description": "The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791336420000",
@@ -1672,24 +1519,6 @@
       "end": "2026-10-07T09:50:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791336600000",
-      "channelId": "viu-96",
-      "title": "Silly Sundays",
-      "start": "2026-10-07T01:30:00.000Z",
-      "end": "2026-10-07T02:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791336600000",
-      "channelId": "viu-99",
-      "title": "交易時段",
-      "start": "2026-10-07T01:30:00.000Z",
-      "end": "2026-10-07T03:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1791337800000",
@@ -1827,15 +1656,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791338400000",
-      "channelId": "viu-96",
-      "title": "愛因斯坦大挑戰",
-      "start": "2026-10-07T02:00:00.000Z",
-      "end": "2026-10-07T02:25:00.000Z",
-      "description": "The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791338700000",
       "channelId": "rthk-32",
       "title": "議政四方",
@@ -1870,15 +1690,6 @@
       "end": "2026-10-07T11:40:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791339900000",
-      "channelId": "viu-96",
-      "title": "愛因斯坦大挑戰",
-      "start": "2026-10-07T02:25:00.000Z",
-      "end": "2026-10-07T02:45:00.000Z",
-      "description": "The world is complicated, and sometimes we need things explained to us like we're kids. In this new series, today's greatest minds will do just that! In each episode of Einstein Challenge, two world-class experts in science, history and engineering will compete to see who can best explain seriously complicated concepts, in 60-seconds or less...to a panel of kids.",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-76-1791340200000",
@@ -1951,15 +1762,6 @@
       "end": "2026-10-07T10:55:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791341100000",
-      "channelId": "viu-96",
-      "title": "荷里活娛樂快遞",
-      "start": "2026-10-07T02:45:00.000Z",
-      "end": "2026-10-07T03:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-84-1791341400000",
@@ -2088,24 +1890,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791342000000",
-      "channelId": "viu-96",
-      "title": "消失的古文明",
-      "start": "2026-10-07T03:00:00.000Z",
-      "end": "2026-10-07T04:00:00.000Z",
-      "description": "Vanished History is an enthralling documentary series that uses an investigative approach to unlock some of the most enigmatic mysteries of all time. From Cleopatra’s secret crypt and Genghis Khan’s long-lost tomb, to ghost ships, abandoned cities, and missing treasures, it’s a cutting-edge deep dive into the unknown.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791342000000",
-      "channelId": "viu-99",
-      "title": "智富通",
-      "start": "2026-10-07T03:00:00.000Z",
-      "end": "2026-10-07T03:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1791342120000",
       "channelId": "rthk-33",
       "title": "家業 7",
@@ -2203,15 +1987,6 @@
       "end": "2026-10-07T12:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791343800000",
-      "channelId": "viu-99",
-      "title": "不一樣的家人｜非一般的上契",
-      "start": "2026-10-07T03:30:00.000Z",
-      "end": "2026-10-07T04:00:00.000Z",
-      "description": "雖然Chiko與Alan情同家人，但一直未正式上契。今次，Chiko和阿朗特意策劃一場非一般的上契儀式，場面笑料百出又充滿温馨。這一場儀式雖然簡單，卻讓彼此的羈絆變得更加深厚。",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1791344400000",
@@ -2340,24 +2115,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791345600000",
-      "channelId": "viu-96",
-      "title": "世界羽聯巡迴賽 2026 中國大師賽｜男雙決賽",
-      "start": "2026-10-07T04:00:00.000Z",
-      "end": "2026-10-07T05:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791345600000",
-      "channelId": "viu-99",
-      "title": "午間新聞",
-      "start": "2026-10-07T04:00:00.000Z",
-      "end": "2026-10-07T04:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791346200000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -2439,15 +2196,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1791347400000",
-      "channelId": "viu-99",
-      "title": "CHILL CLUB 推介",
-      "start": "2026-10-07T04:30:00.000Z",
-      "end": "2026-10-07T04:55:00.000Z",
-      "description": "一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1791347520000",
       "channelId": "rthk-33",
       "title": "花開中國",
@@ -2500,15 +2248,6 @@
       "end": "2026-10-07T13:00:00+08:00",
       "description": "三位「星級」嘉賓黎耀祥、陳自瑤、張馳豪分別代表「樂齡族」、「夾心世代」與「年輕專業人士」，各人受訪細談處於現時的人生階段，對醫療保障的不同需要。究竟大家可如何做到「歲歲無憂」？",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791348900000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-10-07T04:55:00.000Z",
-      "end": "2026-10-07T05:00:00.000Z",
-      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-34-1791348960000",
@@ -2608,24 +2347,6 @@
       "end": "2026-10-07T13:35:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791349200000",
-      "channelId": "viu-96",
-      "title": "NHK Newsline",
-      "start": "2026-10-07T05:00:00.000Z",
-      "end": "2026-10-07T05:30:00.000Z",
-      "description": "NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791349200000",
-      "channelId": "viu-99",
-      "title": "給香港的情書 貳｜數碼藝術創作人 - Angus Chan",
-      "start": "2026-10-07T05:00:00.000Z",
-      "end": "2026-10-07T05:30:00.000Z",
-      "description": "Angus在商業廣告領域擁有超過十年的豐富經驗，自多倫多回港後，曾與騰訊、輝瑞、迪士尼及政府機構合作，設計數位通訊策略。近年，他嶄新嘗試將佛學理念結合數位藝術，透過不同的多媒體創作手法以平台「我佛慈Bass」推廣佛學，並不斷追尋創作的變化與平衡。他的熱誠在於將數碼創作視為無限制的表達方式，力求在商業與藝術間找到新的共鳴。",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1791349620000",
@@ -2763,24 +2484,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791351000000",
-      "channelId": "viu-96",
-      "title": "科茲窩星級廚房",
-      "start": "2026-10-07T05:30:00.000Z",
-      "end": "2026-10-07T06:00:00.000Z",
-      "description": "Prue whips up delicious food, welcomes guests, shares kitchen hacks and cooks alongside husband John. Prue celebrates UK food heroes and John explores local countryside crafts.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791351000000",
-      "channelId": "viu-99",
-      "title": "730 玩返轉｜首爾烘焙咖啡店｜巴黎開店與布達拉宮",
-      "start": "2026-10-07T05:30:00.000Z",
-      "end": "2026-10-07T06:00:00.000Z",
-      "description": "《730 玩返轉》Anton走訪首爾最近新開幕的烘焙咖啡店，品嚐新鮮出爐的麵包與手沖咖啡，感受韓式咖啡文化。隨後前往漢江欣賞彩虹噴泉，在夜色中享受浪漫氛圍。阿Luke分享在巴黎開店的過程與日常工作，細說花都餐飲業的挑戰與樂趣。Cindy前往西藏，在布達拉宮前打卡留念，感受世界屋脊的莊嚴與壯美。",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1791351180000",
       "channelId": "rthk-33",
       "title": "主角 30",
@@ -2905,24 +2608,6 @@
       "end": "2026-10-07T14:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791352800000",
-      "channelId": "viu-96",
-      "title": "Case File 96: Most Likely to Murder",
-      "start": "2026-10-07T06:00:00.000Z",
-      "end": "2026-10-07T07:00:00.000Z",
-      "description": "Chronicling the chilling true crime stories of implausible young killers hiding in plain sight, Most Likely to Murder takes viewers to American high schools and campuses, revealing that—from straight-A students to the star quarterback—the cold-blooded killer is the person you’d least suspect.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791352800000",
-      "channelId": "viu-99",
-      "title": "夜之花",
-      "start": "2026-10-07T06:00:00.000Z",
-      "end": "2026-10-07T07:00:00.000Z",
-      "description": "二人其後在朝上把左議政一直以來的罪行公諸於世，左議政得到應有的懲治後，二人的未來有了新的變化⋯",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1791353100000",
@@ -3150,24 +2835,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791356400000",
-      "channelId": "viu-96",
-      "title": "Al Jazeera News Live",
-      "start": "2026-10-07T07:00:00.000Z",
-      "end": "2026-10-07T07:30:00.000Z",
-      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791356400000",
-      "channelId": "viu-99",
-      "title": "交易時段",
-      "start": "2026-10-07T07:00:00.000Z",
-      "end": "2026-10-07T08:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-33-1791356760000",
       "channelId": "rthk-33",
       "title": "主角 32",
@@ -3247,15 +2914,6 @@
       "end": "2026-10-07T16:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791358200000",
-      "channelId": "viu-96",
-      "title": "探索塔斯之旅",
-      "start": "2026-10-07T07:30:00.000Z",
-      "end": "2026-10-07T08:00:00.000Z",
-      "description": "Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover the hidden gems to ensure that the very best stories are no longer \"Left Off The Map\".",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1791358500000",
@@ -3402,24 +3060,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791360000000",
-      "channelId": "viu-96",
-      "title": "DW News",
-      "start": "2026-10-07T08:00:00.000Z",
-      "end": "2026-10-07T08:30:00.000Z",
-      "description": "Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791360000000",
-      "channelId": "viu-99",
-      "title": "小獸醫維達｜爆谷怕怕 / 費琪的最愛",
-      "start": "2026-10-07T08:00:00.000Z",
-      "end": "2026-10-07T08:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-31-1791360300000",
       "channelId": "rthk-31",
       "title": "凝聚香港",
@@ -3546,24 +3186,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791361800000",
-      "channelId": "viu-96",
-      "title": "Rosie's Rules S2",
-      "start": "2026-10-07T08:30:00.000Z",
-      "end": "2026-10-07T08:45:00.000Z",
-      "description": "The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791361800000",
-      "channelId": "viu-99",
-      "title": "史諾比上太空｜第十任務 / 第11任務 / 第12任務",
-      "start": "2026-10-07T08:30:00.000Z",
-      "end": "2026-10-07T09:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791362400000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -3589,15 +3211,6 @@
       "end": "2026-10-07T17:10:00+08:00",
       "description": "改變身高的秘密",
       "source": "港台"
-    },
-    {
-      "id": "viu-96-1791362700000",
-      "channelId": "viu-96",
-      "title": "Rosie's Rules S2",
-      "start": "2026-10-07T08:45:00.000Z",
-      "end": "2026-10-07T09:00:00.000Z",
-      "description": "The beloved animated series is back with new episodes that continue to follow the adventures of Rosie Fuentes, a curious and hilarious 5-year-old Mexican-American girl who’s figuring out how the world works—one “Rosie’s Rule” at a time.",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1791363000000",
@@ -3697,24 +3310,6 @@
       "end": "2026-10-07T17:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791363600000",
-      "channelId": "viu-96",
-      "title": "Silly Sundays",
-      "start": "2026-10-07T09:00:00.000Z",
-      "end": "2026-10-07T09:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791363600000",
-      "channelId": "viu-99",
-      "title": "熊出沒之小小世界 2",
-      "start": "2026-10-07T09:00:00.000Z",
-      "end": "2026-10-07T09:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-31-1791364200000",
@@ -3870,24 +3465,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791365400000",
-      "channelId": "viu-96",
-      "title": "Klincus",
-      "start": "2026-10-07T09:30:00.000Z",
-      "end": "2026-10-07T10:00:00.000Z",
-      "description": "Klincus befriends the tiny inhabitants of the treetop village Frondosa in Bosco Grande forest. He protects them from industrialist Graylock's deforestation plans, discovering his abilities while learning life lessons.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791365400000",
-      "channelId": "viu-99",
-      "title": "雙線運動人生｜VX球運動員",
-      "start": "2026-10-07T09:30:00.000Z",
-      "end": "2026-10-07T10:00:00.000Z",
-      "description": "Karen，擁有社工與運動員的雙重身份，她用專業關懷別人，也用運動挑戰自我。Karen證明即使工作繁忙，依然能在球場上全力以赴，練習擊球、防守與團隊配合。VX球在香港屬新興小眾運動，結合速度、技巧與策略，講求反應與默契。Karen 多年來堅持訓練，積極參與賽事及推廣活動，以穩定表現與熱血態度為港爭光。",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791366000000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -4014,15 +3591,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1791367200000",
-      "channelId": "viu-99",
-      "title": "6點新聞報道 (手語新聞)",
-      "start": "2026-10-07T10:00:00.000Z",
-      "end": "2026-10-07T10:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791367800000",
       "channelId": "rthk-32",
       "title": "生活．健康．資訊",
@@ -4138,24 +3706,6 @@
       "end": "2026-10-07T19:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791369000000",
-      "channelId": "viu-96",
-      "title": "Nature Cat S4",
-      "start": "2026-10-07T10:30:00.000Z",
-      "end": "2026-10-07T11:00:00.000Z",
-      "description": "An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791369000000",
-      "channelId": "viu-99",
-      "title": "美女與純情男",
-      "start": "2026-10-07T10:30:00.000Z",
-      "end": "2026-10-07T11:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-32-1791369600000",
@@ -4275,24 +3825,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791370800000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-10-07T11:00:00.000Z",
-      "end": "2026-10-07T11:15:00.000Z",
-      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791370800000",
-      "channelId": "viu-99",
-      "title": "7點新聞報道",
-      "start": "2026-10-07T11:00:00.000Z",
-      "end": "2026-10-07T11:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-81-1791371700000",
       "channelId": "tvb-81",
       "title": "世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]",
@@ -4300,15 +3832,6 @@
       "end": "2026-10-07T19:25:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791371700000",
-      "channelId": "viu-96",
-      "title": "Isadora Moon",
-      "start": "2026-10-07T11:15:00.000Z",
-      "end": "2026-10-07T11:30:00.000Z",
-      "description": "",
-      "source": "ViuTV"
     },
     {
       "id": "tvb-81-1791372300000",
@@ -4390,24 +3913,6 @@
       "end": "2026-10-07T19:55:00+08:00",
       "description": "明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791372600000",
-      "channelId": "viu-96",
-      "title": "孖住傾 • 孖住煮",
-      "start": "2026-10-07T11:30:00.000Z",
-      "end": "2026-10-07T12:00:00.000Z",
-      "description": "Kate Alexander Daniels turns one meal into many—fresh, easy and delicious dishes!",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791372600000",
-      "channelId": "viu-99",
-      "title": "730 玩返轉｜曼谷沙吞區新地標｜西藏4A景區",
-      "start": "2026-10-07T11:30:00.000Z",
-      "end": "2026-10-07T12:00:00.000Z",
-      "description": "《730 玩返轉》Chris前往曼谷沙吞區，參觀一個極度震撼的國家級新地標，感受泰國首都的發展活力。阿Luke分享曾經到南法學廚的經驗，並比較南法人與巴黎人的不同文化特質。Cindy前往一個海拔較低的西藏城市，遊覽當地國家級4A景區，欣賞高原上的秀麗風光。",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1791372900000",
@@ -4554,24 +4059,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791374400000",
-      "channelId": "viu-96",
-      "title": "拼字王爭霸",
-      "start": "2026-10-07T12:00:00.000Z",
-      "end": "2026-10-07T13:00:00.000Z",
-      "description": "",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791374400000",
-      "channelId": "viu-99",
-      "title": "煮題研習社｜惜飲惜食－香蔥芝士醬雞胸貝果/芝士鬆餅",
-      "start": "2026-10-07T12:00:00.000Z",
-      "end": "2026-10-07T12:30:00.000Z",
-      "description": "巴馬臣芝士、水牛芝士、忌廉芝士...係軟芝士定硬芝士？種類繁多，確實充滿學問。作為芝士百科全書的Andy，就算屋企剩好多都唔怕，一於踩入烘焙界「挑戰」Baker Ranya！二人同心，無論係貝果定鬆餅都繼續惜食！",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-83-1791374700000",
       "channelId": "tvb-83",
       "title": "無綫8點一小時新聞",
@@ -4698,15 +4185,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-99-1791376200000",
-      "channelId": "viu-99",
-      "title": "直樂VIURIETY 邊個瞓梳化？｜嘉賓: 梁愷傑 (李綺雯丈夫)、李綺雯",
-      "start": "2026-10-07T12:30:00.000Z",
-      "end": "2026-10-07T13:30:00.000Z",
-      "description": "今集《邊個瞓梳化？》請來李綺雯與丈夫 Ocean。二人剛於五月結婚，身份除了是新婚夫婦，更是合作無間的生意夥伴，攜手經營健身室。他們的默契能否經得起節目考驗？節目尾聲的「家庭大審判」環節中，Ocean 更會親自上陣控告綺雯兩條罪名。",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-83-1791377400000",
       "channelId": "tvb-83",
       "title": "立橋人壽特約: 天氣報告 及 新鴻基信貸特約: 港樓 . 講樓",
@@ -4806,15 +4284,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791378000000",
-      "channelId": "viu-96",
-      "title": "地球災難誌｜Volcano",
-      "start": "2026-10-07T13:00:00.000Z",
-      "end": "2026-10-07T14:00:00.000Z",
-      "description": "Violent Earth with Liev Schreiber explores the unbelievable science behind epic natural disasters. Featuring incredible footage and interviews with scientists, storm chasers, and survivors, this series examines our changing climate.",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-31-1791379500000",
       "channelId": "rthk-31",
       "title": "政正關你事",
@@ -4903,15 +4372,6 @@
       "end": "2026-10-08T00:30:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791379800000",
-      "channelId": "viu-99",
-      "title": "地獄大狀｜蔭蔭的計劃",
-      "start": "2026-10-07T13:30:00.000Z",
-      "end": "2026-10-07T14:30:00.000Z",
-      "description": "蔭蔭想到辦法證明石松的遺願，同時再度遇上追殺她的兇手…",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1791380580000",
@@ -5049,15 +4509,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791381600000",
-      "channelId": "viu-96",
-      "title": "20/20時事雜誌｜Driven to Death (Part.1)",
-      "start": "2026-10-07T14:00:00.000Z",
-      "end": "2026-10-07T15:00:00.000Z",
-      "description": "ABC News' acclaimed series \"20/20\" has distinguished itself as one of the most esteemed news programs in broadcast journalism. Amid the heated, competitive environment of primetime entertainment, \"20/20\" has demonstrated its ability to consistently attract a significant segment of the viewing audience by offering viewers more choices and more chances to learn about the world around them.",
-      "source": "ViuTV"
-    },
-    {
       "id": "rthk-32-1791381900000",
       "channelId": "rthk-32",
       "title": "凝聚香港",
@@ -5128,15 +4579,6 @@
       "end": "2026-10-07T22:40:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791383400000",
-      "channelId": "viu-99",
-      "title": "沿路幫緊你｜阿霞的心結",
-      "start": "2026-10-07T14:30:00.000Z",
-      "end": "2026-10-07T15:00:00.000Z",
-      "description": "本集Shirley接獲特別委託，主角是因出演網上頻道影片而為人熟知的女演員阿霞。之前 曾為特約演員的阿霞，內心一直希望自己的演員工作能獲得父母的認同與理解，因而向節目組求助！為了完成委托，Shirley 拜訪網上頻道認識阿霞背後的重要團隊趙羅尼、王雍泰及戴妙珊，並以拍攝「寵物節目」為名，邀請阿霞的父母與愛犬上鏡套料！為了幫阿霞打開與父母之間的心結，節目組除了邀請到「雞Sir」邱頌偉，透過戲劇練習引導阿霞放鬆自我、吐露心聲。亦邀來大廚東正師傅指導阿霞親自下廚，究竟阿霞能否將心情傳遞給父母，融化長久以來的隔閡呢！？",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1791383520000",
@@ -5229,24 +4671,6 @@
       "source": "TVB"
     },
     {
-      "id": "viu-96-1791385200000",
-      "channelId": "viu-96",
-      "title": "ViuTV News",
-      "start": "2026-10-07T15:00:00.000Z",
-      "end": "2026-10-07T15:15:00.000Z",
-      "description": "Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791385200000",
-      "channelId": "viu-99",
-      "title": "晚吹 - 空肚講宵夜｜咖喱",
-      "start": "2026-10-07T15:00:00.000Z",
-      "end": "2026-10-07T15:30:00.000Z",
-      "description": "因咩事阿祖終於覺得同BabyJohn搵到共同點？Hailey分享爸爸秘製咖喱，食到阿祖同BabyJohn叫好連連？想知更多咖喱見聞，記得留意今集內容！",
-      "source": "ViuTV"
-    },
-    {
       "id": "tvb-82-1791385500000",
       "channelId": "tvb-82",
       "title": "家簡塵除2[粵/普]",
@@ -5272,15 +4696,6 @@
       "end": "2026-10-07T23:45:00+08:00",
       "description": "報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。",
       "source": "TVB"
-    },
-    {
-      "id": "viu-96-1791386100000",
-      "channelId": "viu-96",
-      "title": "America's Got Talent S19",
-      "start": "2026-10-07T15:15:00.000Z",
-      "end": "2026-10-07T16:55:00.000Z",
-      "description": "A talent competition where an array of performers -- from singers and dancers, to comedians and novelty acts -- vie for a $1 million cash prize.",
-      "source": "ViuTV"
     },
     {
       "id": "rthk-33-1791386340000",
@@ -5371,24 +4786,6 @@
       "end": "2026-10-08T00:00:00+08:00",
       "description": "",
       "source": "TVB"
-    },
-    {
-      "id": "viu-99-1791387000000",
-      "channelId": "viu-99",
-      "title": "3 分鐘熱度",
-      "start": "2026-10-07T15:30:00.000Z",
-      "end": "2026-10-07T15:35:00.000Z",
-      "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
-      "source": "ViuTV"
-    },
-    {
-      "id": "viu-99-1791387300000",
-      "channelId": "viu-99",
-      "title": "日本第一的爛男人-我的假家人們",
-      "start": "2026-10-07T15:35:00.000Z",
-      "end": "2026-10-07T16:30:00.000Z",
-      "description": "正助意識到一平正在利用他們的同居關係來競選。正助震驚地宣布他將盡快搬出一平家，但他希望他能留下來直到向陽的生日…",
-      "source": "ViuTV"
     },
     {
       "id": "hoy-77-1791387900000",

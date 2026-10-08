@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-07T21:20:56.350Z",
+  "updatedAt": "2026-10-08T06:12:16.092Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3541,7 +3541,7 @@
       "channelId": "viu-99",
       "title": "爆旋陀螺X 第3季｜第四關...dayu～",
       "start": "2026-10-11T08:30:00.000Z",
-      "end": "2026-10-11T09:30:00.000Z",
+      "end": "2026-10-11T09:00:00.000Z",
       "description": "",
       "source": "ViuTV"
     },
@@ -3660,6 +3660,15 @@
       "start": "2026-10-11T09:00:00.000Z",
       "end": "2026-10-11T09:30:00.000Z",
       "description": "The Game Catchers are a team of five friends on an interstellar journey to explore fantastic planets, with the aim of learning about and playing new games. The discovered games are collected into a database to make sure they are never lost.",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1791709200000",
+      "channelId": "viu-99",
+      "title": "機甲猛鬥2",
+      "start": "2026-10-11T09:00:00.000Z",
+      "end": "2026-10-11T09:30:00.000Z",
+      "description": "",
       "source": "ViuTV"
     },
     {
@@ -4421,7 +4430,7 @@
     {
       "id": "rthk-33-1791720480000",
       "channelId": "rthk-33",
-      "title": "電視劇",
+      "title": "偉大的長征 5",
       "start": "2026-10-11T20:08:00+08:00",
       "end": "2026-10-11T20:54:00+08:00",
       "description": "",
@@ -4556,7 +4565,7 @@
     {
       "id": "rthk-33-1791723240000",
       "channelId": "rthk-33",
-      "title": "電視劇",
+      "title": "偉大的長征 6",
       "start": "2026-10-11T20:54:00+08:00",
       "end": "2026-10-11T21:43:00+08:00",
       "description": "",
