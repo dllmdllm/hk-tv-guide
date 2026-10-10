@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-09T20:58:05.085Z",
+  "updatedAt": "2026-10-10T05:59:07.585Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -5463,6 +5463,15 @@
       "source": "TVB"
     },
     {
+      "id": "viu-96-1792163700000",
+      "channelId": "viu-96",
+      "title": "The Girl on the Milk Carton",
+      "start": "2026-10-16T15:15:00.000Z",
+      "end": "2026-10-16T16:10:00.000Z",
+      "description": "Five days before Christmas 1984, 12-year-old Jonelle Matthews went missing from her own living room in the small town of Greeley, Colo. In an attempt to find her, Jonelle was given the tragic distinction as one of the first missing children whose face appeared on a milk carton. Sadly, the publicity did not bring her home. Nearly 35 years after her disappearance, her remains were found more than 20 miles away from her home. In a bizarre twist, a true-crime fanatic and gubernatorial candidate who obsessed with Jonelle’s disappearance for three decades, became the main suspect. Master manipulator and aspiring politician Steve Pankey had inserted himself into this case by volunteering details about Jonelle’s murder, but only in exchange for a deal. Pankey’s ex-wife, a key witness in the case against him, bravely comes forward to exclusively share her experience of living with a deluded fantasist and sadistic murderer and reveals the crucial evidence that led to his prosecution.",
+      "source": "ViuTV"
+    },
+    {
       "id": "rthk-34-1792164420000",
       "channelId": "rthk-34",
       "title": "頻道導視(英)",
@@ -5550,6 +5559,15 @@
       "start": "2026-10-16T15:30:00.000Z",
       "end": "2026-10-16T15:35:00.000Z",
       "description": "娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。",
+      "source": "ViuTV"
+    },
+    {
+      "id": "viu-99-1792164900000",
+      "channelId": "viu-99",
+      "title": "幸福的婚姻",
+      "start": "2026-10-16T15:35:00.000Z",
+      "end": "2026-10-16T16:30:00.000Z",
+      "description": "人氣律師原田幸太郎與妻子鈴木涅盧拉開始了突如其來的婚姻生活。然而，有一天，刑警黑川突然出現，告訴他將重新調查15年前涅盧拉的前未婚夫的死亡案件。突如其來的消息讓幸太郎大吃一驚，涅盧拉竟然隱瞞如此嚴重的過去，這讓他深感震驚。幸太郎徹夜難眠，一方面是身為丈夫的恐懼，另一方面是身為律師的他不該對真相視而不見…",
       "source": "ViuTV"
     },
     {
