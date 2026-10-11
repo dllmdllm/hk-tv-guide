@@ -40,3 +40,11 @@ Issues found and fixed:
 - P2: wide desktop screens showed too many channels at once. Desktop channel width now fits four channels beside the time axis.
 
 Final result: passed.
+
+## 2026-10-11 content-sized programme update
+
+The older checks above describe historical layouts. Current delta measures a shared ProgrammeContent component for all cards, including five-minute/no-description items; each has a minimum 48px touch height. ResizeObserver watches intrinsic content and font loading. A shared piecewise timeline maps cards, ticks, now-line and scroll targets. Real source overlaps use separate lanes without changing programme labels.
+
+Automated geometry checks cover one/five/fifteen-minute items, simulated long-title/preview intrinsic heights at narrow widths and large fonts, shared-axis alignment, midnight clips, source overlap lanes, minimum targets, channel 81 and arbitrary channel selection, duplicate-slot swaps, latest-request guards and the browser-visible viewport intersection. They do not prove actual text wrapping or touch interaction.
+
+No Mac browser surface is available for local visual QA. Parent cloud QA of the published predecessor independently found blank 12.5px five-minute cards and a jump target at y=696 on a 1165×757 desktop viewport. Responsive CSS at 666px was checked by ordinary browser zoom, not genuine mobile emulation. Actual visual inspection of this change remains pending; publication is tracked in GitHub PR and workflow history.

@@ -3,7 +3,8 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { CalendarBlank, CaretLeft, CaretRight, Clock, MagnifyingGlass } from "@phosphor-icons/react";
 
-import { createLatestRequest, initialChannels, liveProgramme } from "../lib/client.mjs";
+import { createChannelLanes, createTimelineLayout, programmeScrollTop } from "../lib/timeline.mjs";
+import { createLatestRequest, initialChannels, liveProgramme, selectChannelSlot } from "../lib/client.mjs";
 
 type Channel = {
   id: string;
@@ -46,13 +47,10 @@ const fallbackChannels: Channel[] = [
   { id: "viu-99", number: 99, name: "ViuTV", operator: "ViuTV", accent: "#ffd84d", sourceUrl: "https://viu.tv/epg" },
 ];
 
-const PX_PER_MINUTE = 2.5;
 const hourMarks = Array.from({ length: 25 }, (_, hour) => hour);
 const halfHourMarks = Array.from({ length: 48 }, (_, halfHour) => halfHour);
 const priorityChannelIds = ["rthk-31", "hoy-77", "tvb-81", "viu-99"];
 
-type TimelinePosition = { top: number; height: number };
-type TimelineSegment = { start: number; end: number; top: number; scale: number };
 
 function hktDate(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
@@ -80,6 +78,15 @@ function programmeMeta(programme: Programme) {
   return `${time(programme.start)}-${time(programme.end)} (${duration(programme.start, programme.end)}分鐘)`;
 }
 
+function ProgrammeContent({ programme, live = false }: { programme: Programme; live?: boolean }) {
+  return <div className="programme-content">
+    <span className="programme-slot">{programmeMeta(programme)}</span>
+    <strong>{programme.title}</strong>
+    {programme.description && <small>{programme.description}</small>}
+    <span className="programme-live-status">{live ? "播放中" : ""}</span>
+  </div>;
+}
+
 function channelLogo(channel: Channel) {
   if (channel.operator === "港台") return { brand: "RTHK", tone: "rthk" };
   if (channel.operator === "HOY") return { brand: "HOY", tone: "hoy" };
@@ -95,72 +102,6 @@ function isPast(programme: Programme, selectedDate: string, now: number) {
   return selectedDate === hktDate() && new Date(programme.end).getTime() <= now;
 }
 
-function programmeSpan(programme: Programme, selectedDate: string) {
-  const dayStart = new Date(`${selectedDate}T00:00:00+08:00`).getTime();
-  const dayEnd = dayStart + 24 * 60 * 60 * 1000;
-  const start = Math.min(dayEnd, Math.max(dayStart, new Date(programme.start).getTime()));
-  const end = Math.min(dayEnd, Math.max(dayStart, new Date(programme.end).getTime()));
-  const startMinute = (start - dayStart) / 60000;
-  const endMinute = (end - dayStart) / 60000;
-  return {
-    startMinute,
-    endMinute,
-    height: Math.max(2, (endMinute - startMinute) * PX_PER_MINUTE),
-  };
-}
-
-function createTimelineLayout(programmes: Programme[], selectedDate: string, measuredHeights: Record<string, number>) {
-  const spans = programmes.map((programme) => {
-    const span = programmeSpan(programme, selectedDate);
-    return {
-      id: programme.id,
-      start: span.startMinute,
-      end: span.endMinute,
-      scale: Math.max(1, (measuredHeights[programme.id] ?? 0) / span.height),
-    };
-  }).filter((span) => span.end > span.start);
-
-  const boundaries = new Set<number>([0, 24 * 60]);
-  for (let minute = 30; minute < 24 * 60; minute += 30) boundaries.add(minute);
-  spans.forEach((span) => {
-    boundaries.add(span.start);
-    boundaries.add(span.end);
-  });
-
-  const points = [...boundaries].sort((a, b) => a - b);
-  const segments: TimelineSegment[] = [];
-  let height = 0;
-  for (let index = 0; index < points.length - 1; index += 1) {
-    const start = points[index];
-    const end = points[index + 1];
-    const scale = spans.reduce((largest, span) => span.start < end && span.end > start ? Math.max(largest, span.scale) : largest, 1);
-    segments.push({ start, end, top: height, scale });
-    height += (end - start) * PX_PER_MINUTE * scale;
-  }
-
-  const minuteToY = (minute: number) => {
-    const clamped = Math.min(24 * 60, Math.max(0, minute));
-    if (clamped === 24 * 60) return height;
-    let low = 0;
-    let high = segments.length - 1;
-    while (low < high) {
-      const middle = Math.floor((low + high) / 2);
-      if (clamped <= segments[middle].end) high = middle;
-      else low = middle + 1;
-    }
-    const segment = segments[low];
-    return segment.top + (clamped - segment.start) * PX_PER_MINUTE * segment.scale;
-  };
-
-  const positions = new Map<string, TimelinePosition>();
-  spans.forEach((span) => {
-    const top = minuteToY(span.start);
-    positions.set(span.id, { top, height: minuteToY(span.end) - top });
-  });
-
-  return { height, positions, minuteToY };
-}
-
 export function TvGuide() {
   const [index, setIndex] = useState<ScheduleIndex | null>(null);
   const [selectedDate, setSelectedDate] = useState(hktDate());
@@ -172,11 +113,22 @@ export function TvGuide() {
   const [selectedChannelIds, setSelectedChannelIds] = useState(priorityChannelIds);
   const [measuredHeights, setMeasuredHeights] = useState<Record<string, number>>({});
   const gridRef = useRef<HTMLDivElement>(null);
-  const didAutoScroll = useRef("");
+  const completedJump = useRef("");
+  const jumpAnchor = useRef("");
+  const lastJumpTimeline = useRef<ReturnType<typeof createTimelineLayout> | null>(null);
+  const [jumpTargetId, setJumpTargetId] = useState("");
+  const [jumpSequence, setJumpSequence] = useState(0);
+  const [fontsReady, setFontsReady] = useState(false);
   const userSelectedChannel = useRef(false);
   const request = useRef(createLatestRequest());
   const [retry, setRetry] = useState(0);
   const [indexError, setIndexError] = useState("");
+
+  useEffect(() => {
+    let active = true;
+    void document.fonts.ready.then(() => { if (active) setFontsReady(true); });
+    return () => { active = false; };
+  }, []);
 
   useEffect(() => {
     const update = () => setNow(Date.now());
@@ -204,8 +156,7 @@ export function TvGuide() {
         if (controller.signal.aborted) return;
         setIndex(value);
         setIndexError("");
-        const today = hktDate();
-        setSelectedDate(current => value.dates.includes(current) ? current : value.dates.includes(today) ? today : value.dates.at(-1) ?? today);
+
       })
       .catch(() => { if (!controller.signal.aborted) setIndexError("日期索引未能載入，請重試。"); });
     return () => controller.abort();
@@ -256,7 +207,7 @@ export function TvGuide() {
   const displayChannels = useMemo(() => {
     const selected: Channel[] = [];
     const used = new Set<string>();
-    selectedChannelIds.slice(0, columnCount).forEach((channelId) => {
+    (columnCount === 1 && jumpTargetId ? [jumpTargetId] : selectedChannelIds.slice(0, columnCount)).forEach((channelId) => {
       const channel = availableChannels.find((item) => item.id === channelId);
       if (channel && !used.has(channel.id)) {
         selected.push(channel);
@@ -269,25 +220,21 @@ export function TvGuide() {
       used.add(channel.id);
     });
     return selected;
-  }, [availableChannels, columnCount, selectedChannelIds]);
+  }, [availableChannels, columnCount, jumpTargetId, selectedChannelIds]);
 
   const activeChannelIds = useMemo(() => displayChannels.map((channel) => channel.id), [displayChannels]);
   const handleChannelSlotChange = useCallback((slot: number, channelId: string) => {
     userSelectedChannel.current = true;
-    setSelectedChannelIds((current) => {
-      const next = [...current];
-      const duplicateSlot = next.findIndex((id, index) => id === channelId && index !== slot);
-      if (duplicateSlot >= 0) next[duplicateSlot] = next[slot] ?? "";
-      next[slot] = channelId;
-      return next;
-    });
+    setJumpTargetId(channelId);
+    setJumpSequence(sequence => sequence + 1);
+    setSelectedDate(hktDate());
+    setSelectedChannelIds(current => selectChannelSlot(current, slot, channelId));
   }, []);
 
   const layoutProgrammesByChannel = useMemo(() => {
-    return new Map(displayChannels.map((channel) => [channel.id, (schedule?.programmes ?? [])
-      .filter((programme) => programme.channelId === channel.id)
-      .sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime())]));
-  }, [displayChannels, schedule]);
+    return new Map(displayChannels.map((channel) => [channel.id, createChannelLanes((schedule?.programmes ?? [])
+      .filter((programme) => programme.channelId === channel.id), selectedDate)]));
+  }, [displayChannels, schedule, selectedDate]);
 
   const programmesByChannel = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase("zh-HK");
@@ -318,7 +265,12 @@ export function TvGuide() {
     measureProgrammeCards();
     const observer = new ResizeObserver(measureProgrammeCards);
     observer.observe(viewport);
-    return () => observer.disconnect();
+    viewport.querySelectorAll<HTMLElement>("[data-programme-measure]").forEach(element => observer.observe(element));
+    let active = true;
+    const onFontsLoaded = () => { if (active) measureProgrammeCards(); };
+    void document.fonts.ready.then(onFontsLoaded);
+    document.fonts.addEventListener("loadingdone", onFontsLoaded);
+    return () => { active = false; observer.disconnect(); document.fonts.removeEventListener("loadingdone", onFontsLoaded); };
   }, [activeChannelIds, columnCount, layoutProgrammesByChannel, schedule?.date]);
 
   const allVisibleProgrammes = useMemo(() => Array.from(programmesByChannel.values()).flat(), [programmesByChannel]);
@@ -327,32 +279,52 @@ export function TvGuide() {
     ? (new Date(now).toLocaleString("en-US", { timeZone: "Asia/Hong_Kong", hour12: false, hour: "2-digit", minute: "2-digit" }).split(":").map(Number).reduce((hours, minutes) => hours * 60 + minutes))
     : null;
 
+  const targetChannelId = jumpTargetId || displayChannels[0]?.id;
+  const jumpKey = `${selectedDate}:${targetChannelId}:${jumpSequence}`;
+  const cancelJumpAnchor = () => { jumpAnchor.current = ""; completedJump.current = jumpKey; };
   const scrollToNow = useCallback((smooth = true) => {
-    if (!gridRef.current) return;
-    if (selectedDate !== hktDate() || !now) return false;
-    const current = liveProgramme(layoutProgrammesByChannel.get(displayChannels[0]?.id) ?? [], now);
+    const viewport = gridRef.current;
+    if (!viewport || selectedDate !== hktDate() || schedule?.date !== selectedDate || !now) return false;
+    const current = liveProgramme(layoutProgrammesByChannel.get(targetChannelId) ?? [], now);
     if (!current) return false;
-    const targetMinutes = programmeSpan(current, selectedDate).startMinute;
-    const headerHeight = Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--header-height")) || 0;
-    const targetTop = headerHeight + timeline.minuteToY(targetMinutes) - (gridRef.current.clientHeight / 2);
-    const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
-    gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
+    const position = timeline.positions.get(current.id);
+    if (!position) return false;
+    const headerHeight = Number.parseFloat(window.getComputedStyle(viewport).getPropertyValue("--header-height")) || 0;
+    const windowTop = window.visualViewport?.offsetTop ?? 0;
+    const windowBottom = windowTop + (window.visualViewport?.height ?? window.innerHeight);
+    let bounds = viewport.getBoundingClientRect();
+    if (bounds.bottom <= windowTop || bounds.top + headerHeight >= windowBottom) {
+      viewport.scrollIntoView({ block: "start", behavior: "auto" });
+      bounds = viewport.getBoundingClientRect();
+    }
+    viewport.scrollTo({ top: programmeScrollTop(position, headerHeight, viewport.clientHeight, viewport.scrollHeight - viewport.clientHeight, Math.max(0, windowTop - bounds.top), Math.min(viewport.clientHeight, windowBottom - bounds.top)), behavior: smooth ? "smooth" : "auto" });
+    jumpAnchor.current = jumpKey;
+    completedJump.current = jumpKey;
+    lastJumpTimeline.current = timeline;
     return true;
-  }, [displayChannels, layoutProgrammesByChannel, now, selectedDate, timeline]);
+  }, [jumpKey, layoutProgrammesByChannel, now, schedule?.date, selectedDate, targetChannelId, timeline]);
 
   useEffect(() => {
-    if (!loading && schedule?.date === selectedDate && didAutoScroll.current !== selectedDate) {
-      const frame = window.requestAnimationFrame(() => { if (scrollToNow(false)) didAutoScroll.current = selectedDate; });
-      return () => window.cancelAnimationFrame(frame);
-    }
-  }, [loading, schedule?.date, scrollToNow, selectedDate]);
+    const key = jumpKey;
+    if (loading || schedule?.date !== selectedDate || !fontsReady || !timelineProgrammes.every(programme => measuredHeights[programme.id] !== undefined)) return;
+    if (completedJump.current === key && (jumpAnchor.current !== key || lastJumpTimeline.current === timeline)) return;
+    // Wait two frames after intrinsic measurements; reflow or another selection cancels this target.
+    let secondFrame = 0;
+    const firstFrame = window.requestAnimationFrame(() => {
+      secondFrame = window.requestAnimationFrame(() => {
+        if (completedJump.current === key && jumpAnchor.current !== key) return;
+        if (!scrollToNow(false)) { completedJump.current = key; jumpAnchor.current = ""; }
+      });
+    });
+    return () => { window.cancelAnimationFrame(firstFrame); window.cancelAnimationFrame(secondFrame); };
+  }, [fontsReady, jumpKey, loading, measuredHeights, schedule?.date, scrollToNow, selectedDate, timeline, timelineProgrammes]);
 
   const sourceWarnings = Object.entries(schedule?.sourceStatus ?? {}).filter(([, status]) => {
     if (typeof status === "boolean") return true;
     return !status.complete || !!status.error || (selectedDate === hktDate() && !status.refreshed) || Object.values(status.channels).some(channel => !channel.lastSuccessAt || (selectedDate === hktDate() && now - Date.parse(channel.lastSuccessAt) > 6 * 3600000));
   }).map(([source]) => source);
   const unknownFreshness = schedule && !schedule.sourceStatus;
-  const hasCurrent = selectedDate === hktDate() && !!liveProgramme(layoutProgrammesByChannel.get(displayChannels[0]?.id) ?? [], now);
+  const hasCurrent = selectedDate === hktDate() && !!liveProgramme(layoutProgrammesByChannel.get(targetChannelId) ?? [], now);
 
   return (
     <main className="site-shell">
@@ -394,7 +366,7 @@ export function TvGuide() {
         {!loading && !error && (
           <>
             {(sourceWarnings.length > 0 || unknownFreshness) && <p className="data-warning" role="status">{unknownFreshness ? "資料來源更新狀態未確認。" : `${sourceWarnings.join("、")}：部分時段資料缺漏、更新失敗、過期或來源更新時間未確認。`} 空白時段不代表停播，請查看官方節目表。</p>}
-            {!hasCurrent && <p className="data-warning">所選日期／第一欄頻道未有正在播放節目。</p>}
+            {!hasCurrent && <p className="data-warning">{availableChannels.find(channel => channel.id === targetChannelId)?.name ?? "所選頻道"}：所選日期未有正在播放節目資料，保留目前位置。</p>}
             <div className="channel-pickers" aria-label="選擇顯示電視台" style={{ "--channel-count": Math.max(displayChannels.length, 1) } as React.CSSProperties}>
               {Array.from({ length: Math.min(columnCount, Math.max(availableChannels.length, 1)) }, (_, slot) => {
                 const selectedId = displayChannels[slot]?.id ?? availableChannels[slot]?.id ?? "";
@@ -403,7 +375,7 @@ export function TvGuide() {
                     <span>第 {slot + 1} 欄</span>
                     <select value={selectedId} onChange={(event) => handleChannelSlotChange(slot, event.target.value)}>
                       {availableChannels.map((channel) => (
-                        <option key={channel.id} value={channel.id} disabled={activeChannelIds.includes(channel.id) && channel.id !== selectedId}>
+                        <option key={channel.id} value={channel.id}>
                           {channel.number} · {channel.name}
                         </option>
                       ))}
@@ -412,7 +384,8 @@ export function TvGuide() {
                 );
               })}
             </div>
-            <div className="epg-viewport" ref={gridRef}>
+            <p className="timeline-note">節目按文字內容展開；同一橫線代表同一時間。來源時間重疊時並排顯示。</p>
+            <div className="epg-viewport" ref={gridRef} onWheel={cancelJumpAnchor} onTouchStart={cancelJumpAnchor} onPointerDown={cancelJumpAnchor} onKeyDown={(event) => { if (["ArrowUp", "ArrowDown", "PageUp", "PageDown", "Home", "End", " "].includes(event.key)) cancelJumpAnchor(); }}>
               <div className="epg-canvas" style={{ "--channel-count": Math.max(displayChannels.length, 1) } as React.CSSProperties}>
                 <div className="epg-corner">時間</div>
                 <div className="channel-headers">
@@ -440,25 +413,17 @@ export function TvGuide() {
                         if (!position) return null;
                         const live = isLive(programme, selectedDate, now);
                         const past = isPast(programme, selectedDate, now);
-                        const compact = position.height < 46;
-                        const micro = position.height < 18;
                         return (
-                          <a className={`programme-block${live ? " live" : ""}${past ? " past" : ""}${compact ? " compact" : ""}${micro ? " micro" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, "--block-height": `${position.height}px`, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
-                            {!micro && <><span className="programme-slot">{programmeMeta(programme)}</span><strong>{programme.title}</strong></>}
-                            {!compact && programme.description && <small>{programme.description}</small>}
-                            {live && !micro && <b>播放中</b>}
+                          <a className={`programme-block${live ? " live" : ""}${past ? " past" : ""}`} href={channel.sourceUrl} target="_blank" rel="noreferrer" key={programme.id} style={{ top: position.top, height: position.height, left: `calc(${100 * programme.lane / programme.laneCount}% + 3px)`, right: `calc(${100 * (programme.laneCount - programme.lane - 1) / programme.laneCount}% + 3px)`, "--block-height": `${position.height}px`, "--accent": channel.accent } as React.CSSProperties} title={`${programmeMeta(programme)} ${programme.title}${programme.description ? ` · ${programme.description}` : ""}`}>
+                            <ProgrammeContent programme={programme} live={live} />
                           </a>
                         );
                       })}
                       <div className="programme-measure-layer" aria-hidden="true">
                         {(layoutProgrammesByChannel.get(channel.id) ?? []).map((programme) => {
-                          const span = programmeSpan(programme, selectedDate);
-                          if (span.height < 18 && !programme.description) return null;
                           return (
-                            <div className="programme-measure" data-programme-measure={programme.id} key={programme.id} style={{ "--accent": channel.accent } as React.CSSProperties}>
-                              <span className="programme-slot">{programmeMeta(programme)}</span>
-                              <strong>{programme.title}</strong>
-                              {programme.description && <small>{programme.description}</small>}
+                            <div className="programme-measure" data-programme-measure={programme.id} key={programme.id} style={{ left: `calc(${100 * programme.lane / programme.laneCount}% + 3px)`, right: `calc(${100 * (programme.laneCount - programme.lane - 1) / programme.laneCount}% + 3px)`, "--accent": channel.accent } as React.CSSProperties}>
+                              <ProgrammeContent programme={programme} />
                             </div>
                           );
                         })}
