@@ -31,17 +31,14 @@ jobs:
       - run: npm ci
       - name: Refresh TV schedules
         run: npm run fetch-data
+      - run: npm test
       - name: Save new schedule archives
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
           git diff --cached --quiet || git commit -m "data: refresh TV schedules"
-          git pull --rebase origin main
           git push
-      - run: npm test
-      - name: Build static site
-        run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

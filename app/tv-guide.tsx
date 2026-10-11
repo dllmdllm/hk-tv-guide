@@ -3,6 +3,8 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { CalendarBlank, CaretLeft, CaretRight, Clock, MagnifyingGlass } from "@phosphor-icons/react";
 
+import { createLatestRequest, initialChannels, liveProgramme } from "../lib/client.mjs";
+
 type Channel = {
   id: string;
   number: number;
@@ -20,6 +22,7 @@ type Programme = {
   end: string;
   description?: string;
   source: string;
+  endEstimated?: boolean;
 };
 
 type DaySchedule = {
@@ -27,6 +30,7 @@ type DaySchedule = {
   updatedAt: string;
   channels: Channel[];
   programmes: Programme[];
+  sourceStatus?: Record<string, boolean | { complete: boolean; refreshed: boolean; error: string | null; channels: Record<string, { lastSuccessAt: string | null }> }>;
 };
 
 type ScheduleIndex = { updatedAt: string; dates: string[] };
@@ -169,6 +173,10 @@ export function TvGuide() {
   const [measuredHeights, setMeasuredHeights] = useState<Record<string, number>>({});
   const gridRef = useRef<HTMLDivElement>(null);
   const didAutoScroll = useRef("");
+  const userSelectedChannel = useRef(false);
+  const request = useRef(createLatestRequest());
+  const [retry, setRetry] = useState(0);
+  const [indexError, setIndexError] = useState("");
 
   useEffect(() => {
     const update = () => setNow(Date.now());
@@ -179,29 +187,46 @@ export function TvGuide() {
 
   useEffect(() => {
     const query = window.matchMedia("(max-width: 700px)");
-    const updateColumnCount = () => setColumnCount(query.matches ? 1 : 4);
+    const updateColumnCount = () => {
+      setColumnCount(query.matches ? 1 : 4);
+      if (!userSelectedChannel.current && query.matches) setSelectedChannelIds(current => initialChannels(true, current));
+    };
     updateColumnCount();
     query.addEventListener("change", updateColumnCount);
     return () => query.removeEventListener("change", updateColumnCount);
   }, []);
 
   useEffect(() => {
-    fetch("data/index.json", { cache: "no-store" })
+    const controller = new AbortController();
+    fetch("data/index.json", { cache: "no-store", signal: controller.signal })
       .then((response) => { if (!response.ok) throw new Error("未能讀取日期索引"); return response.json(); })
       .then((value: ScheduleIndex) => {
+        if (controller.signal.aborted) return;
         setIndex(value);
+        setIndexError("");
         const today = hktDate();
-        setSelectedDate(value.dates.includes(today) ? today : value.dates.at(-1) ?? today);
+        setSelectedDate(current => value.dates.includes(current) ? current : value.dates.includes(today) ? today : value.dates.at(-1) ?? today);
       })
-      .catch(() => setLoadError({ date: hktDate(), message: "節目資料暫時未能載入，請稍後再試。" }));
-  }, []);
+      .catch(() => { if (!controller.signal.aborted) setIndexError("日期索引未能載入，請重試。"); });
+    return () => controller.abort();
+  }, [retry]);
 
   useEffect(() => {
-    fetch(`data/${selectedDate}.json`, { cache: "no-store" })
+    const pending = request.current();
+    queueMicrotask(() => {
+      if (pending.isCurrent()) { setLoadError({ date: "", message: "" }); setSchedule(null); }
+    });
+    fetch(`data/${selectedDate}.json`, { cache: "no-store", signal: pending.signal })
       .then((response) => { if (!response.ok) throw new Error("未有當日資料"); return response.json(); })
-      .then((value: DaySchedule) => setSchedule(value))
-      .catch(() => setLoadError({ date: selectedDate, message: "呢一日暫時未有節目資料。歷史紀錄會由網站啟用後逐日累積。" }));
-  }, [selectedDate]);
+      .then((value: DaySchedule) => {
+        if (!pending.isCurrent()) return;
+        if (value.date !== selectedDate) throw new Error("日期不符");
+        setSchedule(value);
+        setLoadError({ date: "", message: "" });
+      })
+      .catch(() => { if (pending.isCurrent()) setLoadError({ date: selectedDate, message: "呢一日節目資料未能載入，請重試。" }); });
+    return pending.cancel;
+  }, [selectedDate, retry]);
 
   const dates = useMemo(() => index?.dates ?? [], [index]);
   const loading = schedule?.date !== selectedDate && loadError.date !== selectedDate;
@@ -248,6 +273,7 @@ export function TvGuide() {
 
   const activeChannelIds = useMemo(() => displayChannels.map((channel) => channel.id), [displayChannels]);
   const handleChannelSlotChange = useCallback((slot: number, channelId: string) => {
+    userSelectedChannel.current = true;
     setSelectedChannelIds((current) => {
       const next = [...current];
       const duplicateSlot = next.findIndex((id, index) => id === channelId && index !== slot);
@@ -303,19 +329,30 @@ export function TvGuide() {
 
   const scrollToNow = useCallback((smooth = true) => {
     if (!gridRef.current) return;
-    const targetMinutes = selectedDate === hktDate() && nowMinutes !== null ? nowMinutes : 8 * 60;
+    if (selectedDate !== hktDate() || !now) return false;
+    const current = liveProgramme(layoutProgrammesByChannel.get(displayChannels[0]?.id) ?? [], now);
+    if (!current) return false;
+    const targetMinutes = programmeSpan(current, selectedDate).startMinute;
     const headerHeight = Number.parseFloat(window.getComputedStyle(gridRef.current).getPropertyValue("--header-height")) || 0;
     const targetTop = headerHeight + timeline.minuteToY(targetMinutes) - (gridRef.current.clientHeight / 2);
     const maxTop = gridRef.current.scrollHeight - gridRef.current.clientHeight;
     gridRef.current.scrollTo({ top: Math.min(Math.max(targetTop, 0), maxTop), behavior: smooth ? "smooth" : "auto" });
-  }, [nowMinutes, selectedDate, timeline]);
+    return true;
+  }, [displayChannels, layoutProgrammesByChannel, now, selectedDate, timeline]);
 
   useEffect(() => {
     if (!loading && schedule?.date === selectedDate && didAutoScroll.current !== selectedDate) {
-      didAutoScroll.current = selectedDate;
-      window.requestAnimationFrame(() => scrollToNow(false));
+      const frame = window.requestAnimationFrame(() => { if (scrollToNow(false)) didAutoScroll.current = selectedDate; });
+      return () => window.cancelAnimationFrame(frame);
     }
   }, [loading, schedule?.date, scrollToNow, selectedDate]);
+
+  const sourceWarnings = Object.entries(schedule?.sourceStatus ?? {}).filter(([, status]) => {
+    if (typeof status === "boolean") return true;
+    return !status.complete || !!status.error || (selectedDate === hktDate() && !status.refreshed) || Object.values(status.channels).some(channel => !channel.lastSuccessAt || (selectedDate === hktDate() && now - Date.parse(channel.lastSuccessAt) > 6 * 3600000));
+  }).map(([source]) => source);
+  const unknownFreshness = schedule && !schedule.sourceStatus;
+  const hasCurrent = selectedDate === hktDate() && !!liveProgramme(layoutProgrammesByChannel.get(displayChannels[0]?.id) ?? [], now);
 
   return (
     <main className="site-shell">
@@ -327,6 +364,7 @@ export function TvGuide() {
         <div className="header-meta"><span className="live-dot" /><span>{liveCount ? `${liveCount} 個節目播放中` : "每日自動更新"}</span></div>
       </header>
 
+      {indexError && <p className="data-warning" role="status">{indexError} <button onClick={() => setRetry(value => value + 1)}>重試</button></p>}
       <section className="date-panel" aria-label="選擇日期">
         <button className="icon-button" onClick={() => moveDate(-1)} disabled={currentIndex <= 0} aria-label="前一日"><CaretLeft size={20} weight="bold" /></button>
         <div className="date-title"><span>{selectedDate}</span><strong>{displayDate(selectedDate)}</strong></div>
@@ -343,7 +381,7 @@ export function TvGuide() {
 
       <section className="controls">
         <div className="control-actions">
-          <button className="now-button" onClick={() => scrollToNow()}><Clock size={17} weight="bold" />跳到而家</button>
+          <button className="now-button" disabled={!hasCurrent} title={hasCurrent ? "定位目前節目" : "所選日期／頻道未有正在播放節目"} onClick={() => scrollToNow()}><Clock size={17} weight="bold" />跳到而家</button>
           <label className="search-box"><MagnifyingGlass size={18} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="搜尋節目" aria-label="搜尋節目" /></label>
         </div>
       </section>
@@ -352,9 +390,11 @@ export function TvGuide() {
         <div className="guide-summary"><div><p className="eyebrow">00:00 — 23:59</p><h2>全日節目表</h2></div><span>顯示 {displayChannels.length} / {availableChannels.length} 個台 · {allVisibleProgrammes.length} 個節目</span></div>
 
         {loading && <div className="state-card"><span className="loader" />正在整理節目表…</div>}
-        {!loading && error && <div className="state-card error"><strong>未有資料</strong><span>{error}</span></div>}
+        {!loading && error && <div className="state-card error"><strong>未有資料</strong><span>{error}</span><button className="today-button" onClick={() => setRetry(value => value + 1)}>重試</button></div>}
         {!loading && !error && (
           <>
+            {(sourceWarnings.length > 0 || unknownFreshness) && <p className="data-warning" role="status">{unknownFreshness ? "資料來源更新狀態未確認。" : `${sourceWarnings.join("、")}：部分時段資料缺漏、更新失敗、過期或來源更新時間未確認。`} 空白時段不代表停播，請查看官方節目表。</p>}
+            {!hasCurrent && <p className="data-warning">所選日期／第一欄頻道未有正在播放節目。</p>}
             <div className="channel-pickers" aria-label="選擇顯示電視台" style={{ "--channel-count": Math.max(displayChannels.length, 1) } as React.CSSProperties}>
               {Array.from({ length: Math.min(columnCount, Math.max(availableChannels.length, 1)) }, (_, slot) => {
                 const selectedId = displayChannels[slot]?.id ?? availableChannels[slot]?.id ?? "";
@@ -433,7 +473,7 @@ export function TvGuide() {
         )}
       </section>
 
-      <footer><p>節目如有更改，以電視台最後公布為準。</p><p>資料來自各電視台公開節目表 · 更新於 {schedule ? new Intl.DateTimeFormat("zh-HK", { timeZone: "Asia/Hong_Kong", dateStyle: "medium", timeStyle: "short" }).format(new Date(schedule.updatedAt)) : "—"}</p></footer>
+      <footer><p>節目如有更改，以電視台最後公布為準。</p><p>資料來自各電視台公開節目表 · 檔案更新於 {schedule ? new Intl.DateTimeFormat("zh-HK", { timeZone: "Asia/Hong_Kong", dateStyle: "medium", timeStyle: "short" }).format(new Date(schedule.updatedAt)) : "—"}</p></footer>
     </main>
   );
 }

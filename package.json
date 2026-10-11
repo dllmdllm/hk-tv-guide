@@ -10,7 +10,7 @@
     "build": "next build",
     "start": "next start",
     "fetch-data": "node scripts/fetch-schedules.mjs",
-    "test": "node --test tests/data.test.mjs && npm run build",
+    "test": "node --test tests/*.test.mjs && npm run build",
     "lint": "eslint . --ignore-pattern .next"
   },
   "dependencies": {

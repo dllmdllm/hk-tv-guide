@@ -170,3 +170,6 @@ footer p { margin: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; } }
+
+.data-warning { margin: 0; padding: 8px 12px; color: #ffd484; font-size: 12px; background: #332a19; }
+.now-button:disabled { opacity: .45; cursor: not-allowed; }
