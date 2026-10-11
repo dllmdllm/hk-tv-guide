@@ -1,8 +1,10 @@
 import { load } from "cheerio";
 import { XMLParser } from "fast-xml-parser";
-import { mkdir, readdir, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
+
+import { mergeSchedules, validateSchedules } from "../lib/schedules.mjs";
 
 const ROOT = process.cwd();
 const DATA_DIR = path.join(ROOT, "public", "data");
@@ -212,8 +214,6 @@ async function fetchViuTV() {
   return result;
 }
 
-function programmeDate(programme) { return hktDate(new Date(programme.start)); }
-
 async function existingDates() {
   try {
     return (await readdir(DATA_DIR)).filter((file) => /^\d{4}-\d{2}-\d{2}\.json$/.test(file)).map((file) => file.slice(0, 10));
@@ -225,42 +225,26 @@ async function main() {
   const tasks = [
     ["TVB", fetchTVB], ["HOY", fetchHOY], ["港台", fetchRTHK], ["ViuTV", fetchViuTV],
   ];
-  const programmes = [];
+  const results = {};
   const errors = [];
-
   for (const [name, fetcher] of tasks) {
     try {
       const items = await fetcher();
       if (!items.length) throw new Error("回傳 0 個節目");
-      programmes.push(...items);
+      results[name] = { items };
       console.log(`${name}: ${items.length}`);
     } catch (error) {
+      results[name] = { error: error.message };
       errors.push(`${name}: ${error.message}`);
-      console.error(`${name} failed:`, error.message);
     }
   }
-
-  if (!programmes.length) throw new Error("所有資料來源均失敗，保留現有資料。" + errors.join("; "));
-
-  const deduped = [...new Map(programmes.map((item) => [`${item.channelId}-${new Date(item.start).getTime()}`, item])).values()]
-    .filter((item) => new Date(item.end) > new Date(item.start));
-  const fetchedAt = new Date().toISOString();
-  const grouped = Map.groupBy(deduped, programmeDate);
-
-  for (const [date, items] of grouped) {
-    const payload = {
-      date,
-      updatedAt: fetchedAt,
-      channels,
-      programmes: items.sort((a, b) => new Date(a.start) - new Date(b.start) || a.channelId.localeCompare(b.channelId)),
-      sourceStatus: Object.fromEntries(tasks.map(([name]) => [name, !errors.some((error) => error.startsWith(`${name}:`))])),
-    };
-    await writeFile(path.join(DATA_DIR, `${date}.json`), `${JSON.stringify(payload, null, 2)}\n`);
-  }
-
-  const dates = [...new Set([...(await existingDates()), ...grouped.keys()])].sort();
-  await writeFile(path.join(DATA_DIR, "index.json"), `${JSON.stringify({ updatedAt: fetchedAt, dates, errors }, null, 2)}\n`);
-  console.log(`Saved ${deduped.length} programmes across ${grouped.size} dates.`);
+  if (errors.length === tasks.length) throw new Error("所有資料來源均失敗，保留現有資料。" + errors.join("; "));
+  const archives = await Promise.all((await existingDates()).map(async date => JSON.parse(await readFile(path.join(DATA_DIR, `${date}.json`), "utf8"))));
+  const checkedAt = new Date().toISOString();
+  const schedules = mergeSchedules(archives, results, channels, checkedAt);
+  validateSchedules(schedules);
+  for (const schedule of schedules) await writeFile(path.join(DATA_DIR, `${schedule.date}.json`), `${JSON.stringify(schedule, null, 2)}\n`);
+  await writeFile(path.join(DATA_DIR, "index.json"), `${JSON.stringify({ updatedAt: checkedAt, dates: schedules.map(s=>s.date), errors }, null, 2)}\n`);
   if (errors.length) console.warn(`Partial update: ${errors.join("; ")}`);
 }
 
