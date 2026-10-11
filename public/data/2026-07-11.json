@@ -1,6 +1,7 @@
 {
   "date": "2026-07-11",
   "updatedAt": "2026-07-25T14:05:19.725Z",
+  "checkedAt": "2026-10-11T13:22:53.449Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -116,6 +117,24 @@
     }
   ],
   "programmes": [
+    {
+      "id": "hoy-76-1783697400000",
+      "channelId": "hoy-76",
+      "title": "真心假結婚",
+      "start": "2026-07-10T23:30:00+08:00",
+      "end": "2026-07-11T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1783698300000",
+      "channelId": "hoy-77",
+      "title": "晚安晚安",
+      "start": "2026-07-10T23:45:00+08:00",
+      "end": "2026-07-11T00:45:00+08:00",
+      "description": "探討如何處理憤怒情緒，避免把怒氣帶上床。節目解釋「情緒反芻」如何影響睡眠，指出盲目發洩反而會愈講愈躁，並分析有效與無效的傾訴方式。更重要的是，分享實用效方法，停止怒火中，憤怒情緒到平息為止其實只需6秒，如何把握這關鍵6秒？幫助觀眾放下日間的「嬲豬」，",
+      "source": "HOY"
+    },
     {
       "id": "hoy-78-1783699200000",
       "channelId": "hoy-78",
@@ -1162,9 +1181,117 @@
     }
   ],
   "sourceStatus": {
-    "TVB": false,
-    "HOY": true,
-    "港台": true,
-    "ViuTV": true
+    "TVB": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "tvb-81": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-82": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-83": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-84": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "HOY": {
+      "complete": true,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "hoy-76": {
+          "count": 32,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "hoy-77": {
+          "count": 36,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "hoy-78": {
+          "count": 50,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "港台": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "rthk-31": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-32": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-33": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-34": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-35": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "ViuTV": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "viu-96": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "viu-99": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    }
   }
 }

@@ -1,6 +1,7 @@
 {
   "date": "2026-07-23",
   "updatedAt": "2026-08-06T14:37:52.890Z",
+  "checkedAt": "2026-10-11T13:22:53.449Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -116,6 +117,24 @@
     }
   ],
   "programmes": [
+    {
+      "id": "hoy-76-1784734200000",
+      "channelId": "hoy-76",
+      "title": "真心假結婚",
+      "start": "2026-07-22T23:30:00+08:00",
+      "end": "2026-07-23T00:30:00+08:00",
+      "description": "",
+      "source": "HOY"
+    },
+    {
+      "id": "hoy-77-1784735100000",
+      "channelId": "hoy-77",
+      "title": "學人去非洲 2",
+      "start": "2026-07-22T23:45:00+08:00",
+      "end": "2026-07-23T00:15:00+08:00",
+      "description": "正式走入菲斯古城9000幾條橫街窄巷，參觀世界知名的卡魯因大學，當然也要到訪摩洛哥最地道的千年歷史皮革染坊，一個benedict表示氣味臭到一生難忘的地方，鼻孔需插著薄荷葉癖味，全因古法染料由多種動物糞便混合而成。重頭戲就是benedict勇闖撒哈拉",
+      "source": "HOY"
+    },
     {
       "id": "hoy-78-1784736000000",
       "channelId": "hoy-78",
@@ -1270,9 +1289,117 @@
     }
   ],
   "sourceStatus": {
-    "TVB": true,
-    "HOY": true,
-    "港台": true,
-    "ViuTV": true
+    "TVB": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "tvb-81": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-82": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-83": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "tvb-84": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "HOY": {
+      "complete": true,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "hoy-76": {
+          "count": 31,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "hoy-77": {
+          "count": 42,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "hoy-78": {
+          "count": 57,
+          "complete": true,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "港台": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "rthk-31": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-32": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-33": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-34": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "rthk-35": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    },
+    "ViuTV": {
+      "complete": false,
+      "refreshed": false,
+      "error": null,
+      "channels": {
+        "viu-96": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        },
+        "viu-99": {
+          "count": 0,
+          "complete": false,
+          "lastSuccessAt": null,
+          "refreshed": false
+        }
+      }
+    }
   }
 }
