@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "updatedAt": "2026-10-20T23:12:51.592Z",
-  "checkedAt": "2026-10-20T23:12:51.592Z",
+  "checkedAt": "2026-10-26T21:03:18.655Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3916,19 +3916,19 @@
           "count": 31,
           "complete": false,
           "lastSuccessAt": "2026-10-20T23:12:51.592Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-34": {
           "count": 68,
           "complete": true,
           "lastSuccessAt": "2026-10-20T23:12:51.592Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-35": {
           "count": 48,
           "complete": true,
           "lastSuccessAt": "2026-10-20T23:12:51.592Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
