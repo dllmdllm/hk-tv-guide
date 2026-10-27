@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "updatedAt": "2026-10-27T14:35:17.148Z",
-  "checkedAt": "2026-10-27T14:35:17.148Z",
+  "checkedAt": "2026-10-27T20:44:51.661Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -6611,7 +6611,7 @@
           "count": 50,
           "complete": true,
           "lastSuccessAt": "2026-10-27T14:35:17.148Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
