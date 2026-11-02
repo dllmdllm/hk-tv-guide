@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "updatedAt": "2026-11-01T15:16:06.002Z",
-  "checkedAt": "2026-11-01T15:16:06.002Z",
+  "checkedAt": "2026-11-02T18:27:40.485Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -6352,26 +6352,26 @@
     },
     "HOY": {
       "complete": true,
-      "refreshed": true,
+      "refreshed": false,
       "error": null,
       "channels": {
         "hoy-76": {
           "count": 33,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-77": {
           "count": 42,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-78": {
           "count": 49,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
@@ -6384,13 +6384,13 @@
           "count": 34,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-32": {
           "count": 74,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-33": {
           "count": 34,
@@ -6402,13 +6402,13 @@
           "count": 68,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-35": {
           "count": 48,
           "complete": true,
           "lastSuccessAt": "2026-11-01T15:16:06.002Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
