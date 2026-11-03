@@ -143,7 +143,15 @@ async function fetchRTHK() {
       });
     });
   }
-  return result;
+  // RTHK lists a cross-midnight programme on both day blocks: once with its
+  // real start, once clipped to 00:00 with the same title and end. Keep the real one.
+  const byBroadcast = new Map();
+  for (const entry of result) {
+    const key = `${entry.channelId}|${entry.title}|${entry.end}`;
+    const previous = byBroadcast.get(key);
+    if (!previous || Date.parse(entry.start) < Date.parse(previous.start)) byBroadcast.set(key, entry);
+  }
+  return [...byBroadcast.values()];
 }
 
 function extractJsonObjects(text) {
