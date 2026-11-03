@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "updatedAt": "2026-10-20T23:12:51.592Z",
-  "checkedAt": "2026-11-03T12:00:10.574Z",
+  "checkedAt": "2026-11-03T13:42:26.043Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -3688,7 +3688,7 @@
         "hoy-76": {
           "count": 26,
           "complete": true,
-          "lastSuccessAt": "2026-10-11T14:57:05.393Z",
+          "lastSuccessAt": "2026-10-12T06:05:40.976Z",
           "refreshed": false
         },
         "hoy-77": {
