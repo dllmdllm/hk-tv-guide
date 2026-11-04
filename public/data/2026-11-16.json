@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-04T12:14:13.305Z",
-  "checkedAt": "2026-11-04T12:14:13.305Z",
+  "updatedAt": "2026-11-04T19:51:59.001Z",
+  "checkedAt": "2026-11-04T19:51:59.001Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -125,7 +125,7 @@
       "end": "2026-11-16T00:07:00+08:00",
       "description": "",
       "source": "港台",
-      "fetchedAt": "2026-11-04T12:14:13.305Z"
+      "fetchedAt": "2026-11-04T19:51:59.001Z"
     }
   ],
   "sourceStatus": {
@@ -205,7 +205,7 @@
         "rthk-33": {
           "count": 1,
           "complete": false,
-          "lastSuccessAt": "2026-11-04T12:14:13.305Z",
+          "lastSuccessAt": "2026-11-04T19:51:59.001Z",
           "refreshed": true
         },
         "rthk-34": {
