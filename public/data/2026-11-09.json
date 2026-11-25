@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "updatedAt": "2026-11-22T06:59:03.122Z",
-  "checkedAt": "2026-11-22T06:59:03.122Z",
+  "checkedAt": "2026-11-25T14:30:32.038Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -6302,63 +6302,63 @@
     },
     "HOY": {
       "complete": true,
-      "refreshed": true,
+      "refreshed": false,
       "error": null,
       "channels": {
         "hoy-76": {
           "count": 20,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-77": {
           "count": 40,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-78": {
           "count": 44,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
     "港台": {
       "complete": false,
-      "refreshed": true,
+      "refreshed": false,
       "error": null,
       "channels": {
         "rthk-31": {
           "count": 43,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-32": {
           "count": 71,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-33": {
           "count": 35,
           "complete": false,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-34": {
           "count": 68,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         },
         "rthk-35": {
           "count": 48,
           "complete": true,
           "lastSuccessAt": "2026-11-22T06:59:03.122Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
