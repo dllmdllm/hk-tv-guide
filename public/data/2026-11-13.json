@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "updatedAt": "2026-11-27T13:57:10.920Z",
-  "checkedAt": "2026-11-27T13:57:10.920Z",
+  "checkedAt": "2026-11-28T00:06:06.594Z",
   "channels": [
     {
       "id": "rthk-31",
@@ -6412,26 +6412,26 @@
     },
     "HOY": {
       "complete": true,
-      "refreshed": true,
+      "refreshed": false,
       "error": null,
       "channels": {
         "hoy-76": {
           "count": 24,
           "complete": true,
           "lastSuccessAt": "2026-11-27T13:57:10.920Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-77": {
           "count": 41,
           "complete": true,
           "lastSuccessAt": "2026-11-27T13:57:10.920Z",
-          "refreshed": true
+          "refreshed": false
         },
         "hoy-78": {
           "count": 45,
           "complete": true,
           "lastSuccessAt": "2026-11-27T13:57:10.920Z",
-          "refreshed": true
+          "refreshed": false
         }
       }
     },
